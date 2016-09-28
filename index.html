@@ -28,8 +28,8 @@
   <script src="/theme/js/leaflet/leaflet.ajax.js"></script>
   <script src="/theme/js/leaflet/leaflet.label.js"></script>
   <script src="/theme/js/modal.js"></script>
-  <script src="/theme/js/search.js"></script>
-  <script src="/theme/js/report-form.js"></script>
+  <script src="/theme/static/js/search.js"></script>
+  <script src="/theme/static/js/report-form.js"></script>
 
 
   <link rel="stylesheet" href="/theme/css/leaflet.css" type="text/css" />
@@ -39,12 +39,11 @@
   <link rel="stylesheet" href="/theme/js/leaflet/zoomslider/L.Control.Zoomslider.css" type="text/css" />
   <link rel="stylesheet" type="text/css" href="http://jhergon.github.io/duitamap/theme/css/fonts.css">
   <link rel="stylesheet" type="text/css" href="http://jhergon.github.io/duitamap/theme/css/pygments.min.css">
-  <link rel="stylesheet" type="text/css" href="http://jhergon.github.io/duitamap/theme/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="http://jhergon.github.io/duitamap/theme/font-awesome.min.css">
   <link rel="stylesheet" href="/theme/css/leaflet.label.css" type="text/css" />
 
 
-  <link rel="stylesheet/less" type="text/css" href="http://jhergon.github.io/duitamap/theme/css/style.less">
-  <script src="/theme/js/less.min.js" type="text/javascript"></script>
+  <link rel="stylesheet" type="text/css" href="http://jhergon.github.io/duitamap.source/theme/css/style.min.css">
 
   <link rel="shortcut icon" href="http://jhergon.github.io/duitamap/images/favicon.ico" type="image/x-icon">
   <link rel="icon" href="http://jhergon.github.io/duitamap/images/favicon.ico" type="image/x-icon">
@@ -64,10 +63,10 @@
 
 <nav>
   <ul id="main-menu">
-      <li class="menu-item link-map"><a  href="http://jhergon.github.io/duitamap"><span>Mapa de Nicaragua</span></a></li>
+      <li class="menu-item link-map"><a  href="http://jhergon.github.io/duitamap/"><span>Mapa de Nicaragua</span></a></li>
       <li class="menu-item link-public-transport"><a class="active" href="/index.html"><span>Rutas Managua</span></a></li>
-      <li class="menu-item link-mobile"><a  href="http://mapanica.net/mapas-moviles.html"><span>Mapas para móviles</span></a></li>
-      <li class="menu-item link-community"><a  href="http://mapanica.net/comunidad.html"><span>Comunidad</span></a></li>
+      <li class="menu-item link-mobile"><a  href="http://jhergon.github.io/duitamap/mapas-moviles.html"><span>Mapas para móviles</span></a></li>
+      <li class="menu-item link-community"><a  href="http://jhergon.github.io/duitamap/comunidad.html"><span>Comunidad</span></a></li>
       <li class="menu-item link-datos"><a  href="http://datos.mapanica.net"><span>Descargar datos</span></a></li>
   </ul>
 </nav>
@@ -116,7 +115,6 @@
      <div id="bus-lines-wrapper">
        <div class="bus-lines-control" id="bus-lines-control-top"><img src="/images/scroller-up.png" /></div>
        <div id="bus-lines">
-         <!--a href="?ruta=A1" class="bus-line-link lines-northern ruta-A1">A1</a-->
          <a href="?ruta=6" class="bus-line-link lines-northern ruta-6">6</a>
          <a href="?ruta=101" class="bus-line-link lines-northern ruta-101">101</a>
          <a href="?ruta=102" class="bus-line-link lines-principal ruta-102">102</a>
@@ -161,7 +159,7 @@
          <a href="?ruta=MR4" class="bus-line-link bus-line-link-double lines-central ruta-MR4">MR4</a>
          <a href="?ruta=VAN" class="bus-line-link bus-line-link-double lines-southern ruta-VAN">VAN</a>
          <a href="?ruta=ESQ" class="bus-line-link bus-line-link-double lines-southern ruta-ESQ">ESQ</a>
-         <a href="?ruta=SIS" class="bus-line-link bus-line-link-double lines-southern ruta-SIS">SIS</a-->
+         <a href="?ruta=SIS" class="bus-line-link bus-line-link-double lines-southern ruta-SIS">SIS</a>
        </div>
        <div class="bus-lines-control" id="bus-lines-control-bottom"><img src="/images/scroller-down.png" /></div>
      </div>
@@ -212,7 +210,7 @@ piwikTracker.enableLinkTracking();
       "@context" : "http://schema.org",
       "@type" : "Blog",
       "name": " MapaNica.net - Rutas de Managua y Ciudad Sandino ",
-      "url" : "http://jhergon.github.io/duitamap",
+      "url" : "http://jhergon.github.io/duitamap/",
       "image": "/images/mapanica-rutas.png",
       "description": "Mapa de la red de las rutas de buses del transporte urbano colectivo (TUC) de Managua y Ciudad Sandino"
     }
