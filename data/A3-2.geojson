@@ -1,0 +1,1951 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-01T18:56:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29643136",
+      "properties": {
+        "@id": "way/29643136",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T16:41:30Z",
+        "@version": "24",
+        "@changeset": "42130434",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0300866,
+            5.8271537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29650394",
+      "properties": {
+        "@id": "way/29650394",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "31",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0326266,
+            5.8279547
+          ],
+          [
+            -73.0330368,
+            5.8286603
+          ],
+          [
+            -73.0334418,
+            5.8294244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45510120",
+      "properties": {
+        "@id": "way/45510120",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-14T16:41:59Z",
+        "@version": "8",
+        "@changeset": "42153968",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0256358,
+            5.8285678
+          ],
+          [
+            -73.0252512,
+            5.8288186
+          ],
+          [
+            -73.0251398,
+            5.8288934
+          ],
+          [
+            -73.0250936,
+            5.8289244
+          ],
+          [
+            -73.0250575,
+            5.8289486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129692184",
+      "properties": {
+        "@id": "way/129692184",
+        "highway": "residential",
+        "name": "Calle 17",
+        "@timestamp": "2015-04-30T22:31:46Z",
+        "@version": "3",
+        "@changeset": "30675600",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358148,
+            5.8335175
+          ],
+          [
+            -73.0358333,
+            5.8335579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201390568",
+      "properties": {
+        "@id": "way/201390568",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T13:00:55Z",
+        "@version": "5",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0471095,
+            5.8270512
+          ],
+          [
+            -73.0475857,
+            5.8271668
+          ],
+          [
+            -73.048269,
+            5.827435
+          ],
+          [
+            -73.0486608,
+            5.8275904
+          ],
+          [
+            -73.0489969,
+            5.8277911
+          ],
+          [
+            -73.0491762,
+            5.8278811
+          ],
+          [
+            -73.0495697,
+            5.8280385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254756138",
+      "properties": {
+        "@id": "way/254756138",
+        "highway": "trunk",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "paved",
+        "@timestamp": "2016-07-03T10:14:42Z",
+        "@version": "4",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0238951,
+            5.8317322
+          ],
+          [
+            -73.0240278,
+            5.8314727
+          ],
+          [
+            -73.0240799,
+            5.8313384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340966044",
+      "properties": {
+        "@id": "way/340966044",
+        "highway": "trunk",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-28T17:37:25Z",
+        "@version": "3",
+        "@changeset": "41760790",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0242147,
+            5.8309866
+          ],
+          [
+            -73.0242672,
+            5.8308657
+          ],
+          [
+            -73.0244092,
+            5.8305387
+          ],
+          [
+            -73.0246339,
+            5.8299951
+          ],
+          [
+            -73.0249007,
+            5.8293323
+          ],
+          [
+            -73.0249027,
+            5.8293272
+          ],
+          [
+            -73.0250575,
+            5.8289486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340966046",
+      "properties": {
+        "@id": "way/340966046",
+        "highway": "trunk",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "paved",
+        "@timestamp": "2016-07-03T10:14:42Z",
+        "@version": "2",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0240799,
+            5.8313384
+          ],
+          [
+            -73.0241324,
+            5.8312032
+          ],
+          [
+            -73.0242147,
+            5.8309866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343534916",
+      "properties": {
+        "@id": "way/343534916",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-29T01:52:56Z",
+        "@version": "4",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0393687,
+            5.8288037
+          ],
+          [
+            -73.0395234,
+            5.828425
+          ],
+          [
+            -73.0395929,
+            5.828293
+          ],
+          [
+            -73.0398541,
+            5.8278565
+          ],
+          [
+            -73.0402948,
+            5.8271925
+          ],
+          [
+            -73.0406172,
+            5.8269465
+          ],
+          [
+            -73.0408199,
+            5.826861
+          ],
+          [
+            -73.0409634,
+            5.8268383
+          ],
+          [
+            -73.0410865,
+            5.8268314
+          ],
+          [
+            -73.0420557,
+            5.8268496
+          ],
+          [
+            -73.0423086,
+            5.8268007
+          ],
+          [
+            -73.0426378,
+            5.8267187
+          ],
+          [
+            -73.0429111,
+            5.8265706
+          ],
+          [
+            -73.0430558,
+            5.8264487
+          ],
+          [
+            -73.0435918,
+            5.825568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343534917",
+      "properties": {
+        "@id": "way/343534917",
+        "admin_level": "9",
+        "boundary": "administrative",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2015-05-08T17:46:43Z",
+        "@version": "2",
+        "@changeset": "30916551",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0393475,
+            5.8288541
+          ],
+          [
+            -73.0393687,
+            5.8288037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700887",
+      "properties": {
+        "@id": "way/438700887",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358573,
+            5.8336103
+          ],
+          [
+            -73.0365509,
+            5.8332129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700889",
+      "properties": {
+        "@id": "way/438700889",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0365509,
+            5.8332129
+          ],
+          [
+            -73.0367789,
+            5.8330828
+          ],
+          [
+            -73.0371227,
+            5.832818
+          ],
+          [
+            -73.0372778,
+            5.8326927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700891",
+      "properties": {
+        "@id": "way/438700891",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-29T01:52:56Z",
+        "@version": "2",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0372778,
+            5.8326927
+          ],
+          [
+            -73.0374485,
+            5.8324843
+          ],
+          [
+            -73.0377013,
+            5.8321312
+          ],
+          [
+            -73.0377492,
+            5.8320275
+          ],
+          [
+            -73.0385139,
+            5.8305758
+          ],
+          [
+            -73.0389595,
+            5.8296971
+          ],
+          [
+            -73.0390883,
+            5.8294294
+          ],
+          [
+            -73.0393475,
+            5.8288541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700900",
+      "properties": {
+        "@id": "way/438700900",
+        "highway": "residential",
+        "name": "Calle 17",
+        "@timestamp": "2016-08-24T02:21:04Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358333,
+            5.8335579
+          ],
+          [
+            -73.0358573,
+            5.8336103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700918",
+      "properties": {
+        "@id": "way/438700918",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-29T01:13:37Z",
+        "@version": "2",
+        "@changeset": "41767098",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0309814,
+            5.8269106
+          ],
+          [
+            -73.0318139,
+            5.8264591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534442",
+      "properties": {
+        "@id": "way/439534442",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T20:12:56Z",
+        "@version": "2",
+        "@changeset": "42234538",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.03517,
+            5.832389
+          ],
+          [
+            -73.0353824,
+            5.832757
+          ],
+          [
+            -73.035434,
+            5.8328262
+          ],
+          [
+            -73.0358148,
+            5.8335175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539957",
+      "properties": {
+        "@id": "way/439539957",
+        "highway": "trunk",
+        "lanes": "2",
+        "mechanical": "yes",
+        "name": "Troncal Central del Norte",
+        "oneway": "no",
+        "ref": "55",
+        "surface": "paved",
+        "@timestamp": "2016-09-28T17:12:59Z",
+        "@version": "3",
+        "@changeset": "42499828",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0222541,
+            5.8341378
+          ],
+          [
+            -73.0218864,
+            5.8345617
+          ],
+          [
+            -73.0216451,
+            5.8348398
+          ],
+          [
+            -73.0210458,
+            5.8353965
+          ],
+          [
+            -73.0209402,
+            5.8355815
+          ],
+          [
+            -73.0206315,
+            5.8360405
+          ],
+          [
+            -73.0203292,
+            5.8365255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539959",
+      "properties": {
+        "@id": "way/439539959",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "layer": "1",
+        "surface": "paved",
+        "@timestamp": "2016-08-28T17:22:09Z",
+        "@version": "1",
+        "@changeset": "41760523",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0201559,
+            5.8364241
+          ],
+          [
+            -73.0200533,
+            5.8363591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539961",
+      "properties": {
+        "@id": "way/439539961",
+        "highway": "tertiary",
+        "surface": "paved",
+        "@timestamp": "2016-08-28T17:22:10Z",
+        "@version": "1",
+        "@changeset": "41760523",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0203292,
+            5.8365255
+          ],
+          [
+            -73.0202763,
+            5.8364888
+          ],
+          [
+            -73.0201559,
+            5.8364241
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539962",
+      "properties": {
+        "@id": "way/439539962",
+        "highway": "tertiary",
+        "surface": "paved",
+        "@timestamp": "2016-09-28T17:12:59Z",
+        "@version": "2",
+        "@changeset": "42499828",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0200533,
+            5.8363591
+          ],
+          [
+            -73.0198721,
+            5.836431
+          ],
+          [
+            -73.0193491,
+            5.8367198
+          ],
+          [
+            -73.0191543,
+            5.836826
+          ],
+          [
+            -73.0189042,
+            5.8369618
+          ],
+          [
+            -73.0186074,
+            5.8371801
+          ],
+          [
+            -73.0183872,
+            5.8373419
+          ],
+          [
+            -73.0178199,
+            5.8376837
+          ],
+          [
+            -73.0174668,
+            5.8378394
+          ],
+          [
+            -73.0173149,
+            5.8379021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439541135",
+      "properties": {
+        "@id": "way/439541135",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T10:05:48Z",
+        "@version": "3",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0450717,
+            5.8263307
+          ],
+          [
+            -73.0455481,
+            5.8265559
+          ],
+          [
+            -73.0461198,
+            5.8268006
+          ],
+          [
+            -73.0465228,
+            5.8269296
+          ],
+          [
+            -73.0471095,
+            5.8270512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693927",
+      "properties": {
+        "@id": "way/440693927",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:47Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0286118,
+            5.8273123
+          ],
+          [
+            -73.0282898,
+            5.8273558
+          ],
+          [
+            -73.0279844,
+            5.8274976
+          ],
+          [
+            -73.0277062,
+            5.8276234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695716",
+      "properties": {
+        "@id": "way/440695716",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:16Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318139,
+            5.8264591
+          ],
+          [
+            -73.0322052,
+            5.827182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695717",
+      "properties": {
+        "@id": "way/440695717",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:16Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0334418,
+            5.8294244
+          ],
+          [
+            -73.0337728,
+            5.8300077
+          ],
+          [
+            -73.0339381,
+            5.8302632
+          ],
+          [
+            -73.0343668,
+            5.8309903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441838208",
+      "properties": {
+        "@id": "way/441838208",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:28:08Z",
+        "@version": "3",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0435918,
+            5.825568
+          ],
+          [
+            -73.0441325,
+            5.8258511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850409",
+      "properties": {
+        "@id": "way/441850409",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322052,
+            5.827182
+          ],
+          [
+            -73.0326266,
+            5.8279547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442174188",
+      "properties": {
+        "@id": "way/442174188",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:42Z",
+        "@version": "1",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0277062,
+            5.8276234
+          ],
+          [
+            -73.027289,
+            5.8278165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442225423",
+      "properties": {
+        "@id": "way/442225423",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T16:41:26Z",
+        "@version": "1",
+        "@changeset": "42130434",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0300866,
+            5.8271537
+          ],
+          [
+            -73.0309814,
+            5.8269106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442460287",
+      "properties": {
+        "@id": "way/442460287",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-14T16:41:54Z",
+        "@version": "1",
+        "@changeset": "42153968",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.027289,
+            5.8278165
+          ],
+          [
+            -73.025944,
+            5.8284132
+          ],
+          [
+            -73.0256358,
+            5.8285678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442960908",
+      "properties": {
+        "@id": "way/442960908",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T20:12:53Z",
+        "@version": "1",
+        "@changeset": "42234538",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0343668,
+            5.8309903
+          ],
+          [
+            -73.0348009,
+            5.831741
+          ],
+          [
+            -73.03517,
+            5.832389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442968769",
+      "properties": {
+        "@id": "way/442968769",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:28:05Z",
+        "@version": "1",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0441325,
+            5.8258511
+          ],
+          [
+            -73.0450717,
+            5.8263307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443390189",
+      "properties": {
+        "@id": "way/443390189",
+        "highway": "trunk",
+        "lanes": "2",
+        "mechanical": "yes",
+        "name": "Troncal Central del Norte",
+        "oneway": "no",
+        "ref": "55",
+        "surface": "paved",
+        "@timestamp": "2016-09-28T17:12:59Z",
+        "@version": "2",
+        "@changeset": "42499828",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0231804,
+            5.8330145
+          ],
+          [
+            -73.0227754,
+            5.8335041
+          ],
+          [
+            -73.0225335,
+            5.8337982
+          ],
+          [
+            -73.0222541,
+            5.8341378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443390190",
+      "properties": {
+        "@id": "way/443390190",
+        "highway": "trunk",
+        "lanes": "2",
+        "mechanical": "yes",
+        "name": "Troncal Central del Norte",
+        "oneway": "no",
+        "ref": "55",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T15:04:20Z",
+        "@version": "1",
+        "@changeset": "42301284",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6537708",
+            "reltags": {
+              "from": "San Luis",
+              "name": "A3 - San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A3",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0238951,
+            5.8317322
+          ],
+          [
+            -73.0236152,
+            5.8323895
+          ],
+          [
+            -73.0234999,
+            5.8326163
+          ],
+          [
+            -73.0233815,
+            5.8327957
+          ],
+          [
+            -73.0231804,
+            5.8330145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266521",
+      "properties": {
+        "@id": "node/326266521",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "18",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0318139,
+          5.8264591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266523",
+      "properties": {
+        "@id": "node/326266523",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "15",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0309814,
+          5.8269106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266528",
+      "properties": {
+        "@id": "node/326266528",
+        "highway": "traffic_signals",
+        "name": "La dorada",
+        "@timestamp": "2012-09-21T06:05:36Z",
+        "@version": "30",
+        "@changeset": "13191399",
+        "@user": "camilolara",
+        "@uid": "235754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0291955,
+          5.8272507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326518191",
+      "properties": {
+        "@id": "node/326518191",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-08-29T01:52:57Z",
+        "@version": "15",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0377492,
+          5.8320275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/528861676",
+      "properties": {
+        "@id": "node/528861676",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-05-19T22:37:32Z",
+        "@version": "6",
+        "@changeset": "31300567",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0365509,
+          5.8332129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157559",
+      "properties": {
+        "@id": "node/539157559",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "9",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0435918,
+          5.825568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/579961502",
+      "properties": {
+        "@id": "node/579961502",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-03-24T16:24:11Z",
+        "@version": "4",
+        "@changeset": "21288226",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0250575,
+          5.8289486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669182154",
+      "properties": {
+        "@id": "node/669182154",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0322052,
+          5.827182
+        ]
+      }
+    }
+  ]
+}

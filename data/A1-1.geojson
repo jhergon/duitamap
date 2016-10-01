@@ -1,0 +1,2799 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-01T18:54:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29595355",
+      "properties": {
+        "@id": "way/29595355",
+        "highway": "secondary",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:54Z",
+        "@version": "19",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0313406,
+            5.8129776
+          ],
+          [
+            -73.0312826,
+            5.8128898
+          ],
+          [
+            -73.03105,
+            5.8125946
+          ],
+          [
+            -73.0309439,
+            5.8124353
+          ],
+          [
+            -73.0308633,
+            5.8123044
+          ],
+          [
+            -73.0301141,
+            5.8111116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29645081",
+      "properties": {
+        "@id": "way/29645081",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T19:52:51Z",
+        "@version": "33",
+        "@changeset": "42234156",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0379481,
+            5.8231597
+          ],
+          [
+            -73.0372747,
+            5.8221404
+          ],
+          [
+            -73.0367676,
+            5.821353
+          ],
+          [
+            -73.036676,
+            5.8212142
+          ],
+          [
+            -73.0363654,
+            5.820734
+          ],
+          [
+            -73.0359002,
+            5.8199997
+          ],
+          [
+            -73.0358386,
+            5.8199032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42738529",
+      "properties": {
+        "@id": "way/42738529",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 19",
+        "@timestamp": "2016-09-26T22:46:26Z",
+        "@version": "9",
+        "@changeset": "42458255",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0197882,
+            5.8087659
+          ],
+          [
+            -73.0191297,
+            5.8080243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45564743",
+      "properties": {
+        "@id": "way/45564743",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 17A",
+        "@timestamp": "2016-09-17T21:12:59Z",
+        "@version": "13",
+        "@changeset": "42235672",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0356053,
+            5.837933
+          ],
+          [
+            -73.035517,
+            5.8369045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129692197",
+      "properties": {
+        "@id": "way/129692197",
+        "highway": "residential",
+        "name": "Calle 17A",
+        "@timestamp": "2016-08-27T16:29:57Z",
+        "@version": "7",
+        "@changeset": "41739718",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0360632,
+            5.8415768
+          ],
+          [
+            -73.0359747,
+            5.8409699
+          ],
+          [
+            -73.0359064,
+            5.8403847
+          ],
+          [
+            -73.0358487,
+            5.8398667
+          ],
+          [
+            -73.0358163,
+            5.8395843
+          ],
+          [
+            -73.0357909,
+            5.8393131
+          ],
+          [
+            -73.0357882,
+            5.8391757
+          ],
+          [
+            -73.0357599,
+            5.8389576
+          ],
+          [
+            -73.0356541,
+            5.8384957
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165401496",
+      "properties": {
+        "@id": "way/165401496",
+        "fixme": "Investigar nombre y campo",
+        "highway": "residential",
+        "name": "Calle 18",
+        "@timestamp": "2016-08-24T02:21:12Z",
+        "@version": "8",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0360865,
+            5.844645
+          ],
+          [
+            -73.0361248,
+            5.8452121
+          ],
+          [
+            -73.0362091,
+            5.8457599
+          ],
+          [
+            -73.0362526,
+            5.8463872
+          ],
+          [
+            -73.0362145,
+            5.8465433
+          ],
+          [
+            -73.0361252,
+            5.8469094
+          ],
+          [
+            -73.0360204,
+            5.8471812
+          ],
+          [
+            -73.0359733,
+            5.8473034
+          ],
+          [
+            -73.0359358,
+            5.8474007
+          ],
+          [
+            -73.0359016,
+            5.8476788
+          ],
+          [
+            -73.035973,
+            5.8479755
+          ],
+          [
+            -73.0359778,
+            5.848147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341811735",
+      "properties": {
+        "@id": "way/341811735",
+        "highway": "residential",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "3",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0346368,
+            5.8298497
+          ],
+          [
+            -73.0339381,
+            5.8302632
+          ],
+          [
+            -73.0335645,
+            5.8305076
+          ],
+          [
+            -73.0332078,
+            5.830743
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341814494",
+      "properties": {
+        "@id": "way/341814494",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "5",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0368768,
+            5.8320249
+          ],
+          [
+            -73.0368623,
+            5.8320014
+          ],
+          [
+            -73.0366117,
+            5.8315788
+          ],
+          [
+            -73.0362179,
+            5.8309276
+          ],
+          [
+            -73.0359471,
+            5.8305019
+          ],
+          [
+            -73.0358927,
+            5.8304081
+          ],
+          [
+            -73.0357056,
+            5.8301207
+          ],
+          [
+            -73.0354989,
+            5.8297713
+          ],
+          [
+            -73.0353156,
+            5.8294314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341878041",
+      "properties": {
+        "@id": "way/341878041",
+        "highway": "residential",
+        "name": "Calle 17",
+        "@timestamp": "2015-04-30T19:45:11Z",
+        "@version": "1",
+        "@changeset": "30670723",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0356541,
+            5.8384957
+          ],
+          [
+            -73.0356053,
+            5.837933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341917189",
+      "properties": {
+        "@id": "way/341917189",
+        "highway": "residential",
+        "name": "Calle 17",
+        "@timestamp": "2016-08-28T16:24:05Z",
+        "@version": "4",
+        "@changeset": "41759242",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0360505,
+            5.8340572
+          ],
+          [
+            -73.0360959,
+            5.8342861
+          ],
+          [
+            -73.0361718,
+            5.834687
+          ],
+          [
+            -73.0362229,
+            5.83498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371395864",
+      "properties": {
+        "@id": "way/371395864",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2015-09-18T22:15:16Z",
+        "@version": "3",
+        "@changeset": "34112444",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0332078,
+            5.830743
+          ],
+          [
+            -73.0327415,
+            5.8298176
+          ],
+          [
+            -73.0323021,
+            5.8290278
+          ],
+          [
+            -73.0318487,
+            5.8283539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371395880",
+      "properties": {
+        "@id": "way/371395880",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2015-09-18T19:59:24Z",
+        "@version": "1",
+        "@changeset": "34110474",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.033992,
+            5.825301
+          ],
+          [
+            -73.0346558,
+            5.8249411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371395898",
+      "properties": {
+        "@id": "way/371395898",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:48:10Z",
+        "@version": "4",
+        "@changeset": "42067685",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0346558,
+            5.8249411
+          ],
+          [
+            -73.0350207,
+            5.8247736
+          ],
+          [
+            -73.0353453,
+            5.8246061
+          ],
+          [
+            -73.0360182,
+            5.8242724
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378744148",
+      "properties": {
+        "@id": "way/378744148",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2015-11-06T19:53:36Z",
+        "@version": "1",
+        "@changeset": "35134072",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0379064,
+            5.8231883
+          ],
+          [
+            -73.0379481,
+            5.8231597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398590360",
+      "properties": {
+        "@id": "way/398590360",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2016-02-18T20:00:54Z",
+        "@version": "1",
+        "@changeset": "37296418",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318487,
+            5.8283539
+          ],
+          [
+            -73.0314459,
+            5.8276383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700883",
+      "properties": {
+        "@id": "way/438700883",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "A1",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-12T10:02:38Z",
+        "@version": "6",
+        "@changeset": "42096173",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0273195,
+            5.807104
+          ],
+          [
+            -73.025747,
+            5.8074527
+          ],
+          [
+            -73.0256637,
+            5.8074664
+          ],
+          [
+            -73.0250055,
+            5.807598
+          ],
+          [
+            -73.0245397,
+            5.8077062
+          ],
+          [
+            -73.0229483,
+            5.8080521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700887",
+      "properties": {
+        "@id": "way/438700887",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358573,
+            5.8336103
+          ],
+          [
+            -73.0365509,
+            5.8332129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700889",
+      "properties": {
+        "@id": "way/438700889",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0365509,
+            5.8332129
+          ],
+          [
+            -73.0367789,
+            5.8330828
+          ],
+          [
+            -73.0371227,
+            5.832818
+          ],
+          [
+            -73.0372778,
+            5.8326927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700893",
+      "properties": {
+        "@id": "way/438700893",
+        "highway": "secondary",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-12T15:39:42Z",
+        "@version": "3",
+        "@changeset": "42103814",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0301141,
+            5.8111116
+          ],
+          [
+            -73.0286014,
+            5.8088124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700897",
+      "properties": {
+        "@id": "way/438700897",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0372778,
+            5.8326927
+          ],
+          [
+            -73.0372555,
+            5.8326601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700903",
+      "properties": {
+        "@id": "way/438700903",
+        "fixme": "Investigar nombre y campo",
+        "highway": "residential",
+        "name": "Calle 18",
+        "@timestamp": "2016-08-24T02:21:04Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0355601,
+            5.8420126
+          ],
+          [
+            -73.0355902,
+            5.8423848
+          ],
+          [
+            -73.0356174,
+            5.842705
+          ],
+          [
+            -73.0356527,
+            5.8430285
+          ],
+          [
+            -73.0357363,
+            5.8432943
+          ],
+          [
+            -73.035753,
+            5.8433473
+          ],
+          [
+            -73.0357784,
+            5.843536
+          ],
+          [
+            -73.0358137,
+            5.8437078
+          ],
+          [
+            -73.0358888,
+            5.8440437
+          ],
+          [
+            -73.0359606,
+            5.8443161
+          ],
+          [
+            -73.0360865,
+            5.844645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700906",
+      "properties": {
+        "@id": "way/438700906",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-24T02:21:04Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0314459,
+            5.8276383
+          ],
+          [
+            -73.0309814,
+            5.8269106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700909",
+      "properties": {
+        "@id": "way/438700909",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 19",
+        "@timestamp": "2016-08-27T16:08:18Z",
+        "@version": "2",
+        "@changeset": "41739229",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.018514,
+            5.8069099
+          ],
+          [
+            -73.0181185,
+            5.8062142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700918",
+      "properties": {
+        "@id": "way/438700918",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-29T01:13:37Z",
+        "@version": "2",
+        "@changeset": "41767098",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0309814,
+            5.8269106
+          ],
+          [
+            -73.0318139,
+            5.8264591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700919",
+      "properties": {
+        "@id": "way/438700919",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318139,
+            5.8264591
+          ],
+          [
+            -73.0324609,
+            5.8261035
+          ],
+          [
+            -73.0332008,
+            5.8257057
+          ],
+          [
+            -73.033588,
+            5.8255109
+          ],
+          [
+            -73.033992,
+            5.825301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700931",
+      "properties": {
+        "@id": "way/438700931",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:59Z",
+        "@version": "2",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0314637,
+            5.8131532
+          ],
+          [
+            -73.0314695,
+            5.8131136
+          ],
+          [
+            -73.0314634,
+            5.813074
+          ],
+          [
+            -73.0314459,
+            5.813038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439380544",
+      "properties": {
+        "@id": "way/439380544",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 17A",
+        "oneway": "yes",
+        "@timestamp": "2016-08-27T16:25:11Z",
+        "@version": "1",
+        "@changeset": "41739615",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0354405,
+            5.8362738
+          ],
+          [
+            -73.0354226,
+            5.8361735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439381424",
+      "properties": {
+        "@id": "way/439381424",
+        "highway": "residential",
+        "name": "Calle 17A",
+        "@timestamp": "2016-08-27T16:29:57Z",
+        "@version": "1",
+        "@changeset": "41739718",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.036124,
+            5.842281
+          ],
+          [
+            -73.0360632,
+            5.8415768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439382110",
+      "properties": {
+        "@id": "way/439382110",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 17A",
+        "oneway": "yes",
+        "@timestamp": "2016-08-27T16:38:14Z",
+        "@version": "1",
+        "@changeset": "41739877",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0354226,
+            5.8361735
+          ],
+          [
+            -73.0352953,
+            5.8351762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439384042",
+      "properties": {
+        "@id": "way/439384042",
+        "highway": "residential",
+        "name": "Carrera 1D",
+        "surface": "paved",
+        "@timestamp": "2016-08-27T16:49:30Z",
+        "@version": "1",
+        "@changeset": "41740091",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0355601,
+            5.8420126
+          ],
+          [
+            -73.036124,
+            5.842281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439384043",
+      "properties": {
+        "@id": "way/439384043",
+        "highway": "residential",
+        "name": "Carrera 7A",
+        "@timestamp": "2016-08-27T16:49:30Z",
+        "@version": "1",
+        "@changeset": "41740091",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0362229,
+            5.83498
+          ],
+          [
+            -73.0352953,
+            5.8351762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439527915",
+      "properties": {
+        "@id": "way/439527915",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 17A",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:13:43Z",
+        "@version": "1",
+        "@changeset": "41759038",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.035517,
+            5.8369045
+          ],
+          [
+            -73.0354405,
+            5.8362738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534440",
+      "properties": {
+        "@id": "way/439534440",
+        "highway": "residential",
+        "name": "Calle 17",
+        "@timestamp": "2016-08-28T16:24:00Z",
+        "@version": "1",
+        "@changeset": "41759242",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358573,
+            5.8336103
+          ],
+          [
+            -73.0360505,
+            5.8340572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534444",
+      "properties": {
+        "@id": "way/439534444",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 19",
+        "@timestamp": "2016-08-28T16:24:01Z",
+        "@version": "1",
+        "@changeset": "41759242",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0189115,
+            5.8076102
+          ],
+          [
+            -73.018514,
+            5.8069099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539949",
+      "properties": {
+        "@id": "way/439539949",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T17:22:08Z",
+        "@version": "1",
+        "@changeset": "41760523",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0372555,
+            5.8326601
+          ],
+          [
+            -73.0372298,
+            5.8326187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526936",
+      "properties": {
+        "@id": "way/440526936",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "A1",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-03T21:47:48Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0274652,
+            5.8070692
+          ],
+          [
+            -73.0273195,
+            5.807104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526937",
+      "properties": {
+        "@id": "way/440526937",
+        "highway": "secondary",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:48Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0275292,
+            5.8071433
+          ],
+          [
+            -73.0274652,
+            5.8070692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526941",
+      "properties": {
+        "@id": "way/440526941",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:48Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0372298,
+            5.8326187
+          ],
+          [
+            -73.0370502,
+            5.8323054
+          ],
+          [
+            -73.0368768,
+            5.8320249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526947",
+      "properties": {
+        "@id": "way/440526947",
+        "highway": "residential",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:49Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0353156,
+            5.8294314
+          ],
+          [
+            -73.0346368,
+            5.8298497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695709",
+      "properties": {
+        "@id": "way/440695709",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:15Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0317962,
+            5.8137387
+          ],
+          [
+            -73.0316653,
+            5.8135148
+          ],
+          [
+            -73.0315651,
+            5.8133401
+          ],
+          [
+            -73.0314637,
+            5.8131532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839998",
+      "properties": {
+        "@id": "way/441839998",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:20:46Z",
+        "@version": "1",
+        "@changeset": "42067287",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0378486,
+            5.8232295
+          ],
+          [
+            -73.0379064,
+            5.8231883
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441842632",
+      "properties": {
+        "@id": "way/441842632",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:30:01Z",
+        "@version": "1",
+        "@changeset": "42067498",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0344604,
+            5.8178199
+          ],
+          [
+            -73.0339692,
+            5.8170756
+          ],
+          [
+            -73.0336067,
+            5.8165224
+          ],
+          [
+            -73.0335959,
+            5.8165051
+          ],
+          [
+            -73.0335852,
+            5.81649
+          ],
+          [
+            -73.0335435,
+            5.8164304
+          ],
+          [
+            -73.0335053,
+            5.8163709
+          ],
+          [
+            -73.0328647,
+            5.8153925
+          ],
+          [
+            -73.0327926,
+            5.8152846
+          ],
+          [
+            -73.0324343,
+            5.8147365
+          ],
+          [
+            -73.0324182,
+            5.8147077
+          ],
+          [
+            -73.0323846,
+            5.8146601
+          ],
+          [
+            -73.0317962,
+            5.8137387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441843265",
+      "properties": {
+        "@id": "way/441843265",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:53Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358386,
+            5.8199032
+          ],
+          [
+            -73.0355505,
+            5.8194678
+          ],
+          [
+            -73.0353783,
+            5.8192145
+          ],
+          [
+            -73.0350689,
+            5.8187395
+          ],
+          [
+            -73.0344604,
+            5.8178199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441844263",
+      "properties": {
+        "@id": "way/441844263",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:48:08Z",
+        "@version": "1",
+        "@changeset": "42067685",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0360182,
+            5.8242724
+          ],
+          [
+            -73.0370641,
+            5.8236655
+          ],
+          [
+            -73.0378486,
+            5.8232295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441846046",
+      "properties": {
+        "@id": "way/441846046",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "A1",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-12T10:02:38Z",
+        "@version": "2",
+        "@changeset": "42096173",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0227502,
+            5.8080996
+          ],
+          [
+            -73.0197882,
+            5.8087659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850572",
+      "properties": {
+        "@id": "way/441850572",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:55Z",
+        "@version": "1",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0314459,
+            5.813038
+          ],
+          [
+            -73.0314176,
+            5.8130077
+          ],
+          [
+            -73.0313813,
+            5.8129873
+          ],
+          [
+            -73.0313406,
+            5.8129776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442032903",
+      "properties": {
+        "@id": "way/442032903",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "A1",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-12T10:02:37Z",
+        "@version": "1",
+        "@changeset": "42096173",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0229483,
+            5.8080521
+          ],
+          [
+            -73.0227502,
+            5.8080996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442079224",
+      "properties": {
+        "@id": "way/442079224",
+        "highway": "secondary",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-12T15:39:38Z",
+        "@version": "1",
+        "@changeset": "42103814",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0286014,
+            5.8088124
+          ],
+          [
+            -73.0275292,
+            5.8071433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444485535",
+      "properties": {
+        "@id": "way/444485535",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 19",
+        "@timestamp": "2016-09-26T22:46:22Z",
+        "@version": "1",
+        "@changeset": "42458255",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6525439",
+            "reltags": {
+              "from": "11 de Mayo",
+              "name": "A1 - Once de Mayo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A1",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0191297,
+            5.8080243
+          ],
+          [
+            -73.0189115,
+            5.8076102
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326042395",
+      "properties": {
+        "@id": "node/326042395",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:56Z",
+        "@version": "14",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0275292,
+          5.8071433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266508",
+      "properties": {
+        "@id": "node/326266508",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-17T20:33:21Z",
+        "@version": "39",
+        "@changeset": "42234929",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0378486,
+          5.8232295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266521",
+      "properties": {
+        "@id": "node/326266521",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "18",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0318139,
+          5.8264591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266523",
+      "properties": {
+        "@id": "node/326266523",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "15",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0309814,
+          5.8269106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400533",
+      "properties": {
+        "@id": "node/334400533",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "7",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0332008,
+          5.8257057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334402543",
+      "properties": {
+        "@id": "node/334402543",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "10",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0353156,
+          5.8294314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/343547848",
+      "properties": {
+        "@id": "node/343547848",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "6",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0372747,
+          5.8221404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/528861676",
+      "properties": {
+        "@id": "node/528861676",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-05-19T22:37:32Z",
+        "@version": "6",
+        "@changeset": "31300567",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0365509,
+          5.8332129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539177434",
+      "properties": {
+        "@id": "node/539177434",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:58Z",
+        "@version": "9",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0379481,
+          5.8231597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/698684163",
+      "properties": {
+        "@id": "node/698684163",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-04-28T07:33:26Z",
+        "@version": "4",
+        "@changeset": "30572100",
+        "@user": "carciofo",
+        "@uid": "2533093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0273195,
+          5.807104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/698684164",
+      "properties": {
+        "@id": "node/698684164",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-04-28T07:33:26Z",
+        "@version": "4",
+        "@changeset": "30572100",
+        "@user": "carciofo",
+        "@uid": "2533093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0274652,
+          5.8070692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1132052353",
+      "properties": {
+        "@id": "node/1132052353",
+        "railway": "level_crossing",
+        "@timestamp": "2015-04-28T07:33:26Z",
+        "@version": "2",
+        "@changeset": "30572100",
+        "@user": "carciofo",
+        "@uid": "2533093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0316653,
+          5.8135148
+        ]
+      }
+    }
+  ]
+}
