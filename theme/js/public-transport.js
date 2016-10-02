@@ -36,8 +36,8 @@ function load_map(url_params) {
 
   // Initialize map
   map = new L.map('map', {
-    center: [5.822,-73.019],
-    zoom: 13,
+    center: [5.829,-73.029],
+    zoom: 14,
     attributionControl: false,
     layers: baseLayers[url_params.layers] || new_transport
   });
@@ -198,8 +198,17 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
             // If it's a bus stop
             if (feature.geometry.type == 'Point') {
 
+              // BogoMap: Test if the name value is defined.
+              if (typeof feature.properties.name !== "undefined"){
+
               // Define content of popup
               layer.bindLabel(feature.properties.name, {noHide: false});
+
+              // BogoMap
+              }
+
+              // BogoMap: Test if the official_status value is defined.
+              if (typeof feature.properties.attributes !== "undefined"){
 
               // Create list of bus stops
               if (feature.properties.attributes.official_status == "IRTRAMMA:bus_stop") {
@@ -214,6 +223,12 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
               else {
                 stopClass = "stop-undefined";
               }
+
+              // BogoMap
+              } else {
+                stopClass = "stop-undefined";
+              }
+
               if (feature.properties.name === '') {
                 feature.properties.name = '<span class="stop-unknown">Nombre desconocido</span>';
               }
@@ -224,12 +239,45 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
             else if (feature.geometry.type == 'LineString' || feature.geometry.type == 'MultiLineString') {
 
               showBusInfo();
+
+              // BogoMap: Test if the ref value is defined.
+              if (typeof feature.properties.attributes !== "undefined" && typeof feature.properties.attributes.ref !== "undefined"){
+
               $(".info-wrapper .ref").text("Ruta " + feature.properties.attributes.ref);
+
+              // BogoMap
+              }
+              // BogoMap: Test if the from value is defined.
+              if (typeof feature.properties.attributes !== "undefined" && typeof feature.properties.attributes.from !== "undefined"){
+
               $(".info-wrapper .from").text(feature.properties.attributes.from);
+
+              // BogoMap
+              }
+              // BogoMap: Test if the to value is defined.
+              if (typeof feature.properties.attributes !== "undefined" && typeof feature.properties.attributes.to !== "undefined"){
+
               $(".info-wrapper .to").text(feature.properties.attributes.to);
+
+              // BogoMap
+              }
+              // BogoMap: Test if the operator value is defined.
+              if (typeof feature.properties.attributes !== "undefined" && typeof feature.properties.attributes.operator !== "undefined"){
+
               $(".info-wrapper .operator").text("Operada por:  " + feature.properties.attributes.operator);
+
+              // BogoMap
+              }
+
+              // BogoMap: Test if the from value is defined.
+              if (typeof feature.properties.attributes !== "undefined" && typeof feature.properties.attributes.from !== "undefined" && typeof feature.properties.attributes.to !== "undefined"){
+
               $(".stop-overview .variant-one h4").text(feature.properties.attributes.from + " -> " + feature.properties.attributes.to);
               $(".stop-overview .variant-two h4").text(feature.properties.attributes.to + " -> " + feature.properties.attributes.from);
+
+              // BogoMap
+              }
+
             }
         }});
         busDetailLayerGroup.addLayer(geojsonLayer);
@@ -265,8 +313,17 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
             // If it's a bus stop
             if (feature.geometry.type == 'Point') {
 
+              // BogoMap: Test if the name value is defined.
+              if (typeof feature.properties.name !== "undefined"){
+
               // Define content of popup
               layer.bindLabel(feature.properties.name, {noHide: false});
+
+              // BogoMap
+              }
+
+              // BogoMap: Test if the official_status value is defined.
+              if (typeof feature.properties.attributes !== "undefined"){
 
               // Create list of bus stops
               if (feature.properties.attributes.official_status == "IRTRAMMA:bus_stop") {
@@ -279,6 +336,11 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
                 stopClass = "stop-popular";
               }
               else {
+                stopClass = "stop-undefined";
+              }
+
+              // BogoMap
+              } else {
                 stopClass = "stop-undefined";
               }
 
