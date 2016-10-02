@@ -1,0 +1,968 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:16:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29650394",
+      "properties": {
+        "@id": "way/29650394",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "31",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0326266,
+            5.8279547
+          ],
+          [
+            -73.0330368,
+            5.8286603
+          ],
+          [
+            -73.0334418,
+            5.8294244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54767822",
+      "properties": {
+        "@id": "way/54767822",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:27Z",
+        "@version": "7",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0374784,
+            5.824281
+          ],
+          [
+            -73.036395,
+            5.8248884
+          ],
+          [
+            -73.0357363,
+            5.8252783
+          ],
+          [
+            -73.0354363,
+            5.8254487
+          ],
+          [
+            -73.0350427,
+            5.8256257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201390567",
+      "properties": {
+        "@id": "way/201390567",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-24T20:33:39Z",
+        "@version": "6",
+        "@changeset": "42411811",
+        "@user": "matiuxd",
+        "@uid": "2006950",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0429258,
+            5.8249947
+          ],
+          [
+            -73.0424338,
+            5.8246278
+          ],
+          [
+            -73.0420477,
+            5.8243842
+          ],
+          [
+            -73.0419191,
+            5.8243489
+          ],
+          [
+            -73.0417273,
+            5.8243052
+          ],
+          [
+            -73.0413605,
+            5.824305
+          ],
+          [
+            -73.0411543,
+            5.8243262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340966040",
+      "properties": {
+        "@id": "way/340966040",
+        "highway": "secondary",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2015-11-07T17:14:38Z",
+        "@version": "2",
+        "@changeset": "35153758",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0411543,
+            5.8243262
+          ],
+          [
+            -73.0403818,
+            5.8244113
+          ],
+          [
+            -73.0400503,
+            5.8244458
+          ],
+          [
+            -73.0397061,
+            5.8244973
+          ],
+          [
+            -73.0394968,
+            5.8245469
+          ],
+          [
+            -73.0393685,
+            5.8245898
+          ],
+          [
+            -73.0390123,
+            5.8246864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/404557343",
+      "properties": {
+        "@id": "way/404557343",
+        "highway": "residential",
+        "name": "Carrera 8",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T20:03:42Z",
+        "@version": "2",
+        "@changeset": "42234361",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.046158,
+            5.8267182
+          ],
+          [
+            -73.0461198,
+            5.8268006
+          ],
+          [
+            -73.0457312,
+            5.8274796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700894",
+      "properties": {
+        "@id": "way/438700894",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-30T14:10:07Z",
+        "@version": "4",
+        "@changeset": "42543345",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0390123,
+            5.8246864
+          ],
+          [
+            -73.0388993,
+            5.8245836
+          ],
+          [
+            -73.0386672,
+            5.8242453
+          ],
+          [
+            -73.0386259,
+            5.8241839
+          ],
+          [
+            -73.0383663,
+            5.823798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526948",
+      "properties": {
+        "@id": "way/440526948",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:49Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0383663,
+            5.823798
+          ],
+          [
+            -73.0382518,
+            5.8238544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526949",
+      "properties": {
+        "@id": "way/440526949",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "4",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0343482,
+            5.8259894
+          ],
+          [
+            -73.0335897,
+            5.8264028
+          ],
+          [
+            -73.0328935,
+            5.8268011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440531425",
+      "properties": {
+        "@id": "way/440531425",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T22:34:22Z",
+        "@version": "1",
+        "@changeset": "41897920",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0350427,
+            5.8256257
+          ],
+          [
+            -73.0343482,
+            5.8259894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695717",
+      "properties": {
+        "@id": "way/440695717",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:16Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0334418,
+            5.8294244
+          ],
+          [
+            -73.0337728,
+            5.8300077
+          ],
+          [
+            -73.0339381,
+            5.8302632
+          ],
+          [
+            -73.0343668,
+            5.8309903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695727",
+      "properties": {
+        "@id": "way/440695727",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:17Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0382518,
+            5.8238544
+          ],
+          [
+            -73.0374784,
+            5.824281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834811",
+      "properties": {
+        "@id": "way/441834811",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T10:05:48Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0436524,
+            5.8254786
+          ],
+          [
+            -73.0435497,
+            5.8254153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839455",
+      "properties": {
+        "@id": "way/441839455",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T10:05:48Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0451293,
+            5.8262101
+          ],
+          [
+            -73.0441719,
+            5.8257551
+          ],
+          [
+            -73.0436524,
+            5.8254786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845938",
+      "properties": {
+        "@id": "way/441845938",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0328935,
+            5.8268011
+          ],
+          [
+            -73.0322052,
+            5.827182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850409",
+      "properties": {
+        "@id": "way/441850409",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322052,
+            5.827182
+          ],
+          [
+            -73.0326266,
+            5.8279547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442959578",
+      "properties": {
+        "@id": "way/442959578",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T20:03:40Z",
+        "@version": "1",
+        "@changeset": "42234361",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.046158,
+            5.8267182
+          ],
+          [
+            -73.0451293,
+            5.8262101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444195455",
+      "properties": {
+        "@id": "way/444195455",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-24T20:33:31Z",
+        "@version": "1",
+        "@changeset": "42411811",
+        "@user": "matiuxd",
+        "@uid": "2006950",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593890",
+            "reltags": {
+              "from": "Villa Korina",
+              "name": "B3 - Villa Korina - Centro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B3",
+              "route": "bus",
+              "to": "centro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0435497,
+            5.8254153
+          ],
+          [
+            -73.0432883,
+            5.8252456
+          ],
+          [
+            -73.0429258,
+            5.8249947
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400535",
+      "properties": {
+        "@id": "node/334400535",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "8",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0328935,
+          5.8268011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400537",
+      "properties": {
+        "@id": "node/334400537",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "8",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0335897,
+          5.8264028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/410298268",
+      "properties": {
+        "@id": "node/410298268",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "9",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0436524,
+          5.8254786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157528",
+      "properties": {
+        "@id": "node/539157528",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "12",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0435497,
+          5.8254153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669182154",
+      "properties": {
+        "@id": "node/669182154",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0322052,
+          5.827182
+        ]
+      }
+    }
+  ]
+}

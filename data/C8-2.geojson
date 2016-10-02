@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2016-10-02T02:09:02Z",
+  "timestamp": "2016-10-02T02:21:02Z",
   "features": [
     {
       "type": "Feature",
@@ -21,16 +21,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -66,16 +66,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -117,16 +117,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -188,220 +188,32 @@
     },
     {
       "type": "Feature",
-      "id": "way/37290049",
+      "id": "way/42508297",
       "properties": {
-        "@id": "way/37290049",
+        "@id": "way/42508297",
         "highway": "residential",
         "mechanical": "yes",
-        "name": "Calle 16",
-        "@timestamp": "2016-09-03T21:47:57Z",
-        "@version": "13",
-        "@changeset": "41897352",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0367998,
-            5.8340708
-          ],
-          [
-            -73.0368309,
-            5.8343588
-          ],
-          [
-            -73.0368763,
-            5.8345781
-          ],
-          [
-            -73.0368963,
-            5.8347593
-          ],
-          [
-            -73.0369648,
-            5.8351215
-          ],
-          [
-            -73.0369726,
-            5.8351627
-          ],
-          [
-            -73.0370398,
-            5.8355201
-          ],
-          [
-            -73.0371043,
-            5.8359689
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/42726566",
-      "properties": {
-        "@id": "way/42726566",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 21",
-        "@timestamp": "2016-08-28T16:24:05Z",
-        "@version": "8",
-        "@changeset": "41759242",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0181399,
-            5.8091295
-          ],
-          [
-            -73.0180388,
-            5.8089561
-          ],
-          [
-            -73.0179174,
-            5.8087759
-          ],
-          [
-            -73.0177341,
-            5.808503
-          ],
-          [
-            -73.0176926,
-            5.8084427
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/62229856",
-      "properties": {
-        "@id": "way/62229856",
-        "highway": "residential",
-        "name": "Calle 16",
-        "surface": "paved",
-        "@timestamp": "2016-08-27T16:29:57Z",
-        "@version": "10",
-        "@changeset": "41739718",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0363589,
-            5.838106
-          ],
-          [
-            -73.0365133,
-            5.8388818
-          ],
-          [
-            -73.036565,
-            5.8392394
-          ],
-          [
-            -73.0366393,
-            5.8395775
-          ],
-          [
-            -73.0366265,
-            5.839701
-          ],
-          [
-            -73.0367142,
-            5.8408663
-          ],
-          [
-            -73.0367979,
-            5.8415394
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/62229857",
-      "properties": {
-        "@id": "way/62229857",
-        "highway": "residential",
-        "name": "Carrera 5",
-        "@timestamp": "2015-04-30T22:31:46Z",
+        "name": "Transversal 35",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "@timestamp": "2012-06-26T14:18:35Z",
         "@version": "6",
-        "@changeset": "30675600",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
+        "@changeset": "12026552",
+        "@user": "botika",
+        "@uid": "689780",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -411,45 +223,66 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0345996,
-            5.8380617
+            -73.0253026,
+            5.8130119
           ],
           [
-            -73.0352939,
-            5.8379836
+            -73.0250449,
+            5.8130303
           ],
           [
-            -73.0356053,
-            5.837933
+            -73.0243852,
+            5.8127148
+          ],
+          [
+            -73.0241405,
+            5.8127216
+          ],
+          [
+            -73.0239105,
+            5.8127714
+          ],
+          [
+            -73.021597,
+            5.8125196
+          ],
+          [
+            -73.0206678,
+            5.8124001
+          ],
+          [
+            -73.0203124,
+            5.8124373
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/129692184",
+      "id": "way/42726534",
       "properties": {
-        "@id": "way/129692184",
+        "@id": "way/42726534",
         "highway": "residential",
-        "name": "Calle 17",
-        "@timestamp": "2015-04-30T22:31:46Z",
-        "@version": "3",
-        "@changeset": "30675600",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
+        "name": "Calle 7",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T21:18:38Z",
+        "@version": "7",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -459,12 +292,177 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0358148,
-            5.8335175
+            -73.0289266,
+            5.8067316
           ],
           [
-            -73.0358333,
-            5.8335579
+            -73.0286434,
+            5.8049368
+          ],
+          [
+            -73.0286177,
+            5.80465
+          ],
+          [
+            -73.028452,
+            5.8031804
+          ],
+          [
+            -73.0284202,
+            5.8029354
+          ],
+          [
+            -73.0283624,
+            5.8016632
+          ],
+          [
+            -73.0283348,
+            5.8012749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44386178",
+      "properties": {
+        "@id": "way/44386178",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 40",
+        "@timestamp": "2016-09-10T21:18:38Z",
+        "@version": "4",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0203124,
+            5.8124373
+          ],
+          [
+            -73.020183,
+            5.8124
+          ],
+          [
+            -73.0185191,
+            5.8119288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72908193",
+      "properties": {
+        "@id": "way/72908193",
+        "bridge": "yes",
+        "highway": "residential",
+        "layer": "1",
+        "name": "Carrera 35",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-26T22:04:18Z",
+        "@version": "2",
+        "@changeset": "42457255",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0263729,
+            5.8123633
+          ],
+          [
+            -73.0263981,
+            5.8123528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72908222",
+      "properties": {
+        "@id": "way/72908222",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:31Z",
+        "@version": "2",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0256507,
+            5.8128043
+          ],
+          [
+            -73.0258937,
+            5.8126623
+          ],
+          [
+            -73.0263729,
+            5.8123633
           ]
         ]
       }
@@ -485,16 +483,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -533,16 +531,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -568,30 +566,28 @@
     },
     {
       "type": "Feature",
-      "id": "way/160164888",
+      "id": "way/165355902",
       "properties": {
-        "@id": "way/160164888",
-        "fixme": "Investigar nombre y campo",
-        "highway": "residential",
-        "surface": "paved",
-        "@timestamp": "2012-07-11T20:44:50Z",
-        "@version": "3",
-        "@changeset": "12190141",
-        "@user": "cristian gomez",
-        "@uid": "242366",
+        "@id": "way/165355902",
+        "highway": "unclassified",
+        "@timestamp": "2016-09-17T22:26:50Z",
+        "@version": "5",
+        "@changeset": "42236776",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -601,49 +597,182 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0378219,
-            5.8473202
+            -73.0203338,
+            5.8433015
           ],
           [
-            -73.0375508,
-            5.847479
+            -73.0204837,
+            5.8427866
           ],
           [
-            -73.0367867,
-            5.8478869
+            -73.020565,
+            5.842676
           ],
           [
-            -73.0359778,
-            5.848147
+            -73.0207897,
+            5.8423705
+          ],
+          [
+            -73.020952,
+            5.8420413
+          ],
+          [
+            -73.0212329,
+            5.8410539
+          ],
+          [
+            -73.0211711,
+            5.8406897
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/160164905",
+      "id": "way/165605039",
       "properties": {
-        "@id": "way/160164905",
+        "@id": "way/165605039",
         "fixme": "Investigar nombre y campo",
         "highway": "residential",
-        "@timestamp": "2012-07-11T20:19:47Z",
+        "surface": "paved",
+        "@timestamp": "2016-08-08T12:29:10Z",
+        "@version": "4",
+        "@changeset": "41323247",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0270208,
+            5.8380077
+          ],
+          [
+            -73.0271523,
+            5.8377281
+          ],
+          [
+            -73.0273497,
+            5.8375902
+          ],
+          [
+            -73.0279046,
+            5.8372024
+          ],
+          [
+            -73.0279976,
+            5.8371374
+          ],
+          [
+            -73.0281862,
+            5.8369498
+          ],
+          [
+            -73.028376,
+            5.8368557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165605102",
+      "properties": {
+        "@id": "way/165605102",
+        "highway": "unclassified",
+        "surface": "paved",
+        "@timestamp": "2012-05-31T13:18:09Z",
+        "@version": "1",
+        "@changeset": "11758462",
+        "@user": "camilolara",
+        "@uid": "235754",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.026124,
+            5.840406
+          ],
+          [
+            -73.0252253,
+            5.8400722
+          ],
+          [
+            -73.0233951,
+            5.8401243
+          ],
+          [
+            -73.0231454,
+            5.840107
+          ],
+          [
+            -73.0230261,
+            5.8402041
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165605104",
+      "properties": {
+        "@id": "way/165605104",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:36Z",
         "@version": "2",
-        "@changeset": "12189877",
-        "@user": "cristian gomez",
-        "@uid": "242366",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -653,62 +782,168 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0381663,
-            5.8448449
+            -73.0229959,
+            5.8414349
           ],
           [
-            -73.0377046,
-            5.844973
+            -73.0225162,
+            5.8408948
           ],
           [
-            -73.0375617,
-            5.8450966
+            -73.0220064,
+            5.8407113
           ],
           [
-            -73.0375617,
-            5.8454551
-          ],
-          [
-            -73.0377481,
-            5.8464501
-          ],
-          [
-            -73.0378413,
-            5.8467467
-          ],
-          [
-            -73.0378219,
-            5.8473202
+            -73.0216259,
+            5.8406793
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/171127337",
+      "id": "way/340928377",
       "properties": {
-        "@id": "way/171127337",
-        "fixme": "Investigar nombre y campo",
+        "@id": "way/340928377",
         "highway": "residential",
+        "name": "Carrera 35",
         "surface": "paved",
-        "@timestamp": "2016-09-24T21:47:21Z",
-        "@version": "7",
-        "@changeset": "42412875",
+        "@timestamp": "2016-09-20T14:05:16Z",
+        "@version": "4",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0299809,
+            5.8111521
+          ],
+          [
+            -73.0298561,
+            5.8111825
+          ],
+          [
+            -73.0294046,
+            5.8113313
+          ],
+          [
+            -73.0289415,
+            5.8114854
+          ],
+          [
+            -73.0287757,
+            5.8115443
+          ],
+          [
+            -73.028467,
+            5.8116382
+          ],
+          [
+            -73.0278871,
+            5.8118359
+          ],
+          [
+            -73.0277353,
+            5.8119003
+          ],
+          [
+            -73.0270318,
+            5.8121455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341878042",
+      "properties": {
+        "@id": "way/341878042",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "surface": "paved",
+        "@timestamp": "2015-04-30T19:45:11Z",
+        "@version": "1",
+        "@changeset": "30670723",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0297796,
+            5.8337208
+          ],
+          [
+            -73.0297896,
+            5.8336457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341878043",
+      "properties": {
+        "@id": "way/341878043",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:38Z",
+        "@version": "3",
+        "@changeset": "42067239",
         "@user": "Leonardo Pinzon Niño",
         "@uid": "4416628",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -718,57 +953,51 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0371424,
-            5.8430848
+            -73.0292332,
+            5.8364332
           ],
           [
-            -73.0373325,
-            5.8433837
+            -73.0294512,
+            5.8356962
           ],
           [
-            -73.0374494,
-            5.8436307
+            -73.0295688,
+            5.8349939
           ],
           [
-            -73.0376959,
-            5.8440932
-          ],
-          [
-            -73.0380241,
-            5.8446142
-          ],
-          [
-            -73.0381663,
-            5.8448449
+            -73.029768,
+            5.8337908
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/341917202",
+      "id": "way/343724645",
       "properties": {
-        "@id": "way/341917202",
-        "highway": "residential",
-        "name": "Carrera 5",
-        "@timestamp": "2015-04-30T22:31:43Z",
-        "@version": "1",
-        "@changeset": "30675600",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
+        "@id": "way/343724645",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:37Z",
+        "@version": "4",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -778,46 +1007,82 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0356053,
-            5.837933
+            -73.0358148,
+            5.8335175
           ],
           [
-            -73.0360256,
-            5.8380876
+            -73.0351895,
+            5.833877
           ],
           [
-            -73.0363589,
-            5.838106
+            -73.0346229,
+            5.834202
+          ],
+          [
+            -73.0339491,
+            5.8346071
+          ],
+          [
+            -73.0335809,
+            5.8348287
+          ],
+          [
+            -73.0332482,
+            5.8350288
+          ],
+          [
+            -73.0327298,
+            5.8353072
+          ],
+          [
+            -73.0325175,
+            5.835337
+          ],
+          [
+            -73.0322899,
+            5.8352536
+          ],
+          [
+            -73.0322009,
+            5.8352031
+          ],
+          [
+            -73.0320815,
+            5.835034
+          ],
+          [
+            -73.0320007,
+            5.8347934
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/341917210",
+      "id": "way/398590388",
       "properties": {
-        "@id": "way/341917210",
+        "@id": "way/398590388",
+        "fixme": "Investigar nombre y campo",
         "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 6",
-        "@timestamp": "2015-04-30T22:31:44Z",
+        "surface": "paved",
+        "@timestamp": "2016-02-18T20:00:55Z",
         "@version": "1",
-        "@changeset": "30675600",
+        "@changeset": "37296418",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -827,20 +1092,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0364273,
-            5.8361004
+            -73.0267891,
+            5.8390346
           ],
           [
-            -73.0361449,
-            5.836151
+            -73.0268109,
+            5.8389325
           ],
           [
-            -73.0357489,
-            5.8362235
+            -73.0268883,
+            5.8385707
           ],
           [
-            -73.0354405,
-            5.8362738
+            -73.0269196,
+            5.8384242
+          ],
+          [
+            -73.0269987,
+            5.8380547
+          ],
+          [
+            -73.0270208,
+            5.8380077
           ]
         ]
       }
@@ -860,16 +1133,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -904,16 +1177,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -943,130 +1216,30 @@
     },
     {
       "type": "Feature",
-      "id": "way/438700881",
+      "id": "way/436228670",
       "properties": {
-        "@id": "way/438700881",
-        "highway": "trunk",
-        "lanes": "2",
-        "oneway": "yes",
-        "ref": "62",
-        "surface": "asphalt",
-        "@timestamp": "2016-09-10T19:45:25Z",
-        "@version": "2",
-        "@changeset": "42065792",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.016764,
-            5.8094795
-          ],
-          [
-            -73.0166895,
-            5.809496
-          ],
-          [
-            -73.016488,
-            5.8095292
-          ],
-          [
-            -73.0158626,
-            5.8095373
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700887",
-      "properties": {
-        "@id": "way/438700887",
-        "highway": "secondary",
-        "name": "Avenida Circunvalar",
-        "oneway": "yes",
-        "surface": "paved",
-        "@timestamp": "2016-08-24T02:21:03Z",
-        "@version": "1",
-        "@changeset": "41651609",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0358573,
-            5.8336103
-          ],
-          [
-            -73.0365509,
-            5.8332129
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700900",
-      "properties": {
-        "@id": "way/438700900",
+        "@id": "way/436228670",
+        "fixme": "Investigar nombre y campo",
         "highway": "residential",
-        "name": "Calle 17",
-        "@timestamp": "2016-08-24T02:21:04Z",
+        "surface": "paved",
+        "@timestamp": "2016-08-08T12:29:09Z",
         "@version": "1",
-        "@changeset": "41651609",
+        "@changeset": "41323247",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -1076,12 +1249,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0358333,
-            5.8335579
+            -73.028376,
+            5.8368557
           ],
           [
-            -73.0358573,
-            5.8336103
+            -73.0285844,
+            5.8367065
+          ],
+          [
+            -73.0292332,
+            5.8364332
           ]
         ]
       }
@@ -1103,16 +1280,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -1128,100 +1305,6 @@
           [
             -73.0318139,
             5.8264591
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700921",
-      "properties": {
-        "@id": "way/438700921",
-        "highway": "residential",
-        "name": "Carrera 1D",
-        "surface": "paved",
-        "@timestamp": "2016-08-24T02:21:05Z",
-        "@version": "1",
-        "@changeset": "41651609",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.036124,
-            5.842281
-          ],
-          [
-            -73.0366924,
-            5.8425699
-          ],
-          [
-            -73.0369031,
-            5.8426083
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700929",
-      "properties": {
-        "@id": "way/438700929",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 44",
-        "@timestamp": "2016-08-27T16:08:18Z",
-        "@version": "2",
-        "@changeset": "41739229",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0172278,
-            5.8077533
-          ],
-          [
-            -73.0179828,
-            5.8072693
           ]
         ]
       }
@@ -1244,16 +1327,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -1287,374 +1370,12 @@
     },
     {
       "type": "Feature",
-      "id": "way/439378286",
+      "id": "way/439534436",
       "properties": {
-        "@id": "way/439378286",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 20",
-        "@timestamp": "2016-08-27T16:08:17Z",
-        "@version": "1",
-        "@changeset": "41739229",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0179828,
-            5.8072693
-          ],
-          [
-            -73.0175367,
-            5.80659
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439378290",
-      "properties": {
-        "@id": "way/439378290",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 45",
-        "@timestamp": "2016-08-27T16:08:18Z",
-        "@version": "1",
-        "@changeset": "41739229",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0181185,
-            5.8062142
-          ],
-          [
-            -73.0175367,
-            5.80659
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439380438",
-      "properties": {
-        "@id": "way/439380438",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 6",
-        "@timestamp": "2016-08-27T16:22:58Z",
-        "@version": "1",
-        "@changeset": "41739574",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0371043,
-            5.8359689
-          ],
-          [
-            -73.0364273,
-            5.8361004
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439380544",
-      "properties": {
-        "@id": "way/439380544",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 17A",
+        "@id": "way/439534436",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
         "oneway": "yes",
-        "@timestamp": "2016-08-27T16:25:11Z",
-        "@version": "1",
-        "@changeset": "41739615",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0354405,
-            5.8362738
-          ],
-          [
-            -73.0354226,
-            5.8361735
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439380545",
-      "properties": {
-        "@id": "way/439380545",
-        "highway": "residential",
-        "name": "Calle 18",
-        "@timestamp": "2016-09-17T20:43:38Z",
-        "@version": "2",
-        "@changeset": "42235177",
-        "@user": "Leonardo Pinzon Niño",
-        "@uid": "4416628",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0345553,
-            5.8377912
-          ],
-          [
-            -73.0345304,
-            5.837616
-          ],
-          [
-            -73.0343674,
-            5.8364705
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439380546",
-      "properties": {
-        "@id": "way/439380546",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 6",
-        "@timestamp": "2016-08-27T16:25:11Z",
-        "@version": "1",
-        "@changeset": "41739615",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0354226,
-            5.8361735
-          ],
-          [
-            -73.0343674,
-            5.8364705
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439381424",
-      "properties": {
-        "@id": "way/439381424",
-        "highway": "residential",
-        "name": "Calle 17A",
-        "@timestamp": "2016-08-27T16:29:57Z",
-        "@version": "1",
-        "@changeset": "41739718",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.036124,
-            5.842281
-          ],
-          [
-            -73.0360632,
-            5.8415768
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439381425",
-      "properties": {
-        "@id": "way/439381425",
-        "highway": "residential",
-        "name": "Carrera 2A",
-        "@timestamp": "2016-08-27T16:29:57Z",
-        "@version": "1",
-        "@changeset": "41739718",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0367979,
-            5.8415394
-          ],
-          [
-            -73.0360632,
-            5.8415768
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439534438",
-      "properties": {
-        "@id": "way/439534438",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 16",
         "@timestamp": "2016-08-28T16:24:00Z",
         "@version": "1",
         "@changeset": "41759242",
@@ -1663,16 +1384,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -1682,20 +1403,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0365509,
-            5.8332129
+            -73.0273195,
+            5.807104
           ],
           [
-            -73.0366461,
-            5.8335187
-          ],
-          [
-            -73.0367439,
-            5.8338948
-          ],
-          [
-            -73.0367591,
-            5.8339573
+            -73.027364,
+            5.8071795
           ]
         ]
       }
@@ -1716,16 +1429,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -1755,57 +1468,14 @@
     },
     {
       "type": "Feature",
-      "id": "way/439534445",
+      "id": "way/440526936",
       "properties": {
-        "@id": "way/439534445",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 21",
-        "@timestamp": "2016-08-28T16:24:01Z",
-        "@version": "1",
-        "@changeset": "41759242",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0176926,
-            5.8084427
-          ],
-          [
-            -73.0172278,
-            5.8077533
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/440526942",
-      "properties": {
-        "@id": "way/440526942",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 16",
+        "@id": "way/440526936",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "A1",
+        "surface": "asphalt",
         "@timestamp": "2016-09-03T21:47:48Z",
         "@version": "1",
         "@changeset": "41897352",
@@ -1814,16 +1484,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -1833,75 +1503,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0367591,
-            5.8339573
+            -73.0274652,
+            5.8070692
           ],
           [
-            -73.0367998,
-            5.8340708
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/440693389",
-      "properties": {
-        "@id": "way/440693389",
-        "highway": "secondary",
-        "lanes": "2",
-        "name": "Avenida Camilo Torres",
-        "oneway": "yes",
-        "surface": "paved",
-        "@timestamp": "2016-09-10T19:45:25Z",
-        "@version": "2",
-        "@changeset": "42065792",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0158626,
-            5.8095373
-          ],
-          [
-            -73.0158852,
-            5.8096883
-          ],
-          [
-            -73.0160692,
-            5.8099905
-          ],
-          [
-            -73.0161486,
-            5.8101308
-          ],
-          [
-            -73.0163615,
-            5.8105805
-          ],
-          [
-            -73.0167462,
-            5.8113181
+            -73.0273195,
+            5.807104
           ]
         ]
       }
@@ -1924,16 +1531,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -1971,16 +1578,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -2010,6 +1617,110 @@
     },
     {
       "type": "Feature",
+      "id": "way/440695705",
+      "properties": {
+        "@id": "way/440695705",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T21:18:37Z",
+        "@version": "2",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0289266,
+            5.8067316
+          ],
+          [
+            -73.0274923,
+            5.8070626
+          ],
+          [
+            -73.0274652,
+            5.8070692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695707",
+      "properties": {
+        "@id": "way/440695707",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "2",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.027364,
+            5.8071795
+          ],
+          [
+            -73.0275135,
+            5.8074056
+          ],
+          [
+            -73.0275618,
+            5.8074787
+          ],
+          [
+            -73.0284734,
+            5.8088354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/440695716",
       "properties": {
         "@id": "way/440695716",
@@ -2024,16 +1735,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -2069,16 +1780,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -2108,57 +1819,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/441828185",
-      "properties": {
-        "@id": "way/441828185",
-        "highway": "trunk",
-        "lanes": "2",
-        "oneway": "yes",
-        "ref": "62",
-        "surface": "asphalt",
-        "@timestamp": "2016-09-10T19:45:09Z",
-        "@version": "1",
-        "@changeset": "42065792",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0181399,
-            5.8091295
-          ],
-          [
-            -73.0175859,
-            5.8092638
-          ],
-          [
-            -73.016764,
-            5.8094795
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/441828188",
       "properties": {
         "@id": "way/441828188",
@@ -2175,16 +1835,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -2218,6 +1878,534 @@
     },
     {
       "type": "Feature",
+      "id": "way/441828191",
+      "properties": {
+        "@id": "way/441828191",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:37Z",
+        "@version": "2",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0320007,
+            5.8347934
+          ],
+          [
+            -73.0316817,
+            5.8337524
+          ],
+          [
+            -73.0315911,
+            5.8335567
+          ],
+          [
+            -73.031515,
+            5.8334766
+          ],
+          [
+            -73.0314517,
+            5.8334072
+          ],
+          [
+            -73.0312491,
+            5.8332684
+          ],
+          [
+            -73.031096,
+            5.8332579
+          ],
+          [
+            -73.0306632,
+            5.8333356
+          ],
+          [
+            -73.0297896,
+            5.8336457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828241",
+      "properties": {
+        "@id": "way/441828241",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:15Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0253026,
+            5.8130119
+          ],
+          [
+            -73.0256507,
+            5.8128043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828280",
+      "properties": {
+        "@id": "way/441828280",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:19Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0216259,
+            5.8406793
+          ],
+          [
+            -73.0211711,
+            5.8406897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828282",
+      "properties": {
+        "@id": "way/441828282",
+        "highway": "residential",
+        "@timestamp": "2016-09-10T19:45:19Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.016876,
+            5.8113591
+          ],
+          [
+            -73.0167462,
+            5.8113181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828284",
+      "properties": {
+        "@id": "way/441828284",
+        "highway": "residential",
+        "@timestamp": "2016-09-10T19:45:19Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0185191,
+            5.8119288
+          ],
+          [
+            -73.016876,
+            5.8113591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828285",
+      "properties": {
+        "@id": "way/441828285",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:19Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0229959,
+            5.8414349
+          ],
+          [
+            -73.0230261,
+            5.8402041
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828286",
+      "properties": {
+        "@id": "way/441828286",
+        "highway": "unclassified",
+        "@timestamp": "2016-09-17T22:26:50Z",
+        "@version": "2",
+        "@changeset": "42236776",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0267891,
+            5.8390346
+          ],
+          [
+            -73.0265113,
+            5.8398066
+          ],
+          [
+            -73.0263356,
+            5.8400851
+          ],
+          [
+            -73.026124,
+            5.840406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839868",
+      "properties": {
+        "@id": "way/441839868",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:35Z",
+        "@version": "1",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.029768,
+            5.8337908
+          ],
+          [
+            -73.0297796,
+            5.8337208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839870",
+      "properties": {
+        "@id": "way/441839870",
+        "highway": "residential",
+        "@timestamp": "2016-09-10T21:18:35Z",
+        "@version": "1",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0283348,
+            5.8012749
+          ],
+          [
+            -73.0276441,
+            5.8015941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839871",
+      "properties": {
+        "@id": "way/441839871",
+        "highway": "residential",
+        "@timestamp": "2016-09-10T21:18:35Z",
+        "@version": "1",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0276441,
+            5.8015941
+          ],
+          [
+            -73.0274674,
+            5.8007414
+          ],
+          [
+            -73.0274566,
+            5.8007014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845930",
+      "properties": {
+        "@id": "way/441845930",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:22Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577915",
+            "reltags": {
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "San Antonio Norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0284734,
+            5.8088354
+          ],
+          [
+            -73.028962,
+            5.8095892
+          ],
+          [
+            -73.0299809,
+            5.8111521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/441846060",
       "properties": {
         "@id": "way/441846060",
@@ -2231,16 +2419,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -2278,16 +2466,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -2325,16 +2513,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -2372,16 +2560,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -2433,16 +2621,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -2479,16 +2667,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -2524,16 +2712,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -2559,29 +2747,30 @@
     },
     {
       "type": "Feature",
-      "id": "way/442964279",
+      "id": "way/443384603",
       "properties": {
-        "@id": "way/442964279",
+        "@id": "way/443384603",
         "highway": "residential",
-        "name": "Calle 18",
-        "@timestamp": "2016-09-17T20:43:35Z",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:07Z",
         "@version": "1",
-        "@changeset": "42235177",
-        "@user": "Leonardo Pinzon Niño",
-        "@uid": "4416628",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -2591,12 +2780,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0345996,
-            5.8380617
+            -73.0270318,
+            5.8121455
           ],
           [
-            -73.0345553,
-            5.8377912
+            -73.0263981,
+            5.8123528
           ]
         ]
       }
@@ -2619,16 +2808,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -2666,16 +2855,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6577915",
             "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "from": "Urbanizacion Guadalupe",
+              "name": "C8 - Urbanizacion Guadalupe - San Antonio Norte",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Tures",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "C8",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "San Antonio Norte",
               "type": "route"
             }
           }
@@ -2709,50 +2898,21 @@
     },
     {
       "type": "Feature",
-      "id": "way/444202395",
+      "id": "node/325949218",
       "properties": {
-        "@id": "way/444202395",
-        "fixme": "Investigar nombre y campo",
-        "highway": "residential",
-        "surface": "paved",
-        "@timestamp": "2016-09-24T21:47:18Z",
-        "@version": "1",
-        "@changeset": "42412875",
-        "@user": "Leonardo Pinzon Niño",
-        "@uid": "4416628",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
+        "@id": "node/325949218",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-05-17T13:23:40Z",
+        "@version": "35",
+        "@changeset": "39376739",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
       },
       "geometry": {
-        "type": "LineString",
+        "type": "Point",
         "coordinates": [
-          [
-            -73.0369031,
-            5.8426083
-          ],
-          [
-            -73.0370346,
-            5.8428702
-          ],
-          [
-            -73.0371424,
-            5.8430848
-          ]
+          -73.027364,
+          5.8071795
         ]
       }
     },
@@ -2839,68 +2999,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/326523824",
-      "properties": {
-        "@id": "node/326523824",
-        "crossing": "uncontrolled",
-        "highway": "traffic_signals",
-        "@timestamp": "2016-08-29T01:52:58Z",
-        "@version": "20",
-        "@changeset": "41767327",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0158852,
-          5.8096883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/528861676",
-      "properties": {
-        "@id": "node/528861676",
-        "highway": "traffic_signals",
-        "@timestamp": "2015-05-19T22:37:32Z",
-        "@version": "6",
-        "@changeset": "31300567",
-        "@user": "esteban_villamizar",
-        "@uid": "2298722"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0365509,
-          5.8332129
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/534315510",
-      "properties": {
-        "@id": "node/534315510",
-        "crossing": "uncontrolled",
-        "highway": "traffic_signals",
-        "@timestamp": "2016-08-29T01:52:58Z",
-        "@version": "9",
-        "@changeset": "41767327",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0158626,
-          5.8095373
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/669182154",
       "properties": {
         "@id": "node/669182154",
@@ -2916,6 +3014,46 @@
         "coordinates": [
           -73.0322052,
           5.827182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/698684163",
+      "properties": {
+        "@id": "node/698684163",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-04-28T07:33:26Z",
+        "@version": "4",
+        "@changeset": "30572100",
+        "@user": "carciofo",
+        "@uid": "2533093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0273195,
+          5.807104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/698684164",
+      "properties": {
+        "@id": "node/698684164",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-04-28T07:33:26Z",
+        "@version": "4",
+        "@changeset": "30572100",
+        "@user": "carciofo",
+        "@uid": "2533093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0274652,
+          5.8070692
         ]
       }
     },

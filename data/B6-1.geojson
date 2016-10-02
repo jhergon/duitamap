@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2016-10-02T02:37:02Z",
+  "timestamp": "2016-10-02T02:17:03Z",
   "features": [
     {
       "type": "Feature",
@@ -20,16 +20,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -67,31 +66,30 @@
     },
     {
       "type": "Feature",
-      "id": "way/29645081",
+      "id": "way/29675205",
       "properties": {
-        "@id": "way/29645081",
-        "highway": "secondary",
+        "@id": "way/29675205",
+        "highway": "trunk",
         "lanes": "2",
-        "name": "Avenida de las Americas",
+        "name": "Avenida Circunvalar",
         "oneway": "yes",
-        "@timestamp": "2016-09-17T19:52:51Z",
-        "@version": "33",
-        "@changeset": "42234156",
+        "@timestamp": "2016-09-10T22:10:18Z",
+        "@version": "41",
+        "@changeset": "42068031",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -101,62 +99,71 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0379481,
-            5.8231597
+            -73.02811,
+            5.8219566
           ],
           [
-            -73.0372747,
-            5.8221404
+            -73.028208,
+            5.8217418
           ],
           [
-            -73.0367676,
-            5.821353
+            -73.0284559,
+            5.8211308
           ],
           [
-            -73.036676,
-            5.8212142
+            -73.0286145,
+            5.8206369
           ],
           [
-            -73.0363654,
-            5.820734
+            -73.0287098,
+            5.8203095
           ],
           [
-            -73.0359002,
-            5.8199997
+            -73.0288599,
+            5.8197938
           ],
           [
-            -73.0358386,
-            5.8199032
+            -73.0290154,
+            5.8192439
+          ],
+          [
+            -73.0291641,
+            5.8187354
+          ],
+          [
+            -73.0295614,
+            5.817674
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/42738529",
+      "id": "way/30515053",
       "properties": {
-        "@id": "way/42738529",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 19",
-        "@timestamp": "2016-09-26T22:46:26Z",
-        "@version": "9",
-        "@changeset": "42458255",
+        "@id": "way/30515053",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:18Z",
+        "@version": "14",
+        "@changeset": "42068031",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -166,12 +173,178 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0197882,
-            5.8087659
+            -73.0272378,
+            5.8239481
           ],
           [
-            -73.0191297,
-            5.8080243
+            -73.0272491,
+            5.8239001
+          ],
+          [
+            -73.0272448,
+            5.8238509
+          ],
+          [
+            -73.0272253,
+            5.8238055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42725872",
+      "properties": {
+        "@id": "way/42725872",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "@timestamp": "2012-06-26T13:11:26Z",
+        "@version": "6",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0230045,
+            5.808176
+          ],
+          [
+            -73.023382,
+            5.8089519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45510132",
+      "properties": {
+        "@id": "way/45510132",
+        "highway": "residential",
+        "name": "Transversal 20",
+        "@timestamp": "2012-03-23T15:17:12Z",
+        "@version": "3",
+        "@changeset": "11074909",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0256358,
+            5.8285678
+          ],
+          [
+            -73.0256302,
+            5.8283737
+          ],
+          [
+            -73.0257461,
+            5.8280656
+          ],
+          [
+            -73.0259595,
+            5.8277289
+          ],
+          [
+            -73.0264329,
+            5.8271484
+          ],
+          [
+            -73.0265865,
+            5.8269518
+          ],
+          [
+            -73.0266943,
+            5.8267183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45510134",
+      "properties": {
+        "@id": "way/45510134",
+        "highway": "residential",
+        "name": "Diagonal 20",
+        "@timestamp": "2016-09-12T15:39:43Z",
+        "@version": "5",
+        "@changeset": "42103814",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0268432,
+            5.8260676
+          ],
+          [
+            -73.0269114,
+            5.8255404
+          ],
+          [
+            -73.0269657,
+            5.8251208
+          ],
+          [
+            -73.0270157,
+            5.8247512
           ]
         ]
       }
@@ -192,16 +365,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -223,6 +395,62 @@
     },
     {
       "type": "Feature",
+      "id": "way/72911432",
+      "properties": {
+        "@id": "way/72911432",
+        "highway": "residential",
+        "name": "Carrera 40",
+        "smoothness": "good",
+        "@timestamp": "2010-08-18T02:32:11Z",
+        "@version": "2",
+        "@changeset": "5523059",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.023382,
+            5.8089519
+          ],
+          [
+            -73.0230965,
+            5.8091322
+          ],
+          [
+            -73.0228436,
+            5.8092851
+          ],
+          [
+            -73.0225841,
+            5.809442
+          ],
+          [
+            -73.0223254,
+            5.8095983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/129692197",
       "properties": {
         "@id": "way/129692197",
@@ -236,16 +464,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -295,30 +522,28 @@
     },
     {
       "type": "Feature",
-      "id": "way/165401496",
+      "id": "way/129692200",
       "properties": {
-        "@id": "way/165401496",
-        "fixme": "Investigar nombre y campo",
+        "@id": "way/129692200",
         "highway": "residential",
-        "name": "Calle 18",
-        "@timestamp": "2016-08-24T02:21:12Z",
-        "@version": "8",
-        "@changeset": "41651609",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
+        "name": "Carrera 5",
+        "@timestamp": "2016-09-17T20:43:38Z",
+        "@version": "6",
+        "@changeset": "42235177",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -328,52 +553,87 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0360865,
-            5.844645
+            -73.0345553,
+            5.8377912
           ],
           [
-            -73.0361248,
-            5.8452121
+            -73.0341472,
+            5.8377591
           ],
           [
-            -73.0362091,
-            5.8457599
+            -73.0338693,
+            5.8377364
           ],
           [
-            -73.0362526,
-            5.8463872
+            -73.0338203,
+            5.8377323
           ],
           [
-            -73.0362145,
-            5.8465433
+            -73.0330254,
+            5.8377452
           ],
           [
-            -73.0361252,
-            5.8469094
+            -73.0325056,
+            5.8377673
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129692203",
+      "properties": {
+        "@id": "way/129692203",
+        "highway": "residential",
+        "name": "Calle 20",
+        "@timestamp": "2012-07-11T20:44:48Z",
+        "@version": "3",
+        "@changeset": "12190141",
+        "@user": "cristian gomez",
+        "@uid": "242366",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322068,
+            5.8353249
           ],
           [
-            -73.0360204,
-            5.8471812
+            -73.0321246,
+            5.8356661
           ],
           [
-            -73.0359733,
-            5.8473034
+            -73.0323072,
+            5.8367209
           ],
           [
-            -73.0359358,
-            5.8474007
+            -73.0323743,
+            5.8370732
           ],
           [
-            -73.0359016,
-            5.8476788
+            -73.0323898,
+            5.8372937
           ],
           [
-            -73.035973,
-            5.8479755
-          ],
-          [
-            -73.0359778,
-            5.848147
+            -73.0325056,
+            5.8377673
           ]
         ]
       }
@@ -394,16 +654,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -447,16 +706,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -519,16 +777,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -550,58 +807,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/341917189",
-      "properties": {
-        "@id": "way/341917189",
-        "highway": "residential",
-        "name": "Calle 17",
-        "@timestamp": "2016-08-28T16:24:05Z",
-        "@version": "4",
-        "@changeset": "41759242",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0360505,
-            5.8340572
-          ],
-          [
-            -73.0360959,
-            5.8342861
-          ],
-          [
-            -73.0361718,
-            5.834687
-          ],
-          [
-            -73.0362229,
-            5.83498
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/371395864",
       "properties": {
         "@id": "way/371395864",
@@ -616,16 +821,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -655,152 +859,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/371395880",
-      "properties": {
-        "@id": "way/371395880",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 18",
-        "oneway": "yes",
-        "@timestamp": "2015-09-18T19:59:24Z",
-        "@version": "1",
-        "@changeset": "34110474",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.033992,
-            5.825301
-          ],
-          [
-            -73.0346558,
-            5.8249411
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/371395898",
-      "properties": {
-        "@id": "way/371395898",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 18",
-        "oneway": "yes",
-        "@timestamp": "2016-09-10T21:48:10Z",
-        "@version": "4",
-        "@changeset": "42067685",
-        "@user": "Fredy Gamez",
-        "@uid": "3537040",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0346558,
-            5.8249411
-          ],
-          [
-            -73.0350207,
-            5.8247736
-          ],
-          [
-            -73.0353453,
-            5.8246061
-          ],
-          [
-            -73.0360182,
-            5.8242724
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/378744148",
-      "properties": {
-        "@id": "way/378744148",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 18",
-        "oneway": "yes",
-        "@timestamp": "2015-11-06T19:53:36Z",
-        "@version": "1",
-        "@changeset": "35134072",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0379064,
-            5.8231883
-          ],
-          [
-            -73.0379481,
-            5.8231597
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/398590360",
       "properties": {
         "@id": "way/398590360",
@@ -815,16 +873,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -840,6 +897,155 @@
           [
             -73.0314459,
             5.8276383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422821619",
+      "properties": {
+        "@id": "way/422821619",
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "1",
+        "name": "Avenida Circunvalar",
+        "oneway": "no",
+        "@timestamp": "2016-07-03T10:14:29Z",
+        "@version": "3",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0279607,
+            5.8222749
+          ],
+          [
+            -73.028005,
+            5.8221869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422821622",
+      "properties": {
+        "@id": "way/422821622",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-07-03T10:14:30Z",
+        "@version": "2",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0272253,
+            5.8238055
+          ],
+          [
+            -73.0272382,
+            5.8237101
+          ],
+          [
+            -73.0276597,
+            5.8228727
+          ],
+          [
+            -73.0277257,
+            5.8227416
+          ],
+          [
+            -73.0279607,
+            5.8222749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422831331",
+      "properties": {
+        "@id": "way/422831331",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "no",
+        "@timestamp": "2016-07-03T10:14:29Z",
+        "@version": "2",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.028005,
+            5.8221869
+          ],
+          [
+            -73.02811,
+            5.8219566
           ]
         ]
       }
@@ -862,16 +1068,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -909,6 +1114,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/438700885",
+      "properties": {
+        "@id": "way/438700885",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0351865,
+            5.8339914
+          ],
+          [
+            -73.0358573,
+            5.8336103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/438700887",
       "properties": {
         "@id": "way/438700887",
@@ -924,16 +1174,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -970,16 +1219,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -1023,16 +1271,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -1068,16 +1315,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -1099,87 +1345,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/438700903",
-      "properties": {
-        "@id": "way/438700903",
-        "fixme": "Investigar nombre y campo",
-        "highway": "residential",
-        "name": "Calle 18",
-        "@timestamp": "2016-08-24T02:21:04Z",
-        "@version": "1",
-        "@changeset": "41651609",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0355601,
-            5.8420126
-          ],
-          [
-            -73.0355902,
-            5.8423848
-          ],
-          [
-            -73.0356174,
-            5.842705
-          ],
-          [
-            -73.0356527,
-            5.8430285
-          ],
-          [
-            -73.0357363,
-            5.8432943
-          ],
-          [
-            -73.035753,
-            5.8433473
-          ],
-          [
-            -73.0357784,
-            5.843536
-          ],
-          [
-            -73.0358137,
-            5.8437078
-          ],
-          [
-            -73.0358888,
-            5.8440437
-          ],
-          [
-            -73.0359606,
-            5.8443161
-          ],
-          [
-            -73.0360865,
-            5.844645
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/438700906",
       "properties": {
         "@id": "way/438700906",
@@ -1194,16 +1359,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -1219,155 +1383,6 @@
           [
             -73.0309814,
             5.8269106
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700909",
-      "properties": {
-        "@id": "way/438700909",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 19",
-        "@timestamp": "2016-08-27T16:08:18Z",
-        "@version": "2",
-        "@changeset": "41739229",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.018514,
-            5.8069099
-          ],
-          [
-            -73.0181185,
-            5.8062142
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700918",
-      "properties": {
-        "@id": "way/438700918",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 18",
-        "oneway": "yes",
-        "@timestamp": "2016-08-29T01:13:37Z",
-        "@version": "2",
-        "@changeset": "41767098",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0309814,
-            5.8269106
-          ],
-          [
-            -73.0318139,
-            5.8264591
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700919",
-      "properties": {
-        "@id": "way/438700919",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 18",
-        "oneway": "yes",
-        "@timestamp": "2016-08-24T02:21:05Z",
-        "@version": "1",
-        "@changeset": "41651609",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0318139,
-            5.8264591
-          ],
-          [
-            -73.0324609,
-            5.8261035
-          ],
-          [
-            -73.0332008,
-            5.8257057
-          ],
-          [
-            -73.033588,
-            5.8255109
-          ],
-          [
-            -73.033992,
-            5.825301
           ]
         ]
       }
@@ -1390,16 +1405,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -1444,16 +1458,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -1475,29 +1488,28 @@
     },
     {
       "type": "Feature",
-      "id": "way/439381424",
+      "id": "way/439380545",
       "properties": {
-        "@id": "way/439381424",
+        "@id": "way/439380545",
         "highway": "residential",
-        "name": "Calle 17A",
-        "@timestamp": "2016-08-27T16:29:57Z",
-        "@version": "1",
-        "@changeset": "41739718",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
+        "name": "Calle 18",
+        "@timestamp": "2016-09-17T20:43:38Z",
+        "@version": "2",
+        "@changeset": "42235177",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -1507,43 +1519,45 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.036124,
-            5.842281
+            -73.0345553,
+            5.8377912
           ],
           [
-            -73.0360632,
-            5.8415768
+            -73.0345304,
+            5.837616
+          ],
+          [
+            -73.0343674,
+            5.8364705
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/439382110",
+      "id": "way/439380546",
       "properties": {
-        "@id": "way/439382110",
+        "@id": "way/439380546",
         "highway": "residential",
         "mechanical": "yes",
-        "name": "Calle 17A",
-        "oneway": "yes",
-        "@timestamp": "2016-08-27T16:38:14Z",
+        "name": "Carrera 6",
+        "@timestamp": "2016-08-27T16:25:11Z",
         "@version": "1",
-        "@changeset": "41739877",
+        "@changeset": "41739615",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -1557,38 +1571,36 @@
             5.8361735
           ],
           [
-            -73.0352953,
-            5.8351762
+            -73.0343674,
+            5.8364705
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/439384042",
+      "id": "way/439381425",
       "properties": {
-        "@id": "way/439384042",
+        "@id": "way/439381425",
         "highway": "residential",
-        "name": "Carrera 1D",
-        "surface": "paved",
-        "@timestamp": "2016-08-27T16:49:30Z",
+        "name": "Carrera 2A",
+        "@timestamp": "2016-08-27T16:29:57Z",
         "@version": "1",
-        "@changeset": "41740091",
+        "@changeset": "41739718",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -1598,56 +1610,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0355601,
-            5.8420126
+            -73.0367979,
+            5.8415394
           ],
           [
-            -73.036124,
-            5.842281
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439384043",
-      "properties": {
-        "@id": "way/439384043",
-        "highway": "residential",
-        "name": "Carrera 7A",
-        "@timestamp": "2016-08-27T16:49:30Z",
-        "@version": "1",
-        "@changeset": "41740091",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0362229,
-            5.83498
-          ],
-          [
-            -73.0352953,
-            5.8351762
+            -73.0360632,
+            5.8415768
           ]
         ]
       }
@@ -1669,16 +1637,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -1700,29 +1667,31 @@
     },
     {
       "type": "Feature",
-      "id": "way/439534440",
+      "id": "way/439527927",
       "properties": {
-        "@id": "way/439534440",
-        "highway": "residential",
-        "name": "Calle 17",
-        "@timestamp": "2016-08-28T16:24:00Z",
+        "@id": "way/439527927",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:13:43Z",
         "@version": "1",
-        "@changeset": "41759242",
+        "@changeset": "41759038",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -1732,24 +1701,34 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0358573,
-            5.8336103
+            -73.0271519,
+            5.8240339
           ],
           [
-            -73.0360505,
-            5.8340572
+            -73.0271879,
+            5.8240133
+          ],
+          [
+            -73.0272172,
+            5.823984
+          ],
+          [
+            -73.0272378,
+            5.8239481
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/439534444",
+      "id": "way/439534453",
       "properties": {
-        "@id": "way/439534444",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 19",
+        "@id": "way/439534453",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
         "@timestamp": "2016-08-28T16:24:01Z",
         "@version": "1",
         "@changeset": "41759242",
@@ -1758,16 +1737,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -1777,12 +1755,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0189115,
-            5.8076102
+            -73.0313405,
+            5.8132494
           ],
           [
-            -73.018514,
-            5.8069099
+            -73.0313812,
+            5.813241
+          ],
+          [
+            -73.0314174,
+            5.8132207
+          ],
+          [
+            -73.0314457,
+            5.8131905
+          ],
+          [
+            -73.0314637,
+            5.8131532
           ]
         ]
       }
@@ -1803,16 +1793,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -1828,6 +1817,94 @@
           [
             -73.0372298,
             5.8326187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539950",
+      "properties": {
+        "@id": "way/439539950",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T17:22:08Z",
+        "@version": "1",
+        "@changeset": "41760523",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0309814,
+            5.8269106
+          ],
+          [
+            -73.0305933,
+            5.826277
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539952",
+      "properties": {
+        "@id": "way/439539952",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T20:36:58Z",
+        "@version": "2",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0305933,
+            5.826277
+          ],
+          [
+            -73.0298568,
+            5.8268091
           ]
         ]
       }
@@ -1850,16 +1927,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -1895,16 +1971,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -1940,16 +2015,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -1989,16 +2063,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -2020,221 +2093,28 @@
     },
     {
       "type": "Feature",
-      "id": "way/440695709",
+      "id": "way/440693927",
       "properties": {
-        "@id": "way/440695709",
+        "@id": "way/440693927",
         "highway": "secondary",
-        "lanes": "2",
-        "name": "Avenida de las Americas",
-        "oneway": "yes",
-        "@timestamp": "2016-09-05T04:22:15Z",
-        "@version": "1",
-        "@changeset": "41920519",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0317962,
-            5.8137387
-          ],
-          [
-            -73.0316653,
-            5.8135148
-          ],
-          [
-            -73.0315651,
-            5.8133401
-          ],
-          [
-            -73.0314637,
-            5.8131532
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/441839998",
-      "properties": {
-        "@id": "way/441839998",
-        "highway": "residential",
-        "mechanical": "yes",
         "name": "Carrera 18",
-        "oneway": "yes",
-        "@timestamp": "2016-09-10T21:20:46Z",
-        "@version": "1",
-        "@changeset": "42067287",
-        "@user": "Fredy Gamez",
-        "@uid": "3537040",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0378486,
-            5.8232295
-          ],
-          [
-            -73.0379064,
-            5.8231883
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/441842632",
-      "properties": {
-        "@id": "way/441842632",
-        "highway": "secondary",
-        "lanes": "2",
-        "name": "Avenida de las Americas",
-        "oneway": "yes",
-        "@timestamp": "2016-09-10T21:30:01Z",
-        "@version": "1",
-        "@changeset": "42067498",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0344604,
-            5.8178199
-          ],
-          [
-            -73.0339692,
-            5.8170756
-          ],
-          [
-            -73.0336067,
-            5.8165224
-          ],
-          [
-            -73.0335959,
-            5.8165051
-          ],
-          [
-            -73.0335852,
-            5.81649
-          ],
-          [
-            -73.0335435,
-            5.8164304
-          ],
-          [
-            -73.0335053,
-            5.8163709
-          ],
-          [
-            -73.0328647,
-            5.8153925
-          ],
-          [
-            -73.0327926,
-            5.8152846
-          ],
-          [
-            -73.0324343,
-            5.8147365
-          ],
-          [
-            -73.0324182,
-            5.8147077
-          ],
-          [
-            -73.0323846,
-            5.8146601
-          ],
-          [
-            -73.0317962,
-            5.8137387
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/441843265",
-      "properties": {
-        "@id": "way/441843265",
-        "highway": "secondary",
-        "lanes": "2",
-        "name": "Avenida de las Americas",
-        "oneway": "yes",
-        "@timestamp": "2016-09-13T13:00:53Z",
+        "@timestamp": "2016-09-13T10:05:47Z",
         "@version": "2",
-        "@changeset": "42125090",
+        "@changeset": "42121264",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -2244,55 +2124,54 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0358386,
-            5.8199032
+            -73.0291955,
+            5.8272507
           ],
           [
-            -73.0355505,
-            5.8194678
+            -73.0286118,
+            5.8273123
           ],
           [
-            -73.0353783,
-            5.8192145
+            -73.0282898,
+            5.8273558
           ],
           [
-            -73.0350689,
-            5.8187395
+            -73.0279844,
+            5.8274976
           ],
           [
-            -73.0344604,
-            5.8178199
+            -73.0277062,
+            5.8276234
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/441844263",
+      "id": "way/441828190",
       "properties": {
-        "@id": "way/441844263",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 18",
+        "@id": "way/441828190",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
         "oneway": "yes",
-        "@timestamp": "2016-09-10T21:48:08Z",
-        "@version": "1",
-        "@changeset": "42067685",
-        "@user": "Fredy Gamez",
-        "@uid": "3537040",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T20:43:38Z",
+        "@version": "2",
+        "@changeset": "42235177",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -2302,48 +2181,70 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0360182,
-            5.8242724
+            -73.0322068,
+            5.8353249
           ],
           [
-            -73.0370641,
-            5.8236655
+            -73.0324266,
+            5.8354286
           ],
           [
-            -73.0378486,
-            5.8232295
+            -73.0326203,
+            5.8354229
+          ],
+          [
+            -73.0327159,
+            5.8353865
+          ],
+          [
+            -73.0329221,
+            5.8352965
+          ],
+          [
+            -73.0332809,
+            5.8350949
+          ],
+          [
+            -73.0339859,
+            5.8346769
+          ],
+          [
+            -73.0347001,
+            5.8342623
+          ],
+          [
+            -73.0351865,
+            5.8339914
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/441846046",
+      "id": "way/441828195",
       "properties": {
-        "@id": "way/441846046",
+        "@id": "way/441828195",
         "highway": "trunk",
         "lanes": "2",
+        "name": "Avenida Circunvalar",
         "oneway": "yes",
-        "ref": "A1",
-        "surface": "asphalt",
-        "@timestamp": "2016-09-12T10:02:38Z",
-        "@version": "2",
-        "@changeset": "42096173",
+        "@timestamp": "2016-09-10T19:45:11Z",
+        "@version": "1",
+        "@changeset": "42065792",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -2353,12 +2254,257 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0227502,
-            5.8080996
+            -73.0305997,
+            5.8150936
           ],
           [
-            -73.0197882,
-            5.8087659
+            -73.0309744,
+            5.8141598
+          ],
+          [
+            -73.0312887,
+            5.8133552
+          ],
+          [
+            -73.0313034,
+            5.8133083
+          ],
+          [
+            -73.0313405,
+            5.8132494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834808",
+      "properties": {
+        "@id": "way/441834808",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T20:36:54Z",
+        "@version": "1",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0298568,
+            5.8268091
+          ],
+          [
+            -73.0291955,
+            5.8272507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441846045",
+      "properties": {
+        "@id": "way/441846045",
+        "highway": "trunk",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-20T14:08:54Z",
+        "@version": "4",
+        "@changeset": "42299865",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0230045,
+            5.808176
+          ],
+          [
+            -73.0229801,
+            5.8081214
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441847933",
+      "properties": {
+        "@id": "way/441847933",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:16Z",
+        "@version": "1",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0295614,
+            5.817674
+          ],
+          [
+            -73.030089,
+            5.8163995
+          ],
+          [
+            -73.0301233,
+            5.8163166
+          ],
+          [
+            -73.0302487,
+            5.8159917
+          ],
+          [
+            -73.0305997,
+            5.8150936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441847935",
+      "properties": {
+        "@id": "way/441847935",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:16Z",
+        "@version": "1",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0271108,
+            5.8240445
+          ],
+          [
+            -73.0271519,
+            5.8240339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850422",
+      "properties": {
+        "@id": "way/441850422",
+        "highway": "residential",
+        "name": "Diagonal 20",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0266943,
+            5.8267183
+          ],
+          [
+            -73.0268432,
+            5.8260676
           ]
         ]
       }
@@ -2381,16 +2527,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -2420,53 +2565,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/442032903",
-      "properties": {
-        "@id": "way/442032903",
-        "highway": "trunk",
-        "lanes": "2",
-        "oneway": "yes",
-        "ref": "A1",
-        "surface": "asphalt",
-        "@timestamp": "2016-09-12T10:02:37Z",
-        "@version": "1",
-        "@changeset": "42096173",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0229483,
-            5.8080521
-          ],
-          [
-            -73.0227502,
-            5.8080996
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/442079224",
       "properties": {
         "@id": "way/442079224",
@@ -2481,16 +2579,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -2512,30 +2609,28 @@
     },
     {
       "type": "Feature",
-      "id": "way/444485535",
+      "id": "way/442079226",
       "properties": {
-        "@id": "way/444485535",
+        "@id": "way/442079226",
         "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 19",
-        "@timestamp": "2016-09-26T22:46:22Z",
+        "name": "Diagonal 20",
+        "@timestamp": "2016-09-12T15:39:38Z",
         "@version": "1",
-        "@changeset": "42458255",
+        "@changeset": "42103814",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6593970",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Simon Bolivar",
               "type": "route"
             }
           }
@@ -2545,12 +2640,149 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0191297,
-            5.8080243
+            -73.0270157,
+            5.8247512
           ],
           [
-            -73.0189115,
-            5.8076102
+            -73.0271399,
+            5.8241853
+          ],
+          [
+            -73.0271108,
+            5.8240445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442174188",
+      "properties": {
+        "@id": "way/442174188",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:42Z",
+        "@version": "1",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0277062,
+            5.8276234
+          ],
+          [
+            -73.027289,
+            5.8278165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442460287",
+      "properties": {
+        "@id": "way/442460287",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-14T16:41:54Z",
+        "@version": "1",
+        "@changeset": "42153968",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.027289,
+            5.8278165
+          ],
+          [
+            -73.025944,
+            5.8284132
+          ],
+          [
+            -73.0256358,
+            5.8285678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443384871",
+      "properties": {
+        "@id": "way/443384871",
+        "highway": "trunk",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-20T14:08:52Z",
+        "@version": "1",
+        "@changeset": "42299865",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593970",
+            "reltags": {
+              "from": "Barrio La Gruta",
+              "name": "B6 - Barrio La Gruta - Simon Bolivar",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Simon Bolivar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0229801,
+            5.8081214
+          ],
+          [
+            -73.0229483,
+            5.8080521
           ]
         ]
       }
@@ -2577,46 +2809,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/326266508",
-      "properties": {
-        "@id": "node/326266508",
-        "highway": "traffic_signals",
-        "@timestamp": "2016-09-17T20:33:21Z",
-        "@version": "39",
-        "@changeset": "42234929",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0378486,
-          5.8232295
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/326266521",
-      "properties": {
-        "@id": "node/326266521",
-        "highway": "traffic_signals",
-        "@timestamp": "2015-09-18T20:49:43Z",
-        "@version": "18",
-        "@changeset": "34111351",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0318139,
-          5.8264591
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/326266523",
       "properties": {
         "@id": "node/326266523",
@@ -2637,21 +2829,22 @@
     },
     {
       "type": "Feature",
-      "id": "node/334400533",
+      "id": "node/326266528",
       "properties": {
-        "@id": "node/334400533",
+        "@id": "node/326266528",
         "highway": "traffic_signals",
-        "@timestamp": "2015-09-18T20:49:43Z",
-        "@version": "7",
-        "@changeset": "34111351",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400"
+        "name": "La dorada",
+        "@timestamp": "2012-09-21T06:05:36Z",
+        "@version": "30",
+        "@changeset": "13191399",
+        "@user": "camilolara",
+        "@uid": "235754"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.0332008,
-          5.8257057
+          -73.0291955,
+          5.8272507
         ]
       }
     },
@@ -2677,21 +2870,21 @@
     },
     {
       "type": "Feature",
-      "id": "node/343547848",
+      "id": "node/334402563",
       "properties": {
-        "@id": "node/343547848",
+        "@id": "node/334402563",
         "highway": "traffic_signals",
-        "@timestamp": "2016-09-13T13:00:57Z",
+        "@timestamp": "2015-09-18T20:49:43Z",
         "@version": "6",
-        "@changeset": "42125090",
+        "@changeset": "34111351",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.0372747,
-          5.8221404
+          -73.0305933,
+          5.826277
         ]
       }
     },
@@ -2712,26 +2905,6 @@
         "coordinates": [
           -73.0365509,
           5.8332129
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/539177434",
-      "properties": {
-        "@id": "node/539177434",
-        "highway": "traffic_signals",
-        "@timestamp": "2016-09-13T13:00:58Z",
-        "@version": "9",
-        "@changeset": "42125090",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0379481,
-          5.8231597
         ]
       }
     },
@@ -2777,21 +2950,21 @@
     },
     {
       "type": "Feature",
-      "id": "node/1132052353",
+      "id": "node/1687184812",
       "properties": {
-        "@id": "node/1132052353",
+        "@id": "node/1687184812",
         "railway": "level_crossing",
-        "@timestamp": "2015-04-28T07:33:26Z",
-        "@version": "2",
-        "@changeset": "30572100",
-        "@user": "carciofo",
-        "@uid": "2533093"
+        "@timestamp": "2012-03-23T13:42:39Z",
+        "@version": "1",
+        "@changeset": "11073999",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.0316653,
-          5.8135148
+          -73.0277257,
+          5.8227416
         ]
       }
     }

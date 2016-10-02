@@ -1,0 +1,2694 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:14:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/28166416",
+      "properties": {
+        "@id": "way/28166416",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T19:45:27Z",
+        "@version": "40",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0294873,
+            5.8175723
+          ],
+          [
+            -73.0291011,
+            5.8186258
+          ],
+          [
+            -73.0289301,
+            5.8192005
+          ],
+          [
+            -73.028794,
+            5.8196568
+          ],
+          [
+            -73.0283731,
+            5.8211126
+          ],
+          [
+            -73.0280603,
+            5.821858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29627638",
+      "properties": {
+        "@id": "way/29627638",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "28",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0299809,
+            5.8111521
+          ],
+          [
+            -73.0303214,
+            5.8116977
+          ],
+          [
+            -73.0305638,
+            5.8120259
+          ],
+          [
+            -73.0306625,
+            5.8121844
+          ],
+          [
+            -73.0308616,
+            5.8125196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29643136",
+      "properties": {
+        "@id": "way/29643136",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T16:41:30Z",
+        "@version": "24",
+        "@changeset": "42130434",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0300866,
+            5.8271537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29647398",
+      "properties": {
+        "@id": "way/29647398",
+        "highway": "residential",
+        "name": "Carrera 16",
+        "@timestamp": "2016-09-13T13:00:54Z",
+        "@version": "22",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0304911,
+            5.8300773
+          ],
+          [
+            -73.0307041,
+            5.8295364
+          ],
+          [
+            -73.0309028,
+            5.8292077
+          ],
+          [
+            -73.0312046,
+            5.8288747
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32571426",
+      "properties": {
+        "@id": "way/32571426",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "@timestamp": "2016-09-10T20:36:58Z",
+        "@version": "6",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0304911,
+            5.8300773
+          ],
+          [
+            -73.0302938,
+            5.8305813
+          ],
+          [
+            -73.030051,
+            5.8316463
+          ],
+          [
+            -73.0299801,
+            5.8319948
+          ],
+          [
+            -73.0299569,
+            5.8321933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45510120",
+      "properties": {
+        "@id": "way/45510120",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-14T16:41:59Z",
+        "@version": "8",
+        "@changeset": "42153968",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0256358,
+            5.8285678
+          ],
+          [
+            -73.0252512,
+            5.8288186
+          ],
+          [
+            -73.0251398,
+            5.8288934
+          ],
+          [
+            -73.0250936,
+            5.8289244
+          ],
+          [
+            -73.0250575,
+            5.8289486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/48055872",
+      "properties": {
+        "@id": "way/48055872",
+        "highway": "trunk",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-05T03:46:53Z",
+        "@version": "37",
+        "@changeset": "41920244",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0262092,
+            5.8258505
+          ],
+          [
+            -73.0260224,
+            5.8263122
+          ],
+          [
+            -73.0255837,
+            5.8273702
+          ],
+          [
+            -73.0254053,
+            5.8278158
+          ],
+          [
+            -73.0250941,
+            5.8285933
+          ],
+          [
+            -73.0250335,
+            5.8287446
+          ],
+          [
+            -73.0250172,
+            5.8287866
+          ],
+          [
+            -73.0249698,
+            5.8289087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127670544",
+      "properties": {
+        "@id": "way/127670544",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:14Z",
+        "@version": "4",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322313,
+            5.8103348
+          ],
+          [
+            -73.0321548,
+            5.8104088
+          ],
+          [
+            -73.0320736,
+            5.8104763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165355891",
+      "properties": {
+        "@id": "way/165355891",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:36:27Z",
+        "@version": "5",
+        "@changeset": "42067634",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.026199,
+            5.849521
+          ],
+          [
+            -73.026418,
+            5.847942
+          ],
+          [
+            -73.0264443,
+            5.8476667
+          ],
+          [
+            -73.0265479,
+            5.8464416
+          ],
+          [
+            -73.0264941,
+            5.8455401
+          ],
+          [
+            -73.0264893,
+            5.8454591
+          ],
+          [
+            -73.02648,
+            5.845304
+          ],
+          [
+            -73.026674,
+            5.844399
+          ],
+          [
+            -73.0269159,
+            5.8435647
+          ],
+          [
+            -73.0270201,
+            5.843323
+          ],
+          [
+            -73.027142,
+            5.84304
+          ],
+          [
+            -73.0272017,
+            5.8429376
+          ],
+          [
+            -73.0273699,
+            5.8425462
+          ],
+          [
+            -73.0276095,
+            5.8422372
+          ],
+          [
+            -73.027728,
+            5.8420337
+          ],
+          [
+            -73.0279936,
+            5.8414295
+          ],
+          [
+            -73.028076,
+            5.841242
+          ],
+          [
+            -73.0282158,
+            5.8405148
+          ],
+          [
+            -73.028516,
+            5.838953
+          ],
+          [
+            -73.029012,
+            5.8371827
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312594841",
+      "properties": {
+        "@id": "way/312594841",
+        "highway": "residential",
+        "name": "Ruta del Mundial",
+        "@timestamp": "2014-11-13T14:36:17Z",
+        "@version": "1",
+        "@changeset": "26757547",
+        "@user": "Jepez",
+        "@uid": "2275574",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0260414,
+            5.851139
+          ],
+          [
+            -73.0260279,
+            5.8519206
+          ],
+          [
+            -73.0262103,
+            5.852809
+          ],
+          [
+            -73.0261911,
+            5.8531051
+          ],
+          [
+            -73.0262487,
+            5.8537642
+          ],
+          [
+            -73.0262962,
+            5.8547237
+          ],
+          [
+            -73.0262386,
+            5.8555834
+          ],
+          [
+            -73.0260941,
+            5.8564496
+          ],
+          [
+            -73.0259833,
+            5.8569137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312594842",
+      "properties": {
+        "@id": "way/312594842",
+        "highway": "residential",
+        "name": "Ruta del Mundial",
+        "@timestamp": "2016-09-14T16:32:25Z",
+        "@version": "3",
+        "@changeset": "42153807",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0259833,
+            5.8569137
+          ],
+          [
+            -73.025841,
+            5.8571655
+          ],
+          [
+            -73.0257619,
+            5.8572206
+          ],
+          [
+            -73.0256828,
+            5.8573701
+          ],
+          [
+            -73.0257223,
+            5.8575903
+          ],
+          [
+            -73.0259438,
+            5.8578814
+          ],
+          [
+            -73.0260496,
+            5.8582494
+          ],
+          [
+            -73.0261129,
+            5.8587607
+          ],
+          [
+            -73.0260575,
+            5.8594216
+          ],
+          [
+            -73.0260734,
+            5.8596183
+          ],
+          [
+            -73.0262157,
+            5.8600116
+          ],
+          [
+            -73.0263364,
+            5.8605678
+          ],
+          [
+            -73.0266132,
+            5.8611185
+          ],
+          [
+            -73.0270561,
+            5.8621333
+          ],
+          [
+            -73.0273279,
+            5.8627971
+          ],
+          [
+            -73.0276284,
+            5.8639379
+          ],
+          [
+            -73.0276768,
+            5.8641546
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341878042",
+      "properties": {
+        "@id": "way/341878042",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "surface": "paved",
+        "@timestamp": "2015-04-30T19:45:11Z",
+        "@version": "1",
+        "@changeset": "30670723",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0297796,
+            5.8337208
+          ],
+          [
+            -73.0297896,
+            5.8336457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341878043",
+      "properties": {
+        "@id": "way/341878043",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:38Z",
+        "@version": "3",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0292332,
+            5.8364332
+          ],
+          [
+            -73.0294512,
+            5.8356962
+          ],
+          [
+            -73.0295688,
+            5.8349939
+          ],
+          [
+            -73.029768,
+            5.8337908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398590377",
+      "properties": {
+        "@id": "way/398590377",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "surface": "paved",
+        "@timestamp": "2016-02-18T20:00:55Z",
+        "@version": "1",
+        "@changeset": "37296418",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.029012,
+            5.8371827
+          ],
+          [
+            -73.0291847,
+            5.8366353
+          ],
+          [
+            -73.0292332,
+            5.8364332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422033553",
+      "properties": {
+        "@id": "way/422033553",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-05-31T15:18:04Z",
+        "@version": "1",
+        "@changeset": "39691178",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0326949,
+            5.8097848
+          ],
+          [
+            -73.0324653,
+            5.8099798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422033554",
+      "properties": {
+        "@id": "way/422033554",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-05-31T15:18:04Z",
+        "@version": "1",
+        "@changeset": "39691178",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0320736,
+            5.8104763
+          ],
+          [
+            -73.0319889,
+            5.8105051
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422820978",
+      "properties": {
+        "@id": "way/422820978",
+        "alt_name": "Avenida Circunvalar",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Carrera 31",
+        "oneway": "yes",
+        "@timestamp": "2016-07-03T10:14:31Z",
+        "@version": "2",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0352046,
+            5.8073658
+          ],
+          [
+            -73.0336785,
+            5.8083947
+          ],
+          [
+            -73.0335256,
+            5.8085135
+          ],
+          [
+            -73.0333808,
+            5.8086656
+          ],
+          [
+            -73.0331877,
+            5.8089377
+          ],
+          [
+            -73.0328513,
+            5.8095001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422821616",
+      "properties": {
+        "@id": "way/422821616",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-07-03T10:14:29Z",
+        "@version": "3",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0280603,
+            5.821858
+          ],
+          [
+            -73.0279778,
+            5.8220365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422821626",
+      "properties": {
+        "@id": "way/422821626",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-07-03T10:14:30Z",
+        "@version": "2",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0278625,
+            5.8222858
+          ],
+          [
+            -73.0277011,
+            5.8225792
+          ],
+          [
+            -73.0276705,
+            5.822637
+          ],
+          [
+            -73.0276333,
+            5.8227073
+          ],
+          [
+            -73.0271831,
+            5.8235987
+          ],
+          [
+            -73.0271387,
+            5.8236978
+          ],
+          [
+            -73.0270979,
+            5.8237324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422831330",
+      "properties": {
+        "@id": "way/422831330",
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "1",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-07-03T10:14:29Z",
+        "@version": "2",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0279778,
+            5.8220365
+          ],
+          [
+            -73.0279112,
+            5.8221806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422831332",
+      "properties": {
+        "@id": "way/422831332",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-07-03T10:14:30Z",
+        "@version": "2",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0279112,
+            5.8221806
+          ],
+          [
+            -73.0278625,
+            5.8222858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700923",
+      "properties": {
+        "@id": "way/438700923",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0323945,
+            5.8100209
+          ],
+          [
+            -73.0322313,
+            5.8103348
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700924",
+      "properties": {
+        "@id": "way/438700924",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0324653,
+            5.8099798
+          ],
+          [
+            -73.0323945,
+            5.8100209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700926",
+      "properties": {
+        "@id": "way/438700926",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0319889,
+            5.8105051
+          ],
+          [
+            -73.0317761,
+            5.8105723
+          ],
+          [
+            -73.0306776,
+            5.8109266
+          ],
+          [
+            -73.0302353,
+            5.8110772
+          ],
+          [
+            -73.0301141,
+            5.8111116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439527930",
+      "properties": {
+        "@id": "way/439527930",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:13:43Z",
+        "@version": "1",
+        "@changeset": "41759038",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0270979,
+            5.8237324
+          ],
+          [
+            -73.0270459,
+            5.8237392
+          ],
+          [
+            -73.026999,
+            5.8237626
+          ],
+          [
+            -73.0269625,
+            5.8238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439541133",
+      "properties": {
+        "@id": "way/439541133",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-08-28T17:37:24Z",
+        "@version": "1",
+        "@changeset": "41760790",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0250575,
+            5.8289486
+          ],
+          [
+            -73.0249698,
+            5.8289087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693923",
+      "properties": {
+        "@id": "way/440693923",
+        "highway": "trunk",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T22:30:43Z",
+        "@version": "2",
+        "@changeset": "42068256",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.02696,
+            5.8239743
+          ],
+          [
+            -73.0269779,
+            5.82406
+          ],
+          [
+            -73.0265905,
+            5.824943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693927",
+      "properties": {
+        "@id": "way/440693927",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:47Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0286118,
+            5.8273123
+          ],
+          [
+            -73.0282898,
+            5.8273558
+          ],
+          [
+            -73.0279844,
+            5.8274976
+          ],
+          [
+            -73.0277062,
+            5.8276234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693929",
+      "properties": {
+        "@id": "way/440693929",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:59:00Z",
+        "@version": "2",
+        "@changeset": "42067932",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0269437,
+            5.8238366
+          ],
+          [
+            -73.0269347,
+            5.8238835
+          ],
+          [
+            -73.0269403,
+            5.8239308
+          ],
+          [
+            -73.02696,
+            5.8239743
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695736",
+      "properties": {
+        "@id": "way/440695736",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:16Z",
+        "@version": "2",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0301141,
+            5.8111116
+          ],
+          [
+            -73.0300411,
+            5.8111338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828193",
+      "properties": {
+        "@id": "way/441828193",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T19:45:10Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0312119,
+            5.8131757
+          ],
+          [
+            -73.0312192,
+            5.8132785
+          ],
+          [
+            -73.0308832,
+            5.8141236
+          ],
+          [
+            -73.0305047,
+            5.8150462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828194",
+      "properties": {
+        "@id": "way/441828194",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T19:45:11Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0305047,
+            5.8150462
+          ],
+          [
+            -73.0301443,
+            5.8159123
+          ],
+          [
+            -73.0299682,
+            5.8163347
+          ],
+          [
+            -73.0294873,
+            5.8175723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834804",
+      "properties": {
+        "@id": "way/441834804",
+        "highway": "residential",
+        "name": "Calle 19",
+        "@timestamp": "2016-09-13T16:41:30Z",
+        "@version": "3",
+        "@changeset": "42130434",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0312046,
+            5.8288747
+          ],
+          [
+            -73.0310127,
+            5.8285798
+          ],
+          [
+            -73.0306879,
+            5.8280478
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834809",
+      "properties": {
+        "@id": "way/441834809",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "@timestamp": "2016-09-10T20:36:54Z",
+        "@version": "1",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0299569,
+            5.8321933
+          ],
+          [
+            -73.0299365,
+            5.8324217
+          ],
+          [
+            -73.0298692,
+            5.8330141
+          ],
+          [
+            -73.0298187,
+            5.8333767
+          ],
+          [
+            -73.0297896,
+            5.8336457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441838206",
+      "properties": {
+        "@id": "way/441838206",
+        "alt_name": "Avenida Circunvalar",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Carrera 31",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T20:59:49Z",
+        "@version": "1",
+        "@changeset": "42067075",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0328513,
+            5.8095001
+          ],
+          [
+            -73.0326949,
+            5.8097848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839868",
+      "properties": {
+        "@id": "way/441839868",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:35Z",
+        "@version": "1",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.029768,
+            5.8337908
+          ],
+          [
+            -73.0297796,
+            5.8337208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441843177",
+      "properties": {
+        "@id": "way/441843177",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:36:27Z",
+        "@version": "1",
+        "@changeset": "42067634",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0260414,
+            5.851139
+          ],
+          [
+            -73.0259842,
+            5.8503188
+          ],
+          [
+            -73.026199,
+            5.849521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845931",
+      "properties": {
+        "@id": "way/441845931",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:52Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0308616,
+            5.8125196
+          ],
+          [
+            -73.0310211,
+            5.8127781
+          ],
+          [
+            -73.0312002,
+            5.8130141
+          ],
+          [
+            -73.0312147,
+            5.8130474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441846062",
+      "properties": {
+        "@id": "way/441846062",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:58:59Z",
+        "@version": "1",
+        "@changeset": "42067932",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0269625,
+            5.8238
+          ],
+          [
+            -73.0269437,
+            5.8238366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850009",
+      "properties": {
+        "@id": "way/441850009",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:21:51Z",
+        "@version": "1",
+        "@changeset": "42068164",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0312147,
+            5.8130474
+          ],
+          [
+            -73.0311994,
+            5.8130891
+          ],
+          [
+            -73.0311984,
+            5.8131334
+          ],
+          [
+            -73.0312119,
+            5.8131757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850467",
+      "properties": {
+        "@id": "way/441850467",
+        "highway": "trunk",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T22:30:42Z",
+        "@version": "1",
+        "@changeset": "42068256",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0265905,
+            5.824943
+          ],
+          [
+            -73.0264345,
+            5.8252914
+          ],
+          [
+            -73.0262092,
+            5.8258505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442174188",
+      "properties": {
+        "@id": "way/442174188",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:42Z",
+        "@version": "1",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0277062,
+            5.8276234
+          ],
+          [
+            -73.027289,
+            5.8278165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442225417",
+      "properties": {
+        "@id": "way/442225417",
+        "highway": "residential",
+        "name": "Calle 19",
+        "@timestamp": "2016-09-13T16:41:26Z",
+        "@version": "1",
+        "@changeset": "42130434",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0306879,
+            5.8280478
+          ],
+          [
+            -73.0300866,
+            5.8271537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442458904",
+      "properties": {
+        "@id": "way/442458904",
+        "alt_name": "Avenida Circunvalar",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Carrera 31",
+        "oneway": "yes",
+        "@timestamp": "2016-09-14T16:32:21Z",
+        "@version": "1",
+        "@changeset": "42153807",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0384208,
+            5.8052182
+          ],
+          [
+            -73.0361849,
+            5.8066665
+          ],
+          [
+            -73.0352046,
+            5.8073658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442458910",
+      "properties": {
+        "@id": "way/442458910",
+        "highway": "unclassified",
+        "surface": "paved",
+        "@timestamp": "2016-09-14T16:32:21Z",
+        "@version": "1",
+        "@changeset": "42153807",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0276768,
+            5.8641546
+          ],
+          [
+            -73.0277042,
+            5.8643749
+          ],
+          [
+            -73.027804,
+            5.8648143
+          ],
+          [
+            -73.0279689,
+            5.8650774
+          ],
+          [
+            -73.0281723,
+            5.8652785
+          ],
+          [
+            -73.0285114,
+            5.8655372
+          ],
+          [
+            -73.0284293,
+            5.865711
+          ],
+          [
+            -73.0283615,
+            5.8660236
+          ],
+          [
+            -73.0283154,
+            5.8661797
+          ],
+          [
+            -73.0280859,
+            5.8662321
+          ],
+          [
+            -73.0279263,
+            5.8661644
+          ],
+          [
+            -73.0276583,
+            5.8659808
+          ],
+          [
+            -73.0274336,
+            5.8657711
+          ],
+          [
+            -73.0272307,
+            5.865868
+          ],
+          [
+            -73.0275261,
+            5.8662623
+          ],
+          [
+            -73.0279024,
+            5.8669716
+          ],
+          [
+            -73.0280197,
+            5.8673271
+          ],
+          [
+            -73.0281516,
+            5.8681691
+          ],
+          [
+            -73.0282168,
+            5.8686663
+          ],
+          [
+            -73.0281442,
+            5.8690198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442460287",
+      "properties": {
+        "@id": "way/442460287",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-14T16:41:54Z",
+        "@version": "1",
+        "@changeset": "42153968",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.027289,
+            5.8278165
+          ],
+          [
+            -73.025944,
+            5.8284132
+          ],
+          [
+            -73.0256358,
+            5.8285678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443384604",
+      "properties": {
+        "@id": "way/443384604",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:08Z",
+        "@version": "1",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6585999",
+            "reltags": {
+              "from": "Higueras",
+              "name": "A12 - Higueras - San Pedro",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A12",
+              "route": "bus",
+              "to": "San Pedro",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0300411,
+            5.8111338
+          ],
+          [
+            -73.0299809,
+            5.8111521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266528",
+      "properties": {
+        "@id": "node/326266528",
+        "highway": "traffic_signals",
+        "name": "La dorada",
+        "@timestamp": "2012-09-21T06:05:36Z",
+        "@version": "30",
+        "@changeset": "13191399",
+        "@user": "camilolara",
+        "@uid": "235754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0291955,
+          5.8272507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/579961502",
+      "properties": {
+        "@id": "node/579961502",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-03-24T16:24:11Z",
+        "@version": "4",
+        "@changeset": "21288226",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0250575,
+          5.8289486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1687184803",
+      "properties": {
+        "@id": "node/1687184803",
+        "railway": "level_crossing",
+        "@timestamp": "2012-03-23T13:42:38Z",
+        "@version": "1",
+        "@changeset": "11073999",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0276705,
+          5.822637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739745700",
+      "properties": {
+        "@id": "node/2739745700",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-03-24T16:24:10Z",
+        "@version": "1",
+        "@changeset": "21288226",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0249698,
+          5.8289087
+        ]
+      }
+    }
+  ]
+}

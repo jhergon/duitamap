@@ -1,0 +1,3044 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:11:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29643136",
+      "properties": {
+        "@id": "way/29643136",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T16:41:30Z",
+        "@version": "24",
+        "@changeset": "42130434",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0300866,
+            5.8271537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29674515",
+      "properties": {
+        "@id": "way/29674515",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:26Z",
+        "@version": "60",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0434882,
+            5.8255125
+          ],
+          [
+            -73.0431458,
+            5.8261059
+          ],
+          [
+            -73.0429396,
+            5.8264214
+          ],
+          [
+            -73.0427881,
+            5.8265364
+          ],
+          [
+            -73.0424339,
+            5.8266822
+          ],
+          [
+            -73.0420569,
+            5.826754
+          ],
+          [
+            -73.0414282,
+            5.8267392
+          ],
+          [
+            -73.0408712,
+            5.8267517
+          ],
+          [
+            -73.0406309,
+            5.8268189
+          ],
+          [
+            -73.0403484,
+            5.8269897
+          ],
+          [
+            -73.0400192,
+            5.8274032
+          ],
+          [
+            -73.0397322,
+            5.8278497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43038535",
+      "properties": {
+        "@id": "way/43038535",
+        "highway": "secondary_link",
+        "@timestamp": "2014-11-24T11:20:36Z",
+        "@version": "3",
+        "@changeset": "26993645",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0385974,
+            5.8245986
+          ],
+          [
+            -73.0386043,
+            5.824759
+          ],
+          [
+            -73.038718,
+            5.8248719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45510120",
+      "properties": {
+        "@id": "way/45510120",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-14T16:41:59Z",
+        "@version": "8",
+        "@changeset": "42153968",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0256358,
+            5.8285678
+          ],
+          [
+            -73.0252512,
+            5.8288186
+          ],
+          [
+            -73.0251398,
+            5.8288934
+          ],
+          [
+            -73.0250936,
+            5.8289244
+          ],
+          [
+            -73.0250575,
+            5.8289486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54849028",
+      "properties": {
+        "@id": "way/54849028",
+        "highway": "secondary",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T13:00:55Z",
+        "@version": "10",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0389018,
+            5.824864
+          ],
+          [
+            -73.0393687,
+            5.8246932
+          ],
+          [
+            -73.0395352,
+            5.8246227
+          ],
+          [
+            -73.0403931,
+            5.8245061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/74517815",
+      "properties": {
+        "@id": "way/74517815",
+        "highway": "tertiary",
+        "maxspeed": "60",
+        "mechanical": "yes",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "name": "vía a la trinidad Becerras",
+        "smoothness": "good",
+        "surface": "unpaved",
+        "tracktype": "grade2",
+        "@timestamp": "2016-09-05T04:42:42Z",
+        "@version": "6",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0648879,
+            5.8261275
+          ],
+          [
+            -73.0644089,
+            5.8262133
+          ],
+          [
+            -73.0643476,
+            5.8262243
+          ],
+          [
+            -73.0626847,
+            5.8260746
+          ],
+          [
+            -73.0606682,
+            5.8280446
+          ],
+          [
+            -73.0602281,
+            5.8282593
+          ],
+          [
+            -73.059497,
+            5.828317
+          ],
+          [
+            -73.0584285,
+            5.8285918
+          ],
+          [
+            -73.0582109,
+            5.8290521
+          ],
+          [
+            -73.0581785,
+            5.8293098
+          ],
+          [
+            -73.0577036,
+            5.8298843
+          ],
+          [
+            -73.0569426,
+            5.8302226
+          ],
+          [
+            -73.0563022,
+            5.8307598
+          ],
+          [
+            -73.0561277,
+            5.8314145
+          ],
+          [
+            -73.055715,
+            5.8320662
+          ],
+          [
+            -73.0552317,
+            5.8325206
+          ],
+          [
+            -73.0541615,
+            5.8332363
+          ],
+          [
+            -73.0537941,
+            5.8333792
+          ],
+          [
+            -73.0529946,
+            5.8330882
+          ],
+          [
+            -73.0527259,
+            5.8330871
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/97980043",
+      "properties": {
+        "@id": "way/97980043",
+        "highway": "tertiary",
+        "name": "vía a la trinidad Becerras",
+        "surface": "paved",
+        "tracktype": "grade2",
+        "@timestamp": "2016-09-05T04:42:42Z",
+        "@version": "5",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0768171,
+            5.8259812
+          ],
+          [
+            -73.0765569,
+            5.8261793
+          ],
+          [
+            -73.0765497,
+            5.826195
+          ],
+          [
+            -73.076486,
+            5.8263345
+          ],
+          [
+            -73.0764035,
+            5.8269235
+          ],
+          [
+            -73.076313,
+            5.8269772
+          ],
+          [
+            -73.0759834,
+            5.8271729
+          ],
+          [
+            -73.075623,
+            5.8272824
+          ],
+          [
+            -73.0754892,
+            5.8273491
+          ],
+          [
+            -73.0744209,
+            5.8276691
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/97980056",
+      "properties": {
+        "@id": "way/97980056",
+        "highway": "tertiary",
+        "maxspeed": "60",
+        "mechanical": "yes",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "name": "vía a la trinidad Becerras",
+        "smoothness": "good",
+        "surface": "unpaved",
+        "tracktype": "grade2",
+        "@timestamp": "2016-09-05T04:42:42Z",
+        "@version": "5",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0744209,
+            5.8276691
+          ],
+          [
+            -73.073739,
+            5.8278892
+          ],
+          [
+            -73.0732538,
+            5.8279402
+          ],
+          [
+            -73.0727052,
+            5.8278429
+          ],
+          [
+            -73.0721781,
+            5.8276644
+          ],
+          [
+            -73.0720963,
+            5.8276653
+          ],
+          [
+            -73.0713825,
+            5.827611
+          ],
+          [
+            -73.0708765,
+            5.8275243
+          ],
+          [
+            -73.070265,
+            5.8275224
+          ],
+          [
+            -73.0699535,
+            5.8275801
+          ],
+          [
+            -73.0695669,
+            5.8277454
+          ],
+          [
+            -73.0690307,
+            5.8278639
+          ],
+          [
+            -73.0680414,
+            5.8278064
+          ],
+          [
+            -73.0672186,
+            5.8276356
+          ],
+          [
+            -73.0669675,
+            5.8275439
+          ],
+          [
+            -73.0666638,
+            5.8274524
+          ],
+          [
+            -73.0661236,
+            5.8271796
+          ],
+          [
+            -73.0655429,
+            5.8267852
+          ],
+          [
+            -73.0654023,
+            5.8265243
+          ],
+          [
+            -73.065299,
+            5.8263329
+          ],
+          [
+            -73.0648879,
+            5.8261275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201390565",
+      "properties": {
+        "@id": "way/201390565",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Calle 4",
+        "ref": "57",
+        "source": "GPS",
+        "@timestamp": "2016-09-05T03:46:53Z",
+        "@version": "7",
+        "@changeset": "41920244",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0501876,
+            5.8295715
+          ],
+          [
+            -73.0501011,
+            5.8294065
+          ],
+          [
+            -73.05014,
+            5.829304
+          ],
+          [
+            -73.0503713,
+            5.8291365
+          ],
+          [
+            -73.0504074,
+            5.8288368
+          ],
+          [
+            -73.050215,
+            5.828593
+          ],
+          [
+            -73.0500053,
+            5.8283595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201390566",
+      "properties": {
+        "@id": "way/201390566",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-14T16:55:27Z",
+        "@version": "6",
+        "@changeset": "42154253",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.04959,
+            5.8279874
+          ],
+          [
+            -73.0491979,
+            5.8278141
+          ],
+          [
+            -73.0490397,
+            5.8277261
+          ],
+          [
+            -73.048766,
+            5.8275621
+          ],
+          [
+            -73.0483113,
+            5.8273697
+          ],
+          [
+            -73.0480006,
+            5.8272416
+          ],
+          [
+            -73.0477068,
+            5.8271244
+          ],
+          [
+            -73.0472717,
+            5.8270112
+          ],
+          [
+            -73.0470981,
+            5.8269693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340966039",
+      "properties": {
+        "@id": "way/340966039",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T13:00:55Z",
+        "@version": "4",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0412192,
+            5.8244131
+          ],
+          [
+            -73.0416425,
+            5.8243761
+          ],
+          [
+            -73.0420056,
+            5.8244792
+          ],
+          [
+            -73.0422937,
+            5.8246372
+          ],
+          [
+            -73.0423871,
+            5.824707
+          ],
+          [
+            -73.0427326,
+            5.8249803
+          ],
+          [
+            -73.0428573,
+            5.8250688
+          ],
+          [
+            -73.0432192,
+            5.8253414
+          ],
+          [
+            -73.0434882,
+            5.8255125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340966044",
+      "properties": {
+        "@id": "way/340966044",
+        "highway": "trunk",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-28T17:37:25Z",
+        "@version": "3",
+        "@changeset": "41760790",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0242147,
+            5.8309866
+          ],
+          [
+            -73.0242672,
+            5.8308657
+          ],
+          [
+            -73.0244092,
+            5.8305387
+          ],
+          [
+            -73.0246339,
+            5.8299951
+          ],
+          [
+            -73.0249007,
+            5.8293323
+          ],
+          [
+            -73.0249027,
+            5.8293272
+          ],
+          [
+            -73.0250575,
+            5.8289486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343724645",
+      "properties": {
+        "@id": "way/343724645",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:37Z",
+        "@version": "4",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358148,
+            5.8335175
+          ],
+          [
+            -73.0351895,
+            5.833877
+          ],
+          [
+            -73.0346229,
+            5.834202
+          ],
+          [
+            -73.0339491,
+            5.8346071
+          ],
+          [
+            -73.0335809,
+            5.8348287
+          ],
+          [
+            -73.0332482,
+            5.8350288
+          ],
+          [
+            -73.0327298,
+            5.8353072
+          ],
+          [
+            -73.0325175,
+            5.835337
+          ],
+          [
+            -73.0322899,
+            5.8352536
+          ],
+          [
+            -73.0322009,
+            5.8352031
+          ],
+          [
+            -73.0320815,
+            5.835034
+          ],
+          [
+            -73.0320007,
+            5.8347934
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371395880",
+      "properties": {
+        "@id": "way/371395880",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2015-09-18T19:59:24Z",
+        "@version": "1",
+        "@changeset": "34110474",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.033992,
+            5.825301
+          ],
+          [
+            -73.0346558,
+            5.8249411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371395898",
+      "properties": {
+        "@id": "way/371395898",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:48:10Z",
+        "@version": "4",
+        "@changeset": "42067685",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0346558,
+            5.8249411
+          ],
+          [
+            -73.0350207,
+            5.8247736
+          ],
+          [
+            -73.0353453,
+            5.8246061
+          ],
+          [
+            -73.0360182,
+            5.8242724
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378744145",
+      "properties": {
+        "@id": "way/378744145",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2015-11-06T19:53:36Z",
+        "@version": "1",
+        "@changeset": "35134072",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0388357,
+            5.8248803
+          ],
+          [
+            -73.0389018,
+            5.824864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378746722",
+      "properties": {
+        "@id": "way/378746722",
+        "highway": "secondary",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T13:00:54Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0403931,
+            5.8245061
+          ],
+          [
+            -73.0412192,
+            5.8244131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700918",
+      "properties": {
+        "@id": "way/438700918",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-29T01:13:37Z",
+        "@version": "2",
+        "@changeset": "41767098",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0309814,
+            5.8269106
+          ],
+          [
+            -73.0318139,
+            5.8264591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700919",
+      "properties": {
+        "@id": "way/438700919",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318139,
+            5.8264591
+          ],
+          [
+            -73.0324609,
+            5.8261035
+          ],
+          [
+            -73.0332008,
+            5.8257057
+          ],
+          [
+            -73.033588,
+            5.8255109
+          ],
+          [
+            -73.033992,
+            5.825301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534437",
+      "properties": {
+        "@id": "way/439534437",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:41Z",
+        "@version": "3",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0382518,
+            5.8238544
+          ],
+          [
+            -73.0384276,
+            5.8241367
+          ],
+          [
+            -73.0386342,
+            5.8244586
+          ],
+          [
+            -73.0385974,
+            5.8245986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539947",
+      "properties": {
+        "@id": "way/439539947",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:14:57Z",
+        "@version": "3",
+        "@changeset": "42067291",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0397322,
+            5.8278497
+          ],
+          [
+            -73.0395855,
+            5.8281076
+          ],
+          [
+            -73.0394041,
+            5.8284695
+          ],
+          [
+            -73.0392519,
+            5.8288036
+          ],
+          [
+            -73.0391994,
+            5.8289052
+          ],
+          [
+            -73.0389531,
+            5.8294518
+          ],
+          [
+            -73.0384286,
+            5.8305215
+          ],
+          [
+            -73.0378484,
+            5.8316495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539956",
+      "properties": {
+        "@id": "way/439539956",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-24T20:33:39Z",
+        "@version": "7",
+        "@changeset": "42411811",
+        "@user": "matiuxd",
+        "@uid": "2006950",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0469114,
+            5.826927
+          ],
+          [
+            -73.046611,
+            5.8268666
+          ],
+          [
+            -73.0462746,
+            5.826774
+          ],
+          [
+            -73.046158,
+            5.8267182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440531431",
+      "properties": {
+        "@id": "way/440531431",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "@timestamp": "2016-09-13T13:00:55Z",
+        "@version": "3",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0499464,
+            5.8282874
+          ],
+          [
+            -73.0499151,
+            5.8282368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693926",
+      "properties": {
+        "@id": "way/440693926",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Calle 4",
+        "ref": "57",
+        "source": "GPS",
+        "@timestamp": "2016-09-05T03:46:50Z",
+        "@version": "1",
+        "@changeset": "41920244",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0500053,
+            5.8283595
+          ],
+          [
+            -73.0499464,
+            5.8282874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693927",
+      "properties": {
+        "@id": "way/440693927",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:47Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0286118,
+            5.8273123
+          ],
+          [
+            -73.0282898,
+            5.8273558
+          ],
+          [
+            -73.0279844,
+            5.8274976
+          ],
+          [
+            -73.0277062,
+            5.8276234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440696691",
+      "properties": {
+        "@id": "way/440696691",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:39Z",
+        "@version": "1",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0378486,
+            5.8232295
+          ],
+          [
+            -73.0382518,
+            5.8238544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440696701",
+      "properties": {
+        "@id": "way/440696701",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:39Z",
+        "@version": "1",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.038718,
+            5.8248719
+          ],
+          [
+            -73.0388357,
+            5.8248803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440696705",
+      "properties": {
+        "@id": "way/440696705",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Torres",
+        "ref": "57",
+        "source": "GPS",
+        "@timestamp": "2016-09-24T21:02:18Z",
+        "@version": "2",
+        "@changeset": "42412254",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0527259,
+            5.8330871
+          ],
+          [
+            -73.052222,
+            5.832614
+          ],
+          [
+            -73.052058,
+            5.832512
+          ],
+          [
+            -73.051816,
+            5.83247
+          ],
+          [
+            -73.051365,
+            5.832667
+          ],
+          [
+            -73.051278,
+            5.832669
+          ],
+          [
+            -73.0510272,
+            5.8324419
+          ],
+          [
+            -73.0507619,
+            5.8318392
+          ],
+          [
+            -73.0507889,
+            5.8315857
+          ],
+          [
+            -73.0509,
+            5.8311981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440696717",
+      "properties": {
+        "@id": "way/440696717",
+        "highway": "unclassified",
+        "mechanical": "yes",
+        "name": "vía la trinidad",
+        "@timestamp": "2016-09-05T04:42:40Z",
+        "@version": "1",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0779325,
+            5.8254508
+          ],
+          [
+            -73.0768171,
+            5.8259812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828191",
+      "properties": {
+        "@id": "way/441828191",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:37Z",
+        "@version": "2",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0320007,
+            5.8347934
+          ],
+          [
+            -73.0316817,
+            5.8337524
+          ],
+          [
+            -73.0315911,
+            5.8335567
+          ],
+          [
+            -73.031515,
+            5.8334766
+          ],
+          [
+            -73.0314517,
+            5.8334072
+          ],
+          [
+            -73.0312491,
+            5.8332684
+          ],
+          [
+            -73.031096,
+            5.8332579
+          ],
+          [
+            -73.0306632,
+            5.8333356
+          ],
+          [
+            -73.0297896,
+            5.8336457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828192",
+      "properties": {
+        "@id": "way/441828192",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:10Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0435497,
+            5.8254153
+          ],
+          [
+            -73.0434882,
+            5.8255125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828196",
+      "properties": {
+        "@id": "way/441828196",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T20:36:57Z",
+        "@version": "2",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0264887,
+            5.8345812
+          ],
+          [
+            -73.0256265,
+            5.8335075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828253",
+      "properties": {
+        "@id": "way/441828253",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:16Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0434882,
+            5.8255125
+          ],
+          [
+            -73.0435918,
+            5.825568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834799",
+      "properties": {
+        "@id": "way/441834799",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T20:36:53Z",
+        "@version": "1",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0256265,
+            5.8335075
+          ],
+          [
+            -73.0253646,
+            5.8331695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834801",
+      "properties": {
+        "@id": "way/441834801",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T20:36:53Z",
+        "@version": "1",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0253646,
+            5.8331695
+          ],
+          [
+            -73.0243628,
+            5.8318765
+          ],
+          [
+            -73.0242437,
+            5.8316345
+          ],
+          [
+            -73.0242048,
+            5.8313869
+          ],
+          [
+            -73.0241814,
+            5.8312135
+          ],
+          [
+            -73.0242147,
+            5.8309866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834811",
+      "properties": {
+        "@id": "way/441834811",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T10:05:48Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0436524,
+            5.8254786
+          ],
+          [
+            -73.0435497,
+            5.8254153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839455",
+      "properties": {
+        "@id": "way/441839455",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T10:05:48Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0451293,
+            5.8262101
+          ],
+          [
+            -73.0441719,
+            5.8257551
+          ],
+          [
+            -73.0436524,
+            5.8254786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839574",
+      "properties": {
+        "@id": "way/441839574",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:14:56Z",
+        "@version": "1",
+        "@changeset": "42067291",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0378484,
+            5.8316495
+          ],
+          [
+            -73.0376961,
+            5.8319511
+          ],
+          [
+            -73.0375966,
+            5.832146
+          ],
+          [
+            -73.0373779,
+            5.8324205
+          ],
+          [
+            -73.0372298,
+            5.8326187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839862",
+      "properties": {
+        "@id": "way/441839862",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:35Z",
+        "@version": "1",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0297896,
+            5.8336457
+          ],
+          [
+            -73.0292987,
+            5.8338273
+          ],
+          [
+            -73.0271006,
+            5.8346517
+          ],
+          [
+            -73.0267862,
+            5.834688
+          ],
+          [
+            -73.0264887,
+            5.8345812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839864",
+      "properties": {
+        "@id": "way/441839864",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:35Z",
+        "@version": "1",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0372298,
+            5.8326187
+          ],
+          [
+            -73.0370279,
+            5.8327867
+          ],
+          [
+            -73.0368771,
+            5.8329066
+          ],
+          [
+            -73.0368131,
+            5.8329545
+          ],
+          [
+            -73.0367472,
+            5.8329944
+          ],
+          [
+            -73.0366998,
+            5.8330211
+          ],
+          [
+            -73.0365129,
+            5.8331316
+          ],
+          [
+            -73.0361603,
+            5.8333281
+          ],
+          [
+            -73.0358148,
+            5.8335175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441840000",
+      "properties": {
+        "@id": "way/441840000",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:55Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0499151,
+            5.8282368
+          ],
+          [
+            -73.0497401,
+            5.8280563
+          ],
+          [
+            -73.04959,
+            5.8279874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441844263",
+      "properties": {
+        "@id": "way/441844263",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:48:08Z",
+        "@version": "1",
+        "@changeset": "42067685",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0360182,
+            5.8242724
+          ],
+          [
+            -73.0370641,
+            5.8236655
+          ],
+          [
+            -73.0378486,
+            5.8232295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442174188",
+      "properties": {
+        "@id": "way/442174188",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:42Z",
+        "@version": "1",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0277062,
+            5.8276234
+          ],
+          [
+            -73.027289,
+            5.8278165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442225423",
+      "properties": {
+        "@id": "way/442225423",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T16:41:26Z",
+        "@version": "1",
+        "@changeset": "42130434",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0300866,
+            5.8271537
+          ],
+          [
+            -73.0309814,
+            5.8269106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442460287",
+      "properties": {
+        "@id": "way/442460287",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-14T16:41:54Z",
+        "@version": "1",
+        "@changeset": "42153968",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.027289,
+            5.8278165
+          ],
+          [
+            -73.025944,
+            5.8284132
+          ],
+          [
+            -73.0256358,
+            5.8285678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442959578",
+      "properties": {
+        "@id": "way/442959578",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T20:03:40Z",
+        "@version": "1",
+        "@changeset": "42234361",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.046158,
+            5.8267182
+          ],
+          [
+            -73.0451293,
+            5.8262101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444195454",
+      "properties": {
+        "@id": "way/444195454",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-24T20:33:31Z",
+        "@version": "1",
+        "@changeset": "42411811",
+        "@user": "matiuxd",
+        "@uid": "2006950",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0470981,
+            5.8269693
+          ],
+          [
+            -73.0469114,
+            5.826927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444197613",
+      "properties": {
+        "@id": "way/444197613",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Torres",
+        "ref": "57",
+        "source": "GPS",
+        "@timestamp": "2016-09-24T21:02:16Z",
+        "@version": "1",
+        "@changeset": "42412254",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577923",
+            "reltags": {
+              "from": "La Trinidad",
+              "name": "A6 - La Trinidad - Santa Lucia",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A6",
+              "route": "bus",
+              "to": "Santa Lucia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0509,
+            5.8311981
+          ],
+          [
+            -73.050919,
+            5.8308474
+          ],
+          [
+            -73.0507338,
+            5.8305837
+          ],
+          [
+            -73.050703,
+            5.8302235
+          ],
+          [
+            -73.0501876,
+            5.8295715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266508",
+      "properties": {
+        "@id": "node/326266508",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-17T20:33:21Z",
+        "@version": "39",
+        "@changeset": "42234929",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0378486,
+          5.8232295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266521",
+      "properties": {
+        "@id": "node/326266521",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "18",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0318139,
+          5.8264591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266523",
+      "properties": {
+        "@id": "node/326266523",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "15",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0309814,
+          5.8269106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266528",
+      "properties": {
+        "@id": "node/326266528",
+        "highway": "traffic_signals",
+        "name": "La dorada",
+        "@timestamp": "2012-09-21T06:05:36Z",
+        "@version": "30",
+        "@changeset": "13191399",
+        "@user": "camilolara",
+        "@uid": "235754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0291955,
+          5.8272507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400533",
+      "properties": {
+        "@id": "node/334400533",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "7",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0332008,
+          5.8257057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/410298268",
+      "properties": {
+        "@id": "node/410298268",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "9",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0436524,
+          5.8254786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157528",
+      "properties": {
+        "@id": "node/539157528",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "12",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0435497,
+          5.8254153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157550",
+      "properties": {
+        "@id": "node/539157550",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "10",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0434882,
+          5.8255125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157559",
+      "properties": {
+        "@id": "node/539157559",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "9",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0435918,
+          5.825568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/579961502",
+      "properties": {
+        "@id": "node/579961502",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-03-24T16:24:11Z",
+        "@version": "4",
+        "@changeset": "21288226",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0250575,
+          5.8289486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3505248267",
+      "properties": {
+        "@id": "node/3505248267",
+        "barrier": "gate",
+        "bicycle": "yes",
+        "foot": "yes",
+        "@timestamp": "2016-08-29T01:52:58Z",
+        "@version": "2",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0391994,
+          5.8289052
+        ]
+      }
+    }
+  ]
+}

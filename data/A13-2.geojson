@@ -6,157 +6,31 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/29595355",
+      "id": "way/29643136",
       "properties": {
-        "@id": "way/29595355",
-        "highway": "secondary",
-        "name": "Avenida de las Americas",
-        "oneway": "yes",
-        "@timestamp": "2016-09-13T13:00:54Z",
-        "@version": "19",
-        "@changeset": "42125090",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0313406,
-            5.8129776
-          ],
-          [
-            -73.0312826,
-            5.8128898
-          ],
-          [
-            -73.03105,
-            5.8125946
-          ],
-          [
-            -73.0309439,
-            5.8124353
-          ],
-          [
-            -73.0308633,
-            5.8123044
-          ],
-          [
-            -73.0301141,
-            5.8111116
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/29645081",
-      "properties": {
-        "@id": "way/29645081",
-        "highway": "secondary",
-        "lanes": "2",
-        "name": "Avenida de las Americas",
-        "oneway": "yes",
-        "@timestamp": "2016-09-17T19:52:51Z",
-        "@version": "33",
-        "@changeset": "42234156",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0379481,
-            5.8231597
-          ],
-          [
-            -73.0372747,
-            5.8221404
-          ],
-          [
-            -73.0367676,
-            5.821353
-          ],
-          [
-            -73.036676,
-            5.8212142
-          ],
-          [
-            -73.0363654,
-            5.820734
-          ],
-          [
-            -73.0359002,
-            5.8199997
-          ],
-          [
-            -73.0358386,
-            5.8199032
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/42738529",
-      "properties": {
-        "@id": "way/42738529",
+        "@id": "way/29643136",
         "highway": "residential",
         "mechanical": "yes",
-        "name": "Calle 19",
-        "@timestamp": "2016-09-26T22:46:26Z",
-        "@version": "9",
-        "@changeset": "42458255",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T16:41:30Z",
+        "@version": "24",
+        "@changeset": "42130434",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -166,159 +40,41 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0197882,
-            5.8087659
+            -73.0291955,
+            5.8272507
           ],
           [
-            -73.0191297,
-            5.8080243
+            -73.0300866,
+            5.8271537
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/45564743",
+      "id": "way/45510120",
       "properties": {
-        "@id": "way/45564743",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 17A",
-        "@timestamp": "2016-09-17T21:12:59Z",
-        "@version": "13",
-        "@changeset": "42235672",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0356053,
-            5.837933
-          ],
-          [
-            -73.035517,
-            5.8369045
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/129692197",
-      "properties": {
-        "@id": "way/129692197",
-        "highway": "residential",
-        "name": "Calle 17A",
-        "@timestamp": "2016-08-27T16:29:57Z",
-        "@version": "7",
-        "@changeset": "41739718",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0360632,
-            5.8415768
-          ],
-          [
-            -73.0359747,
-            5.8409699
-          ],
-          [
-            -73.0359064,
-            5.8403847
-          ],
-          [
-            -73.0358487,
-            5.8398667
-          ],
-          [
-            -73.0358163,
-            5.8395843
-          ],
-          [
-            -73.0357909,
-            5.8393131
-          ],
-          [
-            -73.0357882,
-            5.8391757
-          ],
-          [
-            -73.0357599,
-            5.8389576
-          ],
-          [
-            -73.0356541,
-            5.8384957
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/165401496",
-      "properties": {
-        "@id": "way/165401496",
-        "fixme": "Investigar nombre y campo",
-        "highway": "residential",
-        "name": "Calle 18",
-        "@timestamp": "2016-08-24T02:21:12Z",
+        "@id": "way/45510120",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-14T16:41:59Z",
         "@version": "8",
-        "@changeset": "41651609",
+        "@changeset": "42153968",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -328,207 +84,55 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0360865,
-            5.844645
+            -73.0256358,
+            5.8285678
           ],
           [
-            -73.0361248,
-            5.8452121
+            -73.0252512,
+            5.8288186
           ],
           [
-            -73.0362091,
-            5.8457599
+            -73.0251398,
+            5.8288934
           ],
           [
-            -73.0362526,
-            5.8463872
+            -73.0250936,
+            5.8289244
           ],
           [
-            -73.0362145,
-            5.8465433
-          ],
-          [
-            -73.0361252,
-            5.8469094
-          ],
-          [
-            -73.0360204,
-            5.8471812
-          ],
-          [
-            -73.0359733,
-            5.8473034
-          ],
-          [
-            -73.0359358,
-            5.8474007
-          ],
-          [
-            -73.0359016,
-            5.8476788
-          ],
-          [
-            -73.035973,
-            5.8479755
-          ],
-          [
-            -73.0359778,
-            5.848147
+            -73.0250575,
+            5.8289486
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/341811735",
+      "id": "way/54567075",
       "properties": {
-        "@id": "way/341811735",
+        "@id": "way/54567075",
         "highway": "residential",
-        "name": "Carrera 13",
-        "oneway": "yes",
-        "@timestamp": "2016-09-03T21:47:57Z",
-        "@version": "3",
-        "@changeset": "41897352",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0346368,
-            5.8298497
-          ],
-          [
-            -73.0339381,
-            5.8302632
-          ],
-          [
-            -73.0335645,
-            5.8305076
-          ],
-          [
-            -73.0332078,
-            5.830743
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/341814494",
-      "properties": {
-        "@id": "way/341814494",
-        "highway": "residential",
-        "name": "Calle 15",
-        "oneway": "yes",
-        "@timestamp": "2016-09-03T21:47:57Z",
-        "@version": "5",
-        "@changeset": "41897352",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0368768,
-            5.8320249
-          ],
-          [
-            -73.0368623,
-            5.8320014
-          ],
-          [
-            -73.0366117,
-            5.8315788
-          ],
-          [
-            -73.0362179,
-            5.8309276
-          ],
-          [
-            -73.0359471,
-            5.8305019
-          ],
-          [
-            -73.0358927,
-            5.8304081
-          ],
-          [
-            -73.0357056,
-            5.8301207
-          ],
-          [
-            -73.0354989,
-            5.8297713
-          ],
-          [
-            -73.0353156,
-            5.8294314
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/341878041",
-      "properties": {
-        "@id": "way/341878041",
-        "highway": "residential",
-        "name": "Calle 17",
-        "@timestamp": "2015-04-30T19:45:11Z",
-        "@version": "1",
-        "@changeset": "30670723",
+        "mechanical": "yes",
+        "name": "Calle 1A",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T19:45:28Z",
+        "@version": "6",
+        "@changeset": "42065792",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -538,41 +142,168 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0356541,
-            5.8384957
+            -73.0487303,
+            5.8260588
           ],
           [
-            -73.0356053,
-            5.837933
+            -73.0492711,
+            5.8265226
+          ],
+          [
+            -73.0497228,
+            5.8269834
+          ],
+          [
+            -73.0498502,
+            5.8271164
+          ],
+          [
+            -73.050112,
+            5.8273806
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/341917189",
+      "id": "way/54567101",
       "properties": {
-        "@id": "way/341917189",
+        "@id": "way/54567101",
         "highway": "residential",
-        "name": "Calle 17",
-        "@timestamp": "2016-08-28T16:24:05Z",
+        "mechanical": "yes",
+        "name": "Calle 2",
+        "source": "DANE",
+        "@timestamp": "2016-09-24T20:33:38Z",
+        "@version": "10",
+        "@changeset": "42411811",
+        "@user": "matiuxd",
+        "@uid": "2006950",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0437729,
+            5.8239828
+          ],
+          [
+            -73.0436156,
+            5.823844
+          ],
+          [
+            -73.0432057,
+            5.823471
+          ],
+          [
+            -73.04297,
+            5.8232867
+          ],
+          [
+            -73.0423943,
+            5.8227875
+          ],
+          [
+            -73.0423819,
+            5.8224988
+          ],
+          [
+            -73.0423716,
+            5.8223498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54567106",
+      "properties": {
+        "@id": "way/54567106",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 9A",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T19:45:33Z",
+        "@version": "8",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0452054,
+            5.8252928
+          ],
+          [
+            -73.0455078,
+            5.8246887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55528334",
+      "properties": {
+        "@id": "way/55528334",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 2A",
+        "source": "DANE",
+        "surface": "paved",
+        "@timestamp": "2016-09-03T22:34:25Z",
         "@version": "4",
-        "@changeset": "41759242",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
+        "@changeset": "41897920",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -582,50 +313,53 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0360505,
-            5.8340572
+            -73.0422392,
+            5.8219555
           ],
           [
-            -73.0360959,
-            5.8342861
+            -73.0416336,
+            5.8210692
           ],
           [
-            -73.0361718,
-            5.834687
+            -73.041611,
+            5.8210386
           ],
           [
-            -73.0362229,
-            5.83498
+            -73.0415263,
+            5.8209239
+          ],
+          [
+            -73.0413167,
+            5.8208271
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/371395864",
+      "id": "way/166400364",
       "properties": {
-        "@id": "way/371395864",
+        "@id": "way/166400364",
         "highway": "residential",
-        "name": "Calle 18",
-        "oneway": "yes",
-        "@timestamp": "2015-09-18T22:15:16Z",
-        "@version": "3",
-        "@changeset": "34112444",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
+        "name": "Carrera 3",
+        "@timestamp": "2016-09-03T22:34:26Z",
+        "@version": "4",
+        "@changeset": "41897920",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -635,20 +369,184 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0332078,
-            5.830743
+            -73.050112,
+            5.8273806
           ],
           [
-            -73.0327415,
-            5.8298176
+            -73.0499107,
+            5.8275248
           ],
           [
-            -73.0323021,
-            5.8290278
+            -73.0495349,
+            5.8278072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254756138",
+      "properties": {
+        "@id": "way/254756138",
+        "highway": "trunk",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "paved",
+        "@timestamp": "2016-07-03T10:14:42Z",
+        "@version": "4",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0238951,
+            5.8317322
           ],
           [
-            -73.0318487,
-            5.8283539
+            -73.0240278,
+            5.8314727
+          ],
+          [
+            -73.0240799,
+            5.8313384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340966044",
+      "properties": {
+        "@id": "way/340966044",
+        "highway": "trunk",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-28T17:37:25Z",
+        "@version": "3",
+        "@changeset": "41760790",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0242147,
+            5.8309866
+          ],
+          [
+            -73.0242672,
+            5.8308657
+          ],
+          [
+            -73.0244092,
+            5.8305387
+          ],
+          [
+            -73.0246339,
+            5.8299951
+          ],
+          [
+            -73.0249007,
+            5.8293323
+          ],
+          [
+            -73.0249027,
+            5.8293272
+          ],
+          [
+            -73.0250575,
+            5.8289486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340966046",
+      "properties": {
+        "@id": "way/340966046",
+        "highway": "trunk",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "paved",
+        "@timestamp": "2016-07-03T10:14:42Z",
+        "@version": "2",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0240799,
+            5.8313384
+          ],
+          [
+            -73.0241324,
+            5.8312032
+          ],
+          [
+            -73.0242147,
+            5.8309866
           ]
         ]
       }
@@ -670,16 +568,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -716,16 +614,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -770,16 +668,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -801,238 +699,29 @@
     },
     {
       "type": "Feature",
-      "id": "way/398590360",
+      "id": "way/378750130",
       "properties": {
-        "@id": "way/398590360",
+        "@id": "way/378750130",
         "highway": "residential",
-        "name": "Calle 18",
-        "oneway": "yes",
-        "@timestamp": "2016-02-18T20:00:54Z",
-        "@version": "1",
-        "@changeset": "37296418",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0318487,
-            5.8283539
-          ],
-          [
-            -73.0314459,
-            5.8276383
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700883",
-      "properties": {
-        "@id": "way/438700883",
-        "highway": "trunk",
-        "lanes": "2",
-        "oneway": "yes",
-        "ref": "A1",
-        "surface": "asphalt",
-        "@timestamp": "2016-09-12T10:02:38Z",
-        "@version": "6",
-        "@changeset": "42096173",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0273195,
-            5.807104
-          ],
-          [
-            -73.025747,
-            5.8074527
-          ],
-          [
-            -73.0256637,
-            5.8074664
-          ],
-          [
-            -73.0250055,
-            5.807598
-          ],
-          [
-            -73.0245397,
-            5.8077062
-          ],
-          [
-            -73.0229483,
-            5.8080521
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700887",
-      "properties": {
-        "@id": "way/438700887",
-        "highway": "secondary",
-        "name": "Avenida Circunvalar",
-        "oneway": "yes",
-        "surface": "paved",
-        "@timestamp": "2016-08-24T02:21:03Z",
-        "@version": "1",
-        "@changeset": "41651609",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0358573,
-            5.8336103
-          ],
-          [
-            -73.0365509,
-            5.8332129
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700889",
-      "properties": {
-        "@id": "way/438700889",
-        "highway": "secondary",
-        "name": "Avenida Circunvalar",
-        "oneway": "yes",
-        "surface": "paved",
-        "@timestamp": "2016-08-24T02:21:03Z",
-        "@version": "1",
-        "@changeset": "41651609",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0365509,
-            5.8332129
-          ],
-          [
-            -73.0367789,
-            5.8330828
-          ],
-          [
-            -73.0371227,
-            5.832818
-          ],
-          [
-            -73.0372778,
-            5.8326927
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700893",
-      "properties": {
-        "@id": "way/438700893",
-        "highway": "secondary",
-        "name": "Avenida de las Americas",
-        "oneway": "yes",
-        "@timestamp": "2016-09-12T15:39:42Z",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-05T04:22:27Z",
         "@version": "3",
-        "@changeset": "42103814",
+        "@changeset": "41920519",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -1042,42 +731,45 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0301141,
-            5.8111116
+            -73.0399806,
+            5.8218875
           ],
           [
-            -73.0286014,
-            5.8088124
+            -73.0395006,
+            5.8221978
+          ],
+          [
+            -73.0393746,
+            5.8222792
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/438700897",
+      "id": "way/378765697",
       "properties": {
-        "@id": "way/438700897",
+        "@id": "way/378765697",
         "highway": "residential",
-        "name": "Calle 15",
-        "oneway": "yes",
-        "@timestamp": "2016-08-24T02:21:03Z",
+        "name": "Carrera 18",
+        "@timestamp": "2015-11-06T20:57:37Z",
         "@version": "1",
-        "@changeset": "41651609",
+        "@changeset": "35135252",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -1087,168 +779,47 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0372778,
-            5.8326927
+            -73.0412398,
+            5.8210542
           ],
           [
-            -73.0372555,
-            5.8326601
+            -73.0409857,
+            5.8212203
+          ],
+          [
+            -73.0403765,
+            5.8216165
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/438700903",
+      "id": "way/406188375",
       "properties": {
-        "@id": "way/438700903",
-        "fixme": "Investigar nombre y campo",
-        "highway": "residential",
-        "name": "Calle 18",
-        "@timestamp": "2016-08-24T02:21:04Z",
-        "@version": "1",
-        "@changeset": "41651609",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0355601,
-            5.8420126
-          ],
-          [
-            -73.0355902,
-            5.8423848
-          ],
-          [
-            -73.0356174,
-            5.842705
-          ],
-          [
-            -73.0356527,
-            5.8430285
-          ],
-          [
-            -73.0357363,
-            5.8432943
-          ],
-          [
-            -73.035753,
-            5.8433473
-          ],
-          [
-            -73.0357784,
-            5.843536
-          ],
-          [
-            -73.0358137,
-            5.8437078
-          ],
-          [
-            -73.0358888,
-            5.8440437
-          ],
-          [
-            -73.0359606,
-            5.8443161
-          ],
-          [
-            -73.0360865,
-            5.844645
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700906",
-      "properties": {
-        "@id": "way/438700906",
-        "highway": "residential",
-        "name": "Calle 18",
-        "oneway": "yes",
-        "@timestamp": "2016-08-24T02:21:04Z",
-        "@version": "1",
-        "@changeset": "41651609",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0314459,
-            5.8276383
-          ],
-          [
-            -73.0309814,
-            5.8269106
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700909",
-      "properties": {
-        "@id": "way/438700909",
+        "@id": "way/406188375",
         "highway": "residential",
         "mechanical": "yes",
-        "name": "Calle 19",
-        "@timestamp": "2016-08-27T16:08:18Z",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-24T21:25:50Z",
         "@version": "2",
-        "@changeset": "41739229",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
+        "@changeset": "42412545",
+        "@user": "matiuxd",
+        "@uid": "2006950",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -1258,12 +829,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.018514,
-            5.8069099
+            -73.0439687,
+            5.8246548
           ],
           [
-            -73.0181185,
-            5.8062142
+            -73.0441312,
+            5.8247392
           ]
         ]
       }
@@ -1285,16 +856,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -1331,16 +902,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -1374,86 +945,30 @@
     },
     {
       "type": "Feature",
-      "id": "way/438700931",
+      "id": "way/439539954",
       "properties": {
-        "@id": "way/438700931",
-        "highway": "trunk",
-        "junction": "roundabout",
-        "lanes": "2",
-        "name": "Glorieta Hospital",
-        "oneway": "yes",
-        "@timestamp": "2016-09-10T22:31:59Z",
+        "@id": "way/439539954",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 3",
+        "@timestamp": "2016-09-14T16:55:27Z",
         "@version": "2",
-        "@changeset": "42068195",
-        "@user": "Leonardo Pinzon Niño",
-        "@uid": "4416628",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0314637,
-            5.8131532
-          ],
-          [
-            -73.0314695,
-            5.8131136
-          ],
-          [
-            -73.0314634,
-            5.813074
-          ],
-          [
-            -73.0314459,
-            5.813038
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439380544",
-      "properties": {
-        "@id": "way/439380544",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 17A",
-        "oneway": "yes",
-        "@timestamp": "2016-08-27T16:25:11Z",
-        "@version": "1",
-        "@changeset": "41739615",
+        "@changeset": "42154253",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -1463,403 +978,46 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0354405,
-            5.8362738
+            -73.04959,
+            5.8279874
           ],
           [
-            -73.0354226,
-            5.8361735
+            -73.0495697,
+            5.8280385
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/439381424",
+      "id": "way/439539957",
       "properties": {
-        "@id": "way/439381424",
-        "highway": "residential",
-        "name": "Calle 17A",
-        "@timestamp": "2016-08-27T16:29:57Z",
-        "@version": "1",
-        "@changeset": "41739718",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.036124,
-            5.842281
-          ],
-          [
-            -73.0360632,
-            5.8415768
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439382110",
-      "properties": {
-        "@id": "way/439382110",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 17A",
-        "oneway": "yes",
-        "@timestamp": "2016-08-27T16:38:14Z",
-        "@version": "1",
-        "@changeset": "41739877",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0354226,
-            5.8361735
-          ],
-          [
-            -73.0352953,
-            5.8351762
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439384042",
-      "properties": {
-        "@id": "way/439384042",
-        "highway": "residential",
-        "name": "Carrera 1D",
-        "surface": "paved",
-        "@timestamp": "2016-08-27T16:49:30Z",
-        "@version": "1",
-        "@changeset": "41740091",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0355601,
-            5.8420126
-          ],
-          [
-            -73.036124,
-            5.842281
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439384043",
-      "properties": {
-        "@id": "way/439384043",
-        "highway": "residential",
-        "name": "Carrera 7A",
-        "@timestamp": "2016-08-27T16:49:30Z",
-        "@version": "1",
-        "@changeset": "41740091",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0362229,
-            5.83498
-          ],
-          [
-            -73.0352953,
-            5.8351762
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439527915",
-      "properties": {
-        "@id": "way/439527915",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 17A",
-        "oneway": "yes",
-        "@timestamp": "2016-08-28T16:13:43Z",
-        "@version": "1",
-        "@changeset": "41759038",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.035517,
-            5.8369045
-          ],
-          [
-            -73.0354405,
-            5.8362738
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439534440",
-      "properties": {
-        "@id": "way/439534440",
-        "highway": "residential",
-        "name": "Calle 17",
-        "@timestamp": "2016-08-28T16:24:00Z",
-        "@version": "1",
-        "@changeset": "41759242",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0358573,
-            5.8336103
-          ],
-          [
-            -73.0360505,
-            5.8340572
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439534444",
-      "properties": {
-        "@id": "way/439534444",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 19",
-        "@timestamp": "2016-08-28T16:24:01Z",
-        "@version": "1",
-        "@changeset": "41759242",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0189115,
-            5.8076102
-          ],
-          [
-            -73.018514,
-            5.8069099
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439539949",
-      "properties": {
-        "@id": "way/439539949",
-        "highway": "residential",
-        "name": "Calle 15",
-        "oneway": "yes",
-        "@timestamp": "2016-08-28T17:22:08Z",
-        "@version": "1",
-        "@changeset": "41760523",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0372555,
-            5.8326601
-          ],
-          [
-            -73.0372298,
-            5.8326187
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/440526936",
-      "properties": {
-        "@id": "way/440526936",
+        "@id": "way/439539957",
         "highway": "trunk",
         "lanes": "2",
-        "oneway": "yes",
-        "ref": "A1",
-        "surface": "asphalt",
-        "@timestamp": "2016-09-03T21:47:48Z",
-        "@version": "1",
-        "@changeset": "41897352",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
+        "mechanical": "yes",
+        "name": "Troncal Central del Norte",
+        "oneway": "no",
+        "ref": "55",
+        "surface": "paved",
+        "@timestamp": "2016-09-28T17:12:59Z",
+        "@version": "3",
+        "@changeset": "42499828",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -1869,42 +1027,63 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0274652,
-            5.8070692
+            -73.0222541,
+            5.8341378
           ],
           [
-            -73.0273195,
-            5.807104
+            -73.0218864,
+            5.8345617
+          ],
+          [
+            -73.0216451,
+            5.8348398
+          ],
+          [
+            -73.0210458,
+            5.8353965
+          ],
+          [
+            -73.0209402,
+            5.8355815
+          ],
+          [
+            -73.0206315,
+            5.8360405
+          ],
+          [
+            -73.0203292,
+            5.8365255
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/440526937",
+      "id": "way/439541134",
       "properties": {
-        "@id": "way/440526937",
+        "@id": "way/439541134",
         "highway": "secondary",
-        "name": "Avenida de las Americas",
+        "name": "Diagonal 4",
         "oneway": "yes",
-        "@timestamp": "2016-09-03T21:47:48Z",
+        "surface": "paved",
+        "@timestamp": "2016-08-28T17:37:24Z",
         "@version": "1",
-        "@changeset": "41897352",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
+        "@changeset": "41760790",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -1914,42 +1093,47 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0275292,
-            5.8071433
+            -73.0495697,
+            5.8280385
           ],
           [
-            -73.0274652,
-            5.8070692
+            -73.0497483,
+            5.8281202
+          ],
+          [
+            -73.0499151,
+            5.8282368
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/440526941",
+      "id": "way/440531420",
       "properties": {
-        "@id": "way/440526941",
+        "@id": "way/440531420",
         "highway": "residential",
-        "name": "Calle 15",
-        "oneway": "yes",
-        "@timestamp": "2016-09-03T21:47:48Z",
-        "@version": "1",
-        "@changeset": "41897352",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-14T16:55:26Z",
+        "@version": "2",
+        "@changeset": "42154253",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -1959,46 +1143,43 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0372298,
-            5.8326187
+            -73.0495349,
+            5.8278072
           ],
           [
-            -73.0370502,
-            5.8323054
-          ],
-          [
-            -73.0368768,
-            5.8320249
+            -73.04959,
+            5.8279874
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/440526947",
+      "id": "way/440531421",
       "properties": {
-        "@id": "way/440526947",
+        "@id": "way/440531421",
         "highway": "residential",
-        "name": "Carrera 13",
-        "oneway": "yes",
-        "@timestamp": "2016-09-03T21:47:49Z",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-03T22:34:22Z",
         "@version": "1",
-        "@changeset": "41897352",
+        "@changeset": "41897920",
         "@user": "Michael guevara",
         "@uid": "4487878",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -2008,26 +1189,445 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0353156,
-            5.8294314
+            -73.0438335,
+            5.824558
           ],
           [
-            -73.0346368,
-            5.8298497
+            -73.0439687,
+            5.8246548
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/440695709",
+      "id": "way/440531422",
       "properties": {
-        "@id": "way/440695709",
-        "highway": "secondary",
+        "@id": "way/440531422",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:28:08Z",
+        "@version": "4",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0443089,
+            5.8248308
+          ],
+          [
+            -73.0444773,
+            5.8249149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440531424",
+      "properties": {
+        "@id": "way/440531424",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 12",
+        "source": "DANE",
+        "@timestamp": "2016-09-03T22:34:22Z",
+        "@version": "1",
+        "@changeset": "41897920",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0440014,
+            5.8241845
+          ],
+          [
+            -73.0438335,
+            5.824558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440531427",
+      "properties": {
+        "@id": "way/440531427",
+        "highway": "residential",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-03T22:34:22Z",
+        "@version": "1",
+        "@changeset": "41897920",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0413167,
+            5.8208271
+          ],
+          [
+            -73.0412398,
+            5.8210542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440531428",
+      "properties": {
+        "@id": "way/440531428",
+        "highway": "residential",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-03T22:34:22Z",
+        "@version": "1",
+        "@changeset": "41897920",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0393746,
+            5.8222792
+          ],
+          [
+            -73.0392031,
+            5.8223901
+          ],
+          [
+            -73.0385484,
+            5.8228134
+          ],
+          [
+            -73.0379481,
+            5.8231597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440531432",
+      "properties": {
+        "@id": "way/440531432",
+        "highway": "trunk",
         "lanes": "2",
-        "name": "Avenida de las Americas",
-        "oneway": "yes",
-        "@timestamp": "2016-09-05T04:22:15Z",
+        "mechanical": "yes",
+        "name": "Troncal Central del Norte",
+        "oneway": "no",
+        "ref": "55",
+        "surface": "paved",
+        "@timestamp": "2016-09-28T17:12:58Z",
+        "@version": "3",
+        "@changeset": "42499828",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0186815,
+            5.838955
+          ],
+          [
+            -73.0185667,
+            5.8390535
+          ],
+          [
+            -73.0177393,
+            5.8396902
+          ],
+          [
+            -73.0168567,
+            5.8403678
+          ],
+          [
+            -73.0165459,
+            5.8405819
+          ],
+          [
+            -73.0164082,
+            5.8406429
+          ],
+          [
+            -73.0162125,
+            5.8406915
+          ],
+          [
+            -73.0158217,
+            5.8407662
+          ],
+          [
+            -73.015242,
+            5.8408753
+          ],
+          [
+            -73.0150656,
+            5.8409209
+          ],
+          [
+            -73.0149264,
+            5.8410678
+          ],
+          [
+            -73.014904,
+            5.8411632
+          ],
+          [
+            -73.014944,
+            5.8414594
+          ],
+          [
+            -73.0150116,
+            5.8416759
+          ],
+          [
+            -73.0150434,
+            5.8418268
+          ],
+          [
+            -73.0150497,
+            5.8419277
+          ],
+          [
+            -73.015007,
+            5.8421953
+          ],
+          [
+            -73.014928,
+            5.8425379
+          ],
+          [
+            -73.0148466,
+            5.842864
+          ],
+          [
+            -73.0146506,
+            5.8436581
+          ],
+          [
+            -73.0145983,
+            5.8438531
+          ],
+          [
+            -73.0145193,
+            5.8441043
+          ],
+          [
+            -73.0144254,
+            5.8443135
+          ],
+          [
+            -73.0142902,
+            5.8444934
+          ],
+          [
+            -73.0142797,
+            5.8445076
+          ],
+          [
+            -73.0141788,
+            5.8446434
+          ],
+          [
+            -73.0139348,
+            5.8450059
+          ],
+          [
+            -73.0138396,
+            5.8451715
+          ],
+          [
+            -73.013858,
+            5.845385
+          ],
+          [
+            -73.0140119,
+            5.8457747
+          ],
+          [
+            -73.0144674,
+            5.8468518
+          ],
+          [
+            -73.0146499,
+            5.847308
+          ],
+          [
+            -73.0147058,
+            5.8474703
+          ],
+          [
+            -73.0147072,
+            5.8477059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693927",
+      "properties": {
+        "@id": "way/440693927",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:47Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0286118,
+            5.8273123
+          ],
+          [
+            -73.0282898,
+            5.8273558
+          ],
+          [
+            -73.0279844,
+            5.8274976
+          ],
+          [
+            -73.0277062,
+            5.8276234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695729",
+      "properties": {
+        "@id": "way/440695729",
+        "highway": "residential",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-05T04:22:17Z",
         "@version": "1",
         "@changeset": "41920519",
         "@user": "Leonardo Gutierrez",
@@ -2035,16 +1635,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -2054,20 +1654,296 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0317962,
-            5.8137387
+            -73.0403765,
+            5.8216165
           ],
           [
-            -73.0316653,
-            5.8135148
+            -73.0399806,
+            5.8218875
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828206",
+      "properties": {
+        "@id": "way/441828206",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 1A",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T19:45:12Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.047662,
+            5.8253449
           ],
           [
-            -73.0315651,
-            5.8133401
+            -73.048221,
+            5.8257184
           ],
           [
-            -73.0314637,
-            5.8131532
+            -73.0487303,
+            5.8260588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828207",
+      "properties": {
+        "@id": "way/441828207",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 1A",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T19:45:12Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0456936,
+            5.8243265
+          ],
+          [
+            -73.0472037,
+            5.8251147
+          ],
+          [
+            -73.047662,
+            5.8253449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828217",
+      "properties": {
+        "@id": "way/441828217",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 2",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T19:45:13Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0423716,
+            5.8223498
+          ],
+          [
+            -73.0422392,
+            5.8219555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828219",
+      "properties": {
+        "@id": "way/441828219",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:13Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0448312,
+            5.8250986
+          ],
+          [
+            -73.0452054,
+            5.8252928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828251",
+      "properties": {
+        "@id": "way/441828251",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 9A",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T19:45:16Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0455078,
+            5.8246887
+          ],
+          [
+            -73.0456936,
+            5.8243265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441838204",
+      "properties": {
+        "@id": "way/441838204",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T20:59:49Z",
+        "@version": "1",
+        "@changeset": "42067075",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.044558,
+            5.8249567
+          ],
+          [
+            -73.0448312,
+            5.8250986
           ]
         ]
       }
@@ -2089,16 +1965,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -2120,154 +1996,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/441842632",
-      "properties": {
-        "@id": "way/441842632",
-        "highway": "secondary",
-        "lanes": "2",
-        "name": "Avenida de las Americas",
-        "oneway": "yes",
-        "@timestamp": "2016-09-10T21:30:01Z",
-        "@version": "1",
-        "@changeset": "42067498",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0344604,
-            5.8178199
-          ],
-          [
-            -73.0339692,
-            5.8170756
-          ],
-          [
-            -73.0336067,
-            5.8165224
-          ],
-          [
-            -73.0335959,
-            5.8165051
-          ],
-          [
-            -73.0335852,
-            5.81649
-          ],
-          [
-            -73.0335435,
-            5.8164304
-          ],
-          [
-            -73.0335053,
-            5.8163709
-          ],
-          [
-            -73.0328647,
-            5.8153925
-          ],
-          [
-            -73.0327926,
-            5.8152846
-          ],
-          [
-            -73.0324343,
-            5.8147365
-          ],
-          [
-            -73.0324182,
-            5.8147077
-          ],
-          [
-            -73.0323846,
-            5.8146601
-          ],
-          [
-            -73.0317962,
-            5.8137387
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/441843265",
-      "properties": {
-        "@id": "way/441843265",
-        "highway": "secondary",
-        "lanes": "2",
-        "name": "Avenida de las Americas",
-        "oneway": "yes",
-        "@timestamp": "2016-09-13T13:00:53Z",
-        "@version": "2",
-        "@changeset": "42125090",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0358386,
-            5.8199032
-          ],
-          [
-            -73.0355505,
-            5.8194678
-          ],
-          [
-            -73.0353783,
-            5.8192145
-          ],
-          [
-            -73.0350689,
-            5.8187395
-          ],
-          [
-            -73.0344604,
-            5.8178199
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/441844263",
       "properties": {
         "@id": "way/441844263",
@@ -2283,16 +2011,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -2318,179 +2046,29 @@
     },
     {
       "type": "Feature",
-      "id": "way/441846046",
+      "id": "way/442174188",
       "properties": {
-        "@id": "way/441846046",
-        "highway": "trunk",
-        "lanes": "2",
-        "oneway": "yes",
-        "ref": "A1",
-        "surface": "asphalt",
-        "@timestamp": "2016-09-12T10:02:38Z",
-        "@version": "2",
-        "@changeset": "42096173",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0227502,
-            5.8080996
-          ],
-          [
-            -73.0197882,
-            5.8087659
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/441850572",
-      "properties": {
-        "@id": "way/441850572",
-        "highway": "trunk",
-        "junction": "roundabout",
-        "lanes": "2",
-        "name": "Glorieta Hospital",
-        "oneway": "yes",
-        "@timestamp": "2016-09-10T22:31:55Z",
-        "@version": "1",
-        "@changeset": "42068195",
-        "@user": "Leonardo Pinzon Niño",
-        "@uid": "4416628",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0314459,
-            5.813038
-          ],
-          [
-            -73.0314176,
-            5.8130077
-          ],
-          [
-            -73.0313813,
-            5.8129873
-          ],
-          [
-            -73.0313406,
-            5.8129776
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/442032903",
-      "properties": {
-        "@id": "way/442032903",
-        "highway": "trunk",
-        "lanes": "2",
-        "oneway": "yes",
-        "ref": "A1",
-        "surface": "asphalt",
-        "@timestamp": "2016-09-12T10:02:37Z",
-        "@version": "1",
-        "@changeset": "42096173",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0229483,
-            5.8080521
-          ],
-          [
-            -73.0227502,
-            5.8080996
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/442079224",
-      "properties": {
-        "@id": "way/442079224",
+        "@id": "way/442174188",
         "highway": "secondary",
-        "name": "Avenida de las Americas",
-        "oneway": "yes",
-        "@timestamp": "2016-09-12T15:39:38Z",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:42Z",
         "@version": "1",
-        "@changeset": "42103814",
+        "@changeset": "42121264",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -2500,42 +2078,43 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0286014,
-            5.8088124
+            -73.0277062,
+            5.8276234
           ],
           [
-            -73.0275292,
-            5.8071433
+            -73.027289,
+            5.8278165
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/444485535",
+      "id": "way/442225423",
       "properties": {
-        "@id": "way/444485535",
+        "@id": "way/442225423",
         "highway": "residential",
         "mechanical": "yes",
-        "name": "Calle 19",
-        "@timestamp": "2016-09-26T22:46:22Z",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T16:41:26Z",
         "@version": "1",
-        "@changeset": "42458255",
+        "@changeset": "42130434",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6553863",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "A13",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Cerro Pino",
               "type": "route"
             }
           }
@@ -2545,33 +2124,394 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0191297,
-            5.8080243
+            -73.0300866,
+            5.8271537
           ],
           [
-            -73.0189115,
-            5.8076102
+            -73.0309814,
+            5.8269106
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/326042395",
+      "id": "way/442460287",
       "properties": {
-        "@id": "node/326042395",
-        "highway": "traffic_signals",
-        "@timestamp": "2016-09-13T13:00:56Z",
-        "@version": "14",
-        "@changeset": "42125090",
+        "@id": "way/442460287",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-14T16:41:54Z",
+        "@version": "1",
+        "@changeset": "42153968",
         "@user": "Leonardo Gutierrez",
-        "@uid": "77400"
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
       },
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -73.0275292,
-          5.8071433
+          [
+            -73.027289,
+            5.8278165
+          ],
+          [
+            -73.025944,
+            5.8284132
+          ],
+          [
+            -73.0256358,
+            5.8285678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442968767",
+      "properties": {
+        "@id": "way/442968767",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:28:04Z",
+        "@version": "1",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0444773,
+            5.8249149
+          ],
+          [
+            -73.044558,
+            5.8249567
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443390189",
+      "properties": {
+        "@id": "way/443390189",
+        "highway": "trunk",
+        "lanes": "2",
+        "mechanical": "yes",
+        "name": "Troncal Central del Norte",
+        "oneway": "no",
+        "ref": "55",
+        "surface": "paved",
+        "@timestamp": "2016-09-28T17:12:59Z",
+        "@version": "2",
+        "@changeset": "42499828",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0231804,
+            5.8330145
+          ],
+          [
+            -73.0227754,
+            5.8335041
+          ],
+          [
+            -73.0225335,
+            5.8337982
+          ],
+          [
+            -73.0222541,
+            5.8341378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443390190",
+      "properties": {
+        "@id": "way/443390190",
+        "highway": "trunk",
+        "lanes": "2",
+        "mechanical": "yes",
+        "name": "Troncal Central del Norte",
+        "oneway": "no",
+        "ref": "55",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T15:04:20Z",
+        "@version": "1",
+        "@changeset": "42301284",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0238951,
+            5.8317322
+          ],
+          [
+            -73.0236152,
+            5.8323895
+          ],
+          [
+            -73.0234999,
+            5.8326163
+          ],
+          [
+            -73.0233815,
+            5.8327957
+          ],
+          [
+            -73.0231804,
+            5.8330145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443390272",
+      "properties": {
+        "@id": "way/443390272",
+        "highway": "trunk",
+        "lanes": "2",
+        "mechanical": "yes",
+        "name": "Troncal Central del Norte",
+        "oneway": "no",
+        "ref": "55",
+        "surface": "paved",
+        "@timestamp": "2016-09-28T17:12:59Z",
+        "@version": "2",
+        "@changeset": "42499828",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0203292,
+            5.8365255
+          ],
+          [
+            -73.0202325,
+            5.8367036
+          ],
+          [
+            -73.0200494,
+            5.8370106
+          ],
+          [
+            -73.0198593,
+            5.8374179
+          ],
+          [
+            -73.019827,
+            5.8374801
+          ],
+          [
+            -73.0196628,
+            5.8377965
+          ],
+          [
+            -73.0193998,
+            5.8381686
+          ],
+          [
+            -73.0188528,
+            5.8387915
+          ],
+          [
+            -73.0186815,
+            5.838955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444195452",
+      "properties": {
+        "@id": "way/444195452",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 2",
+        "source": "DANE",
+        "@timestamp": "2016-09-24T20:33:31Z",
+        "@version": "1",
+        "@changeset": "42411811",
+        "@user": "matiuxd",
+        "@uid": "2006950",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0440014,
+            5.8241845
+          ],
+          [
+            -73.0437729,
+            5.8239828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444200609",
+      "properties": {
+        "@id": "way/444200609",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-24T21:25:48Z",
+        "@version": "1",
+        "@changeset": "42412545",
+        "@user": "matiuxd",
+        "@uid": "2006950",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6553863",
+            "reltags": {
+              "from": "La Frontera San Luis",
+              "name": "A13 - La Frontera San Luis - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A13",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0441312,
+            5.8247392
+          ],
+          [
+            -73.0443089,
+            5.8248308
+          ]
         ]
       }
     },
@@ -2637,6 +2577,27 @@
     },
     {
       "type": "Feature",
+      "id": "node/326266528",
+      "properties": {
+        "@id": "node/326266528",
+        "highway": "traffic_signals",
+        "name": "La dorada",
+        "@timestamp": "2012-09-21T06:05:36Z",
+        "@version": "30",
+        "@changeset": "13191399",
+        "@user": "camilolara",
+        "@uid": "235754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0291955,
+          5.8272507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/334400533",
       "properties": {
         "@id": "node/334400533",
@@ -2652,66 +2613,6 @@
         "coordinates": [
           -73.0332008,
           5.8257057
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/334402543",
-      "properties": {
-        "@id": "node/334402543",
-        "highway": "traffic_signals",
-        "@timestamp": "2015-09-18T20:49:43Z",
-        "@version": "10",
-        "@changeset": "34111351",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0353156,
-          5.8294314
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/343547848",
-      "properties": {
-        "@id": "node/343547848",
-        "highway": "traffic_signals",
-        "@timestamp": "2016-09-13T13:00:57Z",
-        "@version": "6",
-        "@changeset": "42125090",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0372747,
-          5.8221404
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/528861676",
-      "properties": {
-        "@id": "node/528861676",
-        "highway": "traffic_signals",
-        "@timestamp": "2015-05-19T22:37:32Z",
-        "@version": "6",
-        "@changeset": "31300567",
-        "@user": "esteban_villamizar",
-        "@uid": "2298722"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0365509,
-          5.8332129
         ]
       }
     },
@@ -2737,61 +2638,21 @@
     },
     {
       "type": "Feature",
-      "id": "node/698684163",
+      "id": "node/579961502",
       "properties": {
-        "@id": "node/698684163",
+        "@id": "node/579961502",
         "highway": "traffic_signals",
-        "@timestamp": "2015-04-28T07:33:26Z",
+        "@timestamp": "2014-03-24T16:24:11Z",
         "@version": "4",
-        "@changeset": "30572100",
-        "@user": "carciofo",
-        "@uid": "2533093"
+        "@changeset": "21288226",
+        "@user": "ikks",
+        "@uid": "37987"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.0273195,
-          5.807104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/698684164",
-      "properties": {
-        "@id": "node/698684164",
-        "highway": "traffic_signals",
-        "@timestamp": "2015-04-28T07:33:26Z",
-        "@version": "4",
-        "@changeset": "30572100",
-        "@user": "carciofo",
-        "@uid": "2533093"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0274652,
-          5.8070692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/1132052353",
-      "properties": {
-        "@id": "node/1132052353",
-        "railway": "level_crossing",
-        "@timestamp": "2015-04-28T07:33:26Z",
-        "@version": "2",
-        "@changeset": "30572100",
-        "@user": "carciofo",
-        "@uid": "2533093"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0316653,
-          5.8135148
+          -73.0250575,
+          5.8289486
         ]
       }
     }

@@ -1,0 +1,4347 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:19:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29675205",
+      "properties": {
+        "@id": "way/29675205",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:18Z",
+        "@version": "41",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.02811,
+            5.8219566
+          ],
+          [
+            -73.028208,
+            5.8217418
+          ],
+          [
+            -73.0284559,
+            5.8211308
+          ],
+          [
+            -73.0286145,
+            5.8206369
+          ],
+          [
+            -73.0287098,
+            5.8203095
+          ],
+          [
+            -73.0288599,
+            5.8197938
+          ],
+          [
+            -73.0290154,
+            5.8192439
+          ],
+          [
+            -73.0291641,
+            5.8187354
+          ],
+          [
+            -73.0295614,
+            5.817674
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30515053",
+      "properties": {
+        "@id": "way/30515053",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:18Z",
+        "@version": "14",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0272378,
+            5.8239481
+          ],
+          [
+            -73.0272491,
+            5.8239001
+          ],
+          [
+            -73.0272448,
+            5.8238509
+          ],
+          [
+            -73.0272253,
+            5.8238055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37290049",
+      "properties": {
+        "@id": "way/37290049",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 16",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "13",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0367998,
+            5.8340708
+          ],
+          [
+            -73.0368309,
+            5.8343588
+          ],
+          [
+            -73.0368763,
+            5.8345781
+          ],
+          [
+            -73.0368963,
+            5.8347593
+          ],
+          [
+            -73.0369648,
+            5.8351215
+          ],
+          [
+            -73.0369726,
+            5.8351627
+          ],
+          [
+            -73.0370398,
+            5.8355201
+          ],
+          [
+            -73.0371043,
+            5.8359689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42501537",
+      "properties": {
+        "@id": "way/42501537",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "@timestamp": "2016-09-10T19:45:28Z",
+        "@version": "9",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0249535,
+            5.8132277
+          ],
+          [
+            -73.02517,
+            5.8135828
+          ],
+          [
+            -73.0253775,
+            5.8139232
+          ],
+          [
+            -73.0256485,
+            5.8143676
+          ],
+          [
+            -73.0258349,
+            5.8146733
+          ],
+          [
+            -73.026221,
+            5.8153177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42501560",
+      "properties": {
+        "@id": "way/42501560",
+        "highway": "residential",
+        "name": "Carrera 31",
+        "@timestamp": "2016-09-10T19:45:31Z",
+        "@version": "4",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.028855,
+            5.8160165
+          ],
+          [
+            -73.0285698,
+            5.8161542
+          ],
+          [
+            -73.0278327,
+            5.8165102
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42725872",
+      "properties": {
+        "@id": "way/42725872",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "@timestamp": "2012-06-26T13:11:26Z",
+        "@version": "6",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0230045,
+            5.808176
+          ],
+          [
+            -73.023382,
+            5.8089519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42744081",
+      "properties": {
+        "@id": "way/42744081",
+        "highway": "residential",
+        "name": "Calle15",
+        "@timestamp": "2016-09-10T19:45:30Z",
+        "@version": "6",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0269285,
+            5.8149369
+          ],
+          [
+            -73.0272747,
+            5.8155445
+          ],
+          [
+            -73.0274132,
+            5.8157846
+          ],
+          [
+            -73.0275431,
+            5.8160214
+          ],
+          [
+            -73.0276719,
+            5.8162563
+          ],
+          [
+            -73.0278327,
+            5.8165102
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45510119",
+      "properties": {
+        "@id": "way/45510119",
+        "highway": "residential",
+        "name": "Calle 22",
+        "@timestamp": "2016-09-05T03:46:53Z",
+        "@version": "3",
+        "@changeset": "41920244",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.027289,
+            5.8278165
+          ],
+          [
+            -73.0270534,
+            5.8273866
+          ],
+          [
+            -73.0269704,
+            5.8272357
+          ],
+          [
+            -73.0266943,
+            5.8267183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45510134",
+      "properties": {
+        "@id": "way/45510134",
+        "highway": "residential",
+        "name": "Diagonal 20",
+        "@timestamp": "2016-09-12T15:39:43Z",
+        "@version": "5",
+        "@changeset": "42103814",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0268432,
+            5.8260676
+          ],
+          [
+            -73.0269114,
+            5.8255404
+          ],
+          [
+            -73.0269657,
+            5.8251208
+          ],
+          [
+            -73.0270157,
+            5.8247512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45564743",
+      "properties": {
+        "@id": "way/45564743",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 17A",
+        "@timestamp": "2016-09-17T21:12:59Z",
+        "@version": "13",
+        "@changeset": "42235672",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0356053,
+            5.837933
+          ],
+          [
+            -73.035517,
+            5.8369045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72908198",
+      "properties": {
+        "@id": "way/72908198",
+        "highway": "primary",
+        "lanes": "2",
+        "oneway": "yes",
+        "surface": "paved",
+        "unsigned_ref": "62 BY 05",
+        "@timestamp": "2015-11-23T13:01:59Z",
+        "@version": "7",
+        "@changeset": "35529804",
+        "@user": "JuanSeCM",
+        "@uid": "3408085",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.9971119,
+            5.7948462
+          ],
+          [
+            -72.9970007,
+            5.7946351
+          ],
+          [
+            -72.99679,
+            5.7942793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72908252",
+      "properties": {
+        "@id": "way/72908252",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "smoothness": "bad",
+        "surface": "unpaved",
+        "@timestamp": "2012-06-26T13:11:23Z",
+        "@version": "3",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.024117,
+            5.8102559
+          ],
+          [
+            -73.0243419,
+            5.8106422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72911427",
+      "properties": {
+        "@id": "way/72911427",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "smoothness": "bad",
+        "@timestamp": "2012-06-26T13:11:23Z",
+        "@version": "3",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.023382,
+            5.8089519
+          ],
+          [
+            -73.0235384,
+            5.8092324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72911429",
+      "properties": {
+        "@id": "way/72911429",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "@timestamp": "2012-06-26T13:11:24Z",
+        "@version": "3",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.023662,
+            5.8094539
+          ],
+          [
+            -73.0238276,
+            5.8097457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412810",
+      "properties": {
+        "@id": "way/86412810",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "@timestamp": "2012-06-26T13:11:25Z",
+        "@version": "2",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0239771,
+            5.8100094
+          ],
+          [
+            -73.024117,
+            5.8102559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412811",
+      "properties": {
+        "@id": "way/86412811",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "smoothness": "bad",
+        "surface": "unpaved",
+        "@timestamp": "2012-06-26T13:11:25Z",
+        "@version": "2",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0243419,
+            5.8106422
+          ],
+          [
+            -73.0245999,
+            5.8111013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412813",
+      "properties": {
+        "@id": "way/86412813",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "smoothness": "bad",
+        "surface": "unpaved",
+        "@timestamp": "2012-06-26T13:11:24Z",
+        "@version": "2",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0245999,
+            5.8111013
+          ],
+          [
+            -73.0250379,
+            5.8118293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412814",
+      "properties": {
+        "@id": "way/86412814",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "smoothness": "bad",
+        "surface": "unpaved",
+        "@timestamp": "2012-06-26T13:11:26Z",
+        "@version": "2",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0250379,
+            5.8118293
+          ],
+          [
+            -73.0256507,
+            5.8128043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412819",
+      "properties": {
+        "@id": "way/86412819",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "smoothness": "bad",
+        "@timestamp": "2012-06-26T13:11:25Z",
+        "@version": "2",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0235384,
+            5.8092324
+          ],
+          [
+            -73.023662,
+            5.8094539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412820",
+      "properties": {
+        "@id": "way/86412820",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "@timestamp": "2012-06-26T13:11:25Z",
+        "@version": "2",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0238276,
+            5.8097457
+          ],
+          [
+            -73.0239771,
+            5.8100094
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129692197",
+      "properties": {
+        "@id": "way/129692197",
+        "highway": "residential",
+        "name": "Calle 17A",
+        "@timestamp": "2016-08-27T16:29:57Z",
+        "@version": "7",
+        "@changeset": "41739718",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0360632,
+            5.8415768
+          ],
+          [
+            -73.0359747,
+            5.8409699
+          ],
+          [
+            -73.0359064,
+            5.8403847
+          ],
+          [
+            -73.0358487,
+            5.8398667
+          ],
+          [
+            -73.0358163,
+            5.8395843
+          ],
+          [
+            -73.0357909,
+            5.8393131
+          ],
+          [
+            -73.0357882,
+            5.8391757
+          ],
+          [
+            -73.0357599,
+            5.8389576
+          ],
+          [
+            -73.0356541,
+            5.8384957
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134268236",
+      "properties": {
+        "@id": "way/134268236",
+        "highway": "residential",
+        "name": "K33",
+        "@timestamp": "2016-09-26T21:45:25Z",
+        "@version": "3",
+        "@changeset": "42456902",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.026221,
+            5.8153177
+          ],
+          [
+            -73.0266122,
+            5.8151072
+          ],
+          [
+            -73.0267201,
+            5.8150495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171127337",
+      "properties": {
+        "@id": "way/171127337",
+        "fixme": "Investigar nombre y campo",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-09-24T21:47:21Z",
+        "@version": "7",
+        "@changeset": "42412875",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0371424,
+            5.8430848
+          ],
+          [
+            -73.0373325,
+            5.8433837
+          ],
+          [
+            -73.0374494,
+            5.8436307
+          ],
+          [
+            -73.0376959,
+            5.8440932
+          ],
+          [
+            -73.0380241,
+            5.8446142
+          ],
+          [
+            -73.0381663,
+            5.8448449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341811735",
+      "properties": {
+        "@id": "way/341811735",
+        "highway": "residential",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "3",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0346368,
+            5.8298497
+          ],
+          [
+            -73.0339381,
+            5.8302632
+          ],
+          [
+            -73.0335645,
+            5.8305076
+          ],
+          [
+            -73.0332078,
+            5.830743
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341814494",
+      "properties": {
+        "@id": "way/341814494",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "5",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0368768,
+            5.8320249
+          ],
+          [
+            -73.0368623,
+            5.8320014
+          ],
+          [
+            -73.0366117,
+            5.8315788
+          ],
+          [
+            -73.0362179,
+            5.8309276
+          ],
+          [
+            -73.0359471,
+            5.8305019
+          ],
+          [
+            -73.0358927,
+            5.8304081
+          ],
+          [
+            -73.0357056,
+            5.8301207
+          ],
+          [
+            -73.0354989,
+            5.8297713
+          ],
+          [
+            -73.0353156,
+            5.8294314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341878041",
+      "properties": {
+        "@id": "way/341878041",
+        "highway": "residential",
+        "name": "Calle 17",
+        "@timestamp": "2015-04-30T19:45:11Z",
+        "@version": "1",
+        "@changeset": "30670723",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0356541,
+            5.8384957
+          ],
+          [
+            -73.0356053,
+            5.837933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341917210",
+      "properties": {
+        "@id": "way/341917210",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 6",
+        "@timestamp": "2015-04-30T22:31:44Z",
+        "@version": "1",
+        "@changeset": "30675600",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0364273,
+            5.8361004
+          ],
+          [
+            -73.0361449,
+            5.836151
+          ],
+          [
+            -73.0357489,
+            5.8362235
+          ],
+          [
+            -73.0354405,
+            5.8362738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371395864",
+      "properties": {
+        "@id": "way/371395864",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2015-09-18T22:15:16Z",
+        "@version": "3",
+        "@changeset": "34112444",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0332078,
+            5.830743
+          ],
+          [
+            -73.0327415,
+            5.8298176
+          ],
+          [
+            -73.0323021,
+            5.8290278
+          ],
+          [
+            -73.0318487,
+            5.8283539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398590360",
+      "properties": {
+        "@id": "way/398590360",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2016-02-18T20:00:54Z",
+        "@version": "1",
+        "@changeset": "37296418",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318487,
+            5.8283539
+          ],
+          [
+            -73.0314459,
+            5.8276383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/418994278",
+      "properties": {
+        "@id": "way/418994278",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-05-17T15:44:43Z",
+        "@version": "2",
+        "@changeset": "39380142",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0130899,
+            5.8088399
+          ],
+          [
+            -73.0129463,
+            5.80879
+          ],
+          [
+            -73.0118766,
+            5.8083638
+          ],
+          [
+            -73.0118313,
+            5.8083457
+          ],
+          [
+            -73.0107907,
+            5.8080228
+          ],
+          [
+            -73.0102023,
+            5.8077865
+          ],
+          [
+            -73.0098357,
+            5.8075813
+          ],
+          [
+            -73.0094951,
+            5.8073382
+          ],
+          [
+            -73.0089723,
+            5.8068434
+          ],
+          [
+            -73.0077111,
+            5.805585
+          ],
+          [
+            -73.0038866,
+            5.8018962
+          ],
+          [
+            -72.9999861,
+            5.7980851
+          ],
+          [
+            -72.9973355,
+            5.7953947
+          ],
+          [
+            -72.9972672,
+            5.7953012
+          ],
+          [
+            -72.9972033,
+            5.7951427
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/418994281",
+      "properties": {
+        "@id": "way/418994281",
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "1",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-05-17T15:39:24Z",
+        "@version": "1",
+        "@changeset": "39379985",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0133218,
+            5.8089205
+          ],
+          [
+            -73.0130899,
+            5.8088399
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/418994282",
+      "properties": {
+        "@id": "way/418994282",
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "1",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-05-17T15:39:25Z",
+        "@version": "1",
+        "@changeset": "39379985",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0146755,
+            5.8093683
+          ],
+          [
+            -73.0144713,
+            5.8093141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/418994286",
+      "properties": {
+        "@id": "way/418994286",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-05-17T15:39:25Z",
+        "@version": "1",
+        "@changeset": "39379985",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0144713,
+            5.8093141
+          ],
+          [
+            -73.0144005,
+            5.8092953
+          ],
+          [
+            -73.0133218,
+            5.8089205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422821619",
+      "properties": {
+        "@id": "way/422821619",
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "1",
+        "name": "Avenida Circunvalar",
+        "oneway": "no",
+        "@timestamp": "2016-07-03T10:14:29Z",
+        "@version": "3",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0279607,
+            5.8222749
+          ],
+          [
+            -73.028005,
+            5.8221869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422821622",
+      "properties": {
+        "@id": "way/422821622",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-07-03T10:14:30Z",
+        "@version": "2",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0272253,
+            5.8238055
+          ],
+          [
+            -73.0272382,
+            5.8237101
+          ],
+          [
+            -73.0276597,
+            5.8228727
+          ],
+          [
+            -73.0277257,
+            5.8227416
+          ],
+          [
+            -73.0279607,
+            5.8222749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422831331",
+      "properties": {
+        "@id": "way/422831331",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "no",
+        "@timestamp": "2016-07-03T10:14:29Z",
+        "@version": "2",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.028005,
+            5.8221869
+          ],
+          [
+            -73.02811,
+            5.8219566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700877",
+      "properties": {
+        "@id": "way/438700877",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-12T10:02:38Z",
+        "@version": "2",
+        "@changeset": "42096173",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0197882,
+            5.8087659
+          ],
+          [
+            -73.0189527,
+            5.8089259
+          ],
+          [
+            -73.0181399,
+            5.8091295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700879",
+      "properties": {
+        "@id": "way/438700879",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-08-24T02:21:02Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0158626,
+            5.8095373
+          ],
+          [
+            -73.0153348,
+            5.8094862
+          ],
+          [
+            -73.0147969,
+            5.8094005
+          ],
+          [
+            -73.0146755,
+            5.8093683
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700881",
+      "properties": {
+        "@id": "way/438700881",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:25Z",
+        "@version": "2",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.016764,
+            5.8094795
+          ],
+          [
+            -73.0166895,
+            5.809496
+          ],
+          [
+            -73.016488,
+            5.8095292
+          ],
+          [
+            -73.0158626,
+            5.8095373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700889",
+      "properties": {
+        "@id": "way/438700889",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0365509,
+            5.8332129
+          ],
+          [
+            -73.0367789,
+            5.8330828
+          ],
+          [
+            -73.0371227,
+            5.832818
+          ],
+          [
+            -73.0372778,
+            5.8326927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700897",
+      "properties": {
+        "@id": "way/438700897",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0372778,
+            5.8326927
+          ],
+          [
+            -73.0372555,
+            5.8326601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700906",
+      "properties": {
+        "@id": "way/438700906",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-24T02:21:04Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0314459,
+            5.8276383
+          ],
+          [
+            -73.0309814,
+            5.8269106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700921",
+      "properties": {
+        "@id": "way/438700921",
+        "highway": "residential",
+        "name": "Carrera 1D",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.036124,
+            5.842281
+          ],
+          [
+            -73.0366924,
+            5.8425699
+          ],
+          [
+            -73.0369031,
+            5.8426083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700937",
+      "properties": {
+        "@id": "way/438700937",
+        "fixme": "Investigar nombre y campo",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:06Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0381663,
+            5.8448449
+          ],
+          [
+            -73.0384437,
+            5.8450023
+          ],
+          [
+            -73.0390657,
+            5.8452712
+          ],
+          [
+            -73.0396097,
+            5.8455376
+          ],
+          [
+            -73.0399231,
+            5.8457436
+          ],
+          [
+            -73.0402877,
+            5.8459931
+          ],
+          [
+            -73.0407011,
+            5.8464367
+          ],
+          [
+            -73.0410013,
+            5.8469853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439380438",
+      "properties": {
+        "@id": "way/439380438",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 6",
+        "@timestamp": "2016-08-27T16:22:58Z",
+        "@version": "1",
+        "@changeset": "41739574",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0371043,
+            5.8359689
+          ],
+          [
+            -73.0364273,
+            5.8361004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439381424",
+      "properties": {
+        "@id": "way/439381424",
+        "highway": "residential",
+        "name": "Calle 17A",
+        "@timestamp": "2016-08-27T16:29:57Z",
+        "@version": "1",
+        "@changeset": "41739718",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.036124,
+            5.842281
+          ],
+          [
+            -73.0360632,
+            5.8415768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439527915",
+      "properties": {
+        "@id": "way/439527915",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 17A",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:13:43Z",
+        "@version": "1",
+        "@changeset": "41759038",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.035517,
+            5.8369045
+          ],
+          [
+            -73.0354405,
+            5.8362738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439527927",
+      "properties": {
+        "@id": "way/439527927",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:13:43Z",
+        "@version": "1",
+        "@changeset": "41759038",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0271519,
+            5.8240339
+          ],
+          [
+            -73.0271879,
+            5.8240133
+          ],
+          [
+            -73.0272172,
+            5.823984
+          ],
+          [
+            -73.0272378,
+            5.8239481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534438",
+      "properties": {
+        "@id": "way/439534438",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 16",
+        "@timestamp": "2016-08-28T16:24:00Z",
+        "@version": "1",
+        "@changeset": "41759242",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0365509,
+            5.8332129
+          ],
+          [
+            -73.0366461,
+            5.8335187
+          ],
+          [
+            -73.0367439,
+            5.8338948
+          ],
+          [
+            -73.0367591,
+            5.8339573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539949",
+      "properties": {
+        "@id": "way/439539949",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T17:22:08Z",
+        "@version": "1",
+        "@changeset": "41760523",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0372555,
+            5.8326601
+          ],
+          [
+            -73.0372298,
+            5.8326187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539950",
+      "properties": {
+        "@id": "way/439539950",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T17:22:08Z",
+        "@version": "1",
+        "@changeset": "41760523",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0309814,
+            5.8269106
+          ],
+          [
+            -73.0305933,
+            5.826277
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539952",
+      "properties": {
+        "@id": "way/439539952",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T20:36:58Z",
+        "@version": "2",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0305933,
+            5.826277
+          ],
+          [
+            -73.0298568,
+            5.8268091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526941",
+      "properties": {
+        "@id": "way/440526941",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:48Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0372298,
+            5.8326187
+          ],
+          [
+            -73.0370502,
+            5.8323054
+          ],
+          [
+            -73.0368768,
+            5.8320249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526942",
+      "properties": {
+        "@id": "way/440526942",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 16",
+        "@timestamp": "2016-09-03T21:47:48Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0367591,
+            5.8339573
+          ],
+          [
+            -73.0367998,
+            5.8340708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526947",
+      "properties": {
+        "@id": "way/440526947",
+        "highway": "residential",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:49Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0353156,
+            5.8294314
+          ],
+          [
+            -73.0346368,
+            5.8298497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693927",
+      "properties": {
+        "@id": "way/440693927",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:47Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0286118,
+            5.8273123
+          ],
+          [
+            -73.0282898,
+            5.8273558
+          ],
+          [
+            -73.0279844,
+            5.8274976
+          ],
+          [
+            -73.0277062,
+            5.8276234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828185",
+      "properties": {
+        "@id": "way/441828185",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:09Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0181399,
+            5.8091295
+          ],
+          [
+            -73.0175859,
+            5.8092638
+          ],
+          [
+            -73.016764,
+            5.8094795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828202",
+      "properties": {
+        "@id": "way/441828202",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 14",
+        "@timestamp": "2016-09-10T19:45:11Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0294873,
+            5.8175723
+          ],
+          [
+            -73.0290935,
+            5.8170445
+          ],
+          [
+            -73.0290204,
+            5.8166977
+          ],
+          [
+            -73.028855,
+            5.8160165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828240",
+      "properties": {
+        "@id": "way/441828240",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "@timestamp": "2016-09-10T19:45:15Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0249535,
+            5.8132277
+          ],
+          [
+            -73.0253026,
+            5.8130119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828241",
+      "properties": {
+        "@id": "way/441828241",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:15Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0253026,
+            5.8130119
+          ],
+          [
+            -73.0256507,
+            5.8128043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828257",
+      "properties": {
+        "@id": "way/441828257",
+        "highway": "primary",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "La Y",
+        "oneway": "yes",
+        "ref": "62",
+        "@timestamp": "2016-09-10T19:45:16Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.9972033,
+            5.7951427
+          ],
+          [
+            -72.9972096,
+            5.7950622
+          ],
+          [
+            -72.9971956,
+            5.7949827
+          ],
+          [
+            -72.9971624,
+            5.7949092
+          ],
+          [
+            -72.9971119,
+            5.7948462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828276",
+      "properties": {
+        "@id": "way/441828276",
+        "highway": "primary",
+        "lanes": "2",
+        "oneway": "no",
+        "surface": "paved",
+        "unsigned_ref": "62 BY 05",
+        "@timestamp": "2016-09-10T19:45:18Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.9948299,
+            5.7911092
+          ],
+          [
+            -72.9947967,
+            5.7912799
+          ],
+          [
+            -72.9947822,
+            5.7915679
+          ],
+          [
+            -72.9947948,
+            5.7918192
+          ],
+          [
+            -72.9948302,
+            5.792019
+          ],
+          [
+            -72.9948922,
+            5.7922309
+          ],
+          [
+            -72.9949457,
+            5.7923905
+          ],
+          [
+            -72.9950747,
+            5.792616
+          ],
+          [
+            -72.9953193,
+            5.7929181
+          ],
+          [
+            -72.995535,
+            5.793129
+          ],
+          [
+            -72.9958987,
+            5.7934011
+          ],
+          [
+            -72.9962477,
+            5.7936291
+          ],
+          [
+            -72.9965507,
+            5.7938895
+          ],
+          [
+            -72.9967074,
+            5.7941336
+          ],
+          [
+            -72.99679,
+            5.7942793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828278",
+      "properties": {
+        "@id": "way/441828278",
+        "highway": "primary",
+        "lanes": "2",
+        "oneway": "no",
+        "surface": "paved",
+        "unsigned_ref": "62 BY 05",
+        "@timestamp": "2016-09-17T21:41:37Z",
+        "@version": "2",
+        "@changeset": "42236153",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.9966658,
+            5.7867203
+          ],
+          [
+            -72.9965892,
+            5.7868771
+          ],
+          [
+            -72.996402,
+            5.7871488
+          ],
+          [
+            -72.9961937,
+            5.7873806
+          ],
+          [
+            -72.9959408,
+            5.7876209
+          ],
+          [
+            -72.995701,
+            5.7878608
+          ],
+          [
+            -72.9955043,
+            5.7881391
+          ],
+          [
+            -72.9953955,
+            5.7883267
+          ],
+          [
+            -72.9952088,
+            5.7888032
+          ],
+          [
+            -72.9951773,
+            5.7890199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834808",
+      "properties": {
+        "@id": "way/441834808",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T20:36:54Z",
+        "@version": "1",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0298568,
+            5.8268091
+          ],
+          [
+            -73.0291955,
+            5.8272507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441846045",
+      "properties": {
+        "@id": "way/441846045",
+        "highway": "trunk",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-20T14:08:54Z",
+        "@version": "4",
+        "@changeset": "42299865",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0230045,
+            5.808176
+          ],
+          [
+            -73.0229801,
+            5.8081214
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441846046",
+      "properties": {
+        "@id": "way/441846046",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "A1",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-12T10:02:38Z",
+        "@version": "2",
+        "@changeset": "42096173",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0227502,
+            5.8080996
+          ],
+          [
+            -73.0197882,
+            5.8087659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441847934",
+      "properties": {
+        "@id": "way/441847934",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 14",
+        "@timestamp": "2016-09-20T14:05:16Z",
+        "@version": "2",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0295614,
+            5.817674
+          ],
+          [
+            -73.0295286,
+            5.8176276
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441847935",
+      "properties": {
+        "@id": "way/441847935",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:16Z",
+        "@version": "1",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0271108,
+            5.8240445
+          ],
+          [
+            -73.0271519,
+            5.8240339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441847937",
+      "properties": {
+        "@id": "way/441847937",
+        "fixme": "Investigar nombre y campo",
+        "highway": "residential",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "surface": "paved",
+        "tracktype": "grade2",
+        "@timestamp": "2016-09-17T22:25:52Z",
+        "@version": "2",
+        "@changeset": "42236765",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0410013,
+            5.8469853
+          ],
+          [
+            -73.0411832,
+            5.8473452
+          ],
+          [
+            -73.041244,
+            5.8474578
+          ],
+          [
+            -73.04145,
+            5.847631
+          ],
+          [
+            -73.041797,
+            5.8479249
+          ],
+          [
+            -73.0422235,
+            5.8481749
+          ],
+          [
+            -73.0426068,
+            5.8485724
+          ],
+          [
+            -73.0427317,
+            5.8487019
+          ],
+          [
+            -73.0431189,
+            5.8489045
+          ],
+          [
+            -73.0436639,
+            5.8490816
+          ],
+          [
+            -73.0442049,
+            5.8495247
+          ],
+          [
+            -73.0447755,
+            5.849855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850422",
+      "properties": {
+        "@id": "way/441850422",
+        "highway": "residential",
+        "name": "Diagonal 20",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0266943,
+            5.8267183
+          ],
+          [
+            -73.0268432,
+            5.8260676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442032903",
+      "properties": {
+        "@id": "way/442032903",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "A1",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-12T10:02:37Z",
+        "@version": "1",
+        "@changeset": "42096173",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0229483,
+            5.8080521
+          ],
+          [
+            -73.0227502,
+            5.8080996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442079226",
+      "properties": {
+        "@id": "way/442079226",
+        "highway": "residential",
+        "name": "Diagonal 20",
+        "@timestamp": "2016-09-12T15:39:38Z",
+        "@version": "1",
+        "@changeset": "42103814",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0270157,
+            5.8247512
+          ],
+          [
+            -73.0271399,
+            5.8241853
+          ],
+          [
+            -73.0271108,
+            5.8240445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442174188",
+      "properties": {
+        "@id": "way/442174188",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:42Z",
+        "@version": "1",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0277062,
+            5.8276234
+          ],
+          [
+            -73.027289,
+            5.8278165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442969666",
+      "properties": {
+        "@id": "way/442969666",
+        "highway": "primary",
+        "lanes": "2",
+        "oneway": "no",
+        "surface": "paved",
+        "unsigned_ref": "62 BY 05",
+        "@timestamp": "2016-09-17T21:41:35Z",
+        "@version": "1",
+        "@changeset": "42236153",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.9967868,
+            5.7863359
+          ],
+          [
+            -72.9967278,
+            5.7865933
+          ],
+          [
+            -72.9966658,
+            5.7867203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442969667",
+      "properties": {
+        "@id": "way/442969667",
+        "highway": "primary",
+        "lanes": "2",
+        "oneway": "no",
+        "surface": "paved",
+        "unsigned_ref": "62 BY 05",
+        "@timestamp": "2016-09-17T21:41:35Z",
+        "@version": "1",
+        "@changeset": "42236153",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.9951773,
+            5.7890199
+          ],
+          [
+            -72.9951035,
+            5.78988
+          ],
+          [
+            -72.9950533,
+            5.7901389
+          ],
+          [
+            -72.994956,
+            5.7905892
+          ],
+          [
+            -72.9948659,
+            5.7909243
+          ],
+          [
+            -72.9948299,
+            5.7911092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443384602",
+      "properties": {
+        "@id": "way/443384602",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 14",
+        "@timestamp": "2016-09-20T14:05:07Z",
+        "@version": "1",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0295286,
+            5.8176276
+          ],
+          [
+            -73.0294873,
+            5.8175723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443384871",
+      "properties": {
+        "@id": "way/443384871",
+        "highway": "trunk",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-20T14:08:52Z",
+        "@version": "1",
+        "@changeset": "42299865",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0229801,
+            5.8081214
+          ],
+          [
+            -73.0229483,
+            5.8080521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444202395",
+      "properties": {
+        "@id": "way/444202395",
+        "fixme": "Investigar nombre y campo",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-09-24T21:47:18Z",
+        "@version": "1",
+        "@changeset": "42412875",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0369031,
+            5.8426083
+          ],
+          [
+            -73.0370346,
+            5.8428702
+          ],
+          [
+            -73.0371424,
+            5.8430848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444478592",
+      "properties": {
+        "@id": "way/444478592",
+        "highway": "residential",
+        "name": "K33",
+        "@timestamp": "2016-09-26T21:45:23Z",
+        "@version": "1",
+        "@changeset": "42456902",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0267599,
+            5.8150279
+          ],
+          [
+            -73.0269285,
+            5.8149369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444478593",
+      "properties": {
+        "@id": "way/444478593",
+        "bridge": "yes",
+        "highway": "residential",
+        "layer": "1",
+        "name": "K33",
+        "@timestamp": "2016-09-26T22:04:19Z",
+        "@version": "2",
+        "@changeset": "42457255",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578061",
+            "reltags": {
+              "from": "Vereda Siratá",
+              "name": "C2 - Vereda Siratá - La Esperanza",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C2",
+              "route": "bus",
+              "to": "La Esperanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0267201,
+            5.8150495
+          ],
+          [
+            -73.0267599,
+            5.8150279
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266523",
+      "properties": {
+        "@id": "node/326266523",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "15",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0309814,
+          5.8269106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266528",
+      "properties": {
+        "@id": "node/326266528",
+        "highway": "traffic_signals",
+        "name": "La dorada",
+        "@timestamp": "2012-09-21T06:05:36Z",
+        "@version": "30",
+        "@changeset": "13191399",
+        "@user": "camilolara",
+        "@uid": "235754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0291955,
+          5.8272507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334402543",
+      "properties": {
+        "@id": "node/334402543",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "10",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0353156,
+          5.8294314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334402563",
+      "properties": {
+        "@id": "node/334402563",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0305933,
+          5.826277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/528861676",
+      "properties": {
+        "@id": "node/528861676",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-05-19T22:37:32Z",
+        "@version": "6",
+        "@changeset": "31300567",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0365509,
+          5.8332129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/534315510",
+      "properties": {
+        "@id": "node/534315510",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-08-29T01:52:58Z",
+        "@version": "9",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0158626,
+          5.8095373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1687184812",
+      "properties": {
+        "@id": "node/1687184812",
+        "railway": "level_crossing",
+        "@timestamp": "2012-03-23T13:42:39Z",
+        "@version": "1",
+        "@changeset": "11073999",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0277257,
+          5.8227416
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2562 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:13:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/28166416",
+      "properties": {
+        "@id": "way/28166416",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T19:45:27Z",
+        "@version": "40",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0294873,
+            5.8175723
+          ],
+          [
+            -73.0291011,
+            5.8186258
+          ],
+          [
+            -73.0289301,
+            5.8192005
+          ],
+          [
+            -73.028794,
+            5.8196568
+          ],
+          [
+            -73.0283731,
+            5.8211126
+          ],
+          [
+            -73.0280603,
+            5.821858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29627638",
+      "properties": {
+        "@id": "way/29627638",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "28",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0299809,
+            5.8111521
+          ],
+          [
+            -73.0303214,
+            5.8116977
+          ],
+          [
+            -73.0305638,
+            5.8120259
+          ],
+          [
+            -73.0306625,
+            5.8121844
+          ],
+          [
+            -73.0308616,
+            5.8125196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29643136",
+      "properties": {
+        "@id": "way/29643136",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T16:41:30Z",
+        "@version": "24",
+        "@changeset": "42130434",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0300866,
+            5.8271537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43038535",
+      "properties": {
+        "@id": "way/43038535",
+        "highway": "secondary_link",
+        "@timestamp": "2014-11-24T11:20:36Z",
+        "@version": "3",
+        "@changeset": "26993645",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0385974,
+            5.8245986
+          ],
+          [
+            -73.0386043,
+            5.824759
+          ],
+          [
+            -73.038718,
+            5.8248719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45510134",
+      "properties": {
+        "@id": "way/45510134",
+        "highway": "residential",
+        "name": "Diagonal 20",
+        "@timestamp": "2016-09-12T15:39:43Z",
+        "@version": "5",
+        "@changeset": "42103814",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0268432,
+            5.8260676
+          ],
+          [
+            -73.0269114,
+            5.8255404
+          ],
+          [
+            -73.0269657,
+            5.8251208
+          ],
+          [
+            -73.0270157,
+            5.8247512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54849028",
+      "properties": {
+        "@id": "way/54849028",
+        "highway": "secondary",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T13:00:55Z",
+        "@version": "10",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0389018,
+            5.824864
+          ],
+          [
+            -73.0393687,
+            5.8246932
+          ],
+          [
+            -73.0395352,
+            5.8246227
+          ],
+          [
+            -73.0403931,
+            5.8245061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/82117497",
+      "properties": {
+        "@id": "way/82117497",
+        "highway": "residential",
+        "name": "Calle 3",
+        "service": "parking_aisle",
+        "@timestamp": "2016-08-24T02:21:13Z",
+        "@version": "5",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0323945,
+            5.8100209
+          ],
+          [
+            -73.0324247,
+            5.8098797
+          ],
+          [
+            -73.0323582,
+            5.8093571
+          ],
+          [
+            -73.0323095,
+            5.8089737
+          ],
+          [
+            -73.0322552,
+            5.8085466
+          ],
+          [
+            -73.0322074,
+            5.8084309
+          ],
+          [
+            -73.0314332,
+            5.8075698
+          ],
+          [
+            -73.0312882,
+            5.8074068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127670544",
+      "properties": {
+        "@id": "way/127670544",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:14Z",
+        "@version": "4",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322313,
+            5.8103348
+          ],
+          [
+            -73.0321548,
+            5.8104088
+          ],
+          [
+            -73.0320736,
+            5.8104763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201390568",
+      "properties": {
+        "@id": "way/201390568",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T13:00:55Z",
+        "@version": "5",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0471095,
+            5.8270512
+          ],
+          [
+            -73.0475857,
+            5.8271668
+          ],
+          [
+            -73.048269,
+            5.827435
+          ],
+          [
+            -73.0486608,
+            5.8275904
+          ],
+          [
+            -73.0489969,
+            5.8277911
+          ],
+          [
+            -73.0491762,
+            5.8278811
+          ],
+          [
+            -73.0495697,
+            5.8280385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340966039",
+      "properties": {
+        "@id": "way/340966039",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T13:00:55Z",
+        "@version": "4",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0412192,
+            5.8244131
+          ],
+          [
+            -73.0416425,
+            5.8243761
+          ],
+          [
+            -73.0420056,
+            5.8244792
+          ],
+          [
+            -73.0422937,
+            5.8246372
+          ],
+          [
+            -73.0423871,
+            5.824707
+          ],
+          [
+            -73.0427326,
+            5.8249803
+          ],
+          [
+            -73.0428573,
+            5.8250688
+          ],
+          [
+            -73.0432192,
+            5.8253414
+          ],
+          [
+            -73.0434882,
+            5.8255125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371395880",
+      "properties": {
+        "@id": "way/371395880",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2015-09-18T19:59:24Z",
+        "@version": "1",
+        "@changeset": "34110474",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.033992,
+            5.825301
+          ],
+          [
+            -73.0346558,
+            5.8249411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371395898",
+      "properties": {
+        "@id": "way/371395898",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:48:10Z",
+        "@version": "4",
+        "@changeset": "42067685",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0346558,
+            5.8249411
+          ],
+          [
+            -73.0350207,
+            5.8247736
+          ],
+          [
+            -73.0353453,
+            5.8246061
+          ],
+          [
+            -73.0360182,
+            5.8242724
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378744145",
+      "properties": {
+        "@id": "way/378744145",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2015-11-06T19:53:36Z",
+        "@version": "1",
+        "@changeset": "35134072",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0388357,
+            5.8248803
+          ],
+          [
+            -73.0389018,
+            5.824864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378746722",
+      "properties": {
+        "@id": "way/378746722",
+        "highway": "secondary",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T13:00:54Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0403931,
+            5.8245061
+          ],
+          [
+            -73.0412192,
+            5.8244131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422033554",
+      "properties": {
+        "@id": "way/422033554",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-05-31T15:18:04Z",
+        "@version": "1",
+        "@changeset": "39691178",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0320736,
+            5.8104763
+          ],
+          [
+            -73.0319889,
+            5.8105051
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422821616",
+      "properties": {
+        "@id": "way/422821616",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-07-03T10:14:29Z",
+        "@version": "3",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0280603,
+            5.821858
+          ],
+          [
+            -73.0279778,
+            5.8220365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422821626",
+      "properties": {
+        "@id": "way/422821626",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-07-03T10:14:30Z",
+        "@version": "2",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0278625,
+            5.8222858
+          ],
+          [
+            -73.0277011,
+            5.8225792
+          ],
+          [
+            -73.0276705,
+            5.822637
+          ],
+          [
+            -73.0276333,
+            5.8227073
+          ],
+          [
+            -73.0271831,
+            5.8235987
+          ],
+          [
+            -73.0271387,
+            5.8236978
+          ],
+          [
+            -73.0270979,
+            5.8237324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422831330",
+      "properties": {
+        "@id": "way/422831330",
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "1",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-07-03T10:14:29Z",
+        "@version": "2",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0279778,
+            5.8220365
+          ],
+          [
+            -73.0279112,
+            5.8221806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422831332",
+      "properties": {
+        "@id": "way/422831332",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-07-03T10:14:30Z",
+        "@version": "2",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0279112,
+            5.8221806
+          ],
+          [
+            -73.0278625,
+            5.8222858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700918",
+      "properties": {
+        "@id": "way/438700918",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-29T01:13:37Z",
+        "@version": "2",
+        "@changeset": "41767098",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0309814,
+            5.8269106
+          ],
+          [
+            -73.0318139,
+            5.8264591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700919",
+      "properties": {
+        "@id": "way/438700919",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318139,
+            5.8264591
+          ],
+          [
+            -73.0324609,
+            5.8261035
+          ],
+          [
+            -73.0332008,
+            5.8257057
+          ],
+          [
+            -73.033588,
+            5.8255109
+          ],
+          [
+            -73.033992,
+            5.825301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700923",
+      "properties": {
+        "@id": "way/438700923",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0323945,
+            5.8100209
+          ],
+          [
+            -73.0322313,
+            5.8103348
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700926",
+      "properties": {
+        "@id": "way/438700926",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0319889,
+            5.8105051
+          ],
+          [
+            -73.0317761,
+            5.8105723
+          ],
+          [
+            -73.0306776,
+            5.8109266
+          ],
+          [
+            -73.0302353,
+            5.8110772
+          ],
+          [
+            -73.0301141,
+            5.8111116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700933",
+      "properties": {
+        "@id": "way/438700933",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:19Z",
+        "@version": "3",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.02696,
+            5.8239743
+          ],
+          [
+            -73.0269887,
+            5.8240071
+          ],
+          [
+            -73.0270253,
+            5.8240308
+          ],
+          [
+            -73.0270671,
+            5.8240436
+          ],
+          [
+            -73.0271108,
+            5.8240445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439527930",
+      "properties": {
+        "@id": "way/439527930",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:13:43Z",
+        "@version": "1",
+        "@changeset": "41759038",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0270979,
+            5.8237324
+          ],
+          [
+            -73.0270459,
+            5.8237392
+          ],
+          [
+            -73.026999,
+            5.8237626
+          ],
+          [
+            -73.0269625,
+            5.8238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534437",
+      "properties": {
+        "@id": "way/439534437",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:41Z",
+        "@version": "3",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0382518,
+            5.8238544
+          ],
+          [
+            -73.0384276,
+            5.8241367
+          ],
+          [
+            -73.0386342,
+            5.8244586
+          ],
+          [
+            -73.0385974,
+            5.8245986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439541134",
+      "properties": {
+        "@id": "way/439541134",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-28T17:37:24Z",
+        "@version": "1",
+        "@changeset": "41760790",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0495697,
+            5.8280385
+          ],
+          [
+            -73.0497483,
+            5.8281202
+          ],
+          [
+            -73.0499151,
+            5.8282368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439541135",
+      "properties": {
+        "@id": "way/439541135",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T10:05:48Z",
+        "@version": "3",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0450717,
+            5.8263307
+          ],
+          [
+            -73.0455481,
+            5.8265559
+          ],
+          [
+            -73.0461198,
+            5.8268006
+          ],
+          [
+            -73.0465228,
+            5.8269296
+          ],
+          [
+            -73.0471095,
+            5.8270512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693927",
+      "properties": {
+        "@id": "way/440693927",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:47Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0286118,
+            5.8273123
+          ],
+          [
+            -73.0282898,
+            5.8273558
+          ],
+          [
+            -73.0279844,
+            5.8274976
+          ],
+          [
+            -73.0277062,
+            5.8276234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693929",
+      "properties": {
+        "@id": "way/440693929",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:59:00Z",
+        "@version": "2",
+        "@changeset": "42067932",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0269437,
+            5.8238366
+          ],
+          [
+            -73.0269347,
+            5.8238835
+          ],
+          [
+            -73.0269403,
+            5.8239308
+          ],
+          [
+            -73.02696,
+            5.8239743
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695736",
+      "properties": {
+        "@id": "way/440695736",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:16Z",
+        "@version": "2",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0301141,
+            5.8111116
+          ],
+          [
+            -73.0300411,
+            5.8111338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440696691",
+      "properties": {
+        "@id": "way/440696691",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:39Z",
+        "@version": "1",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0378486,
+            5.8232295
+          ],
+          [
+            -73.0382518,
+            5.8238544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440696701",
+      "properties": {
+        "@id": "way/440696701",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:39Z",
+        "@version": "1",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.038718,
+            5.8248719
+          ],
+          [
+            -73.0388357,
+            5.8248803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828193",
+      "properties": {
+        "@id": "way/441828193",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T19:45:10Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0312119,
+            5.8131757
+          ],
+          [
+            -73.0312192,
+            5.8132785
+          ],
+          [
+            -73.0308832,
+            5.8141236
+          ],
+          [
+            -73.0305047,
+            5.8150462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828194",
+      "properties": {
+        "@id": "way/441828194",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T19:45:11Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0305047,
+            5.8150462
+          ],
+          [
+            -73.0301443,
+            5.8159123
+          ],
+          [
+            -73.0299682,
+            5.8163347
+          ],
+          [
+            -73.0294873,
+            5.8175723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828253",
+      "properties": {
+        "@id": "way/441828253",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:16Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0434882,
+            5.8255125
+          ],
+          [
+            -73.0435918,
+            5.825568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441838208",
+      "properties": {
+        "@id": "way/441838208",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:28:08Z",
+        "@version": "3",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0435918,
+            5.825568
+          ],
+          [
+            -73.0441325,
+            5.8258511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441844263",
+      "properties": {
+        "@id": "way/441844263",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:48:08Z",
+        "@version": "1",
+        "@changeset": "42067685",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0360182,
+            5.8242724
+          ],
+          [
+            -73.0370641,
+            5.8236655
+          ],
+          [
+            -73.0378486,
+            5.8232295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845931",
+      "properties": {
+        "@id": "way/441845931",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:52Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0308616,
+            5.8125196
+          ],
+          [
+            -73.0310211,
+            5.8127781
+          ],
+          [
+            -73.0312002,
+            5.8130141
+          ],
+          [
+            -73.0312147,
+            5.8130474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441846062",
+      "properties": {
+        "@id": "way/441846062",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:58:59Z",
+        "@version": "1",
+        "@changeset": "42067932",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0269625,
+            5.8238
+          ],
+          [
+            -73.0269437,
+            5.8238366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850009",
+      "properties": {
+        "@id": "way/441850009",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:21:51Z",
+        "@version": "1",
+        "@changeset": "42068164",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0312147,
+            5.8130474
+          ],
+          [
+            -73.0311994,
+            5.8130891
+          ],
+          [
+            -73.0311984,
+            5.8131334
+          ],
+          [
+            -73.0312119,
+            5.8131757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442079226",
+      "properties": {
+        "@id": "way/442079226",
+        "highway": "residential",
+        "name": "Diagonal 20",
+        "@timestamp": "2016-09-12T15:39:38Z",
+        "@version": "1",
+        "@changeset": "42103814",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0270157,
+            5.8247512
+          ],
+          [
+            -73.0271399,
+            5.8241853
+          ],
+          [
+            -73.0271108,
+            5.8240445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442174187",
+      "properties": {
+        "@id": "way/442174187",
+        "highway": "residential",
+        "name": "Calle 21",
+        "@timestamp": "2016-09-13T10:05:42Z",
+        "@version": "1",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0277062,
+            5.8276234
+          ],
+          [
+            -73.0273501,
+            5.8270169
+          ],
+          [
+            -73.0270655,
+            5.8264714
+          ],
+          [
+            -73.0268432,
+            5.8260676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442225423",
+      "properties": {
+        "@id": "way/442225423",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T16:41:26Z",
+        "@version": "1",
+        "@changeset": "42130434",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0300866,
+            5.8271537
+          ],
+          [
+            -73.0309814,
+            5.8269106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442968769",
+      "properties": {
+        "@id": "way/442968769",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:28:05Z",
+        "@version": "1",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0441325,
+            5.8258511
+          ],
+          [
+            -73.0450717,
+            5.8263307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443384604",
+      "properties": {
+        "@id": "way/443384604",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:08Z",
+        "@version": "1",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583165",
+            "reltags": {
+              "from": "Terminal de Transportes Nuevo",
+              "name": "A9 - Terminal de Transportes Nuevo - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A9",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0300411,
+            5.8111338
+          ],
+          [
+            -73.0299809,
+            5.8111521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266508",
+      "properties": {
+        "@id": "node/326266508",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-17T20:33:21Z",
+        "@version": "39",
+        "@changeset": "42234929",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0378486,
+          5.8232295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266521",
+      "properties": {
+        "@id": "node/326266521",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "18",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0318139,
+          5.8264591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266523",
+      "properties": {
+        "@id": "node/326266523",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "15",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0309814,
+          5.8269106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266528",
+      "properties": {
+        "@id": "node/326266528",
+        "highway": "traffic_signals",
+        "name": "La dorada",
+        "@timestamp": "2012-09-21T06:05:36Z",
+        "@version": "30",
+        "@changeset": "13191399",
+        "@user": "camilolara",
+        "@uid": "235754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0291955,
+          5.8272507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400533",
+      "properties": {
+        "@id": "node/334400533",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "7",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0332008,
+          5.8257057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157550",
+      "properties": {
+        "@id": "node/539157550",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "10",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0434882,
+          5.8255125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157559",
+      "properties": {
+        "@id": "node/539157559",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "9",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0435918,
+          5.825568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1687184803",
+      "properties": {
+        "@id": "node/1687184803",
+        "railway": "level_crossing",
+        "@timestamp": "2012-03-23T13:42:38Z",
+        "@version": "1",
+        "@changeset": "11073999",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0276705,
+          5.822637
+        ]
+      }
+    }
+  ]
+}

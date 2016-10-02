@@ -1,0 +1,3162 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:21:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29675420",
+      "properties": {
+        "@id": "way/29675420",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida Camilo Torres",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "26",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0246987,
+            5.8205731
+          ],
+          [
+            -73.0244691,
+            5.8202931
+          ],
+          [
+            -73.0237647,
+            5.8192501
+          ],
+          [
+            -73.0234002,
+            5.8186897
+          ],
+          [
+            -73.0231907,
+            5.818402
+          ],
+          [
+            -73.0228797,
+            5.8181293
+          ],
+          [
+            -73.0225384,
+            5.8178299
+          ],
+          [
+            -73.0219204,
+            5.8173688
+          ],
+          [
+            -73.0217145,
+            5.8172204
+          ],
+          [
+            -73.0214594,
+            5.8170792
+          ],
+          [
+            -73.0213432,
+            5.8170405
+          ],
+          [
+            -73.0207418,
+            5.8168878
+          ],
+          [
+            -73.0202885,
+            5.816758
+          ],
+          [
+            -73.0200641,
+            5.8166484
+          ],
+          [
+            -73.0197793,
+            5.8164365
+          ],
+          [
+            -73.0196703,
+            5.8163263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30515053",
+      "properties": {
+        "@id": "way/30515053",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:18Z",
+        "@version": "14",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0272378,
+            5.8239481
+          ],
+          [
+            -73.0272491,
+            5.8239001
+          ],
+          [
+            -73.0272448,
+            5.8238509
+          ],
+          [
+            -73.0272253,
+            5.8238055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42508297",
+      "properties": {
+        "@id": "way/42508297",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Transversal 35",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "@timestamp": "2012-06-26T14:18:35Z",
+        "@version": "6",
+        "@changeset": "12026552",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0253026,
+            5.8130119
+          ],
+          [
+            -73.0250449,
+            5.8130303
+          ],
+          [
+            -73.0243852,
+            5.8127148
+          ],
+          [
+            -73.0241405,
+            5.8127216
+          ],
+          [
+            -73.0239105,
+            5.8127714
+          ],
+          [
+            -73.021597,
+            5.8125196
+          ],
+          [
+            -73.0206678,
+            5.8124001
+          ],
+          [
+            -73.0203124,
+            5.8124373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42726534",
+      "properties": {
+        "@id": "way/42726534",
+        "highway": "residential",
+        "name": "Calle 7",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T21:18:38Z",
+        "@version": "7",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0289266,
+            5.8067316
+          ],
+          [
+            -73.0286434,
+            5.8049368
+          ],
+          [
+            -73.0286177,
+            5.80465
+          ],
+          [
+            -73.028452,
+            5.8031804
+          ],
+          [
+            -73.0284202,
+            5.8029354
+          ],
+          [
+            -73.0283624,
+            5.8016632
+          ],
+          [
+            -73.0283348,
+            5.8012749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44386178",
+      "properties": {
+        "@id": "way/44386178",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 40",
+        "@timestamp": "2016-09-10T21:18:38Z",
+        "@version": "4",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0203124,
+            5.8124373
+          ],
+          [
+            -73.020183,
+            5.8124
+          ],
+          [
+            -73.0185191,
+            5.8119288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72908193",
+      "properties": {
+        "@id": "way/72908193",
+        "bridge": "yes",
+        "highway": "residential",
+        "layer": "1",
+        "name": "Carrera 35",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-26T22:04:18Z",
+        "@version": "2",
+        "@changeset": "42457255",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0263729,
+            5.8123633
+          ],
+          [
+            -73.0263981,
+            5.8123528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72908222",
+      "properties": {
+        "@id": "way/72908222",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:31Z",
+        "@version": "2",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0256507,
+            5.8128043
+          ],
+          [
+            -73.0258937,
+            5.8126623
+          ],
+          [
+            -73.0263729,
+            5.8123633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156467494",
+      "properties": {
+        "@id": "way/156467494",
+        "highway": "residential",
+        "name": "Calle 20",
+        "oneway": "yes",
+        "@timestamp": "2014-01-02T05:06:10Z",
+        "@version": "3",
+        "@changeset": "19755427",
+        "@user": "juanbox",
+        "@uid": "1312875",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0273521,
+            5.8242082
+          ],
+          [
+            -73.0272628,
+            5.8240073
+          ],
+          [
+            -73.0272378,
+            5.8239481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156467521",
+      "properties": {
+        "@id": "way/156467521",
+        "highway": "residential",
+        "name": "Calle 20",
+        "@timestamp": "2016-09-10T21:59:00Z",
+        "@version": "5",
+        "@changeset": "42067932",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0288542,
+            5.826599
+          ],
+          [
+            -73.0287008,
+            5.8263187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165355902",
+      "properties": {
+        "@id": "way/165355902",
+        "highway": "unclassified",
+        "@timestamp": "2016-09-17T22:26:50Z",
+        "@version": "5",
+        "@changeset": "42236776",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0203338,
+            5.8433015
+          ],
+          [
+            -73.0204837,
+            5.8427866
+          ],
+          [
+            -73.020565,
+            5.842676
+          ],
+          [
+            -73.0207897,
+            5.8423705
+          ],
+          [
+            -73.020952,
+            5.8420413
+          ],
+          [
+            -73.0212329,
+            5.8410539
+          ],
+          [
+            -73.0211711,
+            5.8406897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165605039",
+      "properties": {
+        "@id": "way/165605039",
+        "fixme": "Investigar nombre y campo",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-08-08T12:29:10Z",
+        "@version": "4",
+        "@changeset": "41323247",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0270208,
+            5.8380077
+          ],
+          [
+            -73.0271523,
+            5.8377281
+          ],
+          [
+            -73.0273497,
+            5.8375902
+          ],
+          [
+            -73.0279046,
+            5.8372024
+          ],
+          [
+            -73.0279976,
+            5.8371374
+          ],
+          [
+            -73.0281862,
+            5.8369498
+          ],
+          [
+            -73.028376,
+            5.8368557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165605102",
+      "properties": {
+        "@id": "way/165605102",
+        "highway": "unclassified",
+        "surface": "paved",
+        "@timestamp": "2012-05-31T13:18:09Z",
+        "@version": "1",
+        "@changeset": "11758462",
+        "@user": "camilolara",
+        "@uid": "235754",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.026124,
+            5.840406
+          ],
+          [
+            -73.0252253,
+            5.8400722
+          ],
+          [
+            -73.0233951,
+            5.8401243
+          ],
+          [
+            -73.0231454,
+            5.840107
+          ],
+          [
+            -73.0230261,
+            5.8402041
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165605104",
+      "properties": {
+        "@id": "way/165605104",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:36Z",
+        "@version": "2",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0229959,
+            5.8414349
+          ],
+          [
+            -73.0225162,
+            5.8408948
+          ],
+          [
+            -73.0220064,
+            5.8407113
+          ],
+          [
+            -73.0216259,
+            5.8406793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340928377",
+      "properties": {
+        "@id": "way/340928377",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:16Z",
+        "@version": "4",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0299809,
+            5.8111521
+          ],
+          [
+            -73.0298561,
+            5.8111825
+          ],
+          [
+            -73.0294046,
+            5.8113313
+          ],
+          [
+            -73.0289415,
+            5.8114854
+          ],
+          [
+            -73.0287757,
+            5.8115443
+          ],
+          [
+            -73.028467,
+            5.8116382
+          ],
+          [
+            -73.0278871,
+            5.8118359
+          ],
+          [
+            -73.0277353,
+            5.8119003
+          ],
+          [
+            -73.0270318,
+            5.8121455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340966045",
+      "properties": {
+        "@id": "way/340966045",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:38Z",
+        "@version": "12",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.029768,
+            5.8337908
+          ],
+          [
+            -73.0310331,
+            5.8333565
+          ],
+          [
+            -73.0311947,
+            5.8333748
+          ],
+          [
+            -73.0313069,
+            5.8334101
+          ],
+          [
+            -73.0313953,
+            5.8335019
+          ],
+          [
+            -73.0315214,
+            5.8337094
+          ],
+          [
+            -73.0317736,
+            5.8344596
+          ],
+          [
+            -73.0318674,
+            5.83476
+          ],
+          [
+            -73.0318942,
+            5.8348297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341811735",
+      "properties": {
+        "@id": "way/341811735",
+        "highway": "residential",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "3",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0346368,
+            5.8298497
+          ],
+          [
+            -73.0339381,
+            5.8302632
+          ],
+          [
+            -73.0335645,
+            5.8305076
+          ],
+          [
+            -73.0332078,
+            5.830743
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341814494",
+      "properties": {
+        "@id": "way/341814494",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "5",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0368768,
+            5.8320249
+          ],
+          [
+            -73.0368623,
+            5.8320014
+          ],
+          [
+            -73.0366117,
+            5.8315788
+          ],
+          [
+            -73.0362179,
+            5.8309276
+          ],
+          [
+            -73.0359471,
+            5.8305019
+          ],
+          [
+            -73.0358927,
+            5.8304081
+          ],
+          [
+            -73.0357056,
+            5.8301207
+          ],
+          [
+            -73.0354989,
+            5.8297713
+          ],
+          [
+            -73.0353156,
+            5.8294314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341878043",
+      "properties": {
+        "@id": "way/341878043",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:38Z",
+        "@version": "3",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0292332,
+            5.8364332
+          ],
+          [
+            -73.0294512,
+            5.8356962
+          ],
+          [
+            -73.0295688,
+            5.8349939
+          ],
+          [
+            -73.029768,
+            5.8337908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371395864",
+      "properties": {
+        "@id": "way/371395864",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2015-09-18T22:15:16Z",
+        "@version": "3",
+        "@changeset": "34112444",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0332078,
+            5.830743
+          ],
+          [
+            -73.0327415,
+            5.8298176
+          ],
+          [
+            -73.0323021,
+            5.8290278
+          ],
+          [
+            -73.0318487,
+            5.8283539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398590360",
+      "properties": {
+        "@id": "way/398590360",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2016-02-18T20:00:54Z",
+        "@version": "1",
+        "@changeset": "37296418",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318487,
+            5.8283539
+          ],
+          [
+            -73.0314459,
+            5.8276383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398590388",
+      "properties": {
+        "@id": "way/398590388",
+        "fixme": "Investigar nombre y campo",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-02-18T20:00:55Z",
+        "@version": "1",
+        "@changeset": "37296418",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0267891,
+            5.8390346
+          ],
+          [
+            -73.0268109,
+            5.8389325
+          ],
+          [
+            -73.0268883,
+            5.8385707
+          ],
+          [
+            -73.0269196,
+            5.8384242
+          ],
+          [
+            -73.0269987,
+            5.8380547
+          ],
+          [
+            -73.0270208,
+            5.8380077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398593297",
+      "properties": {
+        "@id": "way/398593297",
+        "highway": "residential",
+        "name": "Calle 20",
+        "@timestamp": "2016-02-18T20:18:38Z",
+        "@version": "1",
+        "@changeset": "37296693",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0284064,
+            5.8256701
+          ],
+          [
+            -73.0280625,
+            5.8249709
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398593298",
+      "properties": {
+        "@id": "way/398593298",
+        "highway": "residential",
+        "name": "Calle 20",
+        "@timestamp": "2016-02-18T20:18:38Z",
+        "@version": "1",
+        "@changeset": "37296693",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0280625,
+            5.8249709
+          ],
+          [
+            -73.0278041,
+            5.8246899
+          ],
+          [
+            -73.0274506,
+            5.8243309
+          ],
+          [
+            -73.0273521,
+            5.8242082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/436228670",
+      "properties": {
+        "@id": "way/436228670",
+        "fixme": "Investigar nombre y campo",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-08-08T12:29:09Z",
+        "@version": "1",
+        "@changeset": "41323247",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.028376,
+            5.8368557
+          ],
+          [
+            -73.0285844,
+            5.8367065
+          ],
+          [
+            -73.0292332,
+            5.8364332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700885",
+      "properties": {
+        "@id": "way/438700885",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0351865,
+            5.8339914
+          ],
+          [
+            -73.0358573,
+            5.8336103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700887",
+      "properties": {
+        "@id": "way/438700887",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358573,
+            5.8336103
+          ],
+          [
+            -73.0365509,
+            5.8332129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700889",
+      "properties": {
+        "@id": "way/438700889",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0365509,
+            5.8332129
+          ],
+          [
+            -73.0367789,
+            5.8330828
+          ],
+          [
+            -73.0371227,
+            5.832818
+          ],
+          [
+            -73.0372778,
+            5.8326927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700893",
+      "properties": {
+        "@id": "way/438700893",
+        "highway": "secondary",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-12T15:39:42Z",
+        "@version": "3",
+        "@changeset": "42103814",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0301141,
+            5.8111116
+          ],
+          [
+            -73.0286014,
+            5.8088124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700897",
+      "properties": {
+        "@id": "way/438700897",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0372778,
+            5.8326927
+          ],
+          [
+            -73.0372555,
+            5.8326601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700906",
+      "properties": {
+        "@id": "way/438700906",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-24T02:21:04Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0314459,
+            5.8276383
+          ],
+          [
+            -73.0309814,
+            5.8269106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539949",
+      "properties": {
+        "@id": "way/439539949",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T17:22:08Z",
+        "@version": "1",
+        "@changeset": "41760523",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0372555,
+            5.8326601
+          ],
+          [
+            -73.0372298,
+            5.8326187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539950",
+      "properties": {
+        "@id": "way/439539950",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T17:22:08Z",
+        "@version": "1",
+        "@changeset": "41760523",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0309814,
+            5.8269106
+          ],
+          [
+            -73.0305933,
+            5.826277
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539952",
+      "properties": {
+        "@id": "way/439539952",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T20:36:58Z",
+        "@version": "2",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0305933,
+            5.826277
+          ],
+          [
+            -73.0298568,
+            5.8268091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526941",
+      "properties": {
+        "@id": "way/440526941",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:48Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0372298,
+            5.8326187
+          ],
+          [
+            -73.0370502,
+            5.8323054
+          ],
+          [
+            -73.0368768,
+            5.8320249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526947",
+      "properties": {
+        "@id": "way/440526947",
+        "highway": "residential",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:49Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0353156,
+            5.8294314
+          ],
+          [
+            -73.0346368,
+            5.8298497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693390",
+      "properties": {
+        "@id": "way/440693390",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida Camilo Torres",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:25Z",
+        "@version": "2",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0196703,
+            5.8163263
+          ],
+          [
+            -73.0195869,
+            5.8162409
+          ],
+          [
+            -73.0194137,
+            5.8159698
+          ],
+          [
+            -73.0193112,
+            5.8157876
+          ],
+          [
+            -73.0190401,
+            5.8153069
+          ],
+          [
+            -73.0187941,
+            5.8148878
+          ],
+          [
+            -73.0184625,
+            5.814289
+          ],
+          [
+            -73.0171084,
+            5.8117988
+          ],
+          [
+            -73.016876,
+            5.8113591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695703",
+      "properties": {
+        "@id": "way/440695703",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-05T04:22:14Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0275292,
+            5.8071433
+          ],
+          [
+            -73.0294248,
+            5.8067356
+          ],
+          [
+            -73.0300355,
+            5.8066198
+          ],
+          [
+            -73.0304201,
+            5.8065285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695736",
+      "properties": {
+        "@id": "way/440695736",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:16Z",
+        "@version": "2",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0301141,
+            5.8111116
+          ],
+          [
+            -73.0300411,
+            5.8111338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695738",
+      "properties": {
+        "@id": "way/440695738",
+        "highway": "trunk",
+        "lanes": "2",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-05T04:22:17Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0304201,
+            5.8065285
+          ],
+          [
+            -73.0304068,
+            5.8064579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695743",
+      "properties": {
+        "@id": "way/440695743",
+        "highway": "trunk",
+        "lanes": "2",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-05T04:22:18Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0303974,
+            5.8063983
+          ],
+          [
+            -73.0304068,
+            5.8064579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828190",
+      "properties": {
+        "@id": "way/441828190",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T20:43:38Z",
+        "@version": "2",
+        "@changeset": "42235177",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322068,
+            5.8353249
+          ],
+          [
+            -73.0324266,
+            5.8354286
+          ],
+          [
+            -73.0326203,
+            5.8354229
+          ],
+          [
+            -73.0327159,
+            5.8353865
+          ],
+          [
+            -73.0329221,
+            5.8352965
+          ],
+          [
+            -73.0332809,
+            5.8350949
+          ],
+          [
+            -73.0339859,
+            5.8346769
+          ],
+          [
+            -73.0347001,
+            5.8342623
+          ],
+          [
+            -73.0351865,
+            5.8339914
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828241",
+      "properties": {
+        "@id": "way/441828241",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:15Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0253026,
+            5.8130119
+          ],
+          [
+            -73.0256507,
+            5.8128043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828280",
+      "properties": {
+        "@id": "way/441828280",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:19Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0216259,
+            5.8406793
+          ],
+          [
+            -73.0211711,
+            5.8406897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828284",
+      "properties": {
+        "@id": "way/441828284",
+        "highway": "residential",
+        "@timestamp": "2016-09-10T19:45:19Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0185191,
+            5.8119288
+          ],
+          [
+            -73.016876,
+            5.8113591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828285",
+      "properties": {
+        "@id": "way/441828285",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:19Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0229959,
+            5.8414349
+          ],
+          [
+            -73.0230261,
+            5.8402041
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828286",
+      "properties": {
+        "@id": "way/441828286",
+        "highway": "unclassified",
+        "@timestamp": "2016-09-17T22:26:50Z",
+        "@version": "2",
+        "@changeset": "42236776",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0267891,
+            5.8390346
+          ],
+          [
+            -73.0265113,
+            5.8398066
+          ],
+          [
+            -73.0263356,
+            5.8400851
+          ],
+          [
+            -73.026124,
+            5.840406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834808",
+      "properties": {
+        "@id": "way/441834808",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T20:36:54Z",
+        "@version": "1",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0298568,
+            5.8268091
+          ],
+          [
+            -73.0291955,
+            5.8272507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839860",
+      "properties": {
+        "@id": "way/441839860",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T21:18:35Z",
+        "@version": "1",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0303974,
+            5.8063983
+          ],
+          [
+            -73.0289266,
+            5.8067316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839865",
+      "properties": {
+        "@id": "way/441839865",
+        "highway": "residential",
+        "name": "Calle 7",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T21:18:35Z",
+        "@version": "1",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0283348,
+            5.8012749
+          ],
+          [
+            -73.0282842,
+            5.8005621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839869",
+      "properties": {
+        "@id": "way/441839869",
+        "highway": "residential",
+        "@timestamp": "2016-09-10T21:18:35Z",
+        "@version": "1",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0282842,
+            5.8005621
+          ],
+          [
+            -73.0274566,
+            5.8007014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441846060",
+      "properties": {
+        "@id": "way/441846060",
+        "highway": "residential",
+        "name": "Calle 20",
+        "@timestamp": "2016-09-10T21:58:59Z",
+        "@version": "1",
+        "@changeset": "42067932",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0287008,
+            5.8263187
+          ],
+          [
+            -73.0284064,
+            5.8256701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441847936",
+      "properties": {
+        "@id": "way/441847936",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:16Z",
+        "@version": "1",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0272253,
+            5.8238055
+          ],
+          [
+            -73.0271917,
+            5.8237677
+          ],
+          [
+            -73.0271477,
+            5.8237424
+          ],
+          [
+            -73.0270979,
+            5.8237324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850408",
+      "properties": {
+        "@id": "way/441850408",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida Camilo Torres",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0270979,
+            5.8237324
+          ],
+          [
+            -73.0270084,
+            5.8236334
+          ],
+          [
+            -73.026626,
+            5.8231239
+          ],
+          [
+            -73.0262614,
+            5.8227301
+          ],
+          [
+            -73.0259993,
+            5.8223918
+          ],
+          [
+            -73.0256215,
+            5.8217393
+          ],
+          [
+            -73.0251639,
+            5.8210656
+          ],
+          [
+            -73.0246987,
+            5.8205731
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442079224",
+      "properties": {
+        "@id": "way/442079224",
+        "highway": "secondary",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-12T15:39:38Z",
+        "@version": "1",
+        "@changeset": "42103814",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0286014,
+            5.8088124
+          ],
+          [
+            -73.0275292,
+            5.8071433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442964277",
+      "properties": {
+        "@id": "way/442964277",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T20:43:35Z",
+        "@version": "1",
+        "@changeset": "42235177",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318942,
+            5.8348297
+          ],
+          [
+            -73.0320018,
+            5.8351108
+          ],
+          [
+            -73.0322068,
+            5.8353249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443384603",
+      "properties": {
+        "@id": "way/443384603",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:07Z",
+        "@version": "1",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0270318,
+            5.8121455
+          ],
+          [
+            -73.0263981,
+            5.8123528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443384604",
+      "properties": {
+        "@id": "way/443384604",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:08Z",
+        "@version": "1",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577914",
+            "reltags": {
+              "from": "San Antonio Norte",
+              "name": "C8 - San Antonio Norte - Urbanizacion Guadalupe",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C8",
+              "route": "bus",
+              "to": "Urbanizacion Guadalupe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0300411,
+            5.8111338
+          ],
+          [
+            -73.0299809,
+            5.8111521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326042395",
+      "properties": {
+        "@id": "node/326042395",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:56Z",
+        "@version": "14",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0275292,
+          5.8071433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266523",
+      "properties": {
+        "@id": "node/326266523",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "15",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0309814,
+          5.8269106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266528",
+      "properties": {
+        "@id": "node/326266528",
+        "highway": "traffic_signals",
+        "name": "La dorada",
+        "@timestamp": "2012-09-21T06:05:36Z",
+        "@version": "30",
+        "@changeset": "13191399",
+        "@user": "camilolara",
+        "@uid": "235754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0291955,
+          5.8272507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334402543",
+      "properties": {
+        "@id": "node/334402543",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "10",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0353156,
+          5.8294314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334402563",
+      "properties": {
+        "@id": "node/334402563",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0305933,
+          5.826277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/528861676",
+      "properties": {
+        "@id": "node/528861676",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-05-19T22:37:32Z",
+        "@version": "6",
+        "@changeset": "31300567",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0365509,
+          5.8332129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/865741678",
+      "properties": {
+        "@id": "node/865741678",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-03-24T16:24:11Z",
+        "@version": "3",
+        "@changeset": "21288226",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0280625,
+          5.8249709
+        ]
+      }
+    }
+  ]
+}

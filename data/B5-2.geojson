@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2016-10-02T02:09:02Z",
+  "timestamp": "2016-10-02T02:17:03Z",
   "features": [
     {
       "type": "Feature",
@@ -21,16 +21,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -66,16 +66,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -117,16 +117,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -188,99 +188,30 @@
     },
     {
       "type": "Feature",
-      "id": "way/37290049",
+      "id": "way/42726557",
       "properties": {
-        "@id": "way/37290049",
+        "@id": "way/42726557",
         "highway": "residential",
         "mechanical": "yes",
-        "name": "Calle 16",
-        "@timestamp": "2016-09-03T21:47:57Z",
-        "@version": "13",
-        "@changeset": "41897352",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0367998,
-            5.8340708
-          ],
-          [
-            -73.0368309,
-            5.8343588
-          ],
-          [
-            -73.0368763,
-            5.8345781
-          ],
-          [
-            -73.0368963,
-            5.8347593
-          ],
-          [
-            -73.0369648,
-            5.8351215
-          ],
-          [
-            -73.0369726,
-            5.8351627
-          ],
-          [
-            -73.0370398,
-            5.8355201
-          ],
-          [
-            -73.0371043,
-            5.8359689
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/42726566",
-      "properties": {
-        "@id": "way/42726566",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 21",
-        "@timestamp": "2016-08-28T16:24:05Z",
-        "@version": "8",
+        "name": "Carrera 43",
+        "@timestamp": "2016-08-28T16:24:07Z",
+        "@version": "5",
         "@changeset": "41759242",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -290,20 +221,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0181399,
-            5.8091295
+            -73.0189115,
+            5.8076102
           ],
           [
-            -73.0180388,
-            5.8089561
-          ],
-          [
-            -73.0179174,
-            5.8087759
-          ],
-          [
-            -73.0177341,
-            5.808503
+            -73.0183831,
+            5.8079804
           ],
           [
             -73.0176926,
@@ -314,30 +237,29 @@
     },
     {
       "type": "Feature",
-      "id": "way/62229856",
+      "id": "way/45510120",
       "properties": {
-        "@id": "way/62229856",
-        "highway": "residential",
-        "name": "Calle 16",
-        "surface": "paved",
-        "@timestamp": "2016-08-27T16:29:57Z",
-        "@version": "10",
-        "@changeset": "41739718",
+        "@id": "way/45510120",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-14T16:41:59Z",
+        "@version": "8",
+        "@changeset": "42153968",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -347,61 +269,55 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0363589,
-            5.838106
+            -73.0256358,
+            5.8285678
           ],
           [
-            -73.0365133,
-            5.8388818
+            -73.0252512,
+            5.8288186
           ],
           [
-            -73.036565,
-            5.8392394
+            -73.0251398,
+            5.8288934
           ],
           [
-            -73.0366393,
-            5.8395775
+            -73.0250936,
+            5.8289244
           ],
           [
-            -73.0366265,
-            5.839701
-          ],
-          [
-            -73.0367142,
-            5.8408663
-          ],
-          [
-            -73.0367979,
-            5.8415394
+            -73.0250575,
+            5.8289486
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/62229857",
+      "id": "way/48055872",
       "properties": {
-        "@id": "way/62229857",
-        "highway": "residential",
-        "name": "Carrera 5",
-        "@timestamp": "2015-04-30T22:31:46Z",
-        "@version": "6",
-        "@changeset": "30675600",
+        "@id": "way/48055872",
+        "highway": "trunk",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-05T03:46:53Z",
+        "@version": "37",
+        "@changeset": "41920244",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -411,16 +327,182 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0345996,
-            5.8380617
+            -73.0262092,
+            5.8258505
           ],
           [
-            -73.0352939,
-            5.8379836
+            -73.0260224,
+            5.8263122
           ],
           [
-            -73.0356053,
-            5.837933
+            -73.0255837,
+            5.8273702
+          ],
+          [
+            -73.0254053,
+            5.8278158
+          ],
+          [
+            -73.0250941,
+            5.8285933
+          ],
+          [
+            -73.0250335,
+            5.8287446
+          ],
+          [
+            -73.0250172,
+            5.8287866
+          ],
+          [
+            -73.0249698,
+            5.8289087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53683574",
+      "properties": {
+        "@id": "way/53683574",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 12",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T19:45:30Z",
+        "@version": "7",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594023",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Barrio el Recreo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0444632,
+            5.8232534
+          ],
+          [
+            -73.0441108,
+            5.8239699
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54849029",
+      "properties": {
+        "@id": "way/54849029",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 10",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T20:59:51Z",
+        "@version": "4",
+        "@changeset": "42067075",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594023",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Barrio el Recreo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0443835,
+            5.8253377
+          ],
+          [
+            -73.0441719,
+            5.8257551
+          ],
+          [
+            -73.0441536,
+            5.8258006
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/83065980",
+      "properties": {
+        "@id": "way/83065980",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 2",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T19:45:29Z",
+        "@version": "3",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594023",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Barrio el Recreo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0447731,
+            5.8243107
+          ],
+          [
+            -73.0444111,
+            5.8241244
+          ],
+          [
+            -73.0441108,
+            5.8239699
           ]
         ]
       }
@@ -440,16 +522,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -471,353 +553,31 @@
     },
     {
       "type": "Feature",
-      "id": "way/156467499",
+      "id": "way/166476576",
       "properties": {
-        "@id": "way/156467499",
-        "highway": "residential",
-        "name": "Calle 20",
-        "oneway": "yes",
-        "@timestamp": "2014-01-02T05:06:09Z",
-        "@version": "3",
-        "@changeset": "19755427",
-        "@user": "juanbox",
-        "@uid": "1312875",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0271519,
-            5.8240339
-          ],
-          [
-            -73.0272745,
-            5.8241418
-          ],
-          [
-            -73.0273521,
-            5.8242082
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/156467521",
-      "properties": {
-        "@id": "way/156467521",
-        "highway": "residential",
-        "name": "Calle 20",
-        "@timestamp": "2016-09-10T21:59:00Z",
-        "@version": "5",
-        "@changeset": "42067932",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0291955,
-            5.8272507
-          ],
-          [
-            -73.0288542,
-            5.826599
-          ],
-          [
-            -73.0287008,
-            5.8263187
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/160164888",
-      "properties": {
-        "@id": "way/160164888",
-        "fixme": "Investigar nombre y campo",
-        "highway": "residential",
-        "surface": "paved",
-        "@timestamp": "2012-07-11T20:44:50Z",
-        "@version": "3",
-        "@changeset": "12190141",
-        "@user": "cristian gomez",
-        "@uid": "242366",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0378219,
-            5.8473202
-          ],
-          [
-            -73.0375508,
-            5.847479
-          ],
-          [
-            -73.0367867,
-            5.8478869
-          ],
-          [
-            -73.0359778,
-            5.848147
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/160164905",
-      "properties": {
-        "@id": "way/160164905",
-        "fixme": "Investigar nombre y campo",
-        "highway": "residential",
-        "@timestamp": "2012-07-11T20:19:47Z",
-        "@version": "2",
-        "@changeset": "12189877",
-        "@user": "cristian gomez",
-        "@uid": "242366",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0381663,
-            5.8448449
-          ],
-          [
-            -73.0377046,
-            5.844973
-          ],
-          [
-            -73.0375617,
-            5.8450966
-          ],
-          [
-            -73.0375617,
-            5.8454551
-          ],
-          [
-            -73.0377481,
-            5.8464501
-          ],
-          [
-            -73.0378413,
-            5.8467467
-          ],
-          [
-            -73.0378219,
-            5.8473202
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/171127337",
-      "properties": {
-        "@id": "way/171127337",
-        "fixme": "Investigar nombre y campo",
-        "highway": "residential",
-        "surface": "paved",
-        "@timestamp": "2016-09-24T21:47:21Z",
-        "@version": "7",
-        "@changeset": "42412875",
-        "@user": "Leonardo Pinzon Niño",
-        "@uid": "4416628",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0371424,
-            5.8430848
-          ],
-          [
-            -73.0373325,
-            5.8433837
-          ],
-          [
-            -73.0374494,
-            5.8436307
-          ],
-          [
-            -73.0376959,
-            5.8440932
-          ],
-          [
-            -73.0380241,
-            5.8446142
-          ],
-          [
-            -73.0381663,
-            5.8448449
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/341917202",
-      "properties": {
-        "@id": "way/341917202",
-        "highway": "residential",
-        "name": "Carrera 5",
-        "@timestamp": "2015-04-30T22:31:43Z",
-        "@version": "1",
-        "@changeset": "30675600",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0356053,
-            5.837933
-          ],
-          [
-            -73.0360256,
-            5.8380876
-          ],
-          [
-            -73.0363589,
-            5.838106
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/341917210",
-      "properties": {
-        "@id": "way/341917210",
+        "@id": "way/166476576",
         "highway": "residential",
         "mechanical": "yes",
-        "name": "Carrera 6",
-        "@timestamp": "2015-04-30T22:31:44Z",
-        "@version": "1",
-        "@changeset": "30675600",
+        "name": "Calle 1",
+        "surface": "unpaved",
+        "@timestamp": "2015-11-27T01:47:51Z",
+        "@version": "3",
+        "@changeset": "35603876",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -827,49 +587,43 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0364273,
-            5.8361004
+            -73.0444632,
+            5.8232534
           ],
           [
-            -73.0361449,
-            5.836151
-          ],
-          [
-            -73.0357489,
-            5.8362235
-          ],
-          [
-            -73.0354405,
-            5.8362738
+            -73.0436568,
+            5.8228302
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/398593297",
+      "id": "way/167253108",
       "properties": {
-        "@id": "way/398593297",
+        "@id": "way/167253108",
         "highway": "residential",
-        "name": "Calle 20",
-        "@timestamp": "2016-02-18T20:18:38Z",
-        "@version": "1",
-        "@changeset": "37296693",
+        "mechanical": "yes",
+        "name": "Carrera 14",
+        "source": "DANE",
+        "@timestamp": "2015-11-27T01:47:51Z",
+        "@version": "4",
+        "@changeset": "35603876",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -879,41 +633,43 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0284064,
-            5.8256701
+            -73.0441076,
+            5.8221277
           ],
           [
-            -73.0280625,
-            5.8249709
+            -73.0436568,
+            5.8228302
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/398593298",
+      "id": "way/343534916",
       "properties": {
-        "@id": "way/398593298",
-        "highway": "residential",
-        "name": "Calle 20",
-        "@timestamp": "2016-02-18T20:18:38Z",
-        "@version": "1",
-        "@changeset": "37296693",
+        "@id": "way/343534916",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-29T01:52:56Z",
+        "@version": "4",
+        "@changeset": "41767327",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -923,20 +679,158 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0280625,
-            5.8249709
+            -73.0393687,
+            5.8288037
           ],
           [
-            -73.0278041,
-            5.8246899
+            -73.0395234,
+            5.828425
           ],
           [
-            -73.0274506,
-            5.8243309
+            -73.0395929,
+            5.828293
           ],
           [
-            -73.0273521,
-            5.8242082
+            -73.0398541,
+            5.8278565
+          ],
+          [
+            -73.0402948,
+            5.8271925
+          ],
+          [
+            -73.0406172,
+            5.8269465
+          ],
+          [
+            -73.0408199,
+            5.826861
+          ],
+          [
+            -73.0409634,
+            5.8268383
+          ],
+          [
+            -73.0410865,
+            5.8268314
+          ],
+          [
+            -73.0420557,
+            5.8268496
+          ],
+          [
+            -73.0423086,
+            5.8268007
+          ],
+          [
+            -73.0426378,
+            5.8267187
+          ],
+          [
+            -73.0429111,
+            5.8265706
+          ],
+          [
+            -73.0430558,
+            5.8264487
+          ],
+          [
+            -73.0435918,
+            5.825568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343534917",
+      "properties": {
+        "@id": "way/343534917",
+        "admin_level": "9",
+        "boundary": "administrative",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2015-05-08T17:46:43Z",
+        "@version": "2",
+        "@changeset": "30916551",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594023",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Barrio el Recreo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0393475,
+            5.8288541
+          ],
+          [
+            -73.0393687,
+            5.8288037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398728308",
+      "properties": {
+        "@id": "way/398728308",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 10",
+        "source": "DANE",
+        "@timestamp": "2016-09-17T21:28:08Z",
+        "@version": "2",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594023",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Barrio el Recreo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0441536,
+            5.8258006
+          ],
+          [
+            -73.0441325,
+            5.8258511
           ]
         ]
       }
@@ -959,16 +853,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -1013,16 +907,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -1044,6 +938,130 @@
     },
     {
       "type": "Feature",
+      "id": "way/438700889",
+      "properties": {
+        "@id": "way/438700889",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594023",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Barrio el Recreo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0365509,
+            5.8332129
+          ],
+          [
+            -73.0367789,
+            5.8330828
+          ],
+          [
+            -73.0371227,
+            5.832818
+          ],
+          [
+            -73.0372778,
+            5.8326927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700891",
+      "properties": {
+        "@id": "way/438700891",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-29T01:52:56Z",
+        "@version": "2",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594023",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Barrio el Recreo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0372778,
+            5.8326927
+          ],
+          [
+            -73.0374485,
+            5.8324843
+          ],
+          [
+            -73.0377013,
+            5.8321312
+          ],
+          [
+            -73.0377492,
+            5.8320275
+          ],
+          [
+            -73.0385139,
+            5.8305758
+          ],
+          [
+            -73.0389595,
+            5.8296971
+          ],
+          [
+            -73.0390883,
+            5.8294294
+          ],
+          [
+            -73.0393475,
+            5.8288541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/438700900",
       "properties": {
         "@id": "way/438700900",
@@ -1057,16 +1075,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -1103,16 +1121,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -1134,574 +1152,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/438700921",
-      "properties": {
-        "@id": "way/438700921",
-        "highway": "residential",
-        "name": "Carrera 1D",
-        "surface": "paved",
-        "@timestamp": "2016-08-24T02:21:05Z",
-        "@version": "1",
-        "@changeset": "41651609",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.036124,
-            5.842281
-          ],
-          [
-            -73.0366924,
-            5.8425699
-          ],
-          [
-            -73.0369031,
-            5.8426083
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700929",
-      "properties": {
-        "@id": "way/438700929",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 44",
-        "@timestamp": "2016-08-27T16:08:18Z",
-        "@version": "2",
-        "@changeset": "41739229",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0172278,
-            5.8077533
-          ],
-          [
-            -73.0179828,
-            5.8072693
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700933",
-      "properties": {
-        "@id": "way/438700933",
-        "highway": "trunk",
-        "junction": "roundabout",
-        "lanes": "2",
-        "name": "Glorieta San Jose",
-        "oneway": "yes",
-        "@timestamp": "2016-09-10T22:10:19Z",
-        "@version": "3",
-        "@changeset": "42068031",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.02696,
-            5.8239743
-          ],
-          [
-            -73.0269887,
-            5.8240071
-          ],
-          [
-            -73.0270253,
-            5.8240308
-          ],
-          [
-            -73.0270671,
-            5.8240436
-          ],
-          [
-            -73.0271108,
-            5.8240445
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439378286",
-      "properties": {
-        "@id": "way/439378286",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 20",
-        "@timestamp": "2016-08-27T16:08:17Z",
-        "@version": "1",
-        "@changeset": "41739229",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0179828,
-            5.8072693
-          ],
-          [
-            -73.0175367,
-            5.80659
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439378290",
-      "properties": {
-        "@id": "way/439378290",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 45",
-        "@timestamp": "2016-08-27T16:08:18Z",
-        "@version": "1",
-        "@changeset": "41739229",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0181185,
-            5.8062142
-          ],
-          [
-            -73.0175367,
-            5.80659
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439380438",
-      "properties": {
-        "@id": "way/439380438",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 6",
-        "@timestamp": "2016-08-27T16:22:58Z",
-        "@version": "1",
-        "@changeset": "41739574",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0371043,
-            5.8359689
-          ],
-          [
-            -73.0364273,
-            5.8361004
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439380544",
-      "properties": {
-        "@id": "way/439380544",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 17A",
-        "oneway": "yes",
-        "@timestamp": "2016-08-27T16:25:11Z",
-        "@version": "1",
-        "@changeset": "41739615",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0354405,
-            5.8362738
-          ],
-          [
-            -73.0354226,
-            5.8361735
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439380545",
-      "properties": {
-        "@id": "way/439380545",
-        "highway": "residential",
-        "name": "Calle 18",
-        "@timestamp": "2016-09-17T20:43:38Z",
-        "@version": "2",
-        "@changeset": "42235177",
-        "@user": "Leonardo Pinzon Niño",
-        "@uid": "4416628",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0345553,
-            5.8377912
-          ],
-          [
-            -73.0345304,
-            5.837616
-          ],
-          [
-            -73.0343674,
-            5.8364705
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439380546",
-      "properties": {
-        "@id": "way/439380546",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 6",
-        "@timestamp": "2016-08-27T16:25:11Z",
-        "@version": "1",
-        "@changeset": "41739615",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0354226,
-            5.8361735
-          ],
-          [
-            -73.0343674,
-            5.8364705
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439381424",
-      "properties": {
-        "@id": "way/439381424",
-        "highway": "residential",
-        "name": "Calle 17A",
-        "@timestamp": "2016-08-27T16:29:57Z",
-        "@version": "1",
-        "@changeset": "41739718",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.036124,
-            5.842281
-          ],
-          [
-            -73.0360632,
-            5.8415768
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439381425",
-      "properties": {
-        "@id": "way/439381425",
-        "highway": "residential",
-        "name": "Carrera 2A",
-        "@timestamp": "2016-08-27T16:29:57Z",
-        "@version": "1",
-        "@changeset": "41739718",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0367979,
-            5.8415394
-          ],
-          [
-            -73.0360632,
-            5.8415768
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439534438",
-      "properties": {
-        "@id": "way/439534438",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 16",
-        "@timestamp": "2016-08-28T16:24:00Z",
-        "@version": "1",
-        "@changeset": "41759242",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0365509,
-            5.8332129
-          ],
-          [
-            -73.0366461,
-            5.8335187
-          ],
-          [
-            -73.0367439,
-            5.8338948
-          ],
-          [
-            -73.0367591,
-            5.8339573
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/439534442",
       "properties": {
         "@id": "way/439534442",
@@ -1716,16 +1166,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -1755,12 +1205,12 @@
     },
     {
       "type": "Feature",
-      "id": "way/439534445",
+      "id": "way/439534451",
       "properties": {
-        "@id": "way/439534445",
+        "@id": "way/439534451",
         "highway": "residential",
         "mechanical": "yes",
-        "name": "Calle 21",
+        "name": "Carrera 43",
         "@timestamp": "2016-08-28T16:24:01Z",
         "@version": "1",
         "@changeset": "41759242",
@@ -1769,16 +1219,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -1792,38 +1242,41 @@
             5.8084427
           ],
           [
-            -73.0172278,
-            5.8077533
+            -73.0172431,
+            5.808747
+          ],
+          [
+            -73.0165712,
+            5.8092031
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/440526942",
+      "id": "way/439541133",
       "properties": {
-        "@id": "way/440526942",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 16",
-        "@timestamp": "2016-09-03T21:47:48Z",
+        "@id": "way/439541133",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-08-28T17:37:24Z",
         "@version": "1",
-        "@changeset": "41897352",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
+        "@changeset": "41760790",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -1833,12 +1286,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0367591,
-            5.8339573
+            -73.0250575,
+            5.8289486
           ],
           [
-            -73.0367998,
-            5.8340708
+            -73.0249698,
+            5.8289087
           ]
         ]
       }
@@ -1861,16 +1314,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -1924,16 +1377,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -1949,6 +1402,112 @@
           [
             -73.0197178,
             5.816514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693923",
+      "properties": {
+        "@id": "way/440693923",
+        "highway": "trunk",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T22:30:43Z",
+        "@version": "2",
+        "@changeset": "42068256",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594023",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Barrio el Recreo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.02696,
+            5.8239743
+          ],
+          [
+            -73.0269779,
+            5.82406
+          ],
+          [
+            -73.0265905,
+            5.824943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693927",
+      "properties": {
+        "@id": "way/440693927",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:47Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594023",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Barrio el Recreo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0286118,
+            5.8273123
+          ],
+          [
+            -73.0282898,
+            5.8273558
+          ],
+          [
+            -73.0279844,
+            5.8274976
+          ],
+          [
+            -73.0277062,
+            5.8276234
           ]
         ]
       }
@@ -1971,16 +1530,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -2024,16 +1583,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -2069,16 +1628,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -2108,57 +1667,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/441828185",
-      "properties": {
-        "@id": "way/441828185",
-        "highway": "trunk",
-        "lanes": "2",
-        "oneway": "yes",
-        "ref": "62",
-        "surface": "asphalt",
-        "@timestamp": "2016-09-10T19:45:09Z",
-        "@version": "1",
-        "@changeset": "42065792",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0181399,
-            5.8091295
-          ],
-          [
-            -73.0175859,
-            5.8092638
-          ],
-          [
-            -73.016764,
-            5.8094795
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/441828188",
       "properties": {
         "@id": "way/441828188",
@@ -2175,16 +1683,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -2218,29 +1726,30 @@
     },
     {
       "type": "Feature",
-      "id": "way/441846060",
+      "id": "way/441828210",
       "properties": {
-        "@id": "way/441846060",
+        "@id": "way/441828210",
         "highway": "residential",
-        "name": "Calle 20",
-        "@timestamp": "2016-09-10T21:58:59Z",
+        "mechanical": "yes",
+        "name": "Calle 21C",
+        "@timestamp": "2016-09-10T19:45:12Z",
         "@version": "1",
-        "@changeset": "42067932",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -2250,12 +1759,150 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0287008,
-            5.8263187
+            -73.016764,
+            5.8094795
           ],
           [
-            -73.0284064,
-            5.8256701
+            -73.0165712,
+            5.8092031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828224",
+      "properties": {
+        "@id": "way/441828224",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 10",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T19:45:13Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594023",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Barrio el Recreo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0447731,
+            5.8243107
+          ],
+          [
+            -73.0444773,
+            5.8249149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441838205",
+      "properties": {
+        "@id": "way/441838205",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 10",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T20:59:49Z",
+        "@version": "1",
+        "@changeset": "42067075",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594023",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Barrio el Recreo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.044558,
+            5.8249567
+          ],
+          [
+            -73.0443835,
+            5.8253377
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441838208",
+      "properties": {
+        "@id": "way/441838208",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:28:08Z",
+        "@version": "3",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594023",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Barrio el Recreo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0435918,
+            5.825568
+          ],
+          [
+            -73.0441325,
+            5.8258511
           ]
         ]
       }
@@ -2278,16 +1925,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -2303,53 +1950,6 @@
           [
             -73.0269437,
             5.8238366
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/441847935",
-      "properties": {
-        "@id": "way/441847935",
-        "highway": "trunk",
-        "junction": "roundabout",
-        "lanes": "2",
-        "name": "Glorieta San Jose",
-        "oneway": "yes",
-        "@timestamp": "2016-09-10T22:10:16Z",
-        "@version": "1",
-        "@changeset": "42068031",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0271108,
-            5.8240445
-          ],
-          [
-            -73.0271519,
-            5.8240339
           ]
         ]
       }
@@ -2372,16 +1972,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -2433,16 +2033,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -2464,6 +2064,100 @@
     },
     {
       "type": "Feature",
+      "id": "way/441850467",
+      "properties": {
+        "@id": "way/441850467",
+        "highway": "trunk",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T22:30:42Z",
+        "@version": "1",
+        "@changeset": "42068256",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594023",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Barrio el Recreo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0265905,
+            5.824943
+          ],
+          [
+            -73.0264345,
+            5.8252914
+          ],
+          [
+            -73.0262092,
+            5.8258505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442174188",
+      "properties": {
+        "@id": "way/442174188",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:42Z",
+        "@version": "1",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594023",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Barrio el Recreo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0277062,
+            5.8276234
+          ],
+          [
+            -73.027289,
+            5.8278165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/442225423",
       "properties": {
         "@id": "way/442225423",
@@ -2479,16 +2173,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -2510,6 +2204,54 @@
     },
     {
       "type": "Feature",
+      "id": "way/442460287",
+      "properties": {
+        "@id": "way/442460287",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-14T16:41:54Z",
+        "@version": "1",
+        "@changeset": "42153968",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594023",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Barrio el Recreo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.027289,
+            5.8278165
+          ],
+          [
+            -73.025944,
+            5.8284132
+          ],
+          [
+            -73.0256358,
+            5.8285678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/442960908",
       "properties": {
         "@id": "way/442960908",
@@ -2524,16 +2266,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -2559,29 +2301,31 @@
     },
     {
       "type": "Feature",
-      "id": "way/442964279",
+      "id": "way/442968767",
       "properties": {
-        "@id": "way/442964279",
+        "@id": "way/442968767",
         "highway": "residential",
-        "name": "Calle 18",
-        "@timestamp": "2016-09-17T20:43:35Z",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:28:04Z",
         "@version": "1",
-        "@changeset": "42235177",
-        "@user": "Leonardo Pinzon Niño",
-        "@uid": "4416628",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -2591,12 +2335,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0345996,
-            5.8380617
+            -73.0444773,
+            5.8249149
           ],
           [
-            -73.0345553,
-            5.8377912
+            -73.044558,
+            5.8249567
           ]
         ]
       }
@@ -2619,16 +2363,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -2666,16 +2410,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525438",
+            "rel": "6594023",
             "reltags": {
               "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
+              "name": "B5 - Juan Grande - Barrio El Recreo",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
+              "ref": "B5",
               "route": "bus",
-              "to": "11 de Mayo",
+              "to": "Barrio el Recreo",
               "type": "route"
             }
           }
@@ -2703,55 +2447,6 @@
           [
             -73.0269442,
             5.8237208
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/444202395",
-      "properties": {
-        "@id": "way/444202395",
-        "fixme": "Investigar nombre y campo",
-        "highway": "residential",
-        "surface": "paved",
-        "@timestamp": "2016-09-24T21:47:18Z",
-        "@version": "1",
-        "@changeset": "42412875",
-        "@user": "Leonardo Pinzon Niño",
-        "@uid": "4416628",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525438",
-            "reltags": {
-              "from": "Juan Grande",
-              "name": "A1 - Juan Grande - Once de Mayo",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "11 de Mayo",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0369031,
-            5.8426083
-          ],
-          [
-            -73.0370346,
-            5.8428702
-          ],
-          [
-            -73.0371424,
-            5.8430848
           ]
         ]
       }
@@ -2814,6 +2509,26 @@
         "coordinates": [
           -73.0291955,
           5.8272507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326518191",
+      "properties": {
+        "@id": "node/326518191",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-08-29T01:52:57Z",
+        "@version": "15",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0377492,
+          5.8320275
         ]
       }
     },
@@ -2901,6 +2616,47 @@
     },
     {
       "type": "Feature",
+      "id": "node/539157559",
+      "properties": {
+        "@id": "node/539157559",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "9",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0435918,
+          5.825568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/579961502",
+      "properties": {
+        "@id": "node/579961502",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-03-24T16:24:11Z",
+        "@version": "4",
+        "@changeset": "21288226",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0250575,
+          5.8289486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/669182154",
       "properties": {
         "@id": "node/669182154",
@@ -2921,12 +2677,12 @@
     },
     {
       "type": "Feature",
-      "id": "node/865741678",
+      "id": "node/2739745700",
       "properties": {
-        "@id": "node/865741678",
+        "@id": "node/2739745700",
         "highway": "traffic_signals",
-        "@timestamp": "2014-03-24T16:24:11Z",
-        "@version": "3",
+        "@timestamp": "2014-03-24T16:24:10Z",
+        "@version": "1",
         "@changeset": "21288226",
         "@user": "ikks",
         "@uid": "37987"
@@ -2934,8 +2690,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.0280625,
-          5.8249709
+          -73.0249698,
+          5.8289087
         ]
       }
     }

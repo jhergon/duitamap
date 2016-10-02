@@ -1,0 +1,1884 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:12:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29627638",
+      "properties": {
+        "@id": "way/29627638",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "28",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0299809,
+            5.8111521
+          ],
+          [
+            -73.0303214,
+            5.8116977
+          ],
+          [
+            -73.0305638,
+            5.8120259
+          ],
+          [
+            -73.0306625,
+            5.8121844
+          ],
+          [
+            -73.0308616,
+            5.8125196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42500683",
+      "properties": {
+        "@id": "way/42500683",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:52Z",
+        "@version": "30",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0317204,
+            5.8137827
+          ],
+          [
+            -73.0323574,
+            5.8147917
+          ],
+          [
+            -73.0327144,
+            5.8153352
+          ],
+          [
+            -73.0330112,
+            5.8157935
+          ],
+          [
+            -73.0334627,
+            5.8164892
+          ],
+          [
+            -73.0334956,
+            5.8165391
+          ],
+          [
+            -73.0335243,
+            5.8165853
+          ],
+          [
+            -73.0338912,
+            5.8171553
+          ],
+          [
+            -73.0343663,
+            5.8178878
+          ],
+          [
+            -73.0349997,
+            5.8188519
+          ],
+          [
+            -73.0352799,
+            5.8192853
+          ],
+          [
+            -73.0357712,
+            5.8200495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42745569",
+      "properties": {
+        "@id": "way/42745569",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:21:52Z",
+        "@version": "16",
+        "@changeset": "42068164",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0312119,
+            5.8131757
+          ],
+          [
+            -73.0312345,
+            5.8132075
+          ],
+          [
+            -73.0312653,
+            5.8132315
+          ],
+          [
+            -73.0313016,
+            5.8132459
+          ],
+          [
+            -73.0313405,
+            5.8132494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54767839",
+      "properties": {
+        "@id": "way/54767839",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "8",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0364134,
+            5.8226864
+          ],
+          [
+            -73.0360062,
+            5.8229423
+          ],
+          [
+            -73.0354548,
+            5.8232614
+          ],
+          [
+            -73.0348511,
+            5.8236454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54849028",
+      "properties": {
+        "@id": "way/54849028",
+        "highway": "secondary",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T13:00:55Z",
+        "@version": "10",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0389018,
+            5.824864
+          ],
+          [
+            -73.0393687,
+            5.8246932
+          ],
+          [
+            -73.0395352,
+            5.8246227
+          ],
+          [
+            -73.0403931,
+            5.8245061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201390568",
+      "properties": {
+        "@id": "way/201390568",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T13:00:55Z",
+        "@version": "5",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0471095,
+            5.8270512
+          ],
+          [
+            -73.0475857,
+            5.8271668
+          ],
+          [
+            -73.048269,
+            5.827435
+          ],
+          [
+            -73.0486608,
+            5.8275904
+          ],
+          [
+            -73.0489969,
+            5.8277911
+          ],
+          [
+            -73.0491762,
+            5.8278811
+          ],
+          [
+            -73.0495697,
+            5.8280385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340966039",
+      "properties": {
+        "@id": "way/340966039",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T13:00:55Z",
+        "@version": "4",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0412192,
+            5.8244131
+          ],
+          [
+            -73.0416425,
+            5.8243761
+          ],
+          [
+            -73.0420056,
+            5.8244792
+          ],
+          [
+            -73.0422937,
+            5.8246372
+          ],
+          [
+            -73.0423871,
+            5.824707
+          ],
+          [
+            -73.0427326,
+            5.8249803
+          ],
+          [
+            -73.0428573,
+            5.8250688
+          ],
+          [
+            -73.0432192,
+            5.8253414
+          ],
+          [
+            -73.0434882,
+            5.8255125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371417725",
+      "properties": {
+        "@id": "way/371417725",
+        "highway": "residential",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:58Z",
+        "@version": "3",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0347745,
+            5.8266983
+          ],
+          [
+            -73.0354509,
+            5.8263361
+          ],
+          [
+            -73.0361089,
+            5.8259696
+          ],
+          [
+            -73.0367514,
+            5.8256128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378744145",
+      "properties": {
+        "@id": "way/378744145",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2015-11-06T19:53:36Z",
+        "@version": "1",
+        "@changeset": "35134072",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0388357,
+            5.8248803
+          ],
+          [
+            -73.0389018,
+            5.824864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378744146",
+      "properties": {
+        "@id": "way/378744146",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:41Z",
+        "@version": "2",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0384506,
+            5.8249836
+          ],
+          [
+            -73.038718,
+            5.8248719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378746722",
+      "properties": {
+        "@id": "way/378746722",
+        "highway": "secondary",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T13:00:54Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0403931,
+            5.8245061
+          ],
+          [
+            -73.0412192,
+            5.8244131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534441",
+      "properties": {
+        "@id": "way/439534441",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:24:01Z",
+        "@version": "1",
+        "@changeset": "41759242",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0313643,
+            5.8257459
+          ],
+          [
+            -73.0318139,
+            5.8264591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534449",
+      "properties": {
+        "@id": "way/439534449",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "2",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0334975,
+            5.8244535
+          ],
+          [
+            -73.0327409,
+            5.8249048
+          ],
+          [
+            -73.0320205,
+            5.8253771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439541134",
+      "properties": {
+        "@id": "way/439541134",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-28T17:37:24Z",
+        "@version": "1",
+        "@changeset": "41760790",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0495697,
+            5.8280385
+          ],
+          [
+            -73.0497483,
+            5.8281202
+          ],
+          [
+            -73.0499151,
+            5.8282368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439541135",
+      "properties": {
+        "@id": "way/439541135",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T10:05:48Z",
+        "@version": "3",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0450717,
+            5.8263307
+          ],
+          [
+            -73.0455481,
+            5.8265559
+          ],
+          [
+            -73.0461198,
+            5.8268006
+          ],
+          [
+            -73.0465228,
+            5.8269296
+          ],
+          [
+            -73.0471095,
+            5.8270512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695708",
+      "properties": {
+        "@id": "way/440695708",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:53Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0313405,
+            5.8132494
+          ],
+          [
+            -73.031519,
+            5.8134553
+          ],
+          [
+            -73.0316347,
+            5.813644
+          ],
+          [
+            -73.0317204,
+            5.8137827
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695716",
+      "properties": {
+        "@id": "way/440695716",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:16Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318139,
+            5.8264591
+          ],
+          [
+            -73.0322052,
+            5.827182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695730",
+      "properties": {
+        "@id": "way/440695730",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:17Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0371807,
+            5.8222013
+          ],
+          [
+            -73.0364134,
+            5.8226864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440696701",
+      "properties": {
+        "@id": "way/440696701",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:39Z",
+        "@version": "1",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.038718,
+            5.8248719
+          ],
+          [
+            -73.0388357,
+            5.8248803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828253",
+      "properties": {
+        "@id": "way/441828253",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:16Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0434882,
+            5.8255125
+          ],
+          [
+            -73.0435918,
+            5.825568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441838208",
+      "properties": {
+        "@id": "way/441838208",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:28:08Z",
+        "@version": "3",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0435918,
+            5.825568
+          ],
+          [
+            -73.0441325,
+            5.8258511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441843297",
+      "properties": {
+        "@id": "way/441843297",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:37:45Z",
+        "@version": "1",
+        "@changeset": "42067661",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0357712,
+            5.8200495
+          ],
+          [
+            -73.0362563,
+            5.8207885
+          ],
+          [
+            -73.0367083,
+            5.8214804
+          ],
+          [
+            -73.0371807,
+            5.8222013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845930",
+      "properties": {
+        "@id": "way/441845930",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:22Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0284734,
+            5.8088354
+          ],
+          [
+            -73.028962,
+            5.8095892
+          ],
+          [
+            -73.0299809,
+            5.8111521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845931",
+      "properties": {
+        "@id": "way/441845931",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:52Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0308616,
+            5.8125196
+          ],
+          [
+            -73.0310211,
+            5.8127781
+          ],
+          [
+            -73.0312002,
+            5.8130141
+          ],
+          [
+            -73.0312147,
+            5.8130474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845939",
+      "properties": {
+        "@id": "way/441845939",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0320205,
+            5.8253771
+          ],
+          [
+            -73.0313643,
+            5.8257459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845940",
+      "properties": {
+        "@id": "way/441845940",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0348511,
+            5.8236454
+          ],
+          [
+            -73.0345,
+            5.8238511
+          ],
+          [
+            -73.0341655,
+            5.8240483
+          ],
+          [
+            -73.0334975,
+            5.8244535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845948",
+      "properties": {
+        "@id": "way/441845948",
+        "highway": "residential",
+        "name": "Carrera 38",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0286014,
+            5.8088124
+          ],
+          [
+            -73.0284734,
+            5.8088354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850009",
+      "properties": {
+        "@id": "way/441850009",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:21:51Z",
+        "@version": "1",
+        "@changeset": "42068164",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0312147,
+            5.8130474
+          ],
+          [
+            -73.0311994,
+            5.8130891
+          ],
+          [
+            -73.0311984,
+            5.8131334
+          ],
+          [
+            -73.0312119,
+            5.8131757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850409",
+      "properties": {
+        "@id": "way/441850409",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322052,
+            5.827182
+          ],
+          [
+            -73.0326266,
+            5.8279547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850567",
+      "properties": {
+        "@id": "way/441850567",
+        "highway": "residential",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:55Z",
+        "@version": "1",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0367514,
+            5.8256128
+          ],
+          [
+            -73.0379468,
+            5.8251415
+          ],
+          [
+            -73.0383149,
+            5.8249957
+          ],
+          [
+            -73.0384506,
+            5.8249836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850568",
+      "properties": {
+        "@id": "way/441850568",
+        "highway": "residential",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-12T15:48:24Z",
+        "@version": "2",
+        "@changeset": "42104015",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0326266,
+            5.8279547
+          ],
+          [
+            -73.0333432,
+            5.8275446
+          ],
+          [
+            -73.0340242,
+            5.8271213
+          ],
+          [
+            -73.0347745,
+            5.8266983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442968769",
+      "properties": {
+        "@id": "way/442968769",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:28:05Z",
+        "@version": "1",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6581632",
+            "reltags": {
+              "from": "Postobon",
+              "name": "A8 - Postobon - Cerro Pino",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A8",
+              "route": "bus",
+              "to": "Cerro Pino",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0441325,
+            5.8258511
+          ],
+          [
+            -73.0450717,
+            5.8263307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266521",
+      "properties": {
+        "@id": "node/326266521",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "18",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0318139,
+          5.8264591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326269716",
+      "properties": {
+        "@id": "node/326269716",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:56Z",
+        "@version": "33",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0371807,
+          5.8222013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400545",
+      "properties": {
+        "@id": "node/334400545",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "7",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0347745,
+          5.8266983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334402551",
+      "properties": {
+        "@id": "node/334402551",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0340242,
+          5.8271213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/336834036",
+      "properties": {
+        "@id": "node/336834036",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "8",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0333432,
+          5.8275446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157550",
+      "properties": {
+        "@id": "node/539157550",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "10",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0434882,
+          5.8255125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157559",
+      "properties": {
+        "@id": "node/539157559",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "9",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0435918,
+          5.825568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669182154",
+      "properties": {
+        "@id": "node/669182154",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0322052,
+          5.827182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669182158",
+      "properties": {
+        "@id": "node/669182158",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "5",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0313643,
+          5.8257459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1132052360",
+      "properties": {
+        "@id": "node/1132052360",
+        "railway": "level_crossing",
+        "@timestamp": "2016-09-13T13:00:56Z",
+        "@version": "3",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0316347,
+          5.813644
+        ]
+      }
+    }
+  ]
+}

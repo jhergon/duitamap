@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2016-10-02T02:37:02Z",
+  "timestamp": "2016-10-02T02:18:03Z",
   "features": [
     {
       "type": "Feature",
@@ -20,16 +20,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -82,16 +81,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -133,30 +131,31 @@
     },
     {
       "type": "Feature",
-      "id": "way/42738529",
+      "id": "way/32571431",
       "properties": {
-        "@id": "way/42738529",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 19",
-        "@timestamp": "2016-09-26T22:46:26Z",
-        "@version": "9",
-        "@changeset": "42458255",
+        "@id": "way/32571431",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T21:28:21Z",
+        "@version": "43",
+        "@changeset": "42067491",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -166,42 +165,52 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0197882,
-            5.8087659
+            -73.0324817,
+            5.8060441
           ],
           [
-            -73.0191297,
-            5.8080243
+            -73.0353876,
+            5.8053926
+          ],
+          [
+            -73.0364323,
+            5.8051573
+          ],
+          [
+            -73.0375442,
+            5.8049188
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/45564743",
+      "id": "way/42745571",
       "properties": {
-        "@id": "way/45564743",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 17A",
-        "@timestamp": "2016-09-17T21:12:59Z",
-        "@version": "13",
-        "@changeset": "42235672",
+        "@id": "way/42745571",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-08-28T22:27:27Z",
+        "@version": "6",
+        "@changeset": "41765578",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -211,41 +220,72 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0356053,
-            5.837933
+            -73.0432392,
+            5.7971434
           ],
           [
-            -73.035517,
-            5.8369045
+            -73.0432499,
+            5.7970135
+          ],
+          [
+            -73.0432399,
+            5.7969486
+          ],
+          [
+            -73.0432224,
+            5.796911
+          ],
+          [
+            -73.0431787,
+            5.7968781
+          ],
+          [
+            -73.0431321,
+            5.7968733
+          ],
+          [
+            -73.04307,
+            5.7968926
+          ],
+          [
+            -73.0430214,
+            5.7969351
+          ],
+          [
+            -73.0429816,
+            5.7970105
+          ],
+          [
+            -73.0429438,
+            5.7970944
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/129692197",
+      "id": "way/43086512",
       "properties": {
-        "@id": "way/129692197",
-        "highway": "residential",
-        "name": "Calle 17A",
-        "@timestamp": "2016-08-27T16:29:57Z",
-        "@version": "7",
-        "@changeset": "41739718",
+        "@id": "way/43086512",
+        "highway": "secondary",
+        "ref": "Via al Pantano",
+        "@timestamp": "2016-05-17T15:51:57Z",
+        "@version": "6",
+        "@changeset": "39380367",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -255,70 +295,172 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0360632,
-            5.8415768
+            -73.0418082,
+            5.8000734
           ],
           [
-            -73.0359747,
-            5.8409699
+            -73.0418151,
+            5.7996732
           ],
           [
-            -73.0359064,
-            5.8403847
+            -73.041785,
+            5.7967641
           ],
           [
-            -73.0358487,
-            5.8398667
+            -73.041785,
+            5.7956537
           ],
           [
-            -73.0358163,
-            5.8395843
+            -73.0419231,
+            5.7953293
           ],
           [
-            -73.0357909,
-            5.8393131
+            -73.0424757,
+            5.7947576
           ],
           [
-            -73.0357882,
-            5.8391757
+            -73.0430393,
+            5.7942628
           ],
           [
-            -73.0357599,
-            5.8389576
+            -73.043625,
+            5.794021
           ],
           [
-            -73.0356541,
-            5.8384957
+            -73.0440339,
+            5.7938395
+          ],
+          [
+            -73.0443323,
+            5.7936142
+          ],
+          [
+            -73.0446427,
+            5.7932782
+          ],
+          [
+            -73.0448351,
+            5.7930699
+          ],
+          [
+            -73.0506648,
+            5.786615
+          ],
+          [
+            -73.0517615,
+            5.784976
+          ],
+          [
+            -73.0518234,
+            5.7846534
+          ],
+          [
+            -73.0519841,
+            5.783877
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/165401496",
+      "id": "way/54131811",
       "properties": {
-        "@id": "way/165401496",
-        "fixme": "Investigar nombre y campo",
+        "@id": "way/54131811",
+        "highway": "secondary",
+        "ref": "Via Duitama - Pantano de Vargas",
+        "@timestamp": "2014-11-24T12:40:37Z",
+        "@version": "6",
+        "@changeset": "26995477",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594044",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Urb Paraiso",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0507029,
+            5.7739649
+          ],
+          [
+            -73.0506591,
+            5.7740075
+          ],
+          [
+            -73.0506196,
+            5.7740459
+          ],
+          [
+            -73.050607,
+            5.7742171
+          ],
+          [
+            -73.0506378,
+            5.7743186
+          ],
+          [
+            -73.0536278,
+            5.7775325
+          ],
+          [
+            -73.0537373,
+            5.778168
+          ],
+          [
+            -73.0533042,
+            5.7793704
+          ],
+          [
+            -73.0525992,
+            5.7813273
+          ],
+          [
+            -73.0519841,
+            5.783877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/82117501",
+      "properties": {
+        "@id": "way/82117501",
         "highway": "residential",
-        "name": "Calle 18",
-        "@timestamp": "2016-08-24T02:21:12Z",
-        "@version": "8",
+        "name": "Calle 6",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:13Z",
+        "@version": "3",
         "@changeset": "41651609",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -328,52 +470,132 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0360865,
-            5.844645
+            -73.0322313,
+            5.8103348
           ],
           [
-            -73.0361248,
-            5.8452121
+            -73.0318675,
+            5.8096204
           ],
           [
-            -73.0362091,
-            5.8457599
+            -73.0317033,
+            5.809298
           ],
           [
-            -73.0362526,
-            5.8463872
+            -73.0314451,
+            5.8087909
           ],
           [
-            -73.0362145,
-            5.8465433
+            -73.0312778,
+            5.8084624
           ],
           [
-            -73.0361252,
-            5.8469094
+            -73.0310916,
+            5.8080968
           ],
           [
-            -73.0360204,
-            5.8471812
+            -73.0309319,
+            5.8077969
           ],
           [
-            -73.0359733,
-            5.8473034
+            -73.0308753,
+            5.80749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127670544",
+      "properties": {
+        "@id": "way/127670544",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:14Z",
+        "@version": "4",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594044",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Urb Paraiso",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322313,
+            5.8103348
           ],
           [
-            -73.0359358,
-            5.8474007
+            -73.0321548,
+            5.8104088
           ],
           [
-            -73.0359016,
-            5.8476788
+            -73.0320736,
+            5.8104763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/278967951",
+      "properties": {
+        "@id": "way/278967951",
+        "bridge": "yes",
+        "bridge:name": "Puente la Balsa",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "Puente La Balsa",
+        "ref": "Duitama - Pantano de Vargas",
+        "surface": "unpaved",
+        "@timestamp": "2014-12-21T08:23:31Z",
+        "@version": "5",
+        "@changeset": "27603746",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594044",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Urb Paraiso",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0510368,
+            5.7736823
           ],
           [
-            -73.035973,
-            5.8479755
-          ],
-          [
-            -73.0359778,
-            5.848147
+            -73.0507029,
+            5.7739649
           ]
         ]
       }
@@ -394,16 +616,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -447,16 +668,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -506,102 +726,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/341878041",
-      "properties": {
-        "@id": "way/341878041",
-        "highway": "residential",
-        "name": "Calle 17",
-        "@timestamp": "2015-04-30T19:45:11Z",
-        "@version": "1",
-        "@changeset": "30670723",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0356541,
-            5.8384957
-          ],
-          [
-            -73.0356053,
-            5.837933
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/341917189",
-      "properties": {
-        "@id": "way/341917189",
-        "highway": "residential",
-        "name": "Calle 17",
-        "@timestamp": "2016-08-28T16:24:05Z",
-        "@version": "4",
-        "@changeset": "41759242",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0360505,
-            5.8340572
-          ],
-          [
-            -73.0360959,
-            5.8342861
-          ],
-          [
-            -73.0361718,
-            5.834687
-          ],
-          [
-            -73.0362229,
-            5.83498
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/371395864",
       "properties": {
         "@id": "way/371395864",
@@ -616,16 +740,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -670,16 +793,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -716,16 +838,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -770,16 +891,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -801,6 +921,57 @@
     },
     {
       "type": "Feature",
+      "id": "way/378942574",
+      "properties": {
+        "@id": "way/378942574",
+        "highway": "service",
+        "service": "parking_aisle",
+        "@timestamp": "2016-09-10T21:23:49Z",
+        "@version": "3",
+        "@changeset": "42067425",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594044",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Urb Paraiso",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0324817,
+            5.8060441
+          ],
+          [
+            -73.0322787,
+            5.8062084
+          ],
+          [
+            -73.0321755,
+            5.8062434
+          ],
+          [
+            -73.0320935,
+            5.8062807
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/398590360",
       "properties": {
         "@id": "way/398590360",
@@ -815,16 +986,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -846,94 +1016,29 @@
     },
     {
       "type": "Feature",
-      "id": "way/438700883",
+      "id": "way/418996575",
       "properties": {
-        "@id": "way/438700883",
-        "highway": "trunk",
-        "lanes": "2",
-        "oneway": "yes",
-        "ref": "A1",
-        "surface": "asphalt",
-        "@timestamp": "2016-09-12T10:02:38Z",
-        "@version": "6",
-        "@changeset": "42096173",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0273195,
-            5.807104
-          ],
-          [
-            -73.025747,
-            5.8074527
-          ],
-          [
-            -73.0256637,
-            5.8074664
-          ],
-          [
-            -73.0250055,
-            5.807598
-          ],
-          [
-            -73.0245397,
-            5.8077062
-          ],
-          [
-            -73.0229483,
-            5.8080521
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700887",
-      "properties": {
-        "@id": "way/438700887",
+        "@id": "way/418996575",
         "highway": "secondary",
-        "name": "Avenida Circunvalar",
         "oneway": "yes",
-        "surface": "paved",
-        "@timestamp": "2016-08-24T02:21:03Z",
+        "ref": "Via al Pantano",
+        "@timestamp": "2016-05-17T15:51:57Z",
         "@version": "1",
-        "@changeset": "41651609",
+        "@changeset": "39380367",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -943,141 +1048,53 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0358573,
-            5.8336103
+            -73.0420954,
+            5.800138
           ],
           [
-            -73.0365509,
-            5.8332129
+            -73.0420388,
+            5.8002269
+          ],
+          [
+            -73.0419625,
+            5.800258
+          ],
+          [
+            -73.0418862,
+            5.8002114
+          ],
+          [
+            -73.0418082,
+            5.8000734
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/438700889",
+      "id": "way/422033554",
       "properties": {
-        "@id": "way/438700889",
-        "highway": "secondary",
-        "name": "Avenida Circunvalar",
-        "oneway": "yes",
-        "surface": "paved",
-        "@timestamp": "2016-08-24T02:21:03Z",
-        "@version": "1",
-        "@changeset": "41651609",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0365509,
-            5.8332129
-          ],
-          [
-            -73.0367789,
-            5.8330828
-          ],
-          [
-            -73.0371227,
-            5.832818
-          ],
-          [
-            -73.0372778,
-            5.8326927
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700893",
-      "properties": {
-        "@id": "way/438700893",
-        "highway": "secondary",
-        "name": "Avenida de las Americas",
-        "oneway": "yes",
-        "@timestamp": "2016-09-12T15:39:42Z",
-        "@version": "3",
-        "@changeset": "42103814",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0301141,
-            5.8111116
-          ],
-          [
-            -73.0286014,
-            5.8088124
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700897",
-      "properties": {
-        "@id": "way/438700897",
+        "@id": "way/422033554",
         "highway": "residential",
-        "name": "Calle 15",
-        "oneway": "yes",
-        "@timestamp": "2016-08-24T02:21:03Z",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-05-31T15:18:04Z",
         "@version": "1",
-        "@changeset": "41651609",
+        "@changeset": "39691178",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -1087,93 +1104,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0372778,
-            5.8326927
+            -73.0320736,
+            5.8104763
           ],
           [
-            -73.0372555,
-            5.8326601
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700903",
-      "properties": {
-        "@id": "way/438700903",
-        "fixme": "Investigar nombre y campo",
-        "highway": "residential",
-        "name": "Calle 18",
-        "@timestamp": "2016-08-24T02:21:04Z",
-        "@version": "1",
-        "@changeset": "41651609",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0355601,
-            5.8420126
-          ],
-          [
-            -73.0355902,
-            5.8423848
-          ],
-          [
-            -73.0356174,
-            5.842705
-          ],
-          [
-            -73.0356527,
-            5.8430285
-          ],
-          [
-            -73.0357363,
-            5.8432943
-          ],
-          [
-            -73.035753,
-            5.8433473
-          ],
-          [
-            -73.0357784,
-            5.843536
-          ],
-          [
-            -73.0358137,
-            5.8437078
-          ],
-          [
-            -73.0358888,
-            5.8440437
-          ],
-          [
-            -73.0359606,
-            5.8443161
-          ],
-          [
-            -73.0360865,
-            5.844645
+            -73.0319889,
+            5.8105051
           ]
         ]
       }
@@ -1194,16 +1130,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -1225,30 +1160,29 @@
     },
     {
       "type": "Feature",
-      "id": "way/438700909",
+      "id": "way/438700916",
       "properties": {
-        "@id": "way/438700909",
+        "@id": "way/438700916",
         "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 19",
-        "@timestamp": "2016-08-27T16:08:18Z",
-        "@version": "2",
-        "@changeset": "41739229",
+        "name": "Calle 6",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -1258,12 +1192,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.018514,
-            5.8069099
+            -73.0308753,
+            5.80749
           ],
           [
-            -73.0181185,
-            5.8062142
+            -73.0307242,
+            5.8064564
           ]
         ]
       }
@@ -1285,16 +1219,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -1331,16 +1264,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -1374,6 +1306,62 @@
     },
     {
       "type": "Feature",
+      "id": "way/438700926",
+      "properties": {
+        "@id": "way/438700926",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594044",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Urb Paraiso",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0319889,
+            5.8105051
+          ],
+          [
+            -73.0317761,
+            5.8105723
+          ],
+          [
+            -73.0306776,
+            5.8109266
+          ],
+          [
+            -73.0302353,
+            5.8110772
+          ],
+          [
+            -73.0301141,
+            5.8111116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/438700931",
       "properties": {
         "@id": "way/438700931",
@@ -1390,16 +1378,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -1429,503 +1416,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/439380544",
-      "properties": {
-        "@id": "way/439380544",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 17A",
-        "oneway": "yes",
-        "@timestamp": "2016-08-27T16:25:11Z",
-        "@version": "1",
-        "@changeset": "41739615",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0354405,
-            5.8362738
-          ],
-          [
-            -73.0354226,
-            5.8361735
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439381424",
-      "properties": {
-        "@id": "way/439381424",
-        "highway": "residential",
-        "name": "Calle 17A",
-        "@timestamp": "2016-08-27T16:29:57Z",
-        "@version": "1",
-        "@changeset": "41739718",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.036124,
-            5.842281
-          ],
-          [
-            -73.0360632,
-            5.8415768
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439382110",
-      "properties": {
-        "@id": "way/439382110",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 17A",
-        "oneway": "yes",
-        "@timestamp": "2016-08-27T16:38:14Z",
-        "@version": "1",
-        "@changeset": "41739877",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0354226,
-            5.8361735
-          ],
-          [
-            -73.0352953,
-            5.8351762
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439384042",
-      "properties": {
-        "@id": "way/439384042",
-        "highway": "residential",
-        "name": "Carrera 1D",
-        "surface": "paved",
-        "@timestamp": "2016-08-27T16:49:30Z",
-        "@version": "1",
-        "@changeset": "41740091",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0355601,
-            5.8420126
-          ],
-          [
-            -73.036124,
-            5.842281
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439384043",
-      "properties": {
-        "@id": "way/439384043",
-        "highway": "residential",
-        "name": "Carrera 7A",
-        "@timestamp": "2016-08-27T16:49:30Z",
-        "@version": "1",
-        "@changeset": "41740091",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0362229,
-            5.83498
-          ],
-          [
-            -73.0352953,
-            5.8351762
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439527915",
-      "properties": {
-        "@id": "way/439527915",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 17A",
-        "oneway": "yes",
-        "@timestamp": "2016-08-28T16:13:43Z",
-        "@version": "1",
-        "@changeset": "41759038",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.035517,
-            5.8369045
-          ],
-          [
-            -73.0354405,
-            5.8362738
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439534440",
-      "properties": {
-        "@id": "way/439534440",
-        "highway": "residential",
-        "name": "Calle 17",
-        "@timestamp": "2016-08-28T16:24:00Z",
-        "@version": "1",
-        "@changeset": "41759242",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0358573,
-            5.8336103
-          ],
-          [
-            -73.0360505,
-            5.8340572
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439534444",
-      "properties": {
-        "@id": "way/439534444",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 19",
-        "@timestamp": "2016-08-28T16:24:01Z",
-        "@version": "1",
-        "@changeset": "41759242",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0189115,
-            5.8076102
-          ],
-          [
-            -73.018514,
-            5.8069099
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439539949",
-      "properties": {
-        "@id": "way/439539949",
-        "highway": "residential",
-        "name": "Calle 15",
-        "oneway": "yes",
-        "@timestamp": "2016-08-28T17:22:08Z",
-        "@version": "1",
-        "@changeset": "41760523",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0372555,
-            5.8326601
-          ],
-          [
-            -73.0372298,
-            5.8326187
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/440526936",
-      "properties": {
-        "@id": "way/440526936",
-        "highway": "trunk",
-        "lanes": "2",
-        "oneway": "yes",
-        "ref": "A1",
-        "surface": "asphalt",
-        "@timestamp": "2016-09-03T21:47:48Z",
-        "@version": "1",
-        "@changeset": "41897352",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0274652,
-            5.8070692
-          ],
-          [
-            -73.0273195,
-            5.807104
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/440526937",
-      "properties": {
-        "@id": "way/440526937",
-        "highway": "secondary",
-        "name": "Avenida de las Americas",
-        "oneway": "yes",
-        "@timestamp": "2016-09-03T21:47:48Z",
-        "@version": "1",
-        "@changeset": "41897352",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0275292,
-            5.8071433
-          ],
-          [
-            -73.0274652,
-            5.8070692
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/440526941",
       "properties": {
         "@id": "way/440526941",
@@ -1940,16 +1430,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -1989,16 +1478,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -2020,6 +1508,72 @@
     },
     {
       "type": "Feature",
+      "id": "way/440695706",
+      "properties": {
+        "@id": "way/440695706",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-05T04:22:15Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594044",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Urb Paraiso",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0375442,
+            5.8049188
+          ],
+          [
+            -73.0375824,
+            5.8049106
+          ],
+          [
+            -73.0377519,
+            5.8048714
+          ],
+          [
+            -73.0389079,
+            5.8046224
+          ],
+          [
+            -73.0393693,
+            5.8044954
+          ],
+          [
+            -73.0395231,
+            5.8044475
+          ],
+          [
+            -73.0396542,
+            5.8044161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/440695709",
       "properties": {
         "@id": "way/440695709",
@@ -2035,16 +1589,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -2074,6 +1627,120 @@
     },
     {
       "type": "Feature",
+      "id": "way/441828184",
+      "properties": {
+        "@id": "way/441828184",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:09Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594044",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Urb Paraiso",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0307242,
+            5.8064564
+          ],
+          [
+            -73.0310922,
+            5.8063698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828270",
+      "properties": {
+        "@id": "way/441828270",
+        "highway": "secondary",
+        "ref": "Via Duitama - Pantano de Vargas",
+        "surface": "unpaved",
+        "@timestamp": "2016-09-10T19:45:18Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594044",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Urb Paraiso",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.058002,
+            5.7628352
+          ],
+          [
+            -73.0569214,
+            5.7639184
+          ],
+          [
+            -73.0568763,
+            5.7655122
+          ],
+          [
+            -73.056249,
+            5.7666718
+          ],
+          [
+            -73.0540286,
+            5.7685985
+          ],
+          [
+            -73.0529968,
+            5.7718576
+          ],
+          [
+            -73.0513029,
+            5.7734261
+          ],
+          [
+            -73.0510368,
+            5.7736823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/441839998",
       "properties": {
         "@id": "way/441839998",
@@ -2089,16 +1756,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -2120,6 +1786,96 @@
     },
     {
       "type": "Feature",
+      "id": "way/441841014",
+      "properties": {
+        "@id": "way/441841014",
+        "highway": "service",
+        "service": "parking_aisle",
+        "@timestamp": "2016-09-10T21:23:48Z",
+        "@version": "1",
+        "@changeset": "42067425",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594044",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Urb Paraiso",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0310922,
+            5.8063698
+          ],
+          [
+            -73.0313064,
+            5.8064258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441841015",
+      "properties": {
+        "@id": "way/441841015",
+        "highway": "service",
+        "service": "parking_aisle",
+        "@timestamp": "2016-09-10T21:23:48Z",
+        "@version": "1",
+        "@changeset": "42067425",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594044",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Urb Paraiso",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0313064,
+            5.8064258
+          ],
+          [
+            -73.0317332,
+            5.8063812
+          ],
+          [
+            -73.0320935,
+            5.8062807
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/441842632",
       "properties": {
         "@id": "way/441842632",
@@ -2135,16 +1891,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -2225,16 +1980,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -2283,16 +2037,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -2318,53 +2071,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/441846046",
-      "properties": {
-        "@id": "way/441846046",
-        "highway": "trunk",
-        "lanes": "2",
-        "oneway": "yes",
-        "ref": "A1",
-        "surface": "asphalt",
-        "@timestamp": "2016-09-12T10:02:38Z",
-        "@version": "2",
-        "@changeset": "42096173",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0227502,
-            5.8080996
-          ],
-          [
-            -73.0197882,
-            5.8087659
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/441850572",
       "properties": {
         "@id": "way/441850572",
@@ -2381,16 +2087,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -2420,32 +2125,32 @@
     },
     {
       "type": "Feature",
-      "id": "way/442032903",
+      "id": "way/442971045",
       "properties": {
-        "@id": "way/442032903",
+        "@id": "way/442971045",
         "highway": "trunk",
         "lanes": "2",
+        "name": "Troncal Central del Norte",
         "oneway": "yes",
-        "ref": "A1",
+        "ref": "55",
         "surface": "asphalt",
-        "@timestamp": "2016-09-12T10:02:37Z",
-        "@version": "1",
-        "@changeset": "42096173",
+        "@timestamp": "2016-09-17T22:09:58Z",
+        "@version": "2",
+        "@changeset": "42236573",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -2455,42 +2160,92 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0229483,
-            5.8080521
+            -73.0396542,
+            5.8044161
           ],
           [
-            -73.0227502,
-            5.8080996
+            -73.039996,
+            5.8042409
+          ],
+          [
+            -73.0402865,
+            5.8040601
+          ],
+          [
+            -73.0404334,
+            5.8039584
+          ],
+          [
+            -73.0406704,
+            5.8037586
+          ],
+          [
+            -73.0409544,
+            5.8034879
+          ],
+          [
+            -73.0411915,
+            5.8032304
+          ],
+          [
+            -73.0413636,
+            5.8029682
+          ],
+          [
+            -73.0415802,
+            5.8026023
+          ],
+          [
+            -73.0417556,
+            5.8021732
+          ],
+          [
+            -73.0419767,
+            5.8012752
+          ],
+          [
+            -73.0427925,
+            5.798079
+          ],
+          [
+            -73.0428265,
+            5.7979458
+          ],
+          [
+            -73.0432392,
+            5.7971434
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/442079224",
+      "id": "way/442971046",
       "properties": {
-        "@id": "way/442079224",
-        "highway": "secondary",
-        "name": "Avenida de las Americas",
+        "@id": "way/442971046",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
         "oneway": "yes",
-        "@timestamp": "2016-09-12T15:39:38Z",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-17T22:03:23Z",
         "@version": "1",
-        "@changeset": "42103814",
+        "@changeset": "42236456",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6525439",
+            "rel": "6594044",
             "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
+              "from": "Colegio Seminario",
+              "name": "B7 - Colegio Seminario - Urb Paraiso",
               "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
+              "operator": "Cootraheroes",
               "public_transport:version": "2",
-              "ref": "A1",
               "route": "bus",
-              "to": "Juan Grande",
+              "to": "Urb Paraiso",
               "type": "route"
             }
           }
@@ -2500,78 +2255,33 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0286014,
-            5.8088124
+            -73.0429438,
+            5.7970944
           ],
           [
-            -73.0275292,
-            5.8071433
+            -73.0420954,
+            5.800138
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/444485535",
+      "id": "node/309456917",
       "properties": {
-        "@id": "way/444485535",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 19",
-        "@timestamp": "2016-09-26T22:46:22Z",
-        "@version": "1",
-        "@changeset": "42458255",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6525439",
-            "reltags": {
-              "from": "11 de Mayo",
-              "name": "A1 - Once de Mayo - Juan Grande",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A1",
-              "route": "bus",
-              "to": "Juan Grande",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0191297,
-            5.8080243
-          ],
-          [
-            -73.0189115,
-            5.8076102
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/326042395",
-      "properties": {
-        "@id": "node/326042395",
+        "@id": "node/309456917",
         "highway": "traffic_signals",
-        "@timestamp": "2016-09-13T13:00:56Z",
-        "@version": "14",
-        "@changeset": "42125090",
+        "@timestamp": "2011-02-02T06:36:05Z",
+        "@version": "52",
+        "@changeset": "7161812",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.0275292,
-          5.8071433
+          -73.0395231,
+          5.8044475
         ]
       }
     },
@@ -2637,6 +2347,26 @@
     },
     {
       "type": "Feature",
+      "id": "node/326609005",
+      "properties": {
+        "@id": "node/326609005",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-17T21:08:48Z",
+        "@version": "11",
+        "@changeset": "42235610",
+        "@user": "DavidLeo",
+        "@uid": "2678389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0396542,
+          5.8044161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/334400533",
       "properties": {
         "@id": "node/334400533",
@@ -2697,26 +2427,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/528861676",
-      "properties": {
-        "@id": "node/528861676",
-        "highway": "traffic_signals",
-        "@timestamp": "2015-05-19T22:37:32Z",
-        "@version": "6",
-        "@changeset": "31300567",
-        "@user": "esteban_villamizar",
-        "@uid": "2298722"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0365509,
-          5.8332129
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/539177434",
       "properties": {
         "@id": "node/539177434",
@@ -2732,46 +2442,6 @@
         "coordinates": [
           -73.0379481,
           5.8231597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/698684163",
-      "properties": {
-        "@id": "node/698684163",
-        "highway": "traffic_signals",
-        "@timestamp": "2015-04-28T07:33:26Z",
-        "@version": "4",
-        "@changeset": "30572100",
-        "@user": "carciofo",
-        "@uid": "2533093"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0273195,
-          5.807104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/698684164",
-      "properties": {
-        "@id": "node/698684164",
-        "highway": "traffic_signals",
-        "@timestamp": "2015-04-28T07:33:26Z",
-        "@version": "4",
-        "@changeset": "30572100",
-        "@user": "carciofo",
-        "@uid": "2533093"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0274652,
-          5.8070692
         ]
       }
     },

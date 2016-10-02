@@ -1,0 +1,3129 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:18:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29627638",
+      "properties": {
+        "@id": "way/29627638",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "28",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0299809,
+            5.8111521
+          ],
+          [
+            -73.0303214,
+            5.8116977
+          ],
+          [
+            -73.0305638,
+            5.8120259
+          ],
+          [
+            -73.0306625,
+            5.8121844
+          ],
+          [
+            -73.0308616,
+            5.8125196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42500683",
+      "properties": {
+        "@id": "way/42500683",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:52Z",
+        "@version": "30",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0317204,
+            5.8137827
+          ],
+          [
+            -73.0323574,
+            5.8147917
+          ],
+          [
+            -73.0327144,
+            5.8153352
+          ],
+          [
+            -73.0330112,
+            5.8157935
+          ],
+          [
+            -73.0334627,
+            5.8164892
+          ],
+          [
+            -73.0334956,
+            5.8165391
+          ],
+          [
+            -73.0335243,
+            5.8165853
+          ],
+          [
+            -73.0338912,
+            5.8171553
+          ],
+          [
+            -73.0343663,
+            5.8178878
+          ],
+          [
+            -73.0349997,
+            5.8188519
+          ],
+          [
+            -73.0352799,
+            5.8192853
+          ],
+          [
+            -73.0357712,
+            5.8200495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42745569",
+      "properties": {
+        "@id": "way/42745569",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:21:52Z",
+        "@version": "16",
+        "@changeset": "42068164",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0312119,
+            5.8131757
+          ],
+          [
+            -73.0312345,
+            5.8132075
+          ],
+          [
+            -73.0312653,
+            5.8132315
+          ],
+          [
+            -73.0313016,
+            5.8132459
+          ],
+          [
+            -73.0313405,
+            5.8132494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43086512",
+      "properties": {
+        "@id": "way/43086512",
+        "highway": "secondary",
+        "ref": "Via al Pantano",
+        "@timestamp": "2016-05-17T15:51:57Z",
+        "@version": "6",
+        "@changeset": "39380367",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0418082,
+            5.8000734
+          ],
+          [
+            -73.0418151,
+            5.7996732
+          ],
+          [
+            -73.041785,
+            5.7967641
+          ],
+          [
+            -73.041785,
+            5.7956537
+          ],
+          [
+            -73.0419231,
+            5.7953293
+          ],
+          [
+            -73.0424757,
+            5.7947576
+          ],
+          [
+            -73.0430393,
+            5.7942628
+          ],
+          [
+            -73.043625,
+            5.794021
+          ],
+          [
+            -73.0440339,
+            5.7938395
+          ],
+          [
+            -73.0443323,
+            5.7936142
+          ],
+          [
+            -73.0446427,
+            5.7932782
+          ],
+          [
+            -73.0448351,
+            5.7930699
+          ],
+          [
+            -73.0506648,
+            5.786615
+          ],
+          [
+            -73.0517615,
+            5.784976
+          ],
+          [
+            -73.0518234,
+            5.7846534
+          ],
+          [
+            -73.0519841,
+            5.783877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43086514",
+      "properties": {
+        "@id": "way/43086514",
+        "highway": "secondary",
+        "oneway": "yes",
+        "ref": "Via al Pantano",
+        "@timestamp": "2016-05-17T15:53:07Z",
+        "@version": "5",
+        "@changeset": "39380405",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0418082,
+            5.8000734
+          ],
+          [
+            -73.0418342,
+            5.8002649
+          ],
+          [
+            -73.0419001,
+            5.8004029
+          ],
+          [
+            -73.0419831,
+            5.8005983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45510120",
+      "properties": {
+        "@id": "way/45510120",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-14T16:41:59Z",
+        "@version": "8",
+        "@changeset": "42153968",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0256358,
+            5.8285678
+          ],
+          [
+            -73.0252512,
+            5.8288186
+          ],
+          [
+            -73.0251398,
+            5.8288934
+          ],
+          [
+            -73.0250936,
+            5.8289244
+          ],
+          [
+            -73.0250575,
+            5.8289486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54131811",
+      "properties": {
+        "@id": "way/54131811",
+        "highway": "secondary",
+        "ref": "Via Duitama - Pantano de Vargas",
+        "@timestamp": "2014-11-24T12:40:37Z",
+        "@version": "6",
+        "@changeset": "26995477",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0507029,
+            5.7739649
+          ],
+          [
+            -73.0506591,
+            5.7740075
+          ],
+          [
+            -73.0506196,
+            5.7740459
+          ],
+          [
+            -73.050607,
+            5.7742171
+          ],
+          [
+            -73.0506378,
+            5.7743186
+          ],
+          [
+            -73.0536278,
+            5.7775325
+          ],
+          [
+            -73.0537373,
+            5.778168
+          ],
+          [
+            -73.0533042,
+            5.7793704
+          ],
+          [
+            -73.0525992,
+            5.7813273
+          ],
+          [
+            -73.0519841,
+            5.783877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54767822",
+      "properties": {
+        "@id": "way/54767822",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:27Z",
+        "@version": "7",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0374784,
+            5.824281
+          ],
+          [
+            -73.036395,
+            5.8248884
+          ],
+          [
+            -73.0357363,
+            5.8252783
+          ],
+          [
+            -73.0354363,
+            5.8254487
+          ],
+          [
+            -73.0350427,
+            5.8256257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127670544",
+      "properties": {
+        "@id": "way/127670544",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:14Z",
+        "@version": "4",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322313,
+            5.8103348
+          ],
+          [
+            -73.0321548,
+            5.8104088
+          ],
+          [
+            -73.0320736,
+            5.8104763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/278967951",
+      "properties": {
+        "@id": "way/278967951",
+        "bridge": "yes",
+        "bridge:name": "Puente la Balsa",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "Puente La Balsa",
+        "ref": "Duitama - Pantano de Vargas",
+        "surface": "unpaved",
+        "@timestamp": "2014-12-21T08:23:31Z",
+        "@version": "5",
+        "@changeset": "27603746",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0510368,
+            5.7736823
+          ],
+          [
+            -73.0507029,
+            5.7739649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340966045",
+      "properties": {
+        "@id": "way/340966045",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:38Z",
+        "@version": "12",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.029768,
+            5.8337908
+          ],
+          [
+            -73.0310331,
+            5.8333565
+          ],
+          [
+            -73.0311947,
+            5.8333748
+          ],
+          [
+            -73.0313069,
+            5.8334101
+          ],
+          [
+            -73.0313953,
+            5.8335019
+          ],
+          [
+            -73.0315214,
+            5.8337094
+          ],
+          [
+            -73.0317736,
+            5.8344596
+          ],
+          [
+            -73.0318674,
+            5.83476
+          ],
+          [
+            -73.0318942,
+            5.8348297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/404047779",
+      "properties": {
+        "@id": "way/404047779",
+        "highway": "primary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-03-16T11:05:49Z",
+        "@version": "1",
+        "@changeset": "37868704",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0240652,
+            5.8311689
+          ],
+          [
+            -73.0240799,
+            5.8313384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422033553",
+      "properties": {
+        "@id": "way/422033553",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-05-31T15:18:04Z",
+        "@version": "1",
+        "@changeset": "39691178",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0326949,
+            5.8097848
+          ],
+          [
+            -73.0324653,
+            5.8099798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422033554",
+      "properties": {
+        "@id": "way/422033554",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-05-31T15:18:04Z",
+        "@version": "1",
+        "@changeset": "39691178",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0320736,
+            5.8104763
+          ],
+          [
+            -73.0319889,
+            5.8105051
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422820978",
+      "properties": {
+        "@id": "way/422820978",
+        "alt_name": "Avenida Circunvalar",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Carrera 31",
+        "oneway": "yes",
+        "@timestamp": "2016-07-03T10:14:31Z",
+        "@version": "2",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0352046,
+            5.8073658
+          ],
+          [
+            -73.0336785,
+            5.8083947
+          ],
+          [
+            -73.0335256,
+            5.8085135
+          ],
+          [
+            -73.0333808,
+            5.8086656
+          ],
+          [
+            -73.0331877,
+            5.8089377
+          ],
+          [
+            -73.0328513,
+            5.8095001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422820979",
+      "properties": {
+        "@id": "way/422820979",
+        "alt_name": "Avenida Circunvalar",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Carrera 31",
+        "oneway": "yes",
+        "@timestamp": "2016-09-14T16:32:25Z",
+        "@version": "3",
+        "@changeset": "42153807",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0396321,
+            5.804267
+          ],
+          [
+            -73.0395231,
+            5.8044475
+          ],
+          [
+            -73.0393746,
+            5.8046149
+          ],
+          [
+            -73.0384208,
+            5.8052182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700885",
+      "properties": {
+        "@id": "way/438700885",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0351865,
+            5.8339914
+          ],
+          [
+            -73.0358573,
+            5.8336103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700887",
+      "properties": {
+        "@id": "way/438700887",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358573,
+            5.8336103
+          ],
+          [
+            -73.0365509,
+            5.8332129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700889",
+      "properties": {
+        "@id": "way/438700889",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0365509,
+            5.8332129
+          ],
+          [
+            -73.0367789,
+            5.8330828
+          ],
+          [
+            -73.0371227,
+            5.832818
+          ],
+          [
+            -73.0372778,
+            5.8326927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700906",
+      "properties": {
+        "@id": "way/438700906",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-24T02:21:04Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0314459,
+            5.8276383
+          ],
+          [
+            -73.0309814,
+            5.8269106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700923",
+      "properties": {
+        "@id": "way/438700923",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0323945,
+            5.8100209
+          ],
+          [
+            -73.0322313,
+            5.8103348
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700924",
+      "properties": {
+        "@id": "way/438700924",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0324653,
+            5.8099798
+          ],
+          [
+            -73.0323945,
+            5.8100209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700926",
+      "properties": {
+        "@id": "way/438700926",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0319889,
+            5.8105051
+          ],
+          [
+            -73.0317761,
+            5.8105723
+          ],
+          [
+            -73.0306776,
+            5.8109266
+          ],
+          [
+            -73.0302353,
+            5.8110772
+          ],
+          [
+            -73.0301141,
+            5.8111116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539948",
+      "properties": {
+        "@id": "way/439539948",
+        "highway": "trunk",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-28T17:22:08Z",
+        "@version": "1",
+        "@changeset": "41760523",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0249698,
+            5.8289087
+          ],
+          [
+            -73.0249271,
+            5.8290184
+          ],
+          [
+            -73.0248334,
+            5.8292955
+          ],
+          [
+            -73.0248301,
+            5.8293032
+          ],
+          [
+            -73.0241845,
+            5.83082
+          ],
+          [
+            -73.0241198,
+            5.8309902
+          ],
+          [
+            -73.0240652,
+            5.8311689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539950",
+      "properties": {
+        "@id": "way/439539950",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T17:22:08Z",
+        "@version": "1",
+        "@changeset": "41760523",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0309814,
+            5.8269106
+          ],
+          [
+            -73.0305933,
+            5.826277
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539952",
+      "properties": {
+        "@id": "way/439539952",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T20:36:58Z",
+        "@version": "2",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0305933,
+            5.826277
+          ],
+          [
+            -73.0298568,
+            5.8268091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439541133",
+      "properties": {
+        "@id": "way/439541133",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-08-28T17:37:24Z",
+        "@version": "1",
+        "@changeset": "41760790",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0250575,
+            5.8289486
+          ],
+          [
+            -73.0249698,
+            5.8289087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526938",
+      "properties": {
+        "@id": "way/440526938",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:41Z",
+        "@version": "2",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0371807,
+            5.8222013
+          ],
+          [
+            -73.0378486,
+            5.8232295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526949",
+      "properties": {
+        "@id": "way/440526949",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "4",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0343482,
+            5.8259894
+          ],
+          [
+            -73.0335897,
+            5.8264028
+          ],
+          [
+            -73.0328935,
+            5.8268011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440531425",
+      "properties": {
+        "@id": "way/440531425",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T22:34:22Z",
+        "@version": "1",
+        "@changeset": "41897920",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0350427,
+            5.8256257
+          ],
+          [
+            -73.0343482,
+            5.8259894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693927",
+      "properties": {
+        "@id": "way/440693927",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:47Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0286118,
+            5.8273123
+          ],
+          [
+            -73.0282898,
+            5.8273558
+          ],
+          [
+            -73.0279844,
+            5.8274976
+          ],
+          [
+            -73.0277062,
+            5.8276234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695708",
+      "properties": {
+        "@id": "way/440695708",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:53Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0313405,
+            5.8132494
+          ],
+          [
+            -73.031519,
+            5.8134553
+          ],
+          [
+            -73.0316347,
+            5.813644
+          ],
+          [
+            -73.0317204,
+            5.8137827
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695727",
+      "properties": {
+        "@id": "way/440695727",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:17Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0382518,
+            5.8238544
+          ],
+          [
+            -73.0374784,
+            5.824281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695728",
+      "properties": {
+        "@id": "way/440695728",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:17Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322052,
+            5.827182
+          ],
+          [
+            -73.0314459,
+            5.8276383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695736",
+      "properties": {
+        "@id": "way/440695736",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:16Z",
+        "@version": "2",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0301141,
+            5.8111116
+          ],
+          [
+            -73.0300411,
+            5.8111338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440696691",
+      "properties": {
+        "@id": "way/440696691",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:39Z",
+        "@version": "1",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0378486,
+            5.8232295
+          ],
+          [
+            -73.0382518,
+            5.8238544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828189",
+      "properties": {
+        "@id": "way/441828189",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T20:36:57Z",
+        "@version": "2",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0252679,
+            5.8332477
+          ],
+          [
+            -73.0254945,
+            5.8335435
+          ],
+          [
+            -73.0255268,
+            5.8335857
+          ],
+          [
+            -73.0257458,
+            5.833847
+          ],
+          [
+            -73.0259427,
+            5.8340819
+          ],
+          [
+            -73.0261004,
+            5.83427
+          ],
+          [
+            -73.0264149,
+            5.8346453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828190",
+      "properties": {
+        "@id": "way/441828190",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T20:43:38Z",
+        "@version": "2",
+        "@changeset": "42235177",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322068,
+            5.8353249
+          ],
+          [
+            -73.0324266,
+            5.8354286
+          ],
+          [
+            -73.0326203,
+            5.8354229
+          ],
+          [
+            -73.0327159,
+            5.8353865
+          ],
+          [
+            -73.0329221,
+            5.8352965
+          ],
+          [
+            -73.0332809,
+            5.8350949
+          ],
+          [
+            -73.0339859,
+            5.8346769
+          ],
+          [
+            -73.0347001,
+            5.8342623
+          ],
+          [
+            -73.0351865,
+            5.8339914
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828263",
+      "properties": {
+        "@id": "way/441828263",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:17Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0419831,
+            5.8005983
+          ],
+          [
+            -73.0417046,
+            5.8016962
+          ],
+          [
+            -73.0416046,
+            5.80203
+          ],
+          [
+            -73.0414814,
+            5.8023592
+          ],
+          [
+            -73.041366,
+            5.8025981
+          ],
+          [
+            -73.0412183,
+            5.8028599
+          ],
+          [
+            -73.0410782,
+            5.8030697
+          ],
+          [
+            -73.0408612,
+            5.8033346
+          ],
+          [
+            -73.040618,
+            5.803575
+          ],
+          [
+            -73.0404133,
+            5.8037465
+          ],
+          [
+            -73.0398708,
+            5.8041453
+          ],
+          [
+            -73.0396321,
+            5.804267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828270",
+      "properties": {
+        "@id": "way/441828270",
+        "highway": "secondary",
+        "ref": "Via Duitama - Pantano de Vargas",
+        "surface": "unpaved",
+        "@timestamp": "2016-09-10T19:45:18Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.058002,
+            5.7628352
+          ],
+          [
+            -73.0569214,
+            5.7639184
+          ],
+          [
+            -73.0568763,
+            5.7655122
+          ],
+          [
+            -73.056249,
+            5.7666718
+          ],
+          [
+            -73.0540286,
+            5.7685985
+          ],
+          [
+            -73.0529968,
+            5.7718576
+          ],
+          [
+            -73.0513029,
+            5.7734261
+          ],
+          [
+            -73.0510368,
+            5.7736823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834800",
+      "properties": {
+        "@id": "way/441834800",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T20:36:53Z",
+        "@version": "1",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0240799,
+            5.8313384
+          ],
+          [
+            -73.0240888,
+            5.8314074
+          ],
+          [
+            -73.0241187,
+            5.8315561
+          ],
+          [
+            -73.02427,
+            5.8319444
+          ],
+          [
+            -73.0252679,
+            5.8332477
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834808",
+      "properties": {
+        "@id": "way/441834808",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T20:36:54Z",
+        "@version": "1",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0298568,
+            5.8268091
+          ],
+          [
+            -73.0291955,
+            5.8272507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441838206",
+      "properties": {
+        "@id": "way/441838206",
+        "alt_name": "Avenida Circunvalar",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Carrera 31",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T20:59:49Z",
+        "@version": "1",
+        "@changeset": "42067075",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0328513,
+            5.8095001
+          ],
+          [
+            -73.0326949,
+            5.8097848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839863",
+      "properties": {
+        "@id": "way/441839863",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:35Z",
+        "@version": "1",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0264149,
+            5.8346453
+          ],
+          [
+            -73.0267908,
+            5.8347961
+          ],
+          [
+            -73.0271738,
+            5.8347351
+          ],
+          [
+            -73.0275391,
+            5.8346018
+          ],
+          [
+            -73.0293309,
+            5.8339479
+          ],
+          [
+            -73.029768,
+            5.8337908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441843297",
+      "properties": {
+        "@id": "way/441843297",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:37:45Z",
+        "@version": "1",
+        "@changeset": "42067661",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0357712,
+            5.8200495
+          ],
+          [
+            -73.0362563,
+            5.8207885
+          ],
+          [
+            -73.0367083,
+            5.8214804
+          ],
+          [
+            -73.0371807,
+            5.8222013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845931",
+      "properties": {
+        "@id": "way/441845931",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:52Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0308616,
+            5.8125196
+          ],
+          [
+            -73.0310211,
+            5.8127781
+          ],
+          [
+            -73.0312002,
+            5.8130141
+          ],
+          [
+            -73.0312147,
+            5.8130474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845938",
+      "properties": {
+        "@id": "way/441845938",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0328935,
+            5.8268011
+          ],
+          [
+            -73.0322052,
+            5.827182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850009",
+      "properties": {
+        "@id": "way/441850009",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:21:51Z",
+        "@version": "1",
+        "@changeset": "42068164",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0312147,
+            5.8130474
+          ],
+          [
+            -73.0311994,
+            5.8130891
+          ],
+          [
+            -73.0311984,
+            5.8131334
+          ],
+          [
+            -73.0312119,
+            5.8131757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442174188",
+      "properties": {
+        "@id": "way/442174188",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:42Z",
+        "@version": "1",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0277062,
+            5.8276234
+          ],
+          [
+            -73.027289,
+            5.8278165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442458904",
+      "properties": {
+        "@id": "way/442458904",
+        "alt_name": "Avenida Circunvalar",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Carrera 31",
+        "oneway": "yes",
+        "@timestamp": "2016-09-14T16:32:21Z",
+        "@version": "1",
+        "@changeset": "42153807",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0384208,
+            5.8052182
+          ],
+          [
+            -73.0361849,
+            5.8066665
+          ],
+          [
+            -73.0352046,
+            5.8073658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442460287",
+      "properties": {
+        "@id": "way/442460287",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-14T16:41:54Z",
+        "@version": "1",
+        "@changeset": "42153968",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.027289,
+            5.8278165
+          ],
+          [
+            -73.025944,
+            5.8284132
+          ],
+          [
+            -73.0256358,
+            5.8285678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442964277",
+      "properties": {
+        "@id": "way/442964277",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T20:43:35Z",
+        "@version": "1",
+        "@changeset": "42235177",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318942,
+            5.8348297
+          ],
+          [
+            -73.0320018,
+            5.8351108
+          ],
+          [
+            -73.0322068,
+            5.8353249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443384604",
+      "properties": {
+        "@id": "way/443384604",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:08Z",
+        "@version": "1",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594055",
+            "reltags": {
+              "from": "Urb Paraiso",
+              "name": "B7 - Urb Paraiso - Colegio Seminario",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Colegio Seminario",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0300411,
+            5.8111338
+          ],
+          [
+            -73.0299809,
+            5.8111521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/309456917",
+      "properties": {
+        "@id": "node/309456917",
+        "highway": "traffic_signals",
+        "@timestamp": "2011-02-02T06:36:05Z",
+        "@version": "52",
+        "@changeset": "7161812",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0395231,
+          5.8044475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266508",
+      "properties": {
+        "@id": "node/326266508",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-17T20:33:21Z",
+        "@version": "39",
+        "@changeset": "42234929",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0378486,
+          5.8232295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266523",
+      "properties": {
+        "@id": "node/326266523",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "15",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0309814,
+          5.8269106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266528",
+      "properties": {
+        "@id": "node/326266528",
+        "highway": "traffic_signals",
+        "name": "La dorada",
+        "@timestamp": "2012-09-21T06:05:36Z",
+        "@version": "30",
+        "@changeset": "13191399",
+        "@user": "camilolara",
+        "@uid": "235754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0291955,
+          5.8272507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326269716",
+      "properties": {
+        "@id": "node/326269716",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:56Z",
+        "@version": "33",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0371807,
+          5.8222013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400535",
+      "properties": {
+        "@id": "node/334400535",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "8",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0328935,
+          5.8268011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400537",
+      "properties": {
+        "@id": "node/334400537",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "8",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0335897,
+          5.8264028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334402563",
+      "properties": {
+        "@id": "node/334402563",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0305933,
+          5.826277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/528861676",
+      "properties": {
+        "@id": "node/528861676",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-05-19T22:37:32Z",
+        "@version": "6",
+        "@changeset": "31300567",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0365509,
+          5.8332129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/579961502",
+      "properties": {
+        "@id": "node/579961502",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-03-24T16:24:11Z",
+        "@version": "4",
+        "@changeset": "21288226",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0250575,
+          5.8289486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669182154",
+      "properties": {
+        "@id": "node/669182154",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0322052,
+          5.827182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/913480298",
+      "properties": {
+        "@id": "node/913480298",
+        "highway": "traffic_signals",
+        "@timestamp": "2011-02-02T06:36:06Z",
+        "@version": "2",
+        "@changeset": "7161812",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0396321,
+          5.804267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1132052360",
+      "properties": {
+        "@id": "node/1132052360",
+        "railway": "level_crossing",
+        "@timestamp": "2016-09-13T13:00:56Z",
+        "@version": "3",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0316347,
+          5.813644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739745700",
+      "properties": {
+        "@id": "node/2739745700",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-03-24T16:24:10Z",
+        "@version": "1",
+        "@changeset": "21288226",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0249698,
+          5.8289087
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2551 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:18:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29627638",
+      "properties": {
+        "@id": "way/29627638",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "28",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0299809,
+            5.8111521
+          ],
+          [
+            -73.0303214,
+            5.8116977
+          ],
+          [
+            -73.0305638,
+            5.8120259
+          ],
+          [
+            -73.0306625,
+            5.8121844
+          ],
+          [
+            -73.0308616,
+            5.8125196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29650394",
+      "properties": {
+        "@id": "way/29650394",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "31",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0326266,
+            5.8279547
+          ],
+          [
+            -73.0330368,
+            5.8286603
+          ],
+          [
+            -73.0334418,
+            5.8294244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37290049",
+      "properties": {
+        "@id": "way/37290049",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 16",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "13",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0367998,
+            5.8340708
+          ],
+          [
+            -73.0368309,
+            5.8343588
+          ],
+          [
+            -73.0368763,
+            5.8345781
+          ],
+          [
+            -73.0368963,
+            5.8347593
+          ],
+          [
+            -73.0369648,
+            5.8351215
+          ],
+          [
+            -73.0369726,
+            5.8351627
+          ],
+          [
+            -73.0370398,
+            5.8355201
+          ],
+          [
+            -73.0371043,
+            5.8359689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42500683",
+      "properties": {
+        "@id": "way/42500683",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:52Z",
+        "@version": "30",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0317204,
+            5.8137827
+          ],
+          [
+            -73.0323574,
+            5.8147917
+          ],
+          [
+            -73.0327144,
+            5.8153352
+          ],
+          [
+            -73.0330112,
+            5.8157935
+          ],
+          [
+            -73.0334627,
+            5.8164892
+          ],
+          [
+            -73.0334956,
+            5.8165391
+          ],
+          [
+            -73.0335243,
+            5.8165853
+          ],
+          [
+            -73.0338912,
+            5.8171553
+          ],
+          [
+            -73.0343663,
+            5.8178878
+          ],
+          [
+            -73.0349997,
+            5.8188519
+          ],
+          [
+            -73.0352799,
+            5.8192853
+          ],
+          [
+            -73.0357712,
+            5.8200495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42508333",
+      "properties": {
+        "@id": "way/42508333",
+        "highway": "residential",
+        "name": "Calle 17",
+        "smoothness": "good",
+        "@timestamp": "2010-11-25T16:36:53Z",
+        "@version": "6",
+        "@changeset": "6455825",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0230449,
+            5.8108978
+          ],
+          [
+            -73.0227833,
+            5.8104197
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42725872",
+      "properties": {
+        "@id": "way/42725872",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "@timestamp": "2012-06-26T13:11:26Z",
+        "@version": "6",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0230045,
+            5.808176
+          ],
+          [
+            -73.023382,
+            5.8089519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42745569",
+      "properties": {
+        "@id": "way/42745569",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:21:52Z",
+        "@version": "16",
+        "@changeset": "42068164",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0312119,
+            5.8131757
+          ],
+          [
+            -73.0312345,
+            5.8132075
+          ],
+          [
+            -73.0312653,
+            5.8132315
+          ],
+          [
+            -73.0313016,
+            5.8132459
+          ],
+          [
+            -73.0313405,
+            5.8132494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45564743",
+      "properties": {
+        "@id": "way/45564743",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 17A",
+        "@timestamp": "2016-09-17T21:12:59Z",
+        "@version": "13",
+        "@changeset": "42235672",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0356053,
+            5.837933
+          ],
+          [
+            -73.035517,
+            5.8369045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54767839",
+      "properties": {
+        "@id": "way/54767839",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "8",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0364134,
+            5.8226864
+          ],
+          [
+            -73.0360062,
+            5.8229423
+          ],
+          [
+            -73.0354548,
+            5.8232614
+          ],
+          [
+            -73.0348511,
+            5.8236454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62229856",
+      "properties": {
+        "@id": "way/62229856",
+        "highway": "residential",
+        "name": "Calle 16",
+        "surface": "paved",
+        "@timestamp": "2016-08-27T16:29:57Z",
+        "@version": "10",
+        "@changeset": "41739718",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0363589,
+            5.838106
+          ],
+          [
+            -73.0365133,
+            5.8388818
+          ],
+          [
+            -73.036565,
+            5.8392394
+          ],
+          [
+            -73.0366393,
+            5.8395775
+          ],
+          [
+            -73.0366265,
+            5.839701
+          ],
+          [
+            -73.0367142,
+            5.8408663
+          ],
+          [
+            -73.0367979,
+            5.8415394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72911427",
+      "properties": {
+        "@id": "way/72911427",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "smoothness": "bad",
+        "@timestamp": "2012-06-26T13:11:23Z",
+        "@version": "3",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.023382,
+            5.8089519
+          ],
+          [
+            -73.0235384,
+            5.8092324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72911429",
+      "properties": {
+        "@id": "way/72911429",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "@timestamp": "2012-06-26T13:11:24Z",
+        "@version": "3",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.023662,
+            5.8094539
+          ],
+          [
+            -73.0238276,
+            5.8097457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412810",
+      "properties": {
+        "@id": "way/86412810",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "@timestamp": "2012-06-26T13:11:25Z",
+        "@version": "2",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0239771,
+            5.8100094
+          ],
+          [
+            -73.024117,
+            5.8102559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412819",
+      "properties": {
+        "@id": "way/86412819",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "smoothness": "bad",
+        "@timestamp": "2012-06-26T13:11:25Z",
+        "@version": "2",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0235384,
+            5.8092324
+          ],
+          [
+            -73.023662,
+            5.8094539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412820",
+      "properties": {
+        "@id": "way/86412820",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "@timestamp": "2012-06-26T13:11:25Z",
+        "@version": "2",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0238276,
+            5.8097457
+          ],
+          [
+            -73.0239771,
+            5.8100094
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412822",
+      "properties": {
+        "@id": "way/86412822",
+        "highway": "residential",
+        "name": "Calle 17",
+        "smoothness": "good",
+        "@timestamp": "2010-11-25T16:36:45Z",
+        "@version": "1",
+        "@changeset": "6455825",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0226158,
+            5.8101015
+          ],
+          [
+            -73.0223254,
+            5.8095983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412823",
+      "properties": {
+        "@id": "way/86412823",
+        "highway": "residential",
+        "name": "Calle 17",
+        "smoothness": "good",
+        "@timestamp": "2010-11-25T16:36:45Z",
+        "@version": "1",
+        "@changeset": "6455825",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0227611,
+            5.8103792
+          ],
+          [
+            -73.0226158,
+            5.8101015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412824",
+      "properties": {
+        "@id": "way/86412824",
+        "highway": "residential",
+        "name": "Calle 17",
+        "smoothness": "good",
+        "@timestamp": "2010-11-25T16:36:45Z",
+        "@version": "1",
+        "@changeset": "6455825",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0227833,
+            5.8104197
+          ],
+          [
+            -73.0227611,
+            5.8103792
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412826",
+      "properties": {
+        "@id": "way/86412826",
+        "highway": "residential",
+        "name": "Carrera 38",
+        "smoothness": "intermediate",
+        "surface": "paved",
+        "@timestamp": "2010-11-25T16:36:46Z",
+        "@version": "1",
+        "@changeset": "6455825",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0237246,
+            5.8104702
+          ],
+          [
+            -73.0235664,
+            5.8105698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412827",
+      "properties": {
+        "@id": "way/86412827",
+        "highway": "residential",
+        "name": "Carrera 38",
+        "smoothness": "intermediate",
+        "surface": "paved",
+        "@timestamp": "2010-11-25T16:36:46Z",
+        "@version": "1",
+        "@changeset": "6455825",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0238299,
+            5.810404
+          ],
+          [
+            -73.0237246,
+            5.8104702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412828",
+      "properties": {
+        "@id": "way/86412828",
+        "highway": "residential",
+        "name": "Carrera 38",
+        "smoothness": "intermediate",
+        "surface": "paved",
+        "@timestamp": "2010-11-25T16:36:47Z",
+        "@version": "1",
+        "@changeset": "6455825",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0240711,
+            5.8102523
+          ],
+          [
+            -73.0238299,
+            5.810404
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412829",
+      "properties": {
+        "@id": "way/86412829",
+        "highway": "residential",
+        "name": "Carrera 38",
+        "smoothness": "intermediate",
+        "surface": "paved",
+        "@timestamp": "2010-11-25T16:36:47Z",
+        "@version": "1",
+        "@changeset": "6455825",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.024117,
+            5.8102559
+          ],
+          [
+            -73.0240711,
+            5.8102523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412834",
+      "properties": {
+        "@id": "way/86412834",
+        "highway": "residential",
+        "name": "Carrera 38",
+        "smoothness": "intermediate",
+        "surface": "paved",
+        "@timestamp": "2010-11-25T16:36:49Z",
+        "@version": "1",
+        "@changeset": "6455825",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0233251,
+            5.8107216
+          ],
+          [
+            -73.0230449,
+            5.8108978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412835",
+      "properties": {
+        "@id": "way/86412835",
+        "highway": "residential",
+        "name": "Carrera 38",
+        "smoothness": "intermediate",
+        "surface": "paved",
+        "@timestamp": "2010-11-25T16:36:49Z",
+        "@version": "1",
+        "@changeset": "6455825",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0235664,
+            5.8105698
+          ],
+          [
+            -73.0233251,
+            5.8107216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129692184",
+      "properties": {
+        "@id": "way/129692184",
+        "highway": "residential",
+        "name": "Calle 17",
+        "@timestamp": "2015-04-30T22:31:46Z",
+        "@version": "3",
+        "@changeset": "30675600",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358148,
+            5.8335175
+          ],
+          [
+            -73.0358333,
+            5.8335579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341917195",
+      "properties": {
+        "@id": "way/341917195",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 5C",
+        "@timestamp": "2015-04-30T22:31:43Z",
+        "@version": "1",
+        "@changeset": "30675600",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0368173,
+            5.8367922
+          ],
+          [
+            -73.035517,
+            5.8369045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341917202",
+      "properties": {
+        "@id": "way/341917202",
+        "highway": "residential",
+        "name": "Carrera 5",
+        "@timestamp": "2015-04-30T22:31:43Z",
+        "@version": "1",
+        "@changeset": "30675600",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0356053,
+            5.837933
+          ],
+          [
+            -73.0360256,
+            5.8380876
+          ],
+          [
+            -73.0363589,
+            5.838106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700887",
+      "properties": {
+        "@id": "way/438700887",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358573,
+            5.8336103
+          ],
+          [
+            -73.0365509,
+            5.8332129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700900",
+      "properties": {
+        "@id": "way/438700900",
+        "highway": "residential",
+        "name": "Calle 17",
+        "@timestamp": "2016-08-24T02:21:04Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358333,
+            5.8335579
+          ],
+          [
+            -73.0358573,
+            5.8336103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439527911",
+      "properties": {
+        "@id": "way/439527911",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 16",
+        "@timestamp": "2016-08-28T16:13:43Z",
+        "@version": "1",
+        "@changeset": "41759038",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0371043,
+            5.8359689
+          ],
+          [
+            -73.0371405,
+            5.8362008
+          ],
+          [
+            -73.0368173,
+            5.8367922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534435",
+      "properties": {
+        "@id": "way/439534435",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:25Z",
+        "@version": "2",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0230045,
+            5.808176
+          ],
+          [
+            -73.023994,
+            5.8079586
+          ],
+          [
+            -73.0247366,
+            5.8077914
+          ],
+          [
+            -73.0250427,
+            5.8077191
+          ],
+          [
+            -73.0257269,
+            5.8075624
+          ],
+          [
+            -73.0268269,
+            5.8073194
+          ],
+          [
+            -73.027364,
+            5.8071795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534438",
+      "properties": {
+        "@id": "way/439534438",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 16",
+        "@timestamp": "2016-08-28T16:24:00Z",
+        "@version": "1",
+        "@changeset": "41759242",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0365509,
+            5.8332129
+          ],
+          [
+            -73.0366461,
+            5.8335187
+          ],
+          [
+            -73.0367439,
+            5.8338948
+          ],
+          [
+            -73.0367591,
+            5.8339573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534441",
+      "properties": {
+        "@id": "way/439534441",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:24:01Z",
+        "@version": "1",
+        "@changeset": "41759242",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0313643,
+            5.8257459
+          ],
+          [
+            -73.0318139,
+            5.8264591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534442",
+      "properties": {
+        "@id": "way/439534442",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T20:12:56Z",
+        "@version": "2",
+        "@changeset": "42234538",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.03517,
+            5.832389
+          ],
+          [
+            -73.0353824,
+            5.832757
+          ],
+          [
+            -73.035434,
+            5.8328262
+          ],
+          [
+            -73.0358148,
+            5.8335175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534449",
+      "properties": {
+        "@id": "way/439534449",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "2",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0334975,
+            5.8244535
+          ],
+          [
+            -73.0327409,
+            5.8249048
+          ],
+          [
+            -73.0320205,
+            5.8253771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526942",
+      "properties": {
+        "@id": "way/440526942",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 16",
+        "@timestamp": "2016-09-03T21:47:48Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0367591,
+            5.8339573
+          ],
+          [
+            -73.0367998,
+            5.8340708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695707",
+      "properties": {
+        "@id": "way/440695707",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "2",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.027364,
+            5.8071795
+          ],
+          [
+            -73.0275135,
+            5.8074056
+          ],
+          [
+            -73.0275618,
+            5.8074787
+          ],
+          [
+            -73.0284734,
+            5.8088354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695708",
+      "properties": {
+        "@id": "way/440695708",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:53Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0313405,
+            5.8132494
+          ],
+          [
+            -73.031519,
+            5.8134553
+          ],
+          [
+            -73.0316347,
+            5.813644
+          ],
+          [
+            -73.0317204,
+            5.8137827
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695716",
+      "properties": {
+        "@id": "way/440695716",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:16Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318139,
+            5.8264591
+          ],
+          [
+            -73.0322052,
+            5.827182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695717",
+      "properties": {
+        "@id": "way/440695717",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:16Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0334418,
+            5.8294244
+          ],
+          [
+            -73.0337728,
+            5.8300077
+          ],
+          [
+            -73.0339381,
+            5.8302632
+          ],
+          [
+            -73.0343668,
+            5.8309903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695730",
+      "properties": {
+        "@id": "way/440695730",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:17Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0371807,
+            5.8222013
+          ],
+          [
+            -73.0364134,
+            5.8226864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441843297",
+      "properties": {
+        "@id": "way/441843297",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:37:45Z",
+        "@version": "1",
+        "@changeset": "42067661",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0357712,
+            5.8200495
+          ],
+          [
+            -73.0362563,
+            5.8207885
+          ],
+          [
+            -73.0367083,
+            5.8214804
+          ],
+          [
+            -73.0371807,
+            5.8222013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845930",
+      "properties": {
+        "@id": "way/441845930",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:22Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0284734,
+            5.8088354
+          ],
+          [
+            -73.028962,
+            5.8095892
+          ],
+          [
+            -73.0299809,
+            5.8111521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845931",
+      "properties": {
+        "@id": "way/441845931",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:52Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0308616,
+            5.8125196
+          ],
+          [
+            -73.0310211,
+            5.8127781
+          ],
+          [
+            -73.0312002,
+            5.8130141
+          ],
+          [
+            -73.0312147,
+            5.8130474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845939",
+      "properties": {
+        "@id": "way/441845939",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0320205,
+            5.8253771
+          ],
+          [
+            -73.0313643,
+            5.8257459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845940",
+      "properties": {
+        "@id": "way/441845940",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0348511,
+            5.8236454
+          ],
+          [
+            -73.0345,
+            5.8238511
+          ],
+          [
+            -73.0341655,
+            5.8240483
+          ],
+          [
+            -73.0334975,
+            5.8244535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850009",
+      "properties": {
+        "@id": "way/441850009",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:21:51Z",
+        "@version": "1",
+        "@changeset": "42068164",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0312147,
+            5.8130474
+          ],
+          [
+            -73.0311994,
+            5.8130891
+          ],
+          [
+            -73.0311984,
+            5.8131334
+          ],
+          [
+            -73.0312119,
+            5.8131757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850409",
+      "properties": {
+        "@id": "way/441850409",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322052,
+            5.827182
+          ],
+          [
+            -73.0326266,
+            5.8279547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442960908",
+      "properties": {
+        "@id": "way/442960908",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T20:12:53Z",
+        "@version": "1",
+        "@changeset": "42234538",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6593910",
+            "reltags": {
+              "from": "Simon Bolivar",
+              "name": "B6 - Simon Bolivar - Barrio La Gruta",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "Barrio La Gruta",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0343668,
+            5.8309903
+          ],
+          [
+            -73.0348009,
+            5.831741
+          ],
+          [
+            -73.03517,
+            5.832389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/325949218",
+      "properties": {
+        "@id": "node/325949218",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-05-17T13:23:40Z",
+        "@version": "35",
+        "@changeset": "39376739",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.027364,
+          5.8071795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266521",
+      "properties": {
+        "@id": "node/326266521",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "18",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0318139,
+          5.8264591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326269716",
+      "properties": {
+        "@id": "node/326269716",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:56Z",
+        "@version": "33",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0371807,
+          5.8222013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/528861676",
+      "properties": {
+        "@id": "node/528861676",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-05-19T22:37:32Z",
+        "@version": "6",
+        "@changeset": "31300567",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0365509,
+          5.8332129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669182154",
+      "properties": {
+        "@id": "node/669182154",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0322052,
+          5.827182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669182158",
+      "properties": {
+        "@id": "node/669182158",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "5",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0313643,
+          5.8257459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1132052360",
+      "properties": {
+        "@id": "node/1132052360",
+        "railway": "level_crossing",
+        "@timestamp": "2016-09-13T13:00:56Z",
+        "@version": "3",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0316347,
+          5.813644
+        ]
+      }
+    }
+  ]
+}

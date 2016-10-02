@@ -1,0 +1,2560 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:10:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29674515",
+      "properties": {
+        "@id": "way/29674515",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:26Z",
+        "@version": "60",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0434882,
+            5.8255125
+          ],
+          [
+            -73.0431458,
+            5.8261059
+          ],
+          [
+            -73.0429396,
+            5.8264214
+          ],
+          [
+            -73.0427881,
+            5.8265364
+          ],
+          [
+            -73.0424339,
+            5.8266822
+          ],
+          [
+            -73.0420569,
+            5.826754
+          ],
+          [
+            -73.0414282,
+            5.8267392
+          ],
+          [
+            -73.0408712,
+            5.8267517
+          ],
+          [
+            -73.0406309,
+            5.8268189
+          ],
+          [
+            -73.0403484,
+            5.8269897
+          ],
+          [
+            -73.0400192,
+            5.8274032
+          ],
+          [
+            -73.0397322,
+            5.8278497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29675420",
+      "properties": {
+        "@id": "way/29675420",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida Camilo Torres",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "26",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0246987,
+            5.8205731
+          ],
+          [
+            -73.0244691,
+            5.8202931
+          ],
+          [
+            -73.0237647,
+            5.8192501
+          ],
+          [
+            -73.0234002,
+            5.8186897
+          ],
+          [
+            -73.0231907,
+            5.818402
+          ],
+          [
+            -73.0228797,
+            5.8181293
+          ],
+          [
+            -73.0225384,
+            5.8178299
+          ],
+          [
+            -73.0219204,
+            5.8173688
+          ],
+          [
+            -73.0217145,
+            5.8172204
+          ],
+          [
+            -73.0214594,
+            5.8170792
+          ],
+          [
+            -73.0213432,
+            5.8170405
+          ],
+          [
+            -73.0207418,
+            5.8168878
+          ],
+          [
+            -73.0202885,
+            5.816758
+          ],
+          [
+            -73.0200641,
+            5.8166484
+          ],
+          [
+            -73.0197793,
+            5.8164365
+          ],
+          [
+            -73.0196703,
+            5.8163263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30515053",
+      "properties": {
+        "@id": "way/30515053",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:18Z",
+        "@version": "14",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0272378,
+            5.8239481
+          ],
+          [
+            -73.0272491,
+            5.8239001
+          ],
+          [
+            -73.0272448,
+            5.8238509
+          ],
+          [
+            -73.0272253,
+            5.8238055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34962789",
+      "properties": {
+        "@id": "way/34962789",
+        "bridge": "yes",
+        "highway": "residential",
+        "layer": "1",
+        "mechanical": "yes",
+        "name": "vía TOCOGUA",
+        "smoothness": "intermediate",
+        "source": "GPS",
+        "surface": "paved",
+        "@timestamp": "2015-10-20T22:39:01Z",
+        "@version": "9",
+        "@changeset": "34766997",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.016663,
+            5.8159449
+          ],
+          [
+            -73.0166224,
+            5.8160045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42723988",
+      "properties": {
+        "@id": "way/42723988",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Transversal 20",
+        "@timestamp": "2016-09-05T03:38:01Z",
+        "@version": "5",
+        "@changeset": "41920167",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0195181,
+            5.8164395
+          ],
+          [
+            -73.0185815,
+            5.815919
+          ],
+          [
+            -73.0182847,
+            5.8157791
+          ],
+          [
+            -73.0177056,
+            5.8156479
+          ],
+          [
+            -73.0174189,
+            5.815642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45510119",
+      "properties": {
+        "@id": "way/45510119",
+        "highway": "residential",
+        "name": "Calle 22",
+        "@timestamp": "2016-09-05T03:46:53Z",
+        "@version": "3",
+        "@changeset": "41920244",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.027289,
+            5.8278165
+          ],
+          [
+            -73.0270534,
+            5.8273866
+          ],
+          [
+            -73.0269704,
+            5.8272357
+          ],
+          [
+            -73.0266943,
+            5.8267183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45510134",
+      "properties": {
+        "@id": "way/45510134",
+        "highway": "residential",
+        "name": "Diagonal 20",
+        "@timestamp": "2016-09-12T15:39:43Z",
+        "@version": "5",
+        "@changeset": "42103814",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0268432,
+            5.8260676
+          ],
+          [
+            -73.0269114,
+            5.8255404
+          ],
+          [
+            -73.0269657,
+            5.8251208
+          ],
+          [
+            -73.0270157,
+            5.8247512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72941710",
+      "properties": {
+        "@id": "way/72941710",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "vía TOCOGUA",
+        "smoothness": "bad",
+        "surface": "paved",
+        "@timestamp": "2016-08-29T01:52:56Z",
+        "@version": "10",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0165786,
+            5.8160689
+          ],
+          [
+            -73.0164768,
+            5.8165156
+          ],
+          [
+            -73.0163746,
+            5.8166975
+          ],
+          [
+            -73.0157649,
+            5.8171023
+          ],
+          [
+            -73.0156486,
+            5.8172285
+          ],
+          [
+            -73.0153488,
+            5.8175538
+          ],
+          [
+            -73.014203,
+            5.8180337
+          ],
+          [
+            -73.0138239,
+            5.8181538
+          ],
+          [
+            -73.013726,
+            5.8181848
+          ],
+          [
+            -73.0135478,
+            5.8182413
+          ],
+          [
+            -73.0132448,
+            5.818351
+          ],
+          [
+            -73.0127932,
+            5.8185682
+          ],
+          [
+            -73.0126245,
+            5.8186027
+          ],
+          [
+            -73.01249,
+            5.8185718
+          ],
+          [
+            -73.0124167,
+            5.8185589
+          ],
+          [
+            -73.0120754,
+            5.8184993
+          ],
+          [
+            -73.0112184,
+            5.8182027
+          ],
+          [
+            -73.0108672,
+            5.8182154
+          ],
+          [
+            -73.0101526,
+            5.8182791
+          ],
+          [
+            -73.0098379,
+            5.8183535
+          ],
+          [
+            -73.0097776,
+            5.8183672
+          ],
+          [
+            -73.0096331,
+            5.8184053
+          ],
+          [
+            -73.0094814,
+            5.818396
+          ],
+          [
+            -73.008982,
+            5.8182382
+          ],
+          [
+            -73.0086598,
+            5.8181572
+          ],
+          [
+            -73.0081356,
+            5.8180458
+          ],
+          [
+            -73.0077007,
+            5.8180893
+          ],
+          [
+            -73.0072907,
+            5.8181323
+          ],
+          [
+            -73.0068872,
+            5.8182088
+          ],
+          [
+            -73.0066967,
+            5.8182416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72941713",
+      "properties": {
+        "@id": "way/72941713",
+        "highway": "residential",
+        "oneway": "no",
+        "@timestamp": "2014-01-02T05:13:43Z",
+        "@version": "5",
+        "@changeset": "19755427",
+        "@user": "juanbox",
+        "@uid": "1312875",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0196703,
+            5.8163263
+          ],
+          [
+            -73.0195801,
+            5.8163785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72941717",
+      "properties": {
+        "@id": "way/72941717",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 37A",
+        "@timestamp": "2012-06-26T14:03:16Z",
+        "@version": "3",
+        "@changeset": "12025244",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0174189,
+            5.815642
+          ],
+          [
+            -73.0169272,
+            5.8156865
+          ],
+          [
+            -73.016663,
+            5.8159449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156253662",
+      "properties": {
+        "@id": "way/156253662",
+        "highway": "unclassified",
+        "@timestamp": "2016-09-12T10:37:53Z",
+        "@version": "3",
+        "@changeset": "42097003",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0066967,
+            5.8182416
+          ],
+          [
+            -73.0064221,
+            5.8182604
+          ],
+          [
+            -73.0062124,
+            5.8183148
+          ],
+          [
+            -73.0061354,
+            5.8183195
+          ],
+          [
+            -73.0058188,
+            5.8180237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201390566",
+      "properties": {
+        "@id": "way/201390566",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-14T16:55:27Z",
+        "@version": "6",
+        "@changeset": "42154253",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.04959,
+            5.8279874
+          ],
+          [
+            -73.0491979,
+            5.8278141
+          ],
+          [
+            -73.0490397,
+            5.8277261
+          ],
+          [
+            -73.048766,
+            5.8275621
+          ],
+          [
+            -73.0483113,
+            5.8273697
+          ],
+          [
+            -73.0480006,
+            5.8272416
+          ],
+          [
+            -73.0477068,
+            5.8271244
+          ],
+          [
+            -73.0472717,
+            5.8270112
+          ],
+          [
+            -73.0470981,
+            5.8269693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/217705019",
+      "properties": {
+        "@id": "way/217705019",
+        "highway": "residential",
+        "@timestamp": "2013-04-17T01:46:46Z",
+        "@version": "1",
+        "@changeset": "15757255",
+        "@user": "juanbox",
+        "@uid": "1312875",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0195801,
+            5.8163785
+          ],
+          [
+            -73.0195181,
+            5.8164395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341811735",
+      "properties": {
+        "@id": "way/341811735",
+        "highway": "residential",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "3",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0346368,
+            5.8298497
+          ],
+          [
+            -73.0339381,
+            5.8302632
+          ],
+          [
+            -73.0335645,
+            5.8305076
+          ],
+          [
+            -73.0332078,
+            5.830743
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341814494",
+      "properties": {
+        "@id": "way/341814494",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "5",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0368768,
+            5.8320249
+          ],
+          [
+            -73.0368623,
+            5.8320014
+          ],
+          [
+            -73.0366117,
+            5.8315788
+          ],
+          [
+            -73.0362179,
+            5.8309276
+          ],
+          [
+            -73.0359471,
+            5.8305019
+          ],
+          [
+            -73.0358927,
+            5.8304081
+          ],
+          [
+            -73.0357056,
+            5.8301207
+          ],
+          [
+            -73.0354989,
+            5.8297713
+          ],
+          [
+            -73.0353156,
+            5.8294314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371395864",
+      "properties": {
+        "@id": "way/371395864",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2015-09-18T22:15:16Z",
+        "@version": "3",
+        "@changeset": "34112444",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0332078,
+            5.830743
+          ],
+          [
+            -73.0327415,
+            5.8298176
+          ],
+          [
+            -73.0323021,
+            5.8290278
+          ],
+          [
+            -73.0318487,
+            5.8283539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/376167823",
+      "properties": {
+        "@id": "way/376167823",
+        "bridge": "yes",
+        "highway": "residential",
+        "layer": "1",
+        "mechanical": "yes",
+        "name": "vía TOCOGUA",
+        "smoothness": "intermediate",
+        "source": "GPS",
+        "surface": "paved",
+        "@timestamp": "2015-10-20T22:38:58Z",
+        "@version": "1",
+        "@changeset": "34766997",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0166224,
+            5.8160045
+          ],
+          [
+            -73.0165786,
+            5.8160689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398590360",
+      "properties": {
+        "@id": "way/398590360",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2016-02-18T20:00:54Z",
+        "@version": "1",
+        "@changeset": "37296418",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318487,
+            5.8283539
+          ],
+          [
+            -73.0314459,
+            5.8276383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700906",
+      "properties": {
+        "@id": "way/438700906",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-24T02:21:04Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0314459,
+            5.8276383
+          ],
+          [
+            -73.0309814,
+            5.8269106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439527927",
+      "properties": {
+        "@id": "way/439527927",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:13:43Z",
+        "@version": "1",
+        "@changeset": "41759038",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0271519,
+            5.8240339
+          ],
+          [
+            -73.0271879,
+            5.8240133
+          ],
+          [
+            -73.0272172,
+            5.823984
+          ],
+          [
+            -73.0272378,
+            5.8239481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539947",
+      "properties": {
+        "@id": "way/439539947",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:14:57Z",
+        "@version": "3",
+        "@changeset": "42067291",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0397322,
+            5.8278497
+          ],
+          [
+            -73.0395855,
+            5.8281076
+          ],
+          [
+            -73.0394041,
+            5.8284695
+          ],
+          [
+            -73.0392519,
+            5.8288036
+          ],
+          [
+            -73.0391994,
+            5.8289052
+          ],
+          [
+            -73.0389531,
+            5.8294518
+          ],
+          [
+            -73.0384286,
+            5.8305215
+          ],
+          [
+            -73.0378484,
+            5.8316495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539950",
+      "properties": {
+        "@id": "way/439539950",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T17:22:08Z",
+        "@version": "1",
+        "@changeset": "41760523",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0309814,
+            5.8269106
+          ],
+          [
+            -73.0305933,
+            5.826277
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539952",
+      "properties": {
+        "@id": "way/439539952",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T20:36:58Z",
+        "@version": "2",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0305933,
+            5.826277
+          ],
+          [
+            -73.0298568,
+            5.8268091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539956",
+      "properties": {
+        "@id": "way/439539956",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-24T20:33:39Z",
+        "@version": "7",
+        "@changeset": "42411811",
+        "@user": "matiuxd",
+        "@uid": "2006950",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0469114,
+            5.826927
+          ],
+          [
+            -73.046611,
+            5.8268666
+          ],
+          [
+            -73.0462746,
+            5.826774
+          ],
+          [
+            -73.046158,
+            5.8267182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526941",
+      "properties": {
+        "@id": "way/440526941",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:48Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0372298,
+            5.8326187
+          ],
+          [
+            -73.0370502,
+            5.8323054
+          ],
+          [
+            -73.0368768,
+            5.8320249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526947",
+      "properties": {
+        "@id": "way/440526947",
+        "highway": "residential",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:49Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0353156,
+            5.8294314
+          ],
+          [
+            -73.0346368,
+            5.8298497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693927",
+      "properties": {
+        "@id": "way/440693927",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:47Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0286118,
+            5.8273123
+          ],
+          [
+            -73.0282898,
+            5.8273558
+          ],
+          [
+            -73.0279844,
+            5.8274976
+          ],
+          [
+            -73.0277062,
+            5.8276234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828192",
+      "properties": {
+        "@id": "way/441828192",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:10Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0435497,
+            5.8254153
+          ],
+          [
+            -73.0434882,
+            5.8255125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834808",
+      "properties": {
+        "@id": "way/441834808",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T20:36:54Z",
+        "@version": "1",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0298568,
+            5.8268091
+          ],
+          [
+            -73.0291955,
+            5.8272507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834811",
+      "properties": {
+        "@id": "way/441834811",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T10:05:48Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0436524,
+            5.8254786
+          ],
+          [
+            -73.0435497,
+            5.8254153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839455",
+      "properties": {
+        "@id": "way/441839455",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T10:05:48Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0451293,
+            5.8262101
+          ],
+          [
+            -73.0441719,
+            5.8257551
+          ],
+          [
+            -73.0436524,
+            5.8254786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839574",
+      "properties": {
+        "@id": "way/441839574",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:14:56Z",
+        "@version": "1",
+        "@changeset": "42067291",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0378484,
+            5.8316495
+          ],
+          [
+            -73.0376961,
+            5.8319511
+          ],
+          [
+            -73.0375966,
+            5.832146
+          ],
+          [
+            -73.0373779,
+            5.8324205
+          ],
+          [
+            -73.0372298,
+            5.8326187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441840000",
+      "properties": {
+        "@id": "way/441840000",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:55Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0499151,
+            5.8282368
+          ],
+          [
+            -73.0497401,
+            5.8280563
+          ],
+          [
+            -73.04959,
+            5.8279874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441847935",
+      "properties": {
+        "@id": "way/441847935",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:16Z",
+        "@version": "1",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0271108,
+            5.8240445
+          ],
+          [
+            -73.0271519,
+            5.8240339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441847936",
+      "properties": {
+        "@id": "way/441847936",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:16Z",
+        "@version": "1",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0272253,
+            5.8238055
+          ],
+          [
+            -73.0271917,
+            5.8237677
+          ],
+          [
+            -73.0271477,
+            5.8237424
+          ],
+          [
+            -73.0270979,
+            5.8237324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850408",
+      "properties": {
+        "@id": "way/441850408",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida Camilo Torres",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0270979,
+            5.8237324
+          ],
+          [
+            -73.0270084,
+            5.8236334
+          ],
+          [
+            -73.026626,
+            5.8231239
+          ],
+          [
+            -73.0262614,
+            5.8227301
+          ],
+          [
+            -73.0259993,
+            5.8223918
+          ],
+          [
+            -73.0256215,
+            5.8217393
+          ],
+          [
+            -73.0251639,
+            5.8210656
+          ],
+          [
+            -73.0246987,
+            5.8205731
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850422",
+      "properties": {
+        "@id": "way/441850422",
+        "highway": "residential",
+        "name": "Diagonal 20",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0266943,
+            5.8267183
+          ],
+          [
+            -73.0268432,
+            5.8260676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442079226",
+      "properties": {
+        "@id": "way/442079226",
+        "highway": "residential",
+        "name": "Diagonal 20",
+        "@timestamp": "2016-09-12T15:39:38Z",
+        "@version": "1",
+        "@changeset": "42103814",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0270157,
+            5.8247512
+          ],
+          [
+            -73.0271399,
+            5.8241853
+          ],
+          [
+            -73.0271108,
+            5.8240445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442174188",
+      "properties": {
+        "@id": "way/442174188",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:42Z",
+        "@version": "1",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0277062,
+            5.8276234
+          ],
+          [
+            -73.027289,
+            5.8278165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442959578",
+      "properties": {
+        "@id": "way/442959578",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T20:03:40Z",
+        "@version": "1",
+        "@changeset": "42234361",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.046158,
+            5.8267182
+          ],
+          [
+            -73.0451293,
+            5.8262101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444195454",
+      "properties": {
+        "@id": "way/444195454",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-24T20:33:31Z",
+        "@version": "1",
+        "@changeset": "42411811",
+        "@user": "matiuxd",
+        "@uid": "2006950",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6580948",
+            "reltags": {
+              "from": "Cerro Pino",
+              "name": "A4 - Cerro Pino - Tocogua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A4",
+              "route": "bus",
+              "to": "Tocogua",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0470981,
+            5.8269693
+          ],
+          [
+            -73.0469114,
+            5.826927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266523",
+      "properties": {
+        "@id": "node/326266523",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "15",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0309814,
+          5.8269106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266528",
+      "properties": {
+        "@id": "node/326266528",
+        "highway": "traffic_signals",
+        "name": "La dorada",
+        "@timestamp": "2012-09-21T06:05:36Z",
+        "@version": "30",
+        "@changeset": "13191399",
+        "@user": "camilolara",
+        "@uid": "235754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0291955,
+          5.8272507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334402543",
+      "properties": {
+        "@id": "node/334402543",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "10",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0353156,
+          5.8294314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334402563",
+      "properties": {
+        "@id": "node/334402563",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0305933,
+          5.826277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/410298091",
+      "properties": {
+        "@id": "node/410298091",
+        "traffic_calming": "hump",
+        "@timestamp": "2010-08-18T02:32:11Z",
+        "@version": "2",
+        "@changeset": "5523059",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.014203,
+          5.8180337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/410298095",
+      "properties": {
+        "@id": "node/410298095",
+        "traffic_calming": "hump",
+        "@timestamp": "2012-03-23T02:04:49Z",
+        "@version": "4",
+        "@changeset": "11069673",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0097776,
+          5.8183672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/410298268",
+      "properties": {
+        "@id": "node/410298268",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "9",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0436524,
+          5.8254786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157528",
+      "properties": {
+        "@id": "node/539157528",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "12",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0435497,
+          5.8254153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157550",
+      "properties": {
+        "@id": "node/539157550",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "10",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0434882,
+          5.8255125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/865650802",
+      "properties": {
+        "@id": "node/865650802",
+        "traffic_calming": "hump",
+        "@timestamp": "2010-08-18T02:32:04Z",
+        "@version": "1",
+        "@changeset": "5523059",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0153488,
+          5.8175538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/865650851",
+      "properties": {
+        "@id": "node/865650851",
+        "traffic_calming": "hump",
+        "@timestamp": "2012-03-23T02:04:49Z",
+        "@version": "3",
+        "@changeset": "11069673",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0086598,
+          5.8181572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3505248267",
+      "properties": {
+        "@id": "node/3505248267",
+        "barrier": "gate",
+        "bicycle": "yes",
+        "foot": "yes",
+        "@timestamp": "2016-08-29T01:52:58Z",
+        "@version": "2",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0391994,
+          5.8289052
+        ]
+      }
+    }
+  ]
+}

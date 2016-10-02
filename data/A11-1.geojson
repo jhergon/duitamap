@@ -1,0 +1,2220 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:14:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29595355",
+      "properties": {
+        "@id": "way/29595355",
+        "highway": "secondary",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:54Z",
+        "@version": "19",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0313406,
+            5.8129776
+          ],
+          [
+            -73.0312826,
+            5.8128898
+          ],
+          [
+            -73.03105,
+            5.8125946
+          ],
+          [
+            -73.0309439,
+            5.8124353
+          ],
+          [
+            -73.0308633,
+            5.8123044
+          ],
+          [
+            -73.0301141,
+            5.8111116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29645081",
+      "properties": {
+        "@id": "way/29645081",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T19:52:51Z",
+        "@version": "33",
+        "@changeset": "42234156",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0379481,
+            5.8231597
+          ],
+          [
+            -73.0372747,
+            5.8221404
+          ],
+          [
+            -73.0367676,
+            5.821353
+          ],
+          [
+            -73.036676,
+            5.8212142
+          ],
+          [
+            -73.0363654,
+            5.820734
+          ],
+          [
+            -73.0359002,
+            5.8199997
+          ],
+          [
+            -73.0358386,
+            5.8199032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32571431",
+      "properties": {
+        "@id": "way/32571431",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T21:28:21Z",
+        "@version": "43",
+        "@changeset": "42067491",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0324817,
+            5.8060441
+          ],
+          [
+            -73.0353876,
+            5.8053926
+          ],
+          [
+            -73.0364323,
+            5.8051573
+          ],
+          [
+            -73.0375442,
+            5.8049188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/97761181",
+      "properties": {
+        "@id": "way/97761181",
+        "highway": "tertiary",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "surface": "sand",
+        "tracktype": "grade2",
+        "@timestamp": "2016-09-05T04:42:43Z",
+        "@version": "3",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0713533,
+            5.8074645
+          ],
+          [
+            -73.0714919,
+            5.8078231
+          ],
+          [
+            -73.071635,
+            5.8083468
+          ],
+          [
+            -73.0717245,
+            5.808468
+          ],
+          [
+            -73.0719775,
+            5.8088432
+          ],
+          [
+            -73.0719991,
+            5.8091161
+          ],
+          [
+            -73.0719332,
+            5.809269
+          ],
+          [
+            -73.0716253,
+            5.8109357
+          ],
+          [
+            -73.0724587,
+            5.811366
+          ],
+          [
+            -73.0720736,
+            5.8120723
+          ],
+          [
+            -73.0718931,
+            5.8120776
+          ],
+          [
+            -73.0718363,
+            5.8121603
+          ],
+          [
+            -73.0718464,
+            5.8132095
+          ],
+          [
+            -73.0716869,
+            5.8135471
+          ],
+          [
+            -73.0716634,
+            5.8140841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/97980048",
+      "properties": {
+        "@id": "way/97980048",
+        "highway": "unclassified",
+        "maxspeed": "60",
+        "mechanical": "yes",
+        "name": "vía Bonza La Trinidad",
+        "smoothness": "good",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T16:41:30Z",
+        "@version": "14",
+        "@changeset": "42130434",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0590005,
+            5.7895529
+          ],
+          [
+            -73.0590119,
+            5.7896331
+          ],
+          [
+            -73.0599375,
+            5.7904538
+          ],
+          [
+            -73.0599671,
+            5.7907025
+          ],
+          [
+            -73.0597332,
+            5.7913747
+          ],
+          [
+            -73.0597273,
+            5.7915997
+          ],
+          [
+            -73.0597473,
+            5.7917325
+          ],
+          [
+            -73.0597719,
+            5.7918964
+          ],
+          [
+            -73.0597812,
+            5.7919581
+          ],
+          [
+            -73.0597955,
+            5.7920112
+          ],
+          [
+            -73.0598628,
+            5.7925001
+          ],
+          [
+            -73.0598783,
+            5.7926034
+          ],
+          [
+            -73.0603514,
+            5.7933199
+          ],
+          [
+            -73.0609399,
+            5.7943149
+          ],
+          [
+            -73.0609905,
+            5.7945477
+          ],
+          [
+            -73.0612751,
+            5.7963049
+          ],
+          [
+            -73.0613592,
+            5.7968551
+          ],
+          [
+            -73.0614441,
+            5.7971456
+          ],
+          [
+            -73.0617446,
+            5.7981739
+          ],
+          [
+            -73.0617623,
+            5.7982344
+          ],
+          [
+            -73.0619144,
+            5.7998111
+          ],
+          [
+            -73.0620806,
+            5.8015339
+          ],
+          [
+            -73.0624095,
+            5.8029131
+          ],
+          [
+            -73.0630885,
+            5.8042499
+          ],
+          [
+            -73.0630885,
+            5.8048122
+          ],
+          [
+            -73.0628975,
+            5.8055761
+          ],
+          [
+            -73.062993,
+            5.8061384
+          ],
+          [
+            -73.0634598,
+            5.8070296
+          ],
+          [
+            -73.0639161,
+            5.80756
+          ],
+          [
+            -73.0644359,
+            5.8085467
+          ],
+          [
+            -73.0646375,
+            5.8088332
+          ],
+          [
+            -73.0650831,
+            5.8086952
+          ],
+          [
+            -73.0664411,
+            5.8087483
+          ],
+          [
+            -73.0682871,
+            5.8083663
+          ],
+          [
+            -73.070791,
+            5.8074645
+          ],
+          [
+            -73.0713533,
+            5.8074645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/98080920",
+      "properties": {
+        "@id": "way/98080920",
+        "highway": "tertiary",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "surface": "sand",
+        "tracktype": "grade2",
+        "@timestamp": "2016-09-05T04:42:43Z",
+        "@version": "3",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0721427,
+            5.8143136
+          ],
+          [
+            -73.0721699,
+            5.8157348
+          ],
+          [
+            -73.0721744,
+            5.8159696
+          ],
+          [
+            -73.0723905,
+            5.8173218
+          ],
+          [
+            -73.0714793,
+            5.8179101
+          ],
+          [
+            -73.0707493,
+            5.8184713
+          ],
+          [
+            -73.0706516,
+            5.818676
+          ],
+          [
+            -73.0706759,
+            5.818811
+          ],
+          [
+            -73.0707724,
+            5.8192478
+          ],
+          [
+            -73.0712056,
+            5.8201893
+          ],
+          [
+            -73.0718256,
+            5.8215367
+          ],
+          [
+            -73.0720242,
+            5.8218395
+          ],
+          [
+            -73.0728648,
+            5.8225755
+          ],
+          [
+            -73.0732429,
+            5.8229342
+          ],
+          [
+            -73.0739221,
+            5.8236401
+          ],
+          [
+            -73.0749487,
+            5.8245939
+          ],
+          [
+            -73.0757636,
+            5.82525
+          ],
+          [
+            -73.0768171,
+            5.8259812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254754599",
+      "properties": {
+        "@id": "way/254754599",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-17T21:44:46Z",
+        "@version": "10",
+        "@changeset": "42236027",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0432392,
+            5.7971434
+          ],
+          [
+            -73.0434,
+            5.7966787
+          ],
+          [
+            -73.043507,
+            5.7964596
+          ],
+          [
+            -73.0440224,
+            5.7947005
+          ],
+          [
+            -73.0442076,
+            5.7942812
+          ],
+          [
+            -73.0444783,
+            5.7938541
+          ],
+          [
+            -73.0449227,
+            5.7934448
+          ],
+          [
+            -73.0452776,
+            5.7932211
+          ],
+          [
+            -73.0466536,
+            5.7925712
+          ],
+          [
+            -73.0482709,
+            5.7918823
+          ],
+          [
+            -73.0494815,
+            5.7913751
+          ],
+          [
+            -73.0504525,
+            5.7910237
+          ],
+          [
+            -73.050674,
+            5.7909436
+          ],
+          [
+            -73.0516589,
+            5.7905872
+          ],
+          [
+            -73.052271,
+            5.790479
+          ],
+          [
+            -73.0532813,
+            5.7903168
+          ],
+          [
+            -73.0539194,
+            5.7902051
+          ],
+          [
+            -73.0541927,
+            5.7901573
+          ],
+          [
+            -73.0550294,
+            5.7900256
+          ],
+          [
+            -73.0562261,
+            5.7898511
+          ],
+          [
+            -73.0577289,
+            5.7896319
+          ],
+          [
+            -73.0584811,
+            5.7895968
+          ],
+          [
+            -73.0585764,
+            5.7895868
+          ],
+          [
+            -73.0588746,
+            5.7895554
+          ],
+          [
+            -73.0590005,
+            5.7895529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371395880",
+      "properties": {
+        "@id": "way/371395880",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2015-09-18T19:59:24Z",
+        "@version": "1",
+        "@changeset": "34110474",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.033992,
+            5.825301
+          ],
+          [
+            -73.0346558,
+            5.8249411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371395898",
+      "properties": {
+        "@id": "way/371395898",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:48:10Z",
+        "@version": "4",
+        "@changeset": "42067685",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0346558,
+            5.8249411
+          ],
+          [
+            -73.0350207,
+            5.8247736
+          ],
+          [
+            -73.0353453,
+            5.8246061
+          ],
+          [
+            -73.0360182,
+            5.8242724
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378744148",
+      "properties": {
+        "@id": "way/378744148",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2015-11-06T19:53:36Z",
+        "@version": "1",
+        "@changeset": "35134072",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0379064,
+            5.8231883
+          ],
+          [
+            -73.0379481,
+            5.8231597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378942574",
+      "properties": {
+        "@id": "way/378942574",
+        "highway": "service",
+        "service": "parking_aisle",
+        "@timestamp": "2016-09-10T21:23:49Z",
+        "@version": "3",
+        "@changeset": "42067425",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0324817,
+            5.8060441
+          ],
+          [
+            -73.0322787,
+            5.8062084
+          ],
+          [
+            -73.0321755,
+            5.8062434
+          ],
+          [
+            -73.0320935,
+            5.8062807
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700893",
+      "properties": {
+        "@id": "way/438700893",
+        "highway": "secondary",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-12T15:39:42Z",
+        "@version": "3",
+        "@changeset": "42103814",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0301141,
+            5.8111116
+          ],
+          [
+            -73.0286014,
+            5.8088124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700918",
+      "properties": {
+        "@id": "way/438700918",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-29T01:13:37Z",
+        "@version": "2",
+        "@changeset": "41767098",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0309814,
+            5.8269106
+          ],
+          [
+            -73.0318139,
+            5.8264591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700919",
+      "properties": {
+        "@id": "way/438700919",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318139,
+            5.8264591
+          ],
+          [
+            -73.0324609,
+            5.8261035
+          ],
+          [
+            -73.0332008,
+            5.8257057
+          ],
+          [
+            -73.033588,
+            5.8255109
+          ],
+          [
+            -73.033992,
+            5.825301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700931",
+      "properties": {
+        "@id": "way/438700931",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:59Z",
+        "@version": "2",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0314637,
+            5.8131532
+          ],
+          [
+            -73.0314695,
+            5.8131136
+          ],
+          [
+            -73.0314634,
+            5.813074
+          ],
+          [
+            -73.0314459,
+            5.813038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695702",
+      "properties": {
+        "@id": "way/440695702",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-05T04:22:14Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0304201,
+            5.8065285
+          ],
+          [
+            -73.0307242,
+            5.8064564
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695703",
+      "properties": {
+        "@id": "way/440695703",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-05T04:22:14Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0275292,
+            5.8071433
+          ],
+          [
+            -73.0294248,
+            5.8067356
+          ],
+          [
+            -73.0300355,
+            5.8066198
+          ],
+          [
+            -73.0304201,
+            5.8065285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695706",
+      "properties": {
+        "@id": "way/440695706",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-05T04:22:15Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0375442,
+            5.8049188
+          ],
+          [
+            -73.0375824,
+            5.8049106
+          ],
+          [
+            -73.0377519,
+            5.8048714
+          ],
+          [
+            -73.0389079,
+            5.8046224
+          ],
+          [
+            -73.0393693,
+            5.8044954
+          ],
+          [
+            -73.0395231,
+            5.8044475
+          ],
+          [
+            -73.0396542,
+            5.8044161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695709",
+      "properties": {
+        "@id": "way/440695709",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:15Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0317962,
+            5.8137387
+          ],
+          [
+            -73.0316653,
+            5.8135148
+          ],
+          [
+            -73.0315651,
+            5.8133401
+          ],
+          [
+            -73.0314637,
+            5.8131532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440696717",
+      "properties": {
+        "@id": "way/440696717",
+        "highway": "unclassified",
+        "mechanical": "yes",
+        "name": "vía la trinidad",
+        "@timestamp": "2016-09-05T04:42:40Z",
+        "@version": "1",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0779325,
+            5.8254508
+          ],
+          [
+            -73.0768171,
+            5.8259812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440696719",
+      "properties": {
+        "@id": "way/440696719",
+        "highway": "tertiary",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "surface": "sand",
+        "tracktype": "grade2",
+        "@timestamp": "2016-09-05T04:42:40Z",
+        "@version": "1",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0721427,
+            5.8143136
+          ],
+          [
+            -73.0716634,
+            5.8140841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828184",
+      "properties": {
+        "@id": "way/441828184",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:09Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0307242,
+            5.8064564
+          ],
+          [
+            -73.0310922,
+            5.8063698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839998",
+      "properties": {
+        "@id": "way/441839998",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:20:46Z",
+        "@version": "1",
+        "@changeset": "42067287",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0378486,
+            5.8232295
+          ],
+          [
+            -73.0379064,
+            5.8231883
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441841014",
+      "properties": {
+        "@id": "way/441841014",
+        "highway": "service",
+        "service": "parking_aisle",
+        "@timestamp": "2016-09-10T21:23:48Z",
+        "@version": "1",
+        "@changeset": "42067425",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0310922,
+            5.8063698
+          ],
+          [
+            -73.0313064,
+            5.8064258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441841015",
+      "properties": {
+        "@id": "way/441841015",
+        "highway": "service",
+        "service": "parking_aisle",
+        "@timestamp": "2016-09-10T21:23:48Z",
+        "@version": "1",
+        "@changeset": "42067425",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0313064,
+            5.8064258
+          ],
+          [
+            -73.0317332,
+            5.8063812
+          ],
+          [
+            -73.0320935,
+            5.8062807
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441842632",
+      "properties": {
+        "@id": "way/441842632",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:30:01Z",
+        "@version": "1",
+        "@changeset": "42067498",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0344604,
+            5.8178199
+          ],
+          [
+            -73.0339692,
+            5.8170756
+          ],
+          [
+            -73.0336067,
+            5.8165224
+          ],
+          [
+            -73.0335959,
+            5.8165051
+          ],
+          [
+            -73.0335852,
+            5.81649
+          ],
+          [
+            -73.0335435,
+            5.8164304
+          ],
+          [
+            -73.0335053,
+            5.8163709
+          ],
+          [
+            -73.0328647,
+            5.8153925
+          ],
+          [
+            -73.0327926,
+            5.8152846
+          ],
+          [
+            -73.0324343,
+            5.8147365
+          ],
+          [
+            -73.0324182,
+            5.8147077
+          ],
+          [
+            -73.0323846,
+            5.8146601
+          ],
+          [
+            -73.0317962,
+            5.8137387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441843265",
+      "properties": {
+        "@id": "way/441843265",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:53Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358386,
+            5.8199032
+          ],
+          [
+            -73.0355505,
+            5.8194678
+          ],
+          [
+            -73.0353783,
+            5.8192145
+          ],
+          [
+            -73.0350689,
+            5.8187395
+          ],
+          [
+            -73.0344604,
+            5.8178199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441844263",
+      "properties": {
+        "@id": "way/441844263",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:48:08Z",
+        "@version": "1",
+        "@changeset": "42067685",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0360182,
+            5.8242724
+          ],
+          [
+            -73.0370641,
+            5.8236655
+          ],
+          [
+            -73.0378486,
+            5.8232295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850572",
+      "properties": {
+        "@id": "way/441850572",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:55Z",
+        "@version": "1",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0314459,
+            5.813038
+          ],
+          [
+            -73.0314176,
+            5.8130077
+          ],
+          [
+            -73.0313813,
+            5.8129873
+          ],
+          [
+            -73.0313406,
+            5.8129776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442079224",
+      "properties": {
+        "@id": "way/442079224",
+        "highway": "secondary",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-12T15:39:38Z",
+        "@version": "1",
+        "@changeset": "42103814",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0286014,
+            5.8088124
+          ],
+          [
+            -73.0275292,
+            5.8071433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442971045",
+      "properties": {
+        "@id": "way/442971045",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-17T22:09:58Z",
+        "@version": "2",
+        "@changeset": "42236573",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6583715",
+            "reltags": {
+              "from": "Terminal Antiguo",
+              "name": "A11 - Terminal Antiguo - Vereda La Trinidad",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A11",
+              "route": "bus",
+              "to": "Vereda La Trinidad",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0396542,
+            5.8044161
+          ],
+          [
+            -73.039996,
+            5.8042409
+          ],
+          [
+            -73.0402865,
+            5.8040601
+          ],
+          [
+            -73.0404334,
+            5.8039584
+          ],
+          [
+            -73.0406704,
+            5.8037586
+          ],
+          [
+            -73.0409544,
+            5.8034879
+          ],
+          [
+            -73.0411915,
+            5.8032304
+          ],
+          [
+            -73.0413636,
+            5.8029682
+          ],
+          [
+            -73.0415802,
+            5.8026023
+          ],
+          [
+            -73.0417556,
+            5.8021732
+          ],
+          [
+            -73.0419767,
+            5.8012752
+          ],
+          [
+            -73.0427925,
+            5.798079
+          ],
+          [
+            -73.0428265,
+            5.7979458
+          ],
+          [
+            -73.0432392,
+            5.7971434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/309456917",
+      "properties": {
+        "@id": "node/309456917",
+        "highway": "traffic_signals",
+        "@timestamp": "2011-02-02T06:36:05Z",
+        "@version": "52",
+        "@changeset": "7161812",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0395231,
+          5.8044475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326042395",
+      "properties": {
+        "@id": "node/326042395",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:56Z",
+        "@version": "14",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0275292,
+          5.8071433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266508",
+      "properties": {
+        "@id": "node/326266508",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-17T20:33:21Z",
+        "@version": "39",
+        "@changeset": "42234929",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0378486,
+          5.8232295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266521",
+      "properties": {
+        "@id": "node/326266521",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "18",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0318139,
+          5.8264591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266523",
+      "properties": {
+        "@id": "node/326266523",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "15",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0309814,
+          5.8269106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326609005",
+      "properties": {
+        "@id": "node/326609005",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-17T21:08:48Z",
+        "@version": "11",
+        "@changeset": "42235610",
+        "@user": "DavidLeo",
+        "@uid": "2678389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0396542,
+          5.8044161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400533",
+      "properties": {
+        "@id": "node/334400533",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "7",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0332008,
+          5.8257057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/343547848",
+      "properties": {
+        "@id": "node/343547848",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "6",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0372747,
+          5.8221404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539177434",
+      "properties": {
+        "@id": "node/539177434",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:58Z",
+        "@version": "9",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0379481,
+          5.8231597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1132052353",
+      "properties": {
+        "@id": "node/1132052353",
+        "railway": "level_crossing",
+        "@timestamp": "2015-04-28T07:33:26Z",
+        "@version": "2",
+        "@changeset": "30572100",
+        "@user": "carciofo",
+        "@uid": "2533093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0316653,
+          5.8135148
+        ]
+      }
+    }
+  ]
+}

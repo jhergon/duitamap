@@ -1,0 +1,2925 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:17:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29674515",
+      "properties": {
+        "@id": "way/29674515",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:26Z",
+        "@version": "60",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0434882,
+            5.8255125
+          ],
+          [
+            -73.0431458,
+            5.8261059
+          ],
+          [
+            -73.0429396,
+            5.8264214
+          ],
+          [
+            -73.0427881,
+            5.8265364
+          ],
+          [
+            -73.0424339,
+            5.8266822
+          ],
+          [
+            -73.0420569,
+            5.826754
+          ],
+          [
+            -73.0414282,
+            5.8267392
+          ],
+          [
+            -73.0408712,
+            5.8267517
+          ],
+          [
+            -73.0406309,
+            5.8268189
+          ],
+          [
+            -73.0403484,
+            5.8269897
+          ],
+          [
+            -73.0400192,
+            5.8274032
+          ],
+          [
+            -73.0397322,
+            5.8278497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29675420",
+      "properties": {
+        "@id": "way/29675420",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida Camilo Torres",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "26",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0246987,
+            5.8205731
+          ],
+          [
+            -73.0244691,
+            5.8202931
+          ],
+          [
+            -73.0237647,
+            5.8192501
+          ],
+          [
+            -73.0234002,
+            5.8186897
+          ],
+          [
+            -73.0231907,
+            5.818402
+          ],
+          [
+            -73.0228797,
+            5.8181293
+          ],
+          [
+            -73.0225384,
+            5.8178299
+          ],
+          [
+            -73.0219204,
+            5.8173688
+          ],
+          [
+            -73.0217145,
+            5.8172204
+          ],
+          [
+            -73.0214594,
+            5.8170792
+          ],
+          [
+            -73.0213432,
+            5.8170405
+          ],
+          [
+            -73.0207418,
+            5.8168878
+          ],
+          [
+            -73.0202885,
+            5.816758
+          ],
+          [
+            -73.0200641,
+            5.8166484
+          ],
+          [
+            -73.0197793,
+            5.8164365
+          ],
+          [
+            -73.0196703,
+            5.8163263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30515053",
+      "properties": {
+        "@id": "way/30515053",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:18Z",
+        "@version": "14",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0272378,
+            5.8239481
+          ],
+          [
+            -73.0272491,
+            5.8239001
+          ],
+          [
+            -73.0272448,
+            5.8238509
+          ],
+          [
+            -73.0272253,
+            5.8238055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42738529",
+      "properties": {
+        "@id": "way/42738529",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 19",
+        "@timestamp": "2016-09-26T22:46:26Z",
+        "@version": "9",
+        "@changeset": "42458255",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0197882,
+            5.8087659
+          ],
+          [
+            -73.0191297,
+            5.8080243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45510132",
+      "properties": {
+        "@id": "way/45510132",
+        "highway": "residential",
+        "name": "Transversal 20",
+        "@timestamp": "2012-03-23T15:17:12Z",
+        "@version": "3",
+        "@changeset": "11074909",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0256358,
+            5.8285678
+          ],
+          [
+            -73.0256302,
+            5.8283737
+          ],
+          [
+            -73.0257461,
+            5.8280656
+          ],
+          [
+            -73.0259595,
+            5.8277289
+          ],
+          [
+            -73.0264329,
+            5.8271484
+          ],
+          [
+            -73.0265865,
+            5.8269518
+          ],
+          [
+            -73.0266943,
+            5.8267183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45510134",
+      "properties": {
+        "@id": "way/45510134",
+        "highway": "residential",
+        "name": "Diagonal 20",
+        "@timestamp": "2016-09-12T15:39:43Z",
+        "@version": "5",
+        "@changeset": "42103814",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0268432,
+            5.8260676
+          ],
+          [
+            -73.0269114,
+            5.8255404
+          ],
+          [
+            -73.0269657,
+            5.8251208
+          ],
+          [
+            -73.0270157,
+            5.8247512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49667538",
+      "properties": {
+        "@id": "way/49667538",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 9",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "8",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0455216,
+            5.8254568
+          ],
+          [
+            -73.0453346,
+            5.8258329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53683574",
+      "properties": {
+        "@id": "way/53683574",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 12",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T19:45:30Z",
+        "@version": "7",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0444632,
+            5.8232534
+          ],
+          [
+            -73.0441108,
+            5.8239699
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54567107",
+      "properties": {
+        "@id": "way/54567107",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 9",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T19:45:33Z",
+        "@version": "4",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0454875,
+            5.8237881
+          ],
+          [
+            -73.0451309,
+            5.8244948
+          ],
+          [
+            -73.0448312,
+            5.8250986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/83065980",
+      "properties": {
+        "@id": "way/83065980",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 2",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T19:45:29Z",
+        "@version": "3",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0447731,
+            5.8243107
+          ],
+          [
+            -73.0444111,
+            5.8241244
+          ],
+          [
+            -73.0441108,
+            5.8239699
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/166476576",
+      "properties": {
+        "@id": "way/166476576",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 1",
+        "surface": "unpaved",
+        "@timestamp": "2015-11-27T01:47:51Z",
+        "@version": "3",
+        "@changeset": "35603876",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0444632,
+            5.8232534
+          ],
+          [
+            -73.0436568,
+            5.8228302
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167253108",
+      "properties": {
+        "@id": "way/167253108",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 14",
+        "source": "DANE",
+        "@timestamp": "2015-11-27T01:47:51Z",
+        "@version": "4",
+        "@changeset": "35603876",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0441076,
+            5.8221277
+          ],
+          [
+            -73.0436568,
+            5.8228302
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/274639285",
+      "properties": {
+        "@id": "way/274639285",
+        "highway": "residential",
+        "name": "Calle 14",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:58Z",
+        "@version": "5",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0356085,
+            5.8281405
+          ],
+          [
+            -73.0351897,
+            5.8274425
+          ],
+          [
+            -73.0347745,
+            5.8266983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341814494",
+      "properties": {
+        "@id": "way/341814494",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "5",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0368768,
+            5.8320249
+          ],
+          [
+            -73.0368623,
+            5.8320014
+          ],
+          [
+            -73.0366117,
+            5.8315788
+          ],
+          [
+            -73.0362179,
+            5.8309276
+          ],
+          [
+            -73.0359471,
+            5.8305019
+          ],
+          [
+            -73.0358927,
+            5.8304081
+          ],
+          [
+            -73.0357056,
+            5.8301207
+          ],
+          [
+            -73.0354989,
+            5.8297713
+          ],
+          [
+            -73.0353156,
+            5.8294314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/382973241",
+      "properties": {
+        "@id": "way/382973241",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 10",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T19:45:30Z",
+        "@version": "2",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0451249,
+            5.8236046
+          ],
+          [
+            -73.0447731,
+            5.8243107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700906",
+      "properties": {
+        "@id": "way/438700906",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-24T02:21:04Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0314459,
+            5.8276383
+          ],
+          [
+            -73.0309814,
+            5.8269106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700911",
+      "properties": {
+        "@id": "way/438700911",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 19",
+        "@timestamp": "2016-09-26T22:46:26Z",
+        "@version": "3",
+        "@changeset": "42458255",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0198327,
+            5.8088144
+          ],
+          [
+            -73.0197882,
+            5.8087659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439527898",
+      "properties": {
+        "@id": "way/439527898",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-08-28T16:13:42Z",
+        "@version": "1",
+        "@changeset": "41759038",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.015993,
+            5.8096942
+          ],
+          [
+            -73.0164847,
+            5.8096774
+          ],
+          [
+            -73.0167231,
+            5.8096517
+          ],
+          [
+            -73.0183696,
+            5.809222
+          ],
+          [
+            -73.0198943,
+            5.8088747
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439527909",
+      "properties": {
+        "@id": "way/439527909",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:13:42Z",
+        "@version": "1",
+        "@changeset": "41759038",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0353156,
+            5.8294314
+          ],
+          [
+            -73.0348752,
+            5.8285585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439527918",
+      "properties": {
+        "@id": "way/439527918",
+        "highway": "residential",
+        "name": "Carrera 14",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:13:43Z",
+        "@version": "1",
+        "@changeset": "41759038",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0348752,
+            5.8285585
+          ],
+          [
+            -73.0356085,
+            5.8281405
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439527927",
+      "properties": {
+        "@id": "way/439527927",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:13:43Z",
+        "@version": "1",
+        "@changeset": "41759038",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0271519,
+            5.8240339
+          ],
+          [
+            -73.0271879,
+            5.8240133
+          ],
+          [
+            -73.0272172,
+            5.823984
+          ],
+          [
+            -73.0272378,
+            5.8239481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539947",
+      "properties": {
+        "@id": "way/439539947",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:14:57Z",
+        "@version": "3",
+        "@changeset": "42067291",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0397322,
+            5.8278497
+          ],
+          [
+            -73.0395855,
+            5.8281076
+          ],
+          [
+            -73.0394041,
+            5.8284695
+          ],
+          [
+            -73.0392519,
+            5.8288036
+          ],
+          [
+            -73.0391994,
+            5.8289052
+          ],
+          [
+            -73.0389531,
+            5.8294518
+          ],
+          [
+            -73.0384286,
+            5.8305215
+          ],
+          [
+            -73.0378484,
+            5.8316495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539950",
+      "properties": {
+        "@id": "way/439539950",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T17:22:08Z",
+        "@version": "1",
+        "@changeset": "41760523",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0309814,
+            5.8269106
+          ],
+          [
+            -73.0305933,
+            5.826277
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539952",
+      "properties": {
+        "@id": "way/439539952",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T20:36:58Z",
+        "@version": "2",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0305933,
+            5.826277
+          ],
+          [
+            -73.0298568,
+            5.8268091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526941",
+      "properties": {
+        "@id": "way/440526941",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:48Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0372298,
+            5.8326187
+          ],
+          [
+            -73.0370502,
+            5.8323054
+          ],
+          [
+            -73.0368768,
+            5.8320249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526949",
+      "properties": {
+        "@id": "way/440526949",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "4",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0343482,
+            5.8259894
+          ],
+          [
+            -73.0335897,
+            5.8264028
+          ],
+          [
+            -73.0328935,
+            5.8268011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693390",
+      "properties": {
+        "@id": "way/440693390",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida Camilo Torres",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:25Z",
+        "@version": "2",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0196703,
+            5.8163263
+          ],
+          [
+            -73.0195869,
+            5.8162409
+          ],
+          [
+            -73.0194137,
+            5.8159698
+          ],
+          [
+            -73.0193112,
+            5.8157876
+          ],
+          [
+            -73.0190401,
+            5.8153069
+          ],
+          [
+            -73.0187941,
+            5.8148878
+          ],
+          [
+            -73.0184625,
+            5.814289
+          ],
+          [
+            -73.0171084,
+            5.8117988
+          ],
+          [
+            -73.016876,
+            5.8113591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693927",
+      "properties": {
+        "@id": "way/440693927",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:47Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0286118,
+            5.8273123
+          ],
+          [
+            -73.0282898,
+            5.8273558
+          ],
+          [
+            -73.0279844,
+            5.8274976
+          ],
+          [
+            -73.0277062,
+            5.8276234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695728",
+      "properties": {
+        "@id": "way/440695728",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:17Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322052,
+            5.827182
+          ],
+          [
+            -73.0314459,
+            5.8276383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828187",
+      "properties": {
+        "@id": "way/441828187",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida Camilo Torres",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:09Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.016876,
+            5.8113591
+          ],
+          [
+            -73.0164411,
+            5.8105352
+          ],
+          [
+            -73.0162266,
+            5.8100863
+          ],
+          [
+            -73.016134,
+            5.8099402
+          ],
+          [
+            -73.015993,
+            5.8096942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828192",
+      "properties": {
+        "@id": "way/441828192",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:10Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0435497,
+            5.8254153
+          ],
+          [
+            -73.0434882,
+            5.8255125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828208",
+      "properties": {
+        "@id": "way/441828208",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 1",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:12Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0454875,
+            5.8237881
+          ],
+          [
+            -73.0451249,
+            5.8236046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828219",
+      "properties": {
+        "@id": "way/441828219",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:13Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0448312,
+            5.8250986
+          ],
+          [
+            -73.0452054,
+            5.8252928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828220",
+      "properties": {
+        "@id": "way/441828220",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:12:45Z",
+        "@version": "2",
+        "@changeset": "42067255",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0452054,
+            5.8252928
+          ],
+          [
+            -73.0455216,
+            5.8254568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834808",
+      "properties": {
+        "@id": "way/441834808",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T20:36:54Z",
+        "@version": "1",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0298568,
+            5.8268091
+          ],
+          [
+            -73.0291955,
+            5.8272507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834811",
+      "properties": {
+        "@id": "way/441834811",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T10:05:48Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0436524,
+            5.8254786
+          ],
+          [
+            -73.0435497,
+            5.8254153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839455",
+      "properties": {
+        "@id": "way/441839455",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T10:05:48Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0451293,
+            5.8262101
+          ],
+          [
+            -73.0441719,
+            5.8257551
+          ],
+          [
+            -73.0436524,
+            5.8254786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839574",
+      "properties": {
+        "@id": "way/441839574",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:14:56Z",
+        "@version": "1",
+        "@changeset": "42067291",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0378484,
+            5.8316495
+          ],
+          [
+            -73.0376961,
+            5.8319511
+          ],
+          [
+            -73.0375966,
+            5.832146
+          ],
+          [
+            -73.0373779,
+            5.8324205
+          ],
+          [
+            -73.0372298,
+            5.8326187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845938",
+      "properties": {
+        "@id": "way/441845938",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0328935,
+            5.8268011
+          ],
+          [
+            -73.0322052,
+            5.827182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441847935",
+      "properties": {
+        "@id": "way/441847935",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:16Z",
+        "@version": "1",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0271108,
+            5.8240445
+          ],
+          [
+            -73.0271519,
+            5.8240339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441847936",
+      "properties": {
+        "@id": "way/441847936",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:16Z",
+        "@version": "1",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0272253,
+            5.8238055
+          ],
+          [
+            -73.0271917,
+            5.8237677
+          ],
+          [
+            -73.0271477,
+            5.8237424
+          ],
+          [
+            -73.0270979,
+            5.8237324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850408",
+      "properties": {
+        "@id": "way/441850408",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida Camilo Torres",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0270979,
+            5.8237324
+          ],
+          [
+            -73.0270084,
+            5.8236334
+          ],
+          [
+            -73.026626,
+            5.8231239
+          ],
+          [
+            -73.0262614,
+            5.8227301
+          ],
+          [
+            -73.0259993,
+            5.8223918
+          ],
+          [
+            -73.0256215,
+            5.8217393
+          ],
+          [
+            -73.0251639,
+            5.8210656
+          ],
+          [
+            -73.0246987,
+            5.8205731
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850421",
+      "properties": {
+        "@id": "way/441850421",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 9",
+        "source": "DANE",
+        "@timestamp": "2016-09-13T10:05:48Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0453346,
+            5.8258329
+          ],
+          [
+            -73.0451293,
+            5.8262101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850422",
+      "properties": {
+        "@id": "way/441850422",
+        "highway": "residential",
+        "name": "Diagonal 20",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0266943,
+            5.8267183
+          ],
+          [
+            -73.0268432,
+            5.8260676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850468",
+      "properties": {
+        "@id": "way/441850468",
+        "highway": "residential",
+        "name": "Carrera 23",
+        "@timestamp": "2016-09-12T15:39:43Z",
+        "@version": "2",
+        "@changeset": "42103814",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0270157,
+            5.8247512
+          ],
+          [
+            -73.0267159,
+            5.8248864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850564",
+      "properties": {
+        "@id": "way/441850564",
+        "highway": "residential",
+        "name": "Calle 14",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:55Z",
+        "@version": "1",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0347745,
+            5.8266983
+          ],
+          [
+            -73.0343482,
+            5.8259894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442079222",
+      "properties": {
+        "@id": "way/442079222",
+        "highway": "trunk",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-12T15:39:38Z",
+        "@version": "1",
+        "@changeset": "42103814",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0267159,
+            5.8248864
+          ],
+          [
+            -73.0271108,
+            5.8240445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442174188",
+      "properties": {
+        "@id": "way/442174188",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:42Z",
+        "@version": "1",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0277062,
+            5.8276234
+          ],
+          [
+            -73.027289,
+            5.8278165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442460287",
+      "properties": {
+        "@id": "way/442460287",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-14T16:41:54Z",
+        "@version": "1",
+        "@changeset": "42153968",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.027289,
+            5.8278165
+          ],
+          [
+            -73.025944,
+            5.8284132
+          ],
+          [
+            -73.0256358,
+            5.8285678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444485535",
+      "properties": {
+        "@id": "way/444485535",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 19",
+        "@timestamp": "2016-09-26T22:46:22Z",
+        "@version": "1",
+        "@changeset": "42458255",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0191297,
+            5.8080243
+          ],
+          [
+            -73.0189115,
+            5.8076102
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444485536",
+      "properties": {
+        "@id": "way/444485536",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 19",
+        "@timestamp": "2016-09-26T22:46:22Z",
+        "@version": "1",
+        "@changeset": "42458255",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594040",
+            "reltags": {
+              "from": "Barrio El Recreo",
+              "name": "B5 - Barrio El Recreo - Juan Grande",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B5",
+              "route": "bus",
+              "to": "Juan Grande",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0198943,
+            5.8088747
+          ],
+          [
+            -73.0198327,
+            5.8088144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266523",
+      "properties": {
+        "@id": "node/326266523",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "15",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0309814,
+          5.8269106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266528",
+      "properties": {
+        "@id": "node/326266528",
+        "highway": "traffic_signals",
+        "name": "La dorada",
+        "@timestamp": "2012-09-21T06:05:36Z",
+        "@version": "30",
+        "@changeset": "13191399",
+        "@user": "camilolara",
+        "@uid": "235754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0291955,
+          5.8272507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326525192",
+      "properties": {
+        "@id": "node/326525192",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-08-29T01:52:58Z",
+        "@version": "16",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.015993,
+          5.8096942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400535",
+      "properties": {
+        "@id": "node/334400535",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "8",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0328935,
+          5.8268011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400537",
+      "properties": {
+        "@id": "node/334400537",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "8",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0335897,
+          5.8264028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400545",
+      "properties": {
+        "@id": "node/334400545",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "7",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0347745,
+          5.8266983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334402543",
+      "properties": {
+        "@id": "node/334402543",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "10",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0353156,
+          5.8294314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334402563",
+      "properties": {
+        "@id": "node/334402563",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0305933,
+          5.826277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/410298268",
+      "properties": {
+        "@id": "node/410298268",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "9",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0436524,
+          5.8254786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157528",
+      "properties": {
+        "@id": "node/539157528",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "12",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0435497,
+          5.8254153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157550",
+      "properties": {
+        "@id": "node/539157550",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "10",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0434882,
+          5.8255125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669182154",
+      "properties": {
+        "@id": "node/669182154",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0322052,
+          5.827182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3505248267",
+      "properties": {
+        "@id": "node/3505248267",
+        "barrier": "gate",
+        "bicycle": "yes",
+        "foot": "yes",
+        "@timestamp": "2016-08-29T01:52:58Z",
+        "@version": "2",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0391994,
+          5.8289052
+        ]
+      }
+    }
+  ]
+}

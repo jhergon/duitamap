@@ -1,0 +1,4158 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:20:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29627638",
+      "properties": {
+        "@id": "way/29627638",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "28",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0299809,
+            5.8111521
+          ],
+          [
+            -73.0303214,
+            5.8116977
+          ],
+          [
+            -73.0305638,
+            5.8120259
+          ],
+          [
+            -73.0306625,
+            5.8121844
+          ],
+          [
+            -73.0308616,
+            5.8125196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29650394",
+      "properties": {
+        "@id": "way/29650394",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "31",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0326266,
+            5.8279547
+          ],
+          [
+            -73.0330368,
+            5.8286603
+          ],
+          [
+            -73.0334418,
+            5.8294244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42500683",
+      "properties": {
+        "@id": "way/42500683",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:52Z",
+        "@version": "30",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0317204,
+            5.8137827
+          ],
+          [
+            -73.0323574,
+            5.8147917
+          ],
+          [
+            -73.0327144,
+            5.8153352
+          ],
+          [
+            -73.0330112,
+            5.8157935
+          ],
+          [
+            -73.0334627,
+            5.8164892
+          ],
+          [
+            -73.0334956,
+            5.8165391
+          ],
+          [
+            -73.0335243,
+            5.8165853
+          ],
+          [
+            -73.0338912,
+            5.8171553
+          ],
+          [
+            -73.0343663,
+            5.8178878
+          ],
+          [
+            -73.0349997,
+            5.8188519
+          ],
+          [
+            -73.0352799,
+            5.8192853
+          ],
+          [
+            -73.0357712,
+            5.8200495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42725873",
+      "properties": {
+        "@id": "way/42725873",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-17T21:44:46Z",
+        "@version": "33",
+        "@changeset": "42236027",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0619204,
+            5.7892651
+          ],
+          [
+            -73.0580607,
+            5.7894673
+          ],
+          [
+            -73.0575611,
+            5.7894935
+          ],
+          [
+            -73.0537845,
+            5.7901052
+          ],
+          [
+            -73.0518417,
+            5.7904337
+          ],
+          [
+            -73.0504979,
+            5.7908755
+          ],
+          [
+            -73.047403,
+            5.7921402
+          ],
+          [
+            -73.0456199,
+            5.7929479
+          ],
+          [
+            -73.0450986,
+            5.7932121
+          ],
+          [
+            -73.0446494,
+            5.7935333
+          ],
+          [
+            -73.0442429,
+            5.7939739
+          ],
+          [
+            -73.0436975,
+            5.7947288
+          ],
+          [
+            -73.0433228,
+            5.7955036
+          ],
+          [
+            -73.0430685,
+            5.7963846
+          ],
+          [
+            -73.0430501,
+            5.796629
+          ],
+          [
+            -73.0429438,
+            5.7970944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42745569",
+      "properties": {
+        "@id": "way/42745569",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:21:52Z",
+        "@version": "16",
+        "@changeset": "42068164",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0312119,
+            5.8131757
+          ],
+          [
+            -73.0312345,
+            5.8132075
+          ],
+          [
+            -73.0312653,
+            5.8132315
+          ],
+          [
+            -73.0313016,
+            5.8132459
+          ],
+          [
+            -73.0313405,
+            5.8132494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43086519",
+      "properties": {
+        "@id": "way/43086519",
+        "highway": "trunk_link",
+        "oneway": "yes",
+        "@timestamp": "2011-02-02T06:46:56Z",
+        "@version": "3",
+        "@changeset": "7161842",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0893176,
+            5.7857781
+          ],
+          [
+            -73.0895376,
+            5.7856763
+          ],
+          [
+            -73.0895898,
+            5.7856542
+          ],
+          [
+            -73.0896238,
+            5.7856201
+          ],
+          [
+            -73.0896718,
+            5.7855672
+          ],
+          [
+            -73.0896825,
+            5.785509
+          ],
+          [
+            -73.0896642,
+            5.7854494
+          ],
+          [
+            -73.0896179,
+            5.7854156
+          ],
+          [
+            -73.0895475,
+            5.7853839
+          ],
+          [
+            -73.0893041,
+            5.7853581
+          ],
+          [
+            -73.0885557,
+            5.7854607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54516620",
+      "properties": {
+        "@id": "way/54516620",
+        "bridge": "yes",
+        "highway": "trunk",
+        "layer": "1",
+        "oneway": "yes",
+        "ref": "55",
+        "@timestamp": "2013-10-18T20:14:31Z",
+        "@version": "4",
+        "@changeset": "18425353",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0778218,
+            5.7885191
+          ],
+          [
+            -73.0779268,
+            5.7885174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54567101",
+      "properties": {
+        "@id": "way/54567101",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 2",
+        "source": "DANE",
+        "@timestamp": "2016-09-24T20:33:38Z",
+        "@version": "10",
+        "@changeset": "42411811",
+        "@user": "matiuxd",
+        "@uid": "2006950",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0437729,
+            5.8239828
+          ],
+          [
+            -73.0436156,
+            5.823844
+          ],
+          [
+            -73.0432057,
+            5.823471
+          ],
+          [
+            -73.04297,
+            5.8232867
+          ],
+          [
+            -73.0423943,
+            5.8227875
+          ],
+          [
+            -73.0423819,
+            5.8224988
+          ],
+          [
+            -73.0423716,
+            5.8223498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54767822",
+      "properties": {
+        "@id": "way/54767822",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:27Z",
+        "@version": "7",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0374784,
+            5.824281
+          ],
+          [
+            -73.036395,
+            5.8248884
+          ],
+          [
+            -73.0357363,
+            5.8252783
+          ],
+          [
+            -73.0354363,
+            5.8254487
+          ],
+          [
+            -73.0350427,
+            5.8256257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54767919",
+      "properties": {
+        "@id": "way/54767919",
+        "highway": "service",
+        "service": "alley",
+        "surface": "paved",
+        "@timestamp": "2013-03-23T00:13:51Z",
+        "@version": "4",
+        "@changeset": "15460799",
+        "@user": "camilolara",
+        "@uid": "235754",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.043439,
+            5.8206264
+          ],
+          [
+            -73.0427279,
+            5.8202063
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55932055",
+      "properties": {
+        "@id": "way/55932055",
+        "bridge": "yes",
+        "highway": "trunk",
+        "layer": "1",
+        "oneway": "yes",
+        "ref": "55",
+        "@timestamp": "2013-10-18T20:14:31Z",
+        "@version": "3",
+        "@changeset": "18425353",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0779104,
+            5.7883865
+          ],
+          [
+            -73.0778021,
+            5.788396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/74587514",
+      "properties": {
+        "@id": "way/74587514",
+        "highway": "service",
+        "mechanical": "yes",
+        "name": "Calle 2",
+        "oneway": "yes",
+        "private": "yes",
+        "service": "driveway",
+        "source": "Planos cooperativa Industrial de Boyaca Ing. Oscar boada",
+        "surface": "paved",
+        "width": "8",
+        "@timestamp": "2016-09-10T20:50:03Z",
+        "@version": "9",
+        "@changeset": "42066944",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0647881,
+            5.7904922
+          ],
+          [
+            -73.0648088,
+            5.7903975
+          ],
+          [
+            -73.0647185,
+            5.7901244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/74587532",
+      "properties": {
+        "@id": "way/74587532",
+        "highway": "service",
+        "mechanical": "yes",
+        "name": "Calle 2",
+        "private": "yes",
+        "service": "driveway",
+        "source": "Planos cooperativa Industrial de Boyaca Ing. Oscar boada",
+        "surface": "paved",
+        "width": "8",
+        "@timestamp": "2013-10-18T20:14:25Z",
+        "@version": "10",
+        "@changeset": "18425353",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0647881,
+            5.7904922
+          ],
+          [
+            -73.0648834,
+            5.7907717
+          ],
+          [
+            -73.0652502,
+            5.7918468
+          ],
+          [
+            -73.0657637,
+            5.7933521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/75272222",
+      "properties": {
+        "@id": "way/75272222",
+        "highway": "service",
+        "mechanical": "yes",
+        "name": "Carrera 4",
+        "private": "yes",
+        "service": "driveway",
+        "source": "Planos cooperativa Industrial de Boyaca Ing. Oscar boada",
+        "surface": "paved",
+        "width": "8",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "7",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0657637,
+            5.7933521
+          ],
+          [
+            -73.0647337,
+            5.7937114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127670544",
+      "properties": {
+        "@id": "way/127670544",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:14Z",
+        "@version": "4",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322313,
+            5.8103348
+          ],
+          [
+            -73.0321548,
+            5.8104088
+          ],
+          [
+            -73.0320736,
+            5.8104763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129692184",
+      "properties": {
+        "@id": "way/129692184",
+        "highway": "residential",
+        "name": "Calle 17",
+        "@timestamp": "2015-04-30T22:31:46Z",
+        "@version": "3",
+        "@changeset": "30675600",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358148,
+            5.8335175
+          ],
+          [
+            -73.0358333,
+            5.8335579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/276428889",
+      "properties": {
+        "@id": "way/276428889",
+        "highway": "residential",
+        "@timestamp": "2014-04-23T01:08:33Z",
+        "@version": "1",
+        "@changeset": "21876273",
+        "@user": "diego a lopez a",
+        "@uid": "2036554",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0427279,
+            5.8202063
+          ],
+          [
+            -73.0425745,
+            5.8204533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343534916",
+      "properties": {
+        "@id": "way/343534916",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-29T01:52:56Z",
+        "@version": "4",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0393687,
+            5.8288037
+          ],
+          [
+            -73.0395234,
+            5.828425
+          ],
+          [
+            -73.0395929,
+            5.828293
+          ],
+          [
+            -73.0398541,
+            5.8278565
+          ],
+          [
+            -73.0402948,
+            5.8271925
+          ],
+          [
+            -73.0406172,
+            5.8269465
+          ],
+          [
+            -73.0408199,
+            5.826861
+          ],
+          [
+            -73.0409634,
+            5.8268383
+          ],
+          [
+            -73.0410865,
+            5.8268314
+          ],
+          [
+            -73.0420557,
+            5.8268496
+          ],
+          [
+            -73.0423086,
+            5.8268007
+          ],
+          [
+            -73.0426378,
+            5.8267187
+          ],
+          [
+            -73.0429111,
+            5.8265706
+          ],
+          [
+            -73.0430558,
+            5.8264487
+          ],
+          [
+            -73.0435918,
+            5.825568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343534917",
+      "properties": {
+        "@id": "way/343534917",
+        "admin_level": "9",
+        "boundary": "administrative",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2015-05-08T17:46:43Z",
+        "@version": "2",
+        "@changeset": "30916551",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0393475,
+            5.8288541
+          ],
+          [
+            -73.0393687,
+            5.8288037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378765700",
+      "properties": {
+        "@id": "way/378765700",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2015-11-06T20:57:37Z",
+        "@version": "1",
+        "@changeset": "35135252",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0425067,
+            5.8204196
+          ],
+          [
+            -73.0421484,
+            5.8199243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378765703",
+      "properties": {
+        "@id": "way/378765703",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2015-11-06T20:57:37Z",
+        "@version": "1",
+        "@changeset": "35135252",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0425745,
+            5.8204533
+          ],
+          [
+            -73.0425067,
+            5.8204196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/406188375",
+      "properties": {
+        "@id": "way/406188375",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-24T21:25:50Z",
+        "@version": "2",
+        "@changeset": "42412545",
+        "@user": "matiuxd",
+        "@uid": "2006950",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0439687,
+            5.8246548
+          ],
+          [
+            -73.0441312,
+            5.8247392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422033553",
+      "properties": {
+        "@id": "way/422033553",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-05-31T15:18:04Z",
+        "@version": "1",
+        "@changeset": "39691178",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0326949,
+            5.8097848
+          ],
+          [
+            -73.0324653,
+            5.8099798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422033554",
+      "properties": {
+        "@id": "way/422033554",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-05-31T15:18:04Z",
+        "@version": "1",
+        "@changeset": "39691178",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0320736,
+            5.8104763
+          ],
+          [
+            -73.0319889,
+            5.8105051
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422820978",
+      "properties": {
+        "@id": "way/422820978",
+        "alt_name": "Avenida Circunvalar",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Carrera 31",
+        "oneway": "yes",
+        "@timestamp": "2016-07-03T10:14:31Z",
+        "@version": "2",
+        "@changeset": "40455309",
+        "@user": "carciofo",
+        "@uid": "2533093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0352046,
+            5.8073658
+          ],
+          [
+            -73.0336785,
+            5.8083947
+          ],
+          [
+            -73.0335256,
+            5.8085135
+          ],
+          [
+            -73.0333808,
+            5.8086656
+          ],
+          [
+            -73.0331877,
+            5.8089377
+          ],
+          [
+            -73.0328513,
+            5.8095001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422820979",
+      "properties": {
+        "@id": "way/422820979",
+        "alt_name": "Avenida Circunvalar",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Carrera 31",
+        "oneway": "yes",
+        "@timestamp": "2016-09-14T16:32:25Z",
+        "@version": "3",
+        "@changeset": "42153807",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0396321,
+            5.804267
+          ],
+          [
+            -73.0395231,
+            5.8044475
+          ],
+          [
+            -73.0393746,
+            5.8046149
+          ],
+          [
+            -73.0384208,
+            5.8052182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/436232638",
+      "properties": {
+        "@id": "way/436232638",
+        "highway": "trunk",
+        "oneway": "yes",
+        "ref": "55",
+        "@timestamp": "2016-08-08T13:13:07Z",
+        "@version": "1",
+        "@changeset": "41324267",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0779268,
+            5.7885174
+          ],
+          [
+            -73.0785767,
+            5.7884072
+          ],
+          [
+            -73.0791023,
+            5.7882364
+          ],
+          [
+            -73.0856406,
+            5.7861195
+          ],
+          [
+            -73.0861725,
+            5.7859968
+          ],
+          [
+            -73.0866252,
+            5.7859253
+          ],
+          [
+            -73.0869669,
+            5.7858842
+          ],
+          [
+            -73.0877352,
+            5.7858214
+          ],
+          [
+            -73.0886864,
+            5.7857954
+          ],
+          [
+            -73.0893176,
+            5.7857781
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/436232643",
+      "properties": {
+        "@id": "way/436232643",
+        "highway": "trunk",
+        "oneway": "yes",
+        "ref": "55",
+        "@timestamp": "2016-08-08T13:13:07Z",
+        "@version": "1",
+        "@changeset": "41324267",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0885557,
+            5.7854607
+          ],
+          [
+            -73.0859905,
+            5.785814
+          ],
+          [
+            -73.0825874,
+            5.7869335
+          ],
+          [
+            -73.07837,
+            5.7883074
+          ],
+          [
+            -73.0779104,
+            5.7883865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700887",
+      "properties": {
+        "@id": "way/438700887",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358573,
+            5.8336103
+          ],
+          [
+            -73.0365509,
+            5.8332129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700889",
+      "properties": {
+        "@id": "way/438700889",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0365509,
+            5.8332129
+          ],
+          [
+            -73.0367789,
+            5.8330828
+          ],
+          [
+            -73.0371227,
+            5.832818
+          ],
+          [
+            -73.0372778,
+            5.8326927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700891",
+      "properties": {
+        "@id": "way/438700891",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-29T01:52:56Z",
+        "@version": "2",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0372778,
+            5.8326927
+          ],
+          [
+            -73.0374485,
+            5.8324843
+          ],
+          [
+            -73.0377013,
+            5.8321312
+          ],
+          [
+            -73.0377492,
+            5.8320275
+          ],
+          [
+            -73.0385139,
+            5.8305758
+          ],
+          [
+            -73.0389595,
+            5.8296971
+          ],
+          [
+            -73.0390883,
+            5.8294294
+          ],
+          [
+            -73.0393475,
+            5.8288541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700900",
+      "properties": {
+        "@id": "way/438700900",
+        "highway": "residential",
+        "name": "Calle 17",
+        "@timestamp": "2016-08-24T02:21:04Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358333,
+            5.8335579
+          ],
+          [
+            -73.0358573,
+            5.8336103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700923",
+      "properties": {
+        "@id": "way/438700923",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0323945,
+            5.8100209
+          ],
+          [
+            -73.0322313,
+            5.8103348
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700924",
+      "properties": {
+        "@id": "way/438700924",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0324653,
+            5.8099798
+          ],
+          [
+            -73.0323945,
+            5.8100209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700926",
+      "properties": {
+        "@id": "way/438700926",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0319889,
+            5.8105051
+          ],
+          [
+            -73.0317761,
+            5.8105723
+          ],
+          [
+            -73.0306776,
+            5.8109266
+          ],
+          [
+            -73.0302353,
+            5.8110772
+          ],
+          [
+            -73.0301141,
+            5.8111116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534442",
+      "properties": {
+        "@id": "way/439534442",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T20:12:56Z",
+        "@version": "2",
+        "@changeset": "42234538",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.03517,
+            5.832389
+          ],
+          [
+            -73.0353824,
+            5.832757
+          ],
+          [
+            -73.035434,
+            5.8328262
+          ],
+          [
+            -73.0358148,
+            5.8335175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526938",
+      "properties": {
+        "@id": "way/440526938",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:41Z",
+        "@version": "2",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0371807,
+            5.8222013
+          ],
+          [
+            -73.0378486,
+            5.8232295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526949",
+      "properties": {
+        "@id": "way/440526949",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "4",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0343482,
+            5.8259894
+          ],
+          [
+            -73.0335897,
+            5.8264028
+          ],
+          [
+            -73.0328935,
+            5.8268011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526953",
+      "properties": {
+        "@id": "way/440526953",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-03T21:47:50Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0644405,
+            5.7892702
+          ],
+          [
+            -73.0691335,
+            5.7890214
+          ],
+          [
+            -73.069183,
+            5.7890188
+          ],
+          [
+            -73.0711608,
+            5.7889044
+          ],
+          [
+            -73.0772718,
+            5.7885509
+          ],
+          [
+            -73.0778218,
+            5.7885191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440531421",
+      "properties": {
+        "@id": "way/440531421",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-03T22:34:22Z",
+        "@version": "1",
+        "@changeset": "41897920",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0438335,
+            5.824558
+          ],
+          [
+            -73.0439687,
+            5.8246548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440531422",
+      "properties": {
+        "@id": "way/440531422",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:28:08Z",
+        "@version": "4",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0443089,
+            5.8248308
+          ],
+          [
+            -73.0444773,
+            5.8249149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440531424",
+      "properties": {
+        "@id": "way/440531424",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 12",
+        "source": "DANE",
+        "@timestamp": "2016-09-03T22:34:22Z",
+        "@version": "1",
+        "@changeset": "41897920",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0440014,
+            5.8241845
+          ],
+          [
+            -73.0438335,
+            5.824558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440531425",
+      "properties": {
+        "@id": "way/440531425",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T22:34:22Z",
+        "@version": "1",
+        "@changeset": "41897920",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0350427,
+            5.8256257
+          ],
+          [
+            -73.0343482,
+            5.8259894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695708",
+      "properties": {
+        "@id": "way/440695708",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:53Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0313405,
+            5.8132494
+          ],
+          [
+            -73.031519,
+            5.8134553
+          ],
+          [
+            -73.0316347,
+            5.813644
+          ],
+          [
+            -73.0317204,
+            5.8137827
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695717",
+      "properties": {
+        "@id": "way/440695717",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:16Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0334418,
+            5.8294244
+          ],
+          [
+            -73.0337728,
+            5.8300077
+          ],
+          [
+            -73.0339381,
+            5.8302632
+          ],
+          [
+            -73.0343668,
+            5.8309903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695727",
+      "properties": {
+        "@id": "way/440695727",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:17Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0382518,
+            5.8238544
+          ],
+          [
+            -73.0374784,
+            5.824281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695736",
+      "properties": {
+        "@id": "way/440695736",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:16Z",
+        "@version": "2",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0301141,
+            5.8111116
+          ],
+          [
+            -73.0300411,
+            5.8111338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440696691",
+      "properties": {
+        "@id": "way/440696691",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:39Z",
+        "@version": "1",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0378486,
+            5.8232295
+          ],
+          [
+            -73.0382518,
+            5.8238544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828227",
+      "properties": {
+        "@id": "way/441828227",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T19:45:14Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.043439,
+            5.8206264
+          ],
+          [
+            -73.0432981,
+            5.8208759
+          ],
+          [
+            -73.0431578,
+            5.8211194
+          ],
+          [
+            -73.0429056,
+            5.8215531
+          ],
+          [
+            -73.0423716,
+            5.8223498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828263",
+      "properties": {
+        "@id": "way/441828263",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:17Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0419831,
+            5.8005983
+          ],
+          [
+            -73.0417046,
+            5.8016962
+          ],
+          [
+            -73.0416046,
+            5.80203
+          ],
+          [
+            -73.0414814,
+            5.8023592
+          ],
+          [
+            -73.041366,
+            5.8025981
+          ],
+          [
+            -73.0412183,
+            5.8028599
+          ],
+          [
+            -73.0410782,
+            5.8030697
+          ],
+          [
+            -73.0408612,
+            5.8033346
+          ],
+          [
+            -73.040618,
+            5.803575
+          ],
+          [
+            -73.0404133,
+            5.8037465
+          ],
+          [
+            -73.0398708,
+            5.8041453
+          ],
+          [
+            -73.0396321,
+            5.804267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828264",
+      "properties": {
+        "@id": "way/441828264",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:17Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0420954,
+            5.800138
+          ],
+          [
+            -73.0419831,
+            5.8005983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828265",
+      "properties": {
+        "@id": "way/441828265",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:17Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0624943,
+            5.789231
+          ],
+          [
+            -73.0619204,
+            5.7892651
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828268",
+      "properties": {
+        "@id": "way/441828268",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:17Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0778021,
+            5.788396
+          ],
+          [
+            -73.0760079,
+            5.7884964
+          ],
+          [
+            -73.0717494,
+            5.7887315
+          ],
+          [
+            -73.0703138,
+            5.7888216
+          ],
+          [
+            -73.0624943,
+            5.789231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441836888",
+      "properties": {
+        "@id": "way/441836888",
+        "highway": "service",
+        "mechanical": "yes",
+        "name": "Calle 2",
+        "oneway": "yes",
+        "private": "yes",
+        "service": "driveway",
+        "source": "Planos cooperativa Industrial de Boyaca Ing. Oscar boada",
+        "surface": "paved",
+        "width": "8",
+        "@timestamp": "2016-09-10T20:50:03Z",
+        "@version": "1",
+        "@changeset": "42066944",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0647185,
+            5.7901244
+          ],
+          [
+            -73.0645496,
+            5.7896135
+          ],
+          [
+            -73.0644405,
+            5.7892702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441838203",
+      "properties": {
+        "@id": "way/441838203",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 3A",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T20:59:49Z",
+        "@version": "1",
+        "@changeset": "42067075",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0453346,
+            5.8258329
+          ],
+          [
+            -73.0443835,
+            5.8253377
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441838205",
+      "properties": {
+        "@id": "way/441838205",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 10",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T20:59:49Z",
+        "@version": "1",
+        "@changeset": "42067075",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.044558,
+            5.8249567
+          ],
+          [
+            -73.0443835,
+            5.8253377
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441838206",
+      "properties": {
+        "@id": "way/441838206",
+        "alt_name": "Avenida Circunvalar",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Carrera 31",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T20:59:49Z",
+        "@version": "1",
+        "@changeset": "42067075",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0328513,
+            5.8095001
+          ],
+          [
+            -73.0326949,
+            5.8097848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441838208",
+      "properties": {
+        "@id": "way/441838208",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:28:08Z",
+        "@version": "3",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0435918,
+            5.825568
+          ],
+          [
+            -73.0441325,
+            5.8258511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441843297",
+      "properties": {
+        "@id": "way/441843297",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:37:45Z",
+        "@version": "1",
+        "@changeset": "42067661",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0357712,
+            5.8200495
+          ],
+          [
+            -73.0362563,
+            5.8207885
+          ],
+          [
+            -73.0367083,
+            5.8214804
+          ],
+          [
+            -73.0371807,
+            5.8222013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845931",
+      "properties": {
+        "@id": "way/441845931",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:52Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0308616,
+            5.8125196
+          ],
+          [
+            -73.0310211,
+            5.8127781
+          ],
+          [
+            -73.0312002,
+            5.8130141
+          ],
+          [
+            -73.0312147,
+            5.8130474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845938",
+      "properties": {
+        "@id": "way/441845938",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0328935,
+            5.8268011
+          ],
+          [
+            -73.0322052,
+            5.827182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850009",
+      "properties": {
+        "@id": "way/441850009",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:21:51Z",
+        "@version": "1",
+        "@changeset": "42068164",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0312147,
+            5.8130474
+          ],
+          [
+            -73.0311994,
+            5.8130891
+          ],
+          [
+            -73.0311984,
+            5.8131334
+          ],
+          [
+            -73.0312119,
+            5.8131757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850409",
+      "properties": {
+        "@id": "way/441850409",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322052,
+            5.827182
+          ],
+          [
+            -73.0326266,
+            5.8279547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850419",
+      "properties": {
+        "@id": "way/441850419",
+        "highway": "service",
+        "mechanical": "yes",
+        "name": "Carrera 4",
+        "private": "yes",
+        "service": "driveway",
+        "source": "Planos cooperativa Industrial de Boyaca Ing. Oscar boada",
+        "surface": "paved",
+        "width": "8",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0647337,
+            5.7937114
+          ],
+          [
+            -73.0637203,
+            5.7940654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850420",
+      "properties": {
+        "@id": "way/441850420",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 9",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0451293,
+            5.8262101
+          ],
+          [
+            -73.0450717,
+            5.8263307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850421",
+      "properties": {
+        "@id": "way/441850421",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 9",
+        "source": "DANE",
+        "@timestamp": "2016-09-13T10:05:48Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0453346,
+            5.8258329
+          ],
+          [
+            -73.0451293,
+            5.8262101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442458904",
+      "properties": {
+        "@id": "way/442458904",
+        "alt_name": "Avenida Circunvalar",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Carrera 31",
+        "oneway": "yes",
+        "@timestamp": "2016-09-14T16:32:21Z",
+        "@version": "1",
+        "@changeset": "42153807",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0384208,
+            5.8052182
+          ],
+          [
+            -73.0361849,
+            5.8066665
+          ],
+          [
+            -73.0352046,
+            5.8073658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442960908",
+      "properties": {
+        "@id": "way/442960908",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T20:12:53Z",
+        "@version": "1",
+        "@changeset": "42234538",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0343668,
+            5.8309903
+          ],
+          [
+            -73.0348009,
+            5.831741
+          ],
+          [
+            -73.03517,
+            5.832389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442968767",
+      "properties": {
+        "@id": "way/442968767",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:28:04Z",
+        "@version": "1",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0444773,
+            5.8249149
+          ],
+          [
+            -73.044558,
+            5.8249567
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442968769",
+      "properties": {
+        "@id": "way/442968769",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:28:05Z",
+        "@version": "1",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0441325,
+            5.8258511
+          ],
+          [
+            -73.0450717,
+            5.8263307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442971046",
+      "properties": {
+        "@id": "way/442971046",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-17T22:03:23Z",
+        "@version": "1",
+        "@changeset": "42236456",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0429438,
+            5.7970944
+          ],
+          [
+            -73.0420954,
+            5.800138
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443384604",
+      "properties": {
+        "@id": "way/443384604",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:08Z",
+        "@version": "1",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0300411,
+            5.8111338
+          ],
+          [
+            -73.0299809,
+            5.8111521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444195452",
+      "properties": {
+        "@id": "way/444195452",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 2",
+        "source": "DANE",
+        "@timestamp": "2016-09-24T20:33:31Z",
+        "@version": "1",
+        "@changeset": "42411811",
+        "@user": "matiuxd",
+        "@uid": "2006950",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0440014,
+            5.8241845
+          ],
+          [
+            -73.0437729,
+            5.8239828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444200609",
+      "properties": {
+        "@id": "way/444200609",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-24T21:25:48Z",
+        "@version": "1",
+        "@changeset": "42412545",
+        "@user": "matiuxd",
+        "@uid": "2006950",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6594071",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C3 - Ciudadela Industrial - Barrio Primero de Mayo",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C3",
+              "route": "bus",
+              "to": "Barrio Primero de Mayo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0441312,
+            5.8247392
+          ],
+          [
+            -73.0443089,
+            5.8248308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/309456917",
+      "properties": {
+        "@id": "node/309456917",
+        "highway": "traffic_signals",
+        "@timestamp": "2011-02-02T06:36:05Z",
+        "@version": "52",
+        "@changeset": "7161812",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0395231,
+          5.8044475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266508",
+      "properties": {
+        "@id": "node/326266508",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-17T20:33:21Z",
+        "@version": "39",
+        "@changeset": "42234929",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0378486,
+          5.8232295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326269716",
+      "properties": {
+        "@id": "node/326269716",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:56Z",
+        "@version": "33",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0371807,
+          5.8222013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326518191",
+      "properties": {
+        "@id": "node/326518191",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-08-29T01:52:57Z",
+        "@version": "15",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0377492,
+          5.8320275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400535",
+      "properties": {
+        "@id": "node/334400535",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "8",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0328935,
+          5.8268011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400537",
+      "properties": {
+        "@id": "node/334400537",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "8",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0335897,
+          5.8264028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/528861676",
+      "properties": {
+        "@id": "node/528861676",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-05-19T22:37:32Z",
+        "@version": "6",
+        "@changeset": "31300567",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0365509,
+          5.8332129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157559",
+      "properties": {
+        "@id": "node/539157559",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "9",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0435918,
+          5.825568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669182154",
+      "properties": {
+        "@id": "node/669182154",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0322052,
+          5.827182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/913480298",
+      "properties": {
+        "@id": "node/913480298",
+        "highway": "traffic_signals",
+        "@timestamp": "2011-02-02T06:36:06Z",
+        "@version": "2",
+        "@changeset": "7161812",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0396321,
+          5.804267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1132052360",
+      "properties": {
+        "@id": "node/1132052360",
+        "railway": "level_crossing",
+        "@timestamp": "2016-09-13T13:00:56Z",
+        "@version": "3",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0316347,
+          5.813644
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,3837 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:19:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29643136",
+      "properties": {
+        "@id": "way/29643136",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T16:41:30Z",
+        "@version": "24",
+        "@changeset": "42130434",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0300866,
+            5.8271537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29675286",
+      "properties": {
+        "@id": "way/29675286",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida Camilo Torres",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "26",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0197178,
+            5.816514
+          ],
+          [
+            -73.0200265,
+            5.8167215
+          ],
+          [
+            -73.0204069,
+            5.8168742
+          ],
+          [
+            -73.0207054,
+            5.8169607
+          ],
+          [
+            -73.0213204,
+            5.817127
+          ],
+          [
+            -73.0215072,
+            5.8171749
+          ],
+          [
+            -73.0217555,
+            5.8173321
+          ],
+          [
+            -73.0218147,
+            5.8173753
+          ],
+          [
+            -73.0226735,
+            5.8180337
+          ],
+          [
+            -73.0230221,
+            5.8183594
+          ],
+          [
+            -73.0232504,
+            5.8186162
+          ],
+          [
+            -73.0239675,
+            5.8197262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42508365",
+      "properties": {
+        "@id": "way/42508365",
+        "highway": "residential",
+        "name": "Carrera 31A",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "5",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0239675,
+            5.8197262
+          ],
+          [
+            -73.0234494,
+            5.8200227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42725873",
+      "properties": {
+        "@id": "way/42725873",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-17T21:44:46Z",
+        "@version": "33",
+        "@changeset": "42236027",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0619204,
+            5.7892651
+          ],
+          [
+            -73.0580607,
+            5.7894673
+          ],
+          [
+            -73.0575611,
+            5.7894935
+          ],
+          [
+            -73.0537845,
+            5.7901052
+          ],
+          [
+            -73.0518417,
+            5.7904337
+          ],
+          [
+            -73.0504979,
+            5.7908755
+          ],
+          [
+            -73.047403,
+            5.7921402
+          ],
+          [
+            -73.0456199,
+            5.7929479
+          ],
+          [
+            -73.0450986,
+            5.7932121
+          ],
+          [
+            -73.0446494,
+            5.7935333
+          ],
+          [
+            -73.0442429,
+            5.7939739
+          ],
+          [
+            -73.0436975,
+            5.7947288
+          ],
+          [
+            -73.0433228,
+            5.7955036
+          ],
+          [
+            -73.0430685,
+            5.7963846
+          ],
+          [
+            -73.0430501,
+            5.796629
+          ],
+          [
+            -73.0429438,
+            5.7970944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43086519",
+      "properties": {
+        "@id": "way/43086519",
+        "highway": "trunk_link",
+        "oneway": "yes",
+        "@timestamp": "2011-02-02T06:46:56Z",
+        "@version": "3",
+        "@changeset": "7161842",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0893176,
+            5.7857781
+          ],
+          [
+            -73.0895376,
+            5.7856763
+          ],
+          [
+            -73.0895898,
+            5.7856542
+          ],
+          [
+            -73.0896238,
+            5.7856201
+          ],
+          [
+            -73.0896718,
+            5.7855672
+          ],
+          [
+            -73.0896825,
+            5.785509
+          ],
+          [
+            -73.0896642,
+            5.7854494
+          ],
+          [
+            -73.0896179,
+            5.7854156
+          ],
+          [
+            -73.0895475,
+            5.7853839
+          ],
+          [
+            -73.0893041,
+            5.7853581
+          ],
+          [
+            -73.0885557,
+            5.7854607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45510119",
+      "properties": {
+        "@id": "way/45510119",
+        "highway": "residential",
+        "name": "Calle 22",
+        "@timestamp": "2016-09-05T03:46:53Z",
+        "@version": "3",
+        "@changeset": "41920244",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.027289,
+            5.8278165
+          ],
+          [
+            -73.0270534,
+            5.8273866
+          ],
+          [
+            -73.0269704,
+            5.8272357
+          ],
+          [
+            -73.0266943,
+            5.8267183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49667538",
+      "properties": {
+        "@id": "way/49667538",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 9",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "8",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0455216,
+            5.8254568
+          ],
+          [
+            -73.0453346,
+            5.8258329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54516620",
+      "properties": {
+        "@id": "way/54516620",
+        "bridge": "yes",
+        "highway": "trunk",
+        "layer": "1",
+        "oneway": "yes",
+        "ref": "55",
+        "@timestamp": "2013-10-18T20:14:31Z",
+        "@version": "4",
+        "@changeset": "18425353",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0778218,
+            5.7885191
+          ],
+          [
+            -73.0779268,
+            5.7885174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54849028",
+      "properties": {
+        "@id": "way/54849028",
+        "highway": "secondary",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T13:00:55Z",
+        "@version": "10",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0389018,
+            5.824864
+          ],
+          [
+            -73.0393687,
+            5.8246932
+          ],
+          [
+            -73.0395352,
+            5.8246227
+          ],
+          [
+            -73.0403931,
+            5.8245061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55932055",
+      "properties": {
+        "@id": "way/55932055",
+        "bridge": "yes",
+        "highway": "trunk",
+        "layer": "1",
+        "oneway": "yes",
+        "ref": "55",
+        "@timestamp": "2013-10-18T20:14:31Z",
+        "@version": "3",
+        "@changeset": "18425353",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0779104,
+            5.7883865
+          ],
+          [
+            -73.0778021,
+            5.788396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/74587514",
+      "properties": {
+        "@id": "way/74587514",
+        "highway": "service",
+        "mechanical": "yes",
+        "name": "Calle 2",
+        "oneway": "yes",
+        "private": "yes",
+        "service": "driveway",
+        "source": "Planos cooperativa Industrial de Boyaca Ing. Oscar boada",
+        "surface": "paved",
+        "width": "8",
+        "@timestamp": "2016-09-10T20:50:03Z",
+        "@version": "9",
+        "@changeset": "42066944",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0647881,
+            5.7904922
+          ],
+          [
+            -73.0648088,
+            5.7903975
+          ],
+          [
+            -73.0647185,
+            5.7901244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/74587532",
+      "properties": {
+        "@id": "way/74587532",
+        "highway": "service",
+        "mechanical": "yes",
+        "name": "Calle 2",
+        "private": "yes",
+        "service": "driveway",
+        "source": "Planos cooperativa Industrial de Boyaca Ing. Oscar boada",
+        "surface": "paved",
+        "width": "8",
+        "@timestamp": "2013-10-18T20:14:25Z",
+        "@version": "10",
+        "@changeset": "18425353",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0647881,
+            5.7904922
+          ],
+          [
+            -73.0648834,
+            5.7907717
+          ],
+          [
+            -73.0652502,
+            5.7918468
+          ],
+          [
+            -73.0657637,
+            5.7933521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/75272222",
+      "properties": {
+        "@id": "way/75272222",
+        "highway": "service",
+        "mechanical": "yes",
+        "name": "Carrera 4",
+        "private": "yes",
+        "service": "driveway",
+        "source": "Planos cooperativa Industrial de Boyaca Ing. Oscar boada",
+        "surface": "paved",
+        "width": "8",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "7",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0657637,
+            5.7933521
+          ],
+          [
+            -73.0647337,
+            5.7937114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254754598",
+      "properties": {
+        "@id": "way/254754598",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-05T04:22:22Z",
+        "@version": "14",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0375976,
+            5.8047983
+          ],
+          [
+            -73.0372468,
+            5.8048735
+          ],
+          [
+            -73.0371613,
+            5.8048926
+          ],
+          [
+            -73.0353162,
+            5.8052985
+          ],
+          [
+            -73.0352605,
+            5.8053108
+          ],
+          [
+            -73.0337015,
+            5.8056655
+          ],
+          [
+            -73.0303974,
+            5.8063983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340966039",
+      "properties": {
+        "@id": "way/340966039",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T13:00:55Z",
+        "@version": "4",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0412192,
+            5.8244131
+          ],
+          [
+            -73.0416425,
+            5.8243761
+          ],
+          [
+            -73.0420056,
+            5.8244792
+          ],
+          [
+            -73.0422937,
+            5.8246372
+          ],
+          [
+            -73.0423871,
+            5.824707
+          ],
+          [
+            -73.0427326,
+            5.8249803
+          ],
+          [
+            -73.0428573,
+            5.8250688
+          ],
+          [
+            -73.0432192,
+            5.8253414
+          ],
+          [
+            -73.0434882,
+            5.8255125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371417725",
+      "properties": {
+        "@id": "way/371417725",
+        "highway": "residential",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:58Z",
+        "@version": "3",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0347745,
+            5.8266983
+          ],
+          [
+            -73.0354509,
+            5.8263361
+          ],
+          [
+            -73.0361089,
+            5.8259696
+          ],
+          [
+            -73.0367514,
+            5.8256128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378744145",
+      "properties": {
+        "@id": "way/378744145",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2015-11-06T19:53:36Z",
+        "@version": "1",
+        "@changeset": "35134072",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0388357,
+            5.8248803
+          ],
+          [
+            -73.0389018,
+            5.824864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378744146",
+      "properties": {
+        "@id": "way/378744146",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:41Z",
+        "@version": "2",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0384506,
+            5.8249836
+          ],
+          [
+            -73.038718,
+            5.8248719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378746722",
+      "properties": {
+        "@id": "way/378746722",
+        "highway": "secondary",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-13T13:00:54Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0403931,
+            5.8245061
+          ],
+          [
+            -73.0412192,
+            5.8244131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/436232638",
+      "properties": {
+        "@id": "way/436232638",
+        "highway": "trunk",
+        "oneway": "yes",
+        "ref": "55",
+        "@timestamp": "2016-08-08T13:13:07Z",
+        "@version": "1",
+        "@changeset": "41324267",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0779268,
+            5.7885174
+          ],
+          [
+            -73.0785767,
+            5.7884072
+          ],
+          [
+            -73.0791023,
+            5.7882364
+          ],
+          [
+            -73.0856406,
+            5.7861195
+          ],
+          [
+            -73.0861725,
+            5.7859968
+          ],
+          [
+            -73.0866252,
+            5.7859253
+          ],
+          [
+            -73.0869669,
+            5.7858842
+          ],
+          [
+            -73.0877352,
+            5.7858214
+          ],
+          [
+            -73.0886864,
+            5.7857954
+          ],
+          [
+            -73.0893176,
+            5.7857781
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/436232643",
+      "properties": {
+        "@id": "way/436232643",
+        "highway": "trunk",
+        "oneway": "yes",
+        "ref": "55",
+        "@timestamp": "2016-08-08T13:13:07Z",
+        "@version": "1",
+        "@changeset": "41324267",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0885557,
+            5.7854607
+          ],
+          [
+            -73.0859905,
+            5.785814
+          ],
+          [
+            -73.0825874,
+            5.7869335
+          ],
+          [
+            -73.07837,
+            5.7883074
+          ],
+          [
+            -73.0779104,
+            5.7883865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700877",
+      "properties": {
+        "@id": "way/438700877",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-12T10:02:38Z",
+        "@version": "2",
+        "@changeset": "42096173",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0197882,
+            5.8087659
+          ],
+          [
+            -73.0189527,
+            5.8089259
+          ],
+          [
+            -73.0181399,
+            5.8091295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700881",
+      "properties": {
+        "@id": "way/438700881",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:25Z",
+        "@version": "2",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.016764,
+            5.8094795
+          ],
+          [
+            -73.0166895,
+            5.809496
+          ],
+          [
+            -73.016488,
+            5.8095292
+          ],
+          [
+            -73.0158626,
+            5.8095373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700883",
+      "properties": {
+        "@id": "way/438700883",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "A1",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-12T10:02:38Z",
+        "@version": "6",
+        "@changeset": "42096173",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0273195,
+            5.807104
+          ],
+          [
+            -73.025747,
+            5.8074527
+          ],
+          [
+            -73.0256637,
+            5.8074664
+          ],
+          [
+            -73.0250055,
+            5.807598
+          ],
+          [
+            -73.0245397,
+            5.8077062
+          ],
+          [
+            -73.0229483,
+            5.8080521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700918",
+      "properties": {
+        "@id": "way/438700918",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-08-29T01:13:37Z",
+        "@version": "2",
+        "@changeset": "41767098",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0309814,
+            5.8269106
+          ],
+          [
+            -73.0318139,
+            5.8264591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526936",
+      "properties": {
+        "@id": "way/440526936",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "A1",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-03T21:47:48Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0274652,
+            5.8070692
+          ],
+          [
+            -73.0273195,
+            5.807104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526953",
+      "properties": {
+        "@id": "way/440526953",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-03T21:47:50Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0644405,
+            5.7892702
+          ],
+          [
+            -73.0691335,
+            5.7890214
+          ],
+          [
+            -73.069183,
+            5.7890188
+          ],
+          [
+            -73.0711608,
+            5.7889044
+          ],
+          [
+            -73.0772718,
+            5.7885509
+          ],
+          [
+            -73.0778218,
+            5.7885191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693389",
+      "properties": {
+        "@id": "way/440693389",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida Camilo Torres",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:25Z",
+        "@version": "2",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0158626,
+            5.8095373
+          ],
+          [
+            -73.0158852,
+            5.8096883
+          ],
+          [
+            -73.0160692,
+            5.8099905
+          ],
+          [
+            -73.0161486,
+            5.8101308
+          ],
+          [
+            -73.0163615,
+            5.8105805
+          ],
+          [
+            -73.0167462,
+            5.8113181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693391",
+      "properties": {
+        "@id": "way/440693391",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida Camilo Torres",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-05T03:37:59Z",
+        "@version": "1",
+        "@changeset": "41920167",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0195801,
+            5.8163785
+          ],
+          [
+            -73.0197178,
+            5.816514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693927",
+      "properties": {
+        "@id": "way/440693927",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:47Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0291955,
+            5.8272507
+          ],
+          [
+            -73.0286118,
+            5.8273123
+          ],
+          [
+            -73.0282898,
+            5.8273558
+          ],
+          [
+            -73.0279844,
+            5.8274976
+          ],
+          [
+            -73.0277062,
+            5.8276234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695704",
+      "properties": {
+        "@id": "way/440695704",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-05T04:22:14Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0396321,
+            5.804267
+          ],
+          [
+            -73.0395339,
+            5.8043157
+          ],
+          [
+            -73.0377324,
+            5.8047665
+          ],
+          [
+            -73.0375976,
+            5.8047983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695705",
+      "properties": {
+        "@id": "way/440695705",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T21:18:37Z",
+        "@version": "2",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0289266,
+            5.8067316
+          ],
+          [
+            -73.0274923,
+            5.8070626
+          ],
+          [
+            -73.0274652,
+            5.8070692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695716",
+      "properties": {
+        "@id": "way/440695716",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:16Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318139,
+            5.8264591
+          ],
+          [
+            -73.0322052,
+            5.827182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440696701",
+      "properties": {
+        "@id": "way/440696701",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:39Z",
+        "@version": "1",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.038718,
+            5.8248719
+          ],
+          [
+            -73.0388357,
+            5.8248803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828185",
+      "properties": {
+        "@id": "way/441828185",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:09Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0181399,
+            5.8091295
+          ],
+          [
+            -73.0175859,
+            5.8092638
+          ],
+          [
+            -73.016764,
+            5.8094795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828188",
+      "properties": {
+        "@id": "way/441828188",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida Camilo Torres",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:09Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0167462,
+            5.8113181
+          ],
+          [
+            -73.0170104,
+            5.8118056
+          ],
+          [
+            -73.0183776,
+            5.8143297
+          ],
+          [
+            -73.0189504,
+            5.815361
+          ],
+          [
+            -73.0195801,
+            5.8163785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828206",
+      "properties": {
+        "@id": "way/441828206",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 1A",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T19:45:12Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.047662,
+            5.8253449
+          ],
+          [
+            -73.048221,
+            5.8257184
+          ],
+          [
+            -73.0487303,
+            5.8260588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828211",
+      "properties": {
+        "@id": "way/441828211",
+        "highway": "residential",
+        "name": "Calle 21",
+        "@timestamp": "2016-09-10T19:45:12Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0268432,
+            5.8260676
+          ],
+          [
+            -73.0266476,
+            5.8256704
+          ],
+          [
+            -73.0264998,
+            5.8253872
+          ],
+          [
+            -73.0264345,
+            5.8252914
+          ],
+          [
+            -73.026316,
+            5.8250668
+          ],
+          [
+            -73.0260958,
+            5.8246766
+          ],
+          [
+            -73.0259017,
+            5.8243329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828212",
+      "properties": {
+        "@id": "way/441828212",
+        "highway": "residential",
+        "name": "Calle 21",
+        "@timestamp": "2016-09-10T19:45:12Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0259017,
+            5.8243329
+          ],
+          [
+            -73.025565,
+            5.8237482
+          ],
+          [
+            -73.025146,
+            5.823008
+          ],
+          [
+            -73.0250263,
+            5.8227969
+          ],
+          [
+            -73.0250036,
+            5.8227568
+          ],
+          [
+            -73.0249154,
+            5.8226012
+          ],
+          [
+            -73.0248595,
+            5.8225024
+          ],
+          [
+            -73.0247977,
+            5.8223939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828213",
+      "properties": {
+        "@id": "way/441828213",
+        "highway": "residential",
+        "name": "Calle 21",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "2",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0240054,
+            5.8210005
+          ],
+          [
+            -73.0238657,
+            5.8207548
+          ],
+          [
+            -73.0236898,
+            5.8204455
+          ],
+          [
+            -73.0235686,
+            5.8202322
+          ],
+          [
+            -73.0234494,
+            5.8200227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828221",
+      "properties": {
+        "@id": "way/441828221",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:13Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.046571,
+            5.8260015
+          ],
+          [
+            -73.0467314,
+            5.8260848
+          ],
+          [
+            -73.0472324,
+            5.8263448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828246",
+      "properties": {
+        "@id": "way/441828246",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 7",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T19:45:15Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0472324,
+            5.8263448
+          ],
+          [
+            -73.0474951,
+            5.8257114
+          ],
+          [
+            -73.047662,
+            5.8253449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828253",
+      "properties": {
+        "@id": "way/441828253",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:16Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0434882,
+            5.8255125
+          ],
+          [
+            -73.0435918,
+            5.825568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828263",
+      "properties": {
+        "@id": "way/441828263",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:17Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0419831,
+            5.8005983
+          ],
+          [
+            -73.0417046,
+            5.8016962
+          ],
+          [
+            -73.0416046,
+            5.80203
+          ],
+          [
+            -73.0414814,
+            5.8023592
+          ],
+          [
+            -73.041366,
+            5.8025981
+          ],
+          [
+            -73.0412183,
+            5.8028599
+          ],
+          [
+            -73.0410782,
+            5.8030697
+          ],
+          [
+            -73.0408612,
+            5.8033346
+          ],
+          [
+            -73.040618,
+            5.803575
+          ],
+          [
+            -73.0404133,
+            5.8037465
+          ],
+          [
+            -73.0398708,
+            5.8041453
+          ],
+          [
+            -73.0396321,
+            5.804267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828264",
+      "properties": {
+        "@id": "way/441828264",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:17Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0420954,
+            5.800138
+          ],
+          [
+            -73.0419831,
+            5.8005983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828265",
+      "properties": {
+        "@id": "way/441828265",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:17Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0624943,
+            5.789231
+          ],
+          [
+            -73.0619204,
+            5.7892651
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828268",
+      "properties": {
+        "@id": "way/441828268",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:17Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0778021,
+            5.788396
+          ],
+          [
+            -73.0760079,
+            5.7884964
+          ],
+          [
+            -73.0717494,
+            5.7887315
+          ],
+          [
+            -73.0703138,
+            5.7888216
+          ],
+          [
+            -73.0624943,
+            5.789231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441836888",
+      "properties": {
+        "@id": "way/441836888",
+        "highway": "service",
+        "mechanical": "yes",
+        "name": "Calle 2",
+        "oneway": "yes",
+        "private": "yes",
+        "service": "driveway",
+        "source": "Planos cooperativa Industrial de Boyaca Ing. Oscar boada",
+        "surface": "paved",
+        "width": "8",
+        "@timestamp": "2016-09-10T20:50:03Z",
+        "@version": "1",
+        "@changeset": "42066944",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0647185,
+            5.7901244
+          ],
+          [
+            -73.0645496,
+            5.7896135
+          ],
+          [
+            -73.0644405,
+            5.7892702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441838208",
+      "properties": {
+        "@id": "way/441838208",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:28:08Z",
+        "@version": "3",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0435918,
+            5.825568
+          ],
+          [
+            -73.0441325,
+            5.8258511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839860",
+      "properties": {
+        "@id": "way/441839860",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T21:18:35Z",
+        "@version": "1",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0303974,
+            5.8063983
+          ],
+          [
+            -73.0289266,
+            5.8067316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441846046",
+      "properties": {
+        "@id": "way/441846046",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "A1",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-12T10:02:38Z",
+        "@version": "2",
+        "@changeset": "42096173",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0227502,
+            5.8080996
+          ],
+          [
+            -73.0197882,
+            5.8087659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850409",
+      "properties": {
+        "@id": "way/441850409",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322052,
+            5.827182
+          ],
+          [
+            -73.0326266,
+            5.8279547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850411",
+      "properties": {
+        "@id": "way/441850411",
+        "highway": "residential",
+        "name": "Calle 21",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0247977,
+            5.8223939
+          ],
+          [
+            -73.0245465,
+            5.8219521
+          ],
+          [
+            -73.0244038,
+            5.821701
+          ],
+          [
+            -73.0240054,
+            5.8210005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850413",
+      "properties": {
+        "@id": "way/441850413",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0455216,
+            5.8254568
+          ],
+          [
+            -73.046571,
+            5.8260015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850419",
+      "properties": {
+        "@id": "way/441850419",
+        "highway": "service",
+        "mechanical": "yes",
+        "name": "Carrera 4",
+        "private": "yes",
+        "service": "driveway",
+        "source": "Planos cooperativa Industrial de Boyaca Ing. Oscar boada",
+        "surface": "paved",
+        "width": "8",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0647337,
+            5.7937114
+          ],
+          [
+            -73.0637203,
+            5.7940654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850420",
+      "properties": {
+        "@id": "way/441850420",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 9",
+        "source": "DANE",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0451293,
+            5.8262101
+          ],
+          [
+            -73.0450717,
+            5.8263307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850421",
+      "properties": {
+        "@id": "way/441850421",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 9",
+        "source": "DANE",
+        "@timestamp": "2016-09-13T10:05:48Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0453346,
+            5.8258329
+          ],
+          [
+            -73.0451293,
+            5.8262101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850422",
+      "properties": {
+        "@id": "way/441850422",
+        "highway": "residential",
+        "name": "Diagonal 20",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0266943,
+            5.8267183
+          ],
+          [
+            -73.0268432,
+            5.8260676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850567",
+      "properties": {
+        "@id": "way/441850567",
+        "highway": "residential",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:55Z",
+        "@version": "1",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0367514,
+            5.8256128
+          ],
+          [
+            -73.0379468,
+            5.8251415
+          ],
+          [
+            -73.0383149,
+            5.8249957
+          ],
+          [
+            -73.0384506,
+            5.8249836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850568",
+      "properties": {
+        "@id": "way/441850568",
+        "highway": "residential",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-12T15:48:24Z",
+        "@version": "2",
+        "@changeset": "42104015",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0326266,
+            5.8279547
+          ],
+          [
+            -73.0333432,
+            5.8275446
+          ],
+          [
+            -73.0340242,
+            5.8271213
+          ],
+          [
+            -73.0347745,
+            5.8266983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442032903",
+      "properties": {
+        "@id": "way/442032903",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "A1",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-12T10:02:37Z",
+        "@version": "1",
+        "@changeset": "42096173",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0229483,
+            5.8080521
+          ],
+          [
+            -73.0227502,
+            5.8080996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442174188",
+      "properties": {
+        "@id": "way/442174188",
+        "highway": "secondary",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-13T10:05:42Z",
+        "@version": "1",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0277062,
+            5.8276234
+          ],
+          [
+            -73.027289,
+            5.8278165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442225423",
+      "properties": {
+        "@id": "way/442225423",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T16:41:26Z",
+        "@version": "1",
+        "@changeset": "42130434",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0300866,
+            5.8271537
+          ],
+          [
+            -73.0309814,
+            5.8269106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442968769",
+      "properties": {
+        "@id": "way/442968769",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:28:05Z",
+        "@version": "1",
+        "@changeset": "42235926",
+        "@user": "Daniel Benavides",
+        "@uid": "3604191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0441325,
+            5.8258511
+          ],
+          [
+            -73.0450717,
+            5.8263307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442971046",
+      "properties": {
+        "@id": "way/442971046",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Troncal Central del Norte",
+        "oneway": "yes",
+        "ref": "55",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-17T22:03:23Z",
+        "@version": "1",
+        "@changeset": "42236456",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578112",
+            "reltags": {
+              "from": "Ciudadela Industrial",
+              "name": "C1 - Ciudadela Industrial - Barrio El Cargua",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C1",
+              "route": "bus",
+              "to": "Barrio el Cargua.",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0429438,
+            5.7970944
+          ],
+          [
+            -73.0420954,
+            5.800138
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266521",
+      "properties": {
+        "@id": "node/326266521",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "18",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0318139,
+          5.8264591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266523",
+      "properties": {
+        "@id": "node/326266523",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "15",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0309814,
+          5.8269106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266528",
+      "properties": {
+        "@id": "node/326266528",
+        "highway": "traffic_signals",
+        "name": "La dorada",
+        "@timestamp": "2012-09-21T06:05:36Z",
+        "@version": "30",
+        "@changeset": "13191399",
+        "@user": "camilolara",
+        "@uid": "235754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0291955,
+          5.8272507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326523261",
+      "properties": {
+        "@id": "node/326523261",
+        "traffic_calming": "hump",
+        "@timestamp": "2016-08-29T01:52:58Z",
+        "@version": "9",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0215072,
+          5.8171749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326523824",
+      "properties": {
+        "@id": "node/326523824",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-08-29T01:52:58Z",
+        "@version": "20",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0158852,
+          5.8096883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400545",
+      "properties": {
+        "@id": "node/334400545",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "7",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0347745,
+          5.8266983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334402551",
+      "properties": {
+        "@id": "node/334402551",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0340242,
+          5.8271213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/336834036",
+      "properties": {
+        "@id": "node/336834036",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "8",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0333432,
+          5.8275446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/534315510",
+      "properties": {
+        "@id": "node/534315510",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-08-29T01:52:58Z",
+        "@version": "9",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0158626,
+          5.8095373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157550",
+      "properties": {
+        "@id": "node/539157550",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "10",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0434882,
+          5.8255125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157559",
+      "properties": {
+        "@id": "node/539157559",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "9",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0435918,
+          5.825568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669182154",
+      "properties": {
+        "@id": "node/669182154",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0322052,
+          5.827182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/698684163",
+      "properties": {
+        "@id": "node/698684163",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-04-28T07:33:26Z",
+        "@version": "4",
+        "@changeset": "30572100",
+        "@user": "carciofo",
+        "@uid": "2533093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0273195,
+          5.807104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/698684164",
+      "properties": {
+        "@id": "node/698684164",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-04-28T07:33:26Z",
+        "@version": "4",
+        "@changeset": "30572100",
+        "@user": "carciofo",
+        "@uid": "2533093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0274652,
+          5.8070692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/913480298",
+      "properties": {
+        "@id": "node/913480298",
+        "highway": "traffic_signals",
+        "@timestamp": "2011-02-02T06:36:06Z",
+        "@version": "2",
+        "@changeset": "7161812",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0396321,
+          5.804267
+        ]
+      }
+    }
+  ]
+}

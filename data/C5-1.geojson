@@ -1,0 +1,3305 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:20:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29627638",
+      "properties": {
+        "@id": "way/29627638",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "28",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0299809,
+            5.8111521
+          ],
+          [
+            -73.0303214,
+            5.8116977
+          ],
+          [
+            -73.0305638,
+            5.8120259
+          ],
+          [
+            -73.0306625,
+            5.8121844
+          ],
+          [
+            -73.0308616,
+            5.8125196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29650394",
+      "properties": {
+        "@id": "way/29650394",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "31",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0326266,
+            5.8279547
+          ],
+          [
+            -73.0330368,
+            5.8286603
+          ],
+          [
+            -73.0334418,
+            5.8294244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29704625",
+      "properties": {
+        "@id": "way/29704625",
+        "highway": "residential",
+        "name": "Calle 14",
+        "oneway": "no",
+        "@timestamp": "2016-09-10T22:31:58Z",
+        "@version": "19",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0341195,
+            5.8191453
+          ],
+          [
+            -73.0341322,
+            5.8193705
+          ],
+          [
+            -73.0340978,
+            5.8196053
+          ],
+          [
+            -73.0339369,
+            5.8202032
+          ],
+          [
+            -73.0338501,
+            5.8204084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29705539",
+      "properties": {
+        "@id": "way/29705539",
+        "highway": "residential",
+        "name": "Calle 12",
+        "oneway": "no",
+        "@timestamp": "2016-09-17T19:31:28Z",
+        "@version": "10",
+        "@changeset": "42233726",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0339871,
+            5.822028
+          ],
+          [
+            -73.0342806,
+            5.82259
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42725872",
+      "properties": {
+        "@id": "way/42725872",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "@timestamp": "2012-06-26T13:11:26Z",
+        "@version": "6",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0230045,
+            5.808176
+          ],
+          [
+            -73.023382,
+            5.8089519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42726557",
+      "properties": {
+        "@id": "way/42726557",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 43",
+        "@timestamp": "2016-08-28T16:24:07Z",
+        "@version": "5",
+        "@changeset": "41759242",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0189115,
+            5.8076102
+          ],
+          [
+            -73.0183831,
+            5.8079804
+          ],
+          [
+            -73.0176926,
+            5.8084427
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42738529",
+      "properties": {
+        "@id": "way/42738529",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 19",
+        "@timestamp": "2016-09-26T22:46:26Z",
+        "@version": "9",
+        "@changeset": "42458255",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0197882,
+            5.8087659
+          ],
+          [
+            -73.0191297,
+            5.8080243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45668165",
+      "properties": {
+        "@id": "way/45668165",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 30",
+        "@timestamp": "2016-09-17T19:21:17Z",
+        "@version": "10",
+        "@changeset": "42233534",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0307479,
+            5.8162942
+          ],
+          [
+            -73.030858,
+            5.8159738
+          ],
+          [
+            -73.0310695,
+            5.815401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45668169",
+      "properties": {
+        "@id": "way/45668169",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 12",
+        "@timestamp": "2016-09-10T21:58:15Z",
+        "@version": "6",
+        "@changeset": "42067935",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0310795,
+            5.8168904
+          ],
+          [
+            -73.0307479,
+            5.8162942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72908193",
+      "properties": {
+        "@id": "way/72908193",
+        "bridge": "yes",
+        "highway": "residential",
+        "layer": "1",
+        "name": "Carrera 35",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-26T22:04:18Z",
+        "@version": "2",
+        "@changeset": "42457255",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0263729,
+            5.8123633
+          ],
+          [
+            -73.0263981,
+            5.8123528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72908222",
+      "properties": {
+        "@id": "way/72908222",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:31Z",
+        "@version": "2",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0256507,
+            5.8128043
+          ],
+          [
+            -73.0258937,
+            5.8126623
+          ],
+          [
+            -73.0263729,
+            5.8123633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72908252",
+      "properties": {
+        "@id": "way/72908252",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "smoothness": "bad",
+        "surface": "unpaved",
+        "@timestamp": "2012-06-26T13:11:23Z",
+        "@version": "3",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.024117,
+            5.8102559
+          ],
+          [
+            -73.0243419,
+            5.8106422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72911427",
+      "properties": {
+        "@id": "way/72911427",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "smoothness": "bad",
+        "@timestamp": "2012-06-26T13:11:23Z",
+        "@version": "3",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.023382,
+            5.8089519
+          ],
+          [
+            -73.0235384,
+            5.8092324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72911429",
+      "properties": {
+        "@id": "way/72911429",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "@timestamp": "2012-06-26T13:11:24Z",
+        "@version": "3",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.023662,
+            5.8094539
+          ],
+          [
+            -73.0238276,
+            5.8097457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412810",
+      "properties": {
+        "@id": "way/86412810",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "@timestamp": "2012-06-26T13:11:25Z",
+        "@version": "2",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0239771,
+            5.8100094
+          ],
+          [
+            -73.024117,
+            5.8102559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412811",
+      "properties": {
+        "@id": "way/86412811",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "smoothness": "bad",
+        "surface": "unpaved",
+        "@timestamp": "2012-06-26T13:11:25Z",
+        "@version": "2",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0243419,
+            5.8106422
+          ],
+          [
+            -73.0245999,
+            5.8111013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412813",
+      "properties": {
+        "@id": "way/86412813",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "smoothness": "bad",
+        "surface": "unpaved",
+        "@timestamp": "2012-06-26T13:11:24Z",
+        "@version": "2",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0245999,
+            5.8111013
+          ],
+          [
+            -73.0250379,
+            5.8118293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412814",
+      "properties": {
+        "@id": "way/86412814",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "smoothness": "bad",
+        "surface": "unpaved",
+        "@timestamp": "2012-06-26T13:11:26Z",
+        "@version": "2",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0250379,
+            5.8118293
+          ],
+          [
+            -73.0256507,
+            5.8128043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412819",
+      "properties": {
+        "@id": "way/86412819",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "smoothness": "bad",
+        "@timestamp": "2012-06-26T13:11:25Z",
+        "@version": "2",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0235384,
+            5.8092324
+          ],
+          [
+            -73.023662,
+            5.8094539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412820",
+      "properties": {
+        "@id": "way/86412820",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15",
+        "@timestamp": "2012-06-26T13:11:25Z",
+        "@version": "2",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0238276,
+            5.8097457
+          ],
+          [
+            -73.0239771,
+            5.8100094
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160164880",
+      "properties": {
+        "@id": "way/160164880",
+        "highway": "tertiary",
+        "source": "nasa",
+        "@timestamp": "2016-09-17T19:28:27Z",
+        "@version": "4",
+        "@changeset": "42233669",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0355021,
+            5.8539774
+          ],
+          [
+            -73.0363769,
+            5.8549167
+          ],
+          [
+            -73.0372033,
+            5.8554818
+          ],
+          [
+            -73.037344,
+            5.855664
+          ],
+          [
+            -73.0373249,
+            5.856132
+          ],
+          [
+            -73.0370939,
+            5.8569584
+          ],
+          [
+            -73.0369663,
+            5.8579611
+          ],
+          [
+            -73.0366747,
+            5.8588969
+          ],
+          [
+            -73.0360791,
+            5.860021
+          ],
+          [
+            -73.0357996,
+            5.8602276
+          ],
+          [
+            -73.0339341,
+            5.8607198
+          ],
+          [
+            -73.0335634,
+            5.8610237
+          ],
+          [
+            -73.0331077,
+            5.8618015
+          ],
+          [
+            -73.0326823,
+            5.8637035
+          ],
+          [
+            -73.0324332,
+            5.863983
+          ],
+          [
+            -73.0322083,
+            5.8644752
+          ],
+          [
+            -73.0318498,
+            5.8644752
+          ],
+          [
+            -73.0317404,
+            5.8643719
+          ],
+          [
+            -73.0315356,
+            5.8643395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165355891",
+      "properties": {
+        "@id": "way/165355891",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:36:27Z",
+        "@version": "5",
+        "@changeset": "42067634",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.026199,
+            5.849521
+          ],
+          [
+            -73.026418,
+            5.847942
+          ],
+          [
+            -73.0264443,
+            5.8476667
+          ],
+          [
+            -73.0265479,
+            5.8464416
+          ],
+          [
+            -73.0264941,
+            5.8455401
+          ],
+          [
+            -73.0264893,
+            5.8454591
+          ],
+          [
+            -73.02648,
+            5.845304
+          ],
+          [
+            -73.026674,
+            5.844399
+          ],
+          [
+            -73.0269159,
+            5.8435647
+          ],
+          [
+            -73.0270201,
+            5.843323
+          ],
+          [
+            -73.027142,
+            5.84304
+          ],
+          [
+            -73.0272017,
+            5.8429376
+          ],
+          [
+            -73.0273699,
+            5.8425462
+          ],
+          [
+            -73.0276095,
+            5.8422372
+          ],
+          [
+            -73.027728,
+            5.8420337
+          ],
+          [
+            -73.0279936,
+            5.8414295
+          ],
+          [
+            -73.028076,
+            5.841242
+          ],
+          [
+            -73.0282158,
+            5.8405148
+          ],
+          [
+            -73.028516,
+            5.838953
+          ],
+          [
+            -73.029012,
+            5.8371827
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165355894",
+      "properties": {
+        "@id": "way/165355894",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:36:04Z",
+        "@version": "2",
+        "@changeset": "42067624",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0269882,
+            5.849944
+          ],
+          [
+            -73.026199,
+            5.849521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340928377",
+      "properties": {
+        "@id": "way/340928377",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:16Z",
+        "@version": "4",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0299809,
+            5.8111521
+          ],
+          [
+            -73.0298561,
+            5.8111825
+          ],
+          [
+            -73.0294046,
+            5.8113313
+          ],
+          [
+            -73.0289415,
+            5.8114854
+          ],
+          [
+            -73.0287757,
+            5.8115443
+          ],
+          [
+            -73.028467,
+            5.8116382
+          ],
+          [
+            -73.0278871,
+            5.8118359
+          ],
+          [
+            -73.0277353,
+            5.8119003
+          ],
+          [
+            -73.0270318,
+            5.8121455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341878042",
+      "properties": {
+        "@id": "way/341878042",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "surface": "paved",
+        "@timestamp": "2015-04-30T19:45:11Z",
+        "@version": "1",
+        "@changeset": "30670723",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0297796,
+            5.8337208
+          ],
+          [
+            -73.0297896,
+            5.8336457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341878043",
+      "properties": {
+        "@id": "way/341878043",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:38Z",
+        "@version": "3",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0292332,
+            5.8364332
+          ],
+          [
+            -73.0294512,
+            5.8356962
+          ],
+          [
+            -73.0295688,
+            5.8349939
+          ],
+          [
+            -73.029768,
+            5.8337908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343724645",
+      "properties": {
+        "@id": "way/343724645",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:37Z",
+        "@version": "4",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358148,
+            5.8335175
+          ],
+          [
+            -73.0351895,
+            5.833877
+          ],
+          [
+            -73.0346229,
+            5.834202
+          ],
+          [
+            -73.0339491,
+            5.8346071
+          ],
+          [
+            -73.0335809,
+            5.8348287
+          ],
+          [
+            -73.0332482,
+            5.8350288
+          ],
+          [
+            -73.0327298,
+            5.8353072
+          ],
+          [
+            -73.0325175,
+            5.835337
+          ],
+          [
+            -73.0322899,
+            5.8352536
+          ],
+          [
+            -73.0322009,
+            5.8352031
+          ],
+          [
+            -73.0320815,
+            5.835034
+          ],
+          [
+            -73.0320007,
+            5.8347934
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378932826",
+      "properties": {
+        "@id": "way/378932826",
+        "highway": "residential",
+        "name": "Calle 10",
+        "oneway": "no",
+        "surface": "asphalt",
+        "@timestamp": "2015-11-18T16:34:14Z",
+        "@version": "2",
+        "@changeset": "35411391",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0336241,
+            5.8184568
+          ],
+          [
+            -73.0337158,
+            5.8185843
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/381002690",
+      "properties": {
+        "@id": "way/381002690",
+        "highway": "residential",
+        "name": "Calle 10",
+        "oneway": "no",
+        "surface": "asphalt",
+        "@timestamp": "2015-11-18T16:34:12Z",
+        "@version": "1",
+        "@changeset": "35411391",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0337158,
+            5.8185843
+          ],
+          [
+            -73.0341195,
+            5.8191453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398590377",
+      "properties": {
+        "@id": "way/398590377",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "surface": "paved",
+        "@timestamp": "2016-02-18T20:00:55Z",
+        "@version": "1",
+        "@changeset": "37296418",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.029012,
+            5.8371827
+          ],
+          [
+            -73.0291847,
+            5.8366353
+          ],
+          [
+            -73.0292332,
+            5.8364332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700911",
+      "properties": {
+        "@id": "way/438700911",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 19",
+        "@timestamp": "2016-09-26T22:46:26Z",
+        "@version": "3",
+        "@changeset": "42458255",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0198327,
+            5.8088144
+          ],
+          [
+            -73.0197882,
+            5.8087659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534441",
+      "properties": {
+        "@id": "way/439534441",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:24:01Z",
+        "@version": "1",
+        "@changeset": "41759242",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0313643,
+            5.8257459
+          ],
+          [
+            -73.0318139,
+            5.8264591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534442",
+      "properties": {
+        "@id": "way/439534442",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T20:12:56Z",
+        "@version": "2",
+        "@changeset": "42234538",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.03517,
+            5.832389
+          ],
+          [
+            -73.0353824,
+            5.832757
+          ],
+          [
+            -73.035434,
+            5.8328262
+          ],
+          [
+            -73.0358148,
+            5.8335175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534445",
+      "properties": {
+        "@id": "way/439534445",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 21",
+        "@timestamp": "2016-08-28T16:24:01Z",
+        "@version": "1",
+        "@changeset": "41759242",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0176926,
+            5.8084427
+          ],
+          [
+            -73.0172278,
+            5.8077533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534449",
+      "properties": {
+        "@id": "way/439534449",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "2",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0334975,
+            5.8244535
+          ],
+          [
+            -73.0327409,
+            5.8249048
+          ],
+          [
+            -73.0320205,
+            5.8253771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695716",
+      "properties": {
+        "@id": "way/440695716",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:16Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318139,
+            5.8264591
+          ],
+          [
+            -73.0322052,
+            5.827182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695717",
+      "properties": {
+        "@id": "way/440695717",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:16Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0334418,
+            5.8294244
+          ],
+          [
+            -73.0337728,
+            5.8300077
+          ],
+          [
+            -73.0339381,
+            5.8302632
+          ],
+          [
+            -73.0343668,
+            5.8309903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828186",
+      "properties": {
+        "@id": "way/441828186",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T22:10:18Z",
+        "@version": "2",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0198943,
+            5.8088747
+          ],
+          [
+            -73.0205433,
+            5.8087376
+          ],
+          [
+            -73.0217166,
+            5.8084644
+          ],
+          [
+            -73.0228836,
+            5.8082031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828191",
+      "properties": {
+        "@id": "way/441828191",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:37Z",
+        "@version": "2",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0320007,
+            5.8347934
+          ],
+          [
+            -73.0316817,
+            5.8337524
+          ],
+          [
+            -73.0315911,
+            5.8335567
+          ],
+          [
+            -73.031515,
+            5.8334766
+          ],
+          [
+            -73.0314517,
+            5.8334072
+          ],
+          [
+            -73.0312491,
+            5.8332684
+          ],
+          [
+            -73.031096,
+            5.8332579
+          ],
+          [
+            -73.0306632,
+            5.8333356
+          ],
+          [
+            -73.0297896,
+            5.8336457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828193",
+      "properties": {
+        "@id": "way/441828193",
+        "highway": "trunk",
+        "lanes": "2",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T19:45:10Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0312119,
+            5.8131757
+          ],
+          [
+            -73.0312192,
+            5.8132785
+          ],
+          [
+            -73.0308832,
+            5.8141236
+          ],
+          [
+            -73.0305047,
+            5.8150462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828197",
+      "properties": {
+        "@id": "way/441828197",
+        "highway": "residential",
+        "name": "Calle 10",
+        "oneway": "no",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:11Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0305997,
+            5.8150936
+          ],
+          [
+            -73.0310695,
+            5.815401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828198",
+      "properties": {
+        "@id": "way/441828198",
+        "highway": "residential",
+        "name": "Calle 10",
+        "oneway": "no",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:11Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0305047,
+            5.8150462
+          ],
+          [
+            -73.0305997,
+            5.8150936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828200",
+      "properties": {
+        "@id": "way/441828200",
+        "highway": "residential",
+        "name": "Calle 10",
+        "oneway": "no",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:11Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322228,
+            5.8163269
+          ],
+          [
+            -73.032702,
+            5.8170796
+          ],
+          [
+            -73.0328382,
+            5.817274
+          ],
+          [
+            -73.0331227,
+            5.8177079
+          ],
+          [
+            -73.0336241,
+            5.8184568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828233",
+      "properties": {
+        "@id": "way/441828233",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 28",
+        "@timestamp": "2016-09-10T19:45:14Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322228,
+            5.8163269
+          ],
+          [
+            -73.0317927,
+            5.8165389
+          ],
+          [
+            -73.0310795,
+            5.8168904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828242",
+      "properties": {
+        "@id": "way/441828242",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 44",
+        "@timestamp": "2016-09-10T19:45:15Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0167891,
+            5.8080517
+          ],
+          [
+            -73.0172278,
+            5.8077533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828243",
+      "properties": {
+        "@id": "way/441828243",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 44",
+        "@timestamp": "2016-09-10T19:45:15Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0165162,
+            5.8082438
+          ],
+          [
+            -73.0167891,
+            5.8080517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839868",
+      "properties": {
+        "@id": "way/441839868",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:18:35Z",
+        "@version": "1",
+        "@changeset": "42067239",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.029768,
+            5.8337908
+          ],
+          [
+            -73.0297796,
+            5.8337208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441843047",
+      "properties": {
+        "@id": "way/441843047",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:34:35Z",
+        "@version": "1",
+        "@changeset": "42067601",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0315356,
+            5.8643395
+          ],
+          [
+            -73.0315051,
+            5.8642452
+          ],
+          [
+            -73.031403,
+            5.86359
+          ],
+          [
+            -73.0311272,
+            5.8627526
+          ],
+          [
+            -73.0311093,
+            5.8626984
+          ],
+          [
+            -73.0308018,
+            5.8616016
+          ],
+          [
+            -73.030497,
+            5.860487
+          ],
+          [
+            -73.029825,
+            5.8581
+          ],
+          [
+            -73.029113,
+            5.856487
+          ],
+          [
+            -73.028508,
+            5.854762
+          ],
+          [
+            -73.027995,
+            5.853573
+          ],
+          [
+            -73.027662,
+            5.853074
+          ],
+          [
+            -73.027388,
+            5.852509
+          ],
+          [
+            -73.0269882,
+            5.849944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845931",
+      "properties": {
+        "@id": "way/441845931",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:52Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0308616,
+            5.8125196
+          ],
+          [
+            -73.0310211,
+            5.8127781
+          ],
+          [
+            -73.0312002,
+            5.8130141
+          ],
+          [
+            -73.0312147,
+            5.8130474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845932",
+      "properties": {
+        "@id": "way/441845932",
+        "highway": "residential",
+        "name": "Calle 12",
+        "oneway": "no",
+        "@timestamp": "2016-09-10T21:56:22Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0335602,
+            5.8212425
+          ],
+          [
+            -73.0339871,
+            5.822028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845933",
+      "properties": {
+        "@id": "way/441845933",
+        "highway": "residential",
+        "name": "Calle 12",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:22Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0343818,
+            5.8227638
+          ],
+          [
+            -73.0344728,
+            5.8229514
+          ],
+          [
+            -73.0344922,
+            5.8229914
+          ],
+          [
+            -73.0348511,
+            5.8236454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845939",
+      "properties": {
+        "@id": "way/441845939",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0320205,
+            5.8253771
+          ],
+          [
+            -73.0313643,
+            5.8257459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845940",
+      "properties": {
+        "@id": "way/441845940",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0348511,
+            5.8236454
+          ],
+          [
+            -73.0345,
+            5.8238511
+          ],
+          [
+            -73.0341655,
+            5.8240483
+          ],
+          [
+            -73.0334975,
+            5.8244535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441847931",
+      "properties": {
+        "@id": "way/441847931",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T22:10:15Z",
+        "@version": "1",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0228836,
+            5.8082031
+          ],
+          [
+            -73.0230045,
+            5.808176
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850009",
+      "properties": {
+        "@id": "way/441850009",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:21:51Z",
+        "@version": "1",
+        "@changeset": "42068164",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0312147,
+            5.8130474
+          ],
+          [
+            -73.0311994,
+            5.8130891
+          ],
+          [
+            -73.0311984,
+            5.8131334
+          ],
+          [
+            -73.0312119,
+            5.8131757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850409",
+      "properties": {
+        "@id": "way/441850409",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322052,
+            5.827182
+          ],
+          [
+            -73.0326266,
+            5.8279547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850565",
+      "properties": {
+        "@id": "way/441850565",
+        "highway": "residential",
+        "name": "Calle 14",
+        "oneway": "no",
+        "@timestamp": "2016-09-17T19:21:17Z",
+        "@version": "2",
+        "@changeset": "42233534",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0338501,
+            5.8204084
+          ],
+          [
+            -73.0335602,
+            5.8212425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442954947",
+      "properties": {
+        "@id": "way/442954947",
+        "highway": "residential",
+        "name": "Calle 12",
+        "oneway": "no",
+        "@timestamp": "2016-09-17T19:31:27Z",
+        "@version": "1",
+        "@changeset": "42233726",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0342806,
+            5.82259
+          ],
+          [
+            -73.0343818,
+            5.8227638
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442960908",
+      "properties": {
+        "@id": "way/442960908",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T20:12:53Z",
+        "@version": "1",
+        "@changeset": "42234538",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0343668,
+            5.8309903
+          ],
+          [
+            -73.0348009,
+            5.831741
+          ],
+          [
+            -73.03517,
+            5.832389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443384603",
+      "properties": {
+        "@id": "way/443384603",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:07Z",
+        "@version": "1",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0270318,
+            5.8121455
+          ],
+          [
+            -73.0263981,
+            5.8123528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444485535",
+      "properties": {
+        "@id": "way/444485535",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 19",
+        "@timestamp": "2016-09-26T22:46:22Z",
+        "@version": "1",
+        "@changeset": "42458255",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0191297,
+            5.8080243
+          ],
+          [
+            -73.0189115,
+            5.8076102
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444485536",
+      "properties": {
+        "@id": "way/444485536",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 19",
+        "@timestamp": "2016-09-26T22:46:22Z",
+        "@version": "1",
+        "@changeset": "42458255",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578133",
+            "reltags": {
+              "from": "Juan Grande",
+              "name": "C5 - Juan Grande - Ruta Mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tures",
+              "public_transport:version": "2",
+              "ref": "C5",
+              "route": "bus",
+              "to": "Ruta Mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0198943,
+            5.8088747
+          ],
+          [
+            -73.0198327,
+            5.8088144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266521",
+      "properties": {
+        "@id": "node/326266521",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "18",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0318139,
+          5.8264591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669182154",
+      "properties": {
+        "@id": "node/669182154",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0322052,
+          5.827182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669182158",
+      "properties": {
+        "@id": "node/669182158",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "5",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0313643,
+          5.8257459
+        ]
+      }
+    }
+  ]
+}

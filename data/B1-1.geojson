@@ -1,0 +1,2430 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:15:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29627638",
+      "properties": {
+        "@id": "way/29627638",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "28",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0299809,
+            5.8111521
+          ],
+          [
+            -73.0303214,
+            5.8116977
+          ],
+          [
+            -73.0305638,
+            5.8120259
+          ],
+          [
+            -73.0306625,
+            5.8121844
+          ],
+          [
+            -73.0308616,
+            5.8125196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29650394",
+      "properties": {
+        "@id": "way/29650394",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "31",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0326266,
+            5.8279547
+          ],
+          [
+            -73.0330368,
+            5.8286603
+          ],
+          [
+            -73.0334418,
+            5.8294244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29705539",
+      "properties": {
+        "@id": "way/29705539",
+        "highway": "residential",
+        "name": "Calle 12",
+        "oneway": "no",
+        "@timestamp": "2016-09-17T19:31:28Z",
+        "@version": "10",
+        "@changeset": "42233726",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0339871,
+            5.822028
+          ],
+          [
+            -73.0342806,
+            5.82259
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37290049",
+      "properties": {
+        "@id": "way/37290049",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 16",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "13",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0367998,
+            5.8340708
+          ],
+          [
+            -73.0368309,
+            5.8343588
+          ],
+          [
+            -73.0368763,
+            5.8345781
+          ],
+          [
+            -73.0368963,
+            5.8347593
+          ],
+          [
+            -73.0369648,
+            5.8351215
+          ],
+          [
+            -73.0369726,
+            5.8351627
+          ],
+          [
+            -73.0370398,
+            5.8355201
+          ],
+          [
+            -73.0371043,
+            5.8359689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42501531",
+      "properties": {
+        "@id": "way/42501531",
+        "highway": "residential",
+        "name": "Carrera 32",
+        "@timestamp": "2010-08-17T20:56:06Z",
+        "@version": "4",
+        "@changeset": "5521689",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0308616,
+            5.8125196
+          ],
+          [
+            -73.0307719,
+            5.812589
+          ],
+          [
+            -73.0304246,
+            5.8128165
+          ],
+          [
+            -73.0300708,
+            5.8129235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42501533",
+      "properties": {
+        "@id": "way/42501533",
+        "highway": "residential",
+        "name": "Calle 9b",
+        "@timestamp": "2009-10-18T00:43:41Z",
+        "@version": "2",
+        "@changeset": "2879150",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0300708,
+            5.8129235
+          ],
+          [
+            -73.0301018,
+            5.8130508
+          ],
+          [
+            -73.0301021,
+            5.813311
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42508301",
+      "properties": {
+        "@id": "way/42508301",
+        "highway": "residential",
+        "name": "Carrera 38",
+        "@timestamp": "2016-09-10T21:56:27Z",
+        "@version": "8",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0283755,
+            5.8088511
+          ],
+          [
+            -73.027889,
+            5.808949
+          ],
+          [
+            -73.0274294,
+            5.8090358
+          ],
+          [
+            -73.0270101,
+            5.8091157
+          ],
+          [
+            -73.0266445,
+            5.8091955
+          ],
+          [
+            -73.0253588,
+            5.8096037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45564730",
+      "properties": {
+        "@id": "way/45564730",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 14B",
+        "surface": "unpaved",
+        "@timestamp": "2012-06-26T13:11:22Z",
+        "@version": "5",
+        "@changeset": "12022518",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0394709,
+            5.8365176
+          ],
+          [
+            -73.0397108,
+            5.8376189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45564734",
+      "properties": {
+        "@id": "way/45564734",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 6",
+        "@timestamp": "2016-08-27T16:22:58Z",
+        "@version": "7",
+        "@changeset": "41739574",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0376093,
+            5.8358251
+          ],
+          [
+            -73.0371043,
+            5.8359689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45668163",
+      "properties": {
+        "@id": "way/45668163",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Transversal 10",
+        "@timestamp": "2015-11-18T16:34:15Z",
+        "@version": "5",
+        "@changeset": "35411391",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0337158,
+            5.8185843
+          ],
+          [
+            -73.0335008,
+            5.8185285
+          ],
+          [
+            -73.0323327,
+            5.8182217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45668165",
+      "properties": {
+        "@id": "way/45668165",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 30",
+        "@timestamp": "2016-09-17T19:21:17Z",
+        "@version": "10",
+        "@changeset": "42233534",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0307479,
+            5.8162942
+          ],
+          [
+            -73.030858,
+            5.8159738
+          ],
+          [
+            -73.0310695,
+            5.815401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412800",
+      "properties": {
+        "@id": "way/86412800",
+        "highway": "residential",
+        "name": "Calle 14",
+        "@timestamp": "2010-11-25T16:36:39Z",
+        "@version": "1",
+        "@changeset": "6455825",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0251252,
+            5.8089093
+          ],
+          [
+            -73.025262,
+            5.8093008
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412801",
+      "properties": {
+        "@id": "way/86412801",
+        "highway": "residential",
+        "name": "Calle 14",
+        "@timestamp": "2010-11-25T16:36:39Z",
+        "@version": "1",
+        "@changeset": "6455825",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0249169,
+            5.8084025
+          ],
+          [
+            -73.0251252,
+            5.8089093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86412809",
+      "properties": {
+        "@id": "way/86412809",
+        "highway": "residential",
+        "name": "Calle 14",
+        "@timestamp": "2010-11-25T16:36:41Z",
+        "@version": "1",
+        "@changeset": "6455825",
+        "@user": "LGARS",
+        "@uid": "340352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.025262,
+            5.8093008
+          ],
+          [
+            -73.0253588,
+            5.8096037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129692184",
+      "properties": {
+        "@id": "way/129692184",
+        "highway": "residential",
+        "name": "Calle 17",
+        "@timestamp": "2015-04-30T22:31:46Z",
+        "@version": "3",
+        "@changeset": "30675600",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358148,
+            5.8335175
+          ],
+          [
+            -73.0358333,
+            5.8335579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378932827",
+      "properties": {
+        "@id": "way/378932827",
+        "highway": "residential",
+        "name": "Calle 10",
+        "oneway": "no",
+        "surface": "asphalt",
+        "@timestamp": "2015-11-07T16:09:11Z",
+        "@version": "1",
+        "@changeset": "35152438",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0341195,
+            5.8191453
+          ],
+          [
+            -73.0342366,
+            5.8193238
+          ],
+          [
+            -73.0346921,
+            5.8200182
+          ],
+          [
+            -73.0350168,
+            5.8205356
+          ],
+          [
+            -73.0354617,
+            5.82122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/381002690",
+      "properties": {
+        "@id": "way/381002690",
+        "highway": "residential",
+        "name": "Calle 10",
+        "oneway": "no",
+        "surface": "asphalt",
+        "@timestamp": "2015-11-18T16:34:12Z",
+        "@version": "1",
+        "@changeset": "35411391",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0337158,
+            5.8185843
+          ],
+          [
+            -73.0341195,
+            5.8191453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/381002699",
+      "properties": {
+        "@id": "way/381002699",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Transversal 10",
+        "@timestamp": "2016-09-10T19:45:33Z",
+        "@version": "2",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0323327,
+            5.8182217
+          ],
+          [
+            -73.0322271,
+            5.818194
+          ],
+          [
+            -73.0319541,
+            5.8181223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700887",
+      "properties": {
+        "@id": "way/438700887",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:03Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358573,
+            5.8336103
+          ],
+          [
+            -73.0365509,
+            5.8332129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700900",
+      "properties": {
+        "@id": "way/438700900",
+        "highway": "residential",
+        "name": "Calle 17",
+        "@timestamp": "2016-08-24T02:21:04Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358333,
+            5.8335579
+          ],
+          [
+            -73.0358573,
+            5.8336103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534438",
+      "properties": {
+        "@id": "way/439534438",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 16",
+        "@timestamp": "2016-08-28T16:24:00Z",
+        "@version": "1",
+        "@changeset": "41759242",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0365509,
+            5.8332129
+          ],
+          [
+            -73.0366461,
+            5.8335187
+          ],
+          [
+            -73.0367439,
+            5.8338948
+          ],
+          [
+            -73.0367591,
+            5.8339573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534442",
+      "properties": {
+        "@id": "way/439534442",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T20:12:56Z",
+        "@version": "2",
+        "@changeset": "42234538",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.03517,
+            5.832389
+          ],
+          [
+            -73.0353824,
+            5.832757
+          ],
+          [
+            -73.035434,
+            5.8328262
+          ],
+          [
+            -73.0358148,
+            5.8335175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534449",
+      "properties": {
+        "@id": "way/439534449",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "2",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0334975,
+            5.8244535
+          ],
+          [
+            -73.0327409,
+            5.8249048
+          ],
+          [
+            -73.0320205,
+            5.8253771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526942",
+      "properties": {
+        "@id": "way/440526942",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 16",
+        "@timestamp": "2016-09-03T21:47:48Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0367591,
+            5.8339573
+          ],
+          [
+            -73.0367998,
+            5.8340708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695717",
+      "properties": {
+        "@id": "way/440695717",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:16Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0334418,
+            5.8294244
+          ],
+          [
+            -73.0337728,
+            5.8300077
+          ],
+          [
+            -73.0339381,
+            5.8302632
+          ],
+          [
+            -73.0343668,
+            5.8309903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828197",
+      "properties": {
+        "@id": "way/441828197",
+        "highway": "residential",
+        "name": "Calle 10",
+        "oneway": "no",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:11Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0305997,
+            5.8150936
+          ],
+          [
+            -73.0310695,
+            5.815401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828198",
+      "properties": {
+        "@id": "way/441828198",
+        "highway": "residential",
+        "name": "Calle 10",
+        "oneway": "no",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:11Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0305047,
+            5.8150462
+          ],
+          [
+            -73.0305997,
+            5.8150936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828199",
+      "properties": {
+        "@id": "way/441828199",
+        "highway": "residential",
+        "name": "Calle 10",
+        "oneway": "no",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:11Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0295624,
+            5.8146624
+          ],
+          [
+            -73.0305047,
+            5.8150462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828201",
+      "properties": {
+        "@id": "way/441828201",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 12",
+        "@timestamp": "2016-09-10T19:45:11Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.031682,
+            5.8179107
+          ],
+          [
+            -73.0310795,
+            5.8168904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828231",
+      "properties": {
+        "@id": "way/441828231",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 28",
+        "@timestamp": "2016-09-10T19:45:14Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0308067,
+            5.8170248
+          ],
+          [
+            -73.0304336,
+            5.8172087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828232",
+      "properties": {
+        "@id": "way/441828232",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 28",
+        "@timestamp": "2016-09-10T19:45:14Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0310795,
+            5.8168904
+          ],
+          [
+            -73.0308067,
+            5.8170248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828239",
+      "properties": {
+        "@id": "way/441828239",
+        "highway": "residential",
+        "name": "Carrera 32",
+        "@timestamp": "2016-09-10T19:45:15Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0301021,
+            5.813311
+          ],
+          [
+            -73.0299443,
+            5.813747
+          ],
+          [
+            -73.0295624,
+            5.8146624
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828244",
+      "properties": {
+        "@id": "way/441828244",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 5C",
+        "@timestamp": "2016-09-10T19:45:15Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0394709,
+            5.8365176
+          ],
+          [
+            -73.0378384,
+            5.8367557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828259",
+      "properties": {
+        "@id": "way/441828259",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Transversal 10",
+        "@timestamp": "2016-09-10T19:45:16Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0319541,
+            5.8181223
+          ],
+          [
+            -73.0318624,
+            5.8180934
+          ],
+          [
+            -73.031682,
+            5.8179107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845930",
+      "properties": {
+        "@id": "way/441845930",
+        "highway": "secondary",
+        "name": "Avenida de las Americas;Calle 9",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:22Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0284734,
+            5.8088354
+          ],
+          [
+            -73.028962,
+            5.8095892
+          ],
+          [
+            -73.0299809,
+            5.8111521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845933",
+      "properties": {
+        "@id": "way/441845933",
+        "highway": "residential",
+        "name": "Calle 12",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:22Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0343818,
+            5.8227638
+          ],
+          [
+            -73.0344728,
+            5.8229514
+          ],
+          [
+            -73.0344922,
+            5.8229914
+          ],
+          [
+            -73.0348511,
+            5.8236454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845934",
+      "properties": {
+        "@id": "way/441845934",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 15A",
+        "@timestamp": "2016-09-10T21:56:22Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0378384,
+            5.8367557
+          ],
+          [
+            -73.0376093,
+            5.8358251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845936",
+      "properties": {
+        "@id": "way/441845936",
+        "highway": "residential",
+        "name": "Calle 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:22Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0320205,
+            5.8253771
+          ],
+          [
+            -73.0324609,
+            5.8261035
+          ],
+          [
+            -73.0328935,
+            5.8268011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845938",
+      "properties": {
+        "@id": "way/441845938",
+        "highway": "residential",
+        "name": "Carrera 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0328935,
+            5.8268011
+          ],
+          [
+            -73.0322052,
+            5.827182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845940",
+      "properties": {
+        "@id": "way/441845940",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0348511,
+            5.8236454
+          ],
+          [
+            -73.0345,
+            5.8238511
+          ],
+          [
+            -73.0341655,
+            5.8240483
+          ],
+          [
+            -73.0334975,
+            5.8244535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845941",
+      "properties": {
+        "@id": "way/441845941",
+        "highway": "residential",
+        "name": "Carrera 21",
+        "oneway": "no",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0343567,
+            5.8218226
+          ],
+          [
+            -73.0345987,
+            5.8216882
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845942",
+      "properties": {
+        "@id": "way/441845942",
+        "highway": "residential",
+        "name": "Carrera 21",
+        "oneway": "no",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0339871,
+            5.822028
+          ],
+          [
+            -73.0343567,
+            5.8218226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845944",
+      "properties": {
+        "@id": "way/441845944",
+        "highway": "residential",
+        "name": "Carrera 21",
+        "oneway": "no",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0345987,
+            5.8216882
+          ],
+          [
+            -73.0354617,
+            5.82122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845946",
+      "properties": {
+        "@id": "way/441845946",
+        "highway": "residential",
+        "name": "Carrera 38",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0284734,
+            5.8088354
+          ],
+          [
+            -73.0283755,
+            5.8088511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850409",
+      "properties": {
+        "@id": "way/441850409",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322052,
+            5.827182
+          ],
+          [
+            -73.0326266,
+            5.8279547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850571",
+      "properties": {
+        "@id": "way/441850571",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 30",
+        "@timestamp": "2016-09-10T22:31:55Z",
+        "@version": "1",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0304336,
+            5.8172087
+          ],
+          [
+            -73.0304973,
+            5.8168617
+          ],
+          [
+            -73.030584,
+            5.8165955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442954013",
+      "properties": {
+        "@id": "way/442954013",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 30",
+        "@timestamp": "2016-09-17T19:21:15Z",
+        "@version": "1",
+        "@changeset": "42233534",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.030584,
+            5.8165955
+          ],
+          [
+            -73.0307479,
+            5.8162942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442954947",
+      "properties": {
+        "@id": "way/442954947",
+        "highway": "residential",
+        "name": "Calle 12",
+        "oneway": "no",
+        "@timestamp": "2016-09-17T19:31:27Z",
+        "@version": "1",
+        "@changeset": "42233726",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0342806,
+            5.82259
+          ],
+          [
+            -73.0343818,
+            5.8227638
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442960908",
+      "properties": {
+        "@id": "way/442960908",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T20:12:53Z",
+        "@version": "1",
+        "@changeset": "42234538",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577983",
+            "reltags": {
+              "from": "Barrio La Esperanza",
+              "name": "B1 - Barrio La Esperanza - Colegio San Diego",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B1",
+              "route": "bus",
+              "to": "Colegio San Diego",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0343668,
+            5.8309903
+          ],
+          [
+            -73.0348009,
+            5.831741
+          ],
+          [
+            -73.03517,
+            5.832389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400535",
+      "properties": {
+        "@id": "node/334400535",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "8",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0328935,
+          5.8268011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/528861676",
+      "properties": {
+        "@id": "node/528861676",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-05-19T22:37:32Z",
+        "@version": "6",
+        "@changeset": "31300567",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0365509,
+          5.8332129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669182154",
+      "properties": {
+        "@id": "node/669182154",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0322052,
+          5.827182
+        ]
+      }
+    }
+  ]
+}

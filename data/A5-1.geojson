@@ -1,0 +1,2977 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:11:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29595355",
+      "properties": {
+        "@id": "way/29595355",
+        "highway": "secondary",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:54Z",
+        "@version": "19",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0313406,
+            5.8129776
+          ],
+          [
+            -73.0312826,
+            5.8128898
+          ],
+          [
+            -73.03105,
+            5.8125946
+          ],
+          [
+            -73.0309439,
+            5.8124353
+          ],
+          [
+            -73.0308633,
+            5.8123044
+          ],
+          [
+            -73.0301141,
+            5.8111116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32571431",
+      "properties": {
+        "@id": "way/32571431",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T21:28:21Z",
+        "@version": "43",
+        "@changeset": "42067491",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0324817,
+            5.8060441
+          ],
+          [
+            -73.0353876,
+            5.8053926
+          ],
+          [
+            -73.0364323,
+            5.8051573
+          ],
+          [
+            -73.0375442,
+            5.8049188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42726530",
+      "properties": {
+        "@id": "way/42726530",
+        "highway": "residential",
+        "@timestamp": "2016-09-05T04:22:28Z",
+        "@version": "3",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0303974,
+            5.8063983
+          ],
+          [
+            -73.0302867,
+            5.8055102
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49667553",
+      "properties": {
+        "@id": "way/49667553",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 8",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:32Z",
+        "@version": "11",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0382778,
+            5.8331367
+          ],
+          [
+            -73.0390163,
+            5.832744
+          ],
+          [
+            -73.0393952,
+            5.8325485
+          ],
+          [
+            -73.0398317,
+            5.8323048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54767860",
+      "properties": {
+        "@id": "way/54767860",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 5",
+        "source": "DANE",
+        "@timestamp": "2016-09-05T04:22:26Z",
+        "@version": "6",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0392881,
+            5.8208473
+          ],
+          [
+            -73.0390434,
+            5.8204163
+          ],
+          [
+            -73.0389077,
+            5.8202482
+          ],
+          [
+            -73.0388163,
+            5.820102
+          ],
+          [
+            -73.0387953,
+            5.8200713
+          ],
+          [
+            -73.0383701,
+            5.8194276
+          ],
+          [
+            -73.0379232,
+            5.818684
+          ],
+          [
+            -73.0375047,
+            5.8182555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/80396753",
+      "properties": {
+        "@id": "way/80396753",
+        "highway": "residential",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2015-11-06T20:57:39Z",
+        "@version": "5",
+        "@changeset": "35135252",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0376925,
+            5.8169899
+          ],
+          [
+            -73.0372894,
+            5.8165164
+          ],
+          [
+            -73.0370677,
+            5.816216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/80396766",
+      "properties": {
+        "@id": "way/80396766",
+        "highway": "residential",
+        "name": "Carrera 29",
+        "surface": "paved",
+        "@timestamp": "2016-09-05T04:22:27Z",
+        "@version": "4",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0321272,
+            5.8134538
+          ],
+          [
+            -73.0320148,
+            5.8134691
+          ],
+          [
+            -73.0319554,
+            5.8135214
+          ],
+          [
+            -73.0318695,
+            5.8136661
+          ],
+          [
+            -73.0317962,
+            5.8137387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/80396781",
+      "properties": {
+        "@id": "way/80396781",
+        "highway": "residential",
+        "name": "Carrera 26",
+        "surface": "paved",
+        "@timestamp": "2016-09-05T04:22:27Z",
+        "@version": "2",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0350138,
+            5.8161459
+          ],
+          [
+            -73.0344555,
+            5.8166048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/80422959",
+      "properties": {
+        "@id": "way/80422959",
+        "highway": "residential",
+        "name": "Calle 3",
+        "surface": "unpaved",
+        "@timestamp": "2016-09-05T04:22:25Z",
+        "@version": "2",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0382977,
+            5.8177164
+          ],
+          [
+            -73.0380243,
+            5.8173936
+          ],
+          [
+            -73.0376925,
+            5.8169899
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/82117501",
+      "properties": {
+        "@id": "way/82117501",
+        "highway": "residential",
+        "name": "Calle 6",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:13Z",
+        "@version": "3",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322313,
+            5.8103348
+          ],
+          [
+            -73.0318675,
+            5.8096204
+          ],
+          [
+            -73.0317033,
+            5.809298
+          ],
+          [
+            -73.0314451,
+            5.8087909
+          ],
+          [
+            -73.0312778,
+            5.8084624
+          ],
+          [
+            -73.0310916,
+            5.8080968
+          ],
+          [
+            -73.0309319,
+            5.8077969
+          ],
+          [
+            -73.0308753,
+            5.80749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127670544",
+      "properties": {
+        "@id": "way/127670544",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:14Z",
+        "@version": "4",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322313,
+            5.8103348
+          ],
+          [
+            -73.0321548,
+            5.8104088
+          ],
+          [
+            -73.0320736,
+            5.8104763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129700654",
+      "properties": {
+        "@id": "way/129700654",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 9A",
+        "surface": "paved",
+        "@timestamp": "2016-03-18T00:41:42Z",
+        "@version": "5",
+        "@changeset": "37910014",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0440671,
+            5.8305031
+          ],
+          [
+            -73.0432177,
+            5.8299659
+          ],
+          [
+            -73.0428008,
+            5.8297218
+          ],
+          [
+            -73.0427605,
+            5.8296961
+          ],
+          [
+            -73.0425646,
+            5.8295709
+          ],
+          [
+            -73.0423435,
+            5.8295022
+          ],
+          [
+            -73.0421066,
+            5.8294285
+          ],
+          [
+            -73.0416391,
+            5.8292317
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/215289952",
+      "properties": {
+        "@id": "way/215289952",
+        "highway": "residential",
+        "name": "carrera 26",
+        "@timestamp": "2014-07-29T13:45:49Z",
+        "@version": "2",
+        "@changeset": "24422384",
+        "@user": "Luis36995",
+        "@uid": "1829683",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0357749,
+            5.8150297
+          ],
+          [
+            -73.0351818,
+            5.8162776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254754598",
+      "properties": {
+        "@id": "way/254754598",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-05T04:22:22Z",
+        "@version": "14",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0375976,
+            5.8047983
+          ],
+          [
+            -73.0372468,
+            5.8048735
+          ],
+          [
+            -73.0371613,
+            5.8048926
+          ],
+          [
+            -73.0353162,
+            5.8052985
+          ],
+          [
+            -73.0352605,
+            5.8053108
+          ],
+          [
+            -73.0337015,
+            5.8056655
+          ],
+          [
+            -73.0303974,
+            5.8063983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/274639285",
+      "properties": {
+        "@id": "way/274639285",
+        "highway": "residential",
+        "name": "Calle 14",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:58Z",
+        "@version": "5",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0356085,
+            5.8281405
+          ],
+          [
+            -73.0351897,
+            5.8274425
+          ],
+          [
+            -73.0347745,
+            5.8266983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341814494",
+      "properties": {
+        "@id": "way/341814494",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "5",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0368768,
+            5.8320249
+          ],
+          [
+            -73.0368623,
+            5.8320014
+          ],
+          [
+            -73.0366117,
+            5.8315788
+          ],
+          [
+            -73.0362179,
+            5.8309276
+          ],
+          [
+            -73.0359471,
+            5.8305019
+          ],
+          [
+            -73.0358927,
+            5.8304081
+          ],
+          [
+            -73.0357056,
+            5.8301207
+          ],
+          [
+            -73.0354989,
+            5.8297713
+          ],
+          [
+            -73.0353156,
+            5.8294314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/342362034",
+      "properties": {
+        "@id": "way/342362034",
+        "admin_level": "9",
+        "boundary": "administrative",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 14",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:26:37Z",
+        "@version": "6",
+        "@changeset": "42067467",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0377264,
+            5.8319935
+          ],
+          [
+            -73.0377492,
+            5.8320275
+          ],
+          [
+            -73.0380897,
+            5.832753
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343534918",
+      "properties": {
+        "@id": "way/343534918",
+        "admin_level": "9",
+        "boundary": "administrative",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 10",
+        "surface": "paved",
+        "@timestamp": "2016-09-05T04:22:24Z",
+        "@version": "3",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0413784,
+            5.8314412
+          ],
+          [
+            -73.0411846,
+            5.8311907
+          ],
+          [
+            -73.0407415,
+            5.830649
+          ],
+          [
+            -73.0402369,
+            5.8300243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343724648",
+      "properties": {
+        "@id": "way/343724648",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 14",
+        "surface": "paved",
+        "@timestamp": "2015-05-08T16:04:35Z",
+        "@version": "1",
+        "@changeset": "30912359",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0376961,
+            5.8319511
+          ],
+          [
+            -73.0377264,
+            5.8319935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343724649",
+      "properties": {
+        "@id": "way/343724649",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 14",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2015-05-08T16:04:35Z",
+        "@version": "1",
+        "@changeset": "30912359",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0376961,
+            5.8319511
+          ],
+          [
+            -73.037639,
+            5.8318722
+          ],
+          [
+            -73.0374556,
+            5.831891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371395880",
+      "properties": {
+        "@id": "way/371395880",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2015-09-18T19:59:24Z",
+        "@version": "1",
+        "@changeset": "34110474",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.033992,
+            5.825301
+          ],
+          [
+            -73.0346558,
+            5.8249411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371395898",
+      "properties": {
+        "@id": "way/371395898",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:48:10Z",
+        "@version": "4",
+        "@changeset": "42067685",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0346558,
+            5.8249411
+          ],
+          [
+            -73.0350207,
+            5.8247736
+          ],
+          [
+            -73.0353453,
+            5.8246061
+          ],
+          [
+            -73.0360182,
+            5.8242724
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378744148",
+      "properties": {
+        "@id": "way/378744148",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2015-11-06T19:53:36Z",
+        "@version": "1",
+        "@changeset": "35134072",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0379064,
+            5.8231883
+          ],
+          [
+            -73.0379481,
+            5.8231597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378750130",
+      "properties": {
+        "@id": "way/378750130",
+        "highway": "residential",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-05T04:22:27Z",
+        "@version": "3",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0399806,
+            5.8218875
+          ],
+          [
+            -73.0395006,
+            5.8221978
+          ],
+          [
+            -73.0393746,
+            5.8222792
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378765691",
+      "properties": {
+        "@id": "way/378765691",
+        "highway": "residential",
+        "name": "Calle 3",
+        "surface": "paved",
+        "@timestamp": "2016-09-05T04:22:26Z",
+        "@version": "2",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0370677,
+            5.816216
+          ],
+          [
+            -73.0367103,
+            5.8157821
+          ],
+          [
+            -73.0367352,
+            5.8155659
+          ],
+          [
+            -73.0364195,
+            5.8154696
+          ],
+          [
+            -73.0359369,
+            5.8154573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/404321802",
+      "properties": {
+        "@id": "way/404321802",
+        "highway": "residential",
+        "mechanical": "yes",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "name": "Calle 9A",
+        "surface": "paved",
+        "tracktype": "grade2",
+        "@timestamp": "2016-09-18T18:17:24Z",
+        "@version": "3",
+        "@changeset": "42253262",
+        "@user": "FvGordon",
+        "@uid": "161619",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0449111,
+            5.8311206
+          ],
+          [
+            -73.0446694,
+            5.8308897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422015437",
+      "properties": {
+        "@id": "way/422015437",
+        "highway": "residential",
+        "name": "Calle 8",
+        "source": "DANE",
+        "surface": "paved",
+        "@timestamp": "2016-05-31T13:02:46Z",
+        "@version": "1",
+        "@changeset": "39688261",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0339929,
+            5.8158387
+          ],
+          [
+            -73.0340727,
+            5.8160099
+          ],
+          [
+            -73.0340893,
+            5.8160319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422015438",
+      "properties": {
+        "@id": "way/422015438",
+        "highway": "residential",
+        "name": "Calle 8",
+        "source": "DANE",
+        "surface": "paved",
+        "@timestamp": "2016-05-31T13:02:46Z",
+        "@version": "1",
+        "@changeset": "39688261",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0321272,
+            5.8134538
+          ],
+          [
+            -73.0321965,
+            5.8134936
+          ],
+          [
+            -73.0326222,
+            5.8138146
+          ],
+          [
+            -73.0328035,
+            5.8140321
+          ],
+          [
+            -73.0328556,
+            5.8140843
+          ],
+          [
+            -73.0332339,
+            5.8146464
+          ],
+          [
+            -73.0338095,
+            5.8154854
+          ],
+          [
+            -73.0339929,
+            5.8158387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422033554",
+      "properties": {
+        "@id": "way/422033554",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-05-31T15:18:04Z",
+        "@version": "1",
+        "@changeset": "39691178",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0320736,
+            5.8104763
+          ],
+          [
+            -73.0319889,
+            5.8105051
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700916",
+      "properties": {
+        "@id": "way/438700916",
+        "highway": "residential",
+        "name": "Calle 6",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0308753,
+            5.80749
+          ],
+          [
+            -73.0307242,
+            5.8064564
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700926",
+      "properties": {
+        "@id": "way/438700926",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-08-24T02:21:05Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0319889,
+            5.8105051
+          ],
+          [
+            -73.0317761,
+            5.8105723
+          ],
+          [
+            -73.0306776,
+            5.8109266
+          ],
+          [
+            -73.0302353,
+            5.8110772
+          ],
+          [
+            -73.0301141,
+            5.8111116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700931",
+      "properties": {
+        "@id": "way/438700931",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:59Z",
+        "@version": "2",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0314637,
+            5.8131532
+          ],
+          [
+            -73.0314695,
+            5.8131136
+          ],
+          [
+            -73.0314634,
+            5.813074
+          ],
+          [
+            -73.0314459,
+            5.813038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439527909",
+      "properties": {
+        "@id": "way/439527909",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:13:42Z",
+        "@version": "1",
+        "@changeset": "41759038",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0353156,
+            5.8294314
+          ],
+          [
+            -73.0348752,
+            5.8285585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439527918",
+      "properties": {
+        "@id": "way/439527918",
+        "highway": "residential",
+        "name": "Carrera 14",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:13:43Z",
+        "@version": "1",
+        "@changeset": "41759038",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0348752,
+            5.8285585
+          ],
+          [
+            -73.0356085,
+            5.8281405
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526951",
+      "properties": {
+        "@id": "way/440526951",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 9A",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-03T21:47:49Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0374556,
+            5.831891
+          ],
+          [
+            -73.0371511,
+            5.8319669
+          ],
+          [
+            -73.0368768,
+            5.8320249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440531418",
+      "properties": {
+        "@id": "way/440531418",
+        "highway": "residential",
+        "name": "Calle 14",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T22:34:21Z",
+        "@version": "1",
+        "@changeset": "41897920",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0343482,
+            5.8259894
+          ],
+          [
+            -73.033992,
+            5.825301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440531428",
+      "properties": {
+        "@id": "way/440531428",
+        "highway": "residential",
+        "name": "Carrera 18",
+        "@timestamp": "2016-09-03T22:34:22Z",
+        "@version": "1",
+        "@changeset": "41897920",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0393746,
+            5.8222792
+          ],
+          [
+            -73.0392031,
+            5.8223901
+          ],
+          [
+            -73.0385484,
+            5.8228134
+          ],
+          [
+            -73.0379481,
+            5.8231597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695709",
+      "properties": {
+        "@id": "way/440695709",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:15Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0317962,
+            5.8137387
+          ],
+          [
+            -73.0316653,
+            5.8135148
+          ],
+          [
+            -73.0315651,
+            5.8133401
+          ],
+          [
+            -73.0314637,
+            5.8131532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695720",
+      "properties": {
+        "@id": "way/440695720",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 5",
+        "source": "DANE",
+        "@timestamp": "2016-09-05T04:22:16Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0399806,
+            5.8218875
+          ],
+          [
+            -73.0395931,
+            5.821284
+          ],
+          [
+            -73.0392881,
+            5.8208473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695722",
+      "properties": {
+        "@id": "way/440695722",
+        "fixme": "No estoy seguro que sea Calle 7 revisar",
+        "highway": "residential",
+        "name": "Calle 7",
+        "surface": "paved",
+        "@timestamp": "2016-09-05T04:22:16Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0350138,
+            5.8161459
+          ],
+          [
+            -73.0351818,
+            5.8162776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695723",
+      "properties": {
+        "@id": "way/440695723",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 9A",
+        "surface": "paved",
+        "@timestamp": "2016-09-05T04:22:17Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0416391,
+            5.8292317
+          ],
+          [
+            -73.0413563,
+            5.8290967
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695724",
+      "properties": {
+        "@id": "way/440695724",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 10",
+        "surface": "paved",
+        "@timestamp": "2016-09-05T04:22:17Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0413563,
+            5.8290967
+          ],
+          [
+            -73.0405572,
+            5.8299296
+          ],
+          [
+            -73.0402369,
+            5.8300243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695732",
+      "properties": {
+        "@id": "way/440695732",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 23",
+        "source": "DANE",
+        "@timestamp": "2016-09-05T04:22:17Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0382977,
+            5.8177164
+          ],
+          [
+            -73.0375047,
+            5.8182555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695739",
+      "properties": {
+        "@id": "way/440695739",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-09-05T04:22:18Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0359369,
+            5.8154573
+          ],
+          [
+            -73.0357749,
+            5.8150297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695744",
+      "properties": {
+        "@id": "way/440695744",
+        "highway": "trunk",
+        "lanes": "2",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-05T04:22:18Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0375976,
+            5.8047983
+          ],
+          [
+            -73.0375442,
+            5.8049188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828184",
+      "properties": {
+        "@id": "way/441828184",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:09Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0307242,
+            5.8064564
+          ],
+          [
+            -73.0310922,
+            5.8063698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828250",
+      "properties": {
+        "@id": "way/441828250",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 8",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:16Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0398317,
+            5.8323048
+          ],
+          [
+            -73.040466,
+            5.8319433
+          ],
+          [
+            -73.0409271,
+            5.8316895
+          ],
+          [
+            -73.0413784,
+            5.8314412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441839998",
+      "properties": {
+        "@id": "way/441839998",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:20:46Z",
+        "@version": "1",
+        "@changeset": "42067287",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0378486,
+            5.8232295
+          ],
+          [
+            -73.0379064,
+            5.8231883
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441841011",
+      "properties": {
+        "@id": "way/441841011",
+        "highway": "residential",
+        "name": "Calle 8",
+        "source": "DANE",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:23:48Z",
+        "@version": "1",
+        "@changeset": "42067425",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0340893,
+            5.8160319
+          ],
+          [
+            -73.0341029,
+            5.8160499
+          ],
+          [
+            -73.0342507,
+            5.8161931
+          ],
+          [
+            -73.0344555,
+            5.8166048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441841854",
+      "properties": {
+        "@id": "way/441841854",
+        "admin_level": "9",
+        "boundary": "administrative",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 14",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:26:37Z",
+        "@version": "1",
+        "@changeset": "42067467",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0380897,
+            5.832753
+          ],
+          [
+            -73.0382778,
+            5.8331367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441842574",
+      "properties": {
+        "@id": "way/441842574",
+        "highway": "trunk",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "62",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T21:28:21Z",
+        "@version": "1",
+        "@changeset": "42067491",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0310922,
+            5.8063698
+          ],
+          [
+            -73.0323621,
+            5.8060709
+          ],
+          [
+            -73.0324817,
+            5.8060441
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441844263",
+      "properties": {
+        "@id": "way/441844263",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:48:08Z",
+        "@version": "1",
+        "@changeset": "42067685",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0360182,
+            5.8242724
+          ],
+          [
+            -73.0370641,
+            5.8236655
+          ],
+          [
+            -73.0378486,
+            5.8232295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850564",
+      "properties": {
+        "@id": "way/441850564",
+        "highway": "residential",
+        "name": "Calle 14",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:55Z",
+        "@version": "1",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0347745,
+            5.8266983
+          ],
+          [
+            -73.0343482,
+            5.8259894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850572",
+      "properties": {
+        "@id": "way/441850572",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:55Z",
+        "@version": "1",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0314459,
+            5.813038
+          ],
+          [
+            -73.0314176,
+            5.8130077
+          ],
+          [
+            -73.0313813,
+            5.8129873
+          ],
+          [
+            -73.0313406,
+            5.8129776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443076570",
+      "properties": {
+        "@id": "way/443076570",
+        "highway": "residential",
+        "mechanical": "yes",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "name": "Calle 9A",
+        "surface": "paved",
+        "tracktype": "grade2",
+        "@timestamp": "2016-09-18T18:17:22Z",
+        "@version": "1",
+        "@changeset": "42253262",
+        "@user": "FvGordon",
+        "@uid": "161619",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577929",
+            "reltags": {
+              "from": "Barrio El Progreso",
+              "name": "A5 - Barrio El Progreso - Villa del Prado",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "ref": "A5",
+              "route": "bus",
+              "to": "Higueras",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0446694,
+            5.8308897
+          ],
+          [
+            -73.0440671,
+            5.8305031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266508",
+      "properties": {
+        "@id": "node/326266508",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-17T20:33:21Z",
+        "@version": "39",
+        "@changeset": "42234929",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0378486,
+          5.8232295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326518191",
+      "properties": {
+        "@id": "node/326518191",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-08-29T01:52:57Z",
+        "@version": "15",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0377492,
+          5.8320275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400545",
+      "properties": {
+        "@id": "node/334400545",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "7",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0347745,
+          5.8266983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334402543",
+      "properties": {
+        "@id": "node/334402543",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "10",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0353156,
+          5.8294314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539177434",
+      "properties": {
+        "@id": "node/539177434",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:58Z",
+        "@version": "9",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0379481,
+          5.8231597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1132052353",
+      "properties": {
+        "@id": "node/1132052353",
+        "railway": "level_crossing",
+        "@timestamp": "2015-04-28T07:33:26Z",
+        "@version": "2",
+        "@changeset": "30572100",
+        "@user": "carciofo",
+        "@uid": "2533093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0316653,
+          5.8135148
+        ]
+      }
+    }
+  ]
+}

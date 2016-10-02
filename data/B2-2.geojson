@@ -1,0 +1,3856 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-10-02T02:16:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29595355",
+      "properties": {
+        "@id": "way/29595355",
+        "highway": "secondary",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:54Z",
+        "@version": "19",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0313406,
+            5.8129776
+          ],
+          [
+            -73.0312826,
+            5.8128898
+          ],
+          [
+            -73.03105,
+            5.8125946
+          ],
+          [
+            -73.0309439,
+            5.8124353
+          ],
+          [
+            -73.0308633,
+            5.8123044
+          ],
+          [
+            -73.0301141,
+            5.8111116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29645081",
+      "properties": {
+        "@id": "way/29645081",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T19:52:51Z",
+        "@version": "33",
+        "@changeset": "42234156",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0379481,
+            5.8231597
+          ],
+          [
+            -73.0372747,
+            5.8221404
+          ],
+          [
+            -73.0367676,
+            5.821353
+          ],
+          [
+            -73.036676,
+            5.8212142
+          ],
+          [
+            -73.0363654,
+            5.820734
+          ],
+          [
+            -73.0359002,
+            5.8199997
+          ],
+          [
+            -73.0358386,
+            5.8199032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29650394",
+      "properties": {
+        "@id": "way/29650394",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:29:46Z",
+        "@version": "31",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0326266,
+            5.8279547
+          ],
+          [
+            -73.0330368,
+            5.8286603
+          ],
+          [
+            -73.0334418,
+            5.8294244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42508297",
+      "properties": {
+        "@id": "way/42508297",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Transversal 35",
+        "smoothness": "intermediate",
+        "surface": "asphalt",
+        "@timestamp": "2012-06-26T14:18:35Z",
+        "@version": "6",
+        "@changeset": "12026552",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0253026,
+            5.8130119
+          ],
+          [
+            -73.0250449,
+            5.8130303
+          ],
+          [
+            -73.0243852,
+            5.8127148
+          ],
+          [
+            -73.0241405,
+            5.8127216
+          ],
+          [
+            -73.0239105,
+            5.8127714
+          ],
+          [
+            -73.021597,
+            5.8125196
+          ],
+          [
+            -73.0206678,
+            5.8124001
+          ],
+          [
+            -73.0203124,
+            5.8124373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42508374",
+      "properties": {
+        "@id": "way/42508374",
+        "highway": "residential",
+        "name": "Carrera 27",
+        "@timestamp": "2016-09-10T19:45:31Z",
+        "@version": "5",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0247977,
+            5.8223939
+          ],
+          [
+            -73.0244838,
+            5.8224368
+          ],
+          [
+            -73.0240143,
+            5.8226972
+          ],
+          [
+            -73.0235704,
+            5.8229741
+          ],
+          [
+            -73.0233071,
+            5.8231251
+          ],
+          [
+            -73.0227214,
+            5.823382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45564739",
+      "properties": {
+        "@id": "way/45564739",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 8",
+        "@timestamp": "2012-06-26T14:08:15Z",
+        "@version": "4",
+        "@changeset": "12025781",
+        "@user": "botika",
+        "@uid": "689780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0384279,
+            5.8334535
+          ],
+          [
+            -73.0378333,
+            5.833683
+          ],
+          [
+            -73.0370163,
+            5.8340127
+          ],
+          [
+            -73.0367998,
+            5.8340708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53815214",
+      "properties": {
+        "@id": "way/53815214",
+        "highway": "unclassified",
+        "@timestamp": "2016-09-17T22:25:11Z",
+        "@version": "5",
+        "@changeset": "42236761",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0178453,
+            5.8241278
+          ],
+          [
+            -73.0178458,
+            5.8240633
+          ],
+          [
+            -73.0179623,
+            5.8238947
+          ],
+          [
+            -73.0182086,
+            5.8236814
+          ],
+          [
+            -73.0183183,
+            5.823462
+          ],
+          [
+            -73.0186138,
+            5.8231466
+          ],
+          [
+            -73.0185449,
+            5.8226829
+          ],
+          [
+            -73.0185687,
+            5.82243
+          ],
+          [
+            -73.0185434,
+            5.8220837
+          ],
+          [
+            -73.0182185,
+            5.8211491
+          ],
+          [
+            -73.0181731,
+            5.821015
+          ],
+          [
+            -73.0178405,
+            5.8201215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53815215",
+      "properties": {
+        "@id": "way/53815215",
+        "highway": "unclassified",
+        "source": "NASA",
+        "@timestamp": "2016-09-17T22:11:47Z",
+        "@version": "6",
+        "@changeset": "42236596",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0221478,
+            5.8211061
+          ],
+          [
+            -73.0214671,
+            5.8210319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72908193",
+      "properties": {
+        "@id": "way/72908193",
+        "bridge": "yes",
+        "highway": "residential",
+        "layer": "1",
+        "name": "Carrera 35",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-26T22:04:18Z",
+        "@version": "2",
+        "@changeset": "42457255",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0263729,
+            5.8123633
+          ],
+          [
+            -73.0263981,
+            5.8123528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72908222",
+      "properties": {
+        "@id": "way/72908222",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:31Z",
+        "@version": "2",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0256507,
+            5.8128043
+          ],
+          [
+            -73.0258937,
+            5.8126623
+          ],
+          [
+            -73.0263729,
+            5.8123633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129692184",
+      "properties": {
+        "@id": "way/129692184",
+        "highway": "residential",
+        "name": "Calle 17",
+        "@timestamp": "2015-04-30T22:31:46Z",
+        "@version": "3",
+        "@changeset": "30675600",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358148,
+            5.8335175
+          ],
+          [
+            -73.0358333,
+            5.8335579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156467499",
+      "properties": {
+        "@id": "way/156467499",
+        "highway": "residential",
+        "name": "Calle 20",
+        "oneway": "yes",
+        "@timestamp": "2014-01-02T05:06:09Z",
+        "@version": "3",
+        "@changeset": "19755427",
+        "@user": "juanbox",
+        "@uid": "1312875",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0271519,
+            5.8240339
+          ],
+          [
+            -73.0272745,
+            5.8241418
+          ],
+          [
+            -73.0273521,
+            5.8242082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156468462",
+      "properties": {
+        "@id": "way/156468462",
+        "bridge": "yes",
+        "highway": "unclassified",
+        "layer": "1",
+        "source": "NASA",
+        "@timestamp": "2016-09-17T22:11:47Z",
+        "@version": "2",
+        "@changeset": "42236596",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0214671,
+            5.8210319
+          ],
+          [
+            -73.0213494,
+            5.8210111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340928377",
+      "properties": {
+        "@id": "way/340928377",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:16Z",
+        "@version": "4",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0299809,
+            5.8111521
+          ],
+          [
+            -73.0298561,
+            5.8111825
+          ],
+          [
+            -73.0294046,
+            5.8113313
+          ],
+          [
+            -73.0289415,
+            5.8114854
+          ],
+          [
+            -73.0287757,
+            5.8115443
+          ],
+          [
+            -73.028467,
+            5.8116382
+          ],
+          [
+            -73.0278871,
+            5.8118359
+          ],
+          [
+            -73.0277353,
+            5.8119003
+          ],
+          [
+            -73.0270318,
+            5.8121455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341811735",
+      "properties": {
+        "@id": "way/341811735",
+        "highway": "residential",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "3",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0346368,
+            5.8298497
+          ],
+          [
+            -73.0339381,
+            5.8302632
+          ],
+          [
+            -73.0335645,
+            5.8305076
+          ],
+          [
+            -73.0332078,
+            5.830743
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341814494",
+      "properties": {
+        "@id": "way/341814494",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "5",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0368768,
+            5.8320249
+          ],
+          [
+            -73.0368623,
+            5.8320014
+          ],
+          [
+            -73.0366117,
+            5.8315788
+          ],
+          [
+            -73.0362179,
+            5.8309276
+          ],
+          [
+            -73.0359471,
+            5.8305019
+          ],
+          [
+            -73.0358927,
+            5.8304081
+          ],
+          [
+            -73.0357056,
+            5.8301207
+          ],
+          [
+            -73.0354989,
+            5.8297713
+          ],
+          [
+            -73.0353156,
+            5.8294314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341917212",
+      "properties": {
+        "@id": "way/341917212",
+        "highway": "residential",
+        "name": "Carrera 8",
+        "@timestamp": "2016-04-05T14:02:02Z",
+        "@version": "2",
+        "@changeset": "38318125",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0367591,
+            5.8339573
+          ],
+          [
+            -73.0360505,
+            5.8340572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/342362034",
+      "properties": {
+        "@id": "way/342362034",
+        "admin_level": "9",
+        "boundary": "administrative",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 14",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:26:37Z",
+        "@version": "6",
+        "@changeset": "42067467",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0377264,
+            5.8319935
+          ],
+          [
+            -73.0377492,
+            5.8320275
+          ],
+          [
+            -73.0380897,
+            5.832753
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343724648",
+      "properties": {
+        "@id": "way/343724648",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 14",
+        "surface": "paved",
+        "@timestamp": "2015-05-08T16:04:35Z",
+        "@version": "1",
+        "@changeset": "30912359",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0376961,
+            5.8319511
+          ],
+          [
+            -73.0377264,
+            5.8319935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343724649",
+      "properties": {
+        "@id": "way/343724649",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 14",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2015-05-08T16:04:35Z",
+        "@version": "1",
+        "@changeset": "30912359",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0376961,
+            5.8319511
+          ],
+          [
+            -73.037639,
+            5.8318722
+          ],
+          [
+            -73.0374556,
+            5.831891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371395864",
+      "properties": {
+        "@id": "way/371395864",
+        "highway": "residential",
+        "name": "Calle 18",
+        "oneway": "yes",
+        "@timestamp": "2015-09-18T22:15:16Z",
+        "@version": "3",
+        "@changeset": "34112444",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0332078,
+            5.830743
+          ],
+          [
+            -73.0327415,
+            5.8298176
+          ],
+          [
+            -73.0323021,
+            5.8290278
+          ],
+          [
+            -73.0318487,
+            5.8283539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371417725",
+      "properties": {
+        "@id": "way/371417725",
+        "highway": "residential",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:58Z",
+        "@version": "3",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0347745,
+            5.8266983
+          ],
+          [
+            -73.0354509,
+            5.8263361
+          ],
+          [
+            -73.0361089,
+            5.8259696
+          ],
+          [
+            -73.0367514,
+            5.8256128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378744144",
+      "properties": {
+        "@id": "way/378744144",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2015-11-06T19:53:36Z",
+        "@version": "1",
+        "@changeset": "35134072",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0389018,
+            5.824864
+          ],
+          [
+            -73.0389706,
+            5.8248101
+          ],
+          [
+            -73.0390123,
+            5.8246864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378744145",
+      "properties": {
+        "@id": "way/378744145",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2015-11-06T19:53:36Z",
+        "@version": "1",
+        "@changeset": "35134072",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0388357,
+            5.8248803
+          ],
+          [
+            -73.0389018,
+            5.824864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378744146",
+      "properties": {
+        "@id": "way/378744146",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:41Z",
+        "@version": "2",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0384506,
+            5.8249836
+          ],
+          [
+            -73.038718,
+            5.8248719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398593297",
+      "properties": {
+        "@id": "way/398593297",
+        "highway": "residential",
+        "name": "Calle 20",
+        "@timestamp": "2016-02-18T20:18:38Z",
+        "@version": "1",
+        "@changeset": "37296693",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0284064,
+            5.8256701
+          ],
+          [
+            -73.0280625,
+            5.8249709
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398593298",
+      "properties": {
+        "@id": "way/398593298",
+        "highway": "residential",
+        "name": "Calle 20",
+        "@timestamp": "2016-02-18T20:18:38Z",
+        "@version": "1",
+        "@changeset": "37296693",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0280625,
+            5.8249709
+          ],
+          [
+            -73.0278041,
+            5.8246899
+          ],
+          [
+            -73.0274506,
+            5.8243309
+          ],
+          [
+            -73.0273521,
+            5.8242082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700894",
+      "properties": {
+        "@id": "way/438700894",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-30T14:10:07Z",
+        "@version": "4",
+        "@changeset": "42543345",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0390123,
+            5.8246864
+          ],
+          [
+            -73.0388993,
+            5.8245836
+          ],
+          [
+            -73.0386672,
+            5.8242453
+          ],
+          [
+            -73.0386259,
+            5.8241839
+          ],
+          [
+            -73.0383663,
+            5.823798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700900",
+      "properties": {
+        "@id": "way/438700900",
+        "highway": "residential",
+        "name": "Calle 17",
+        "@timestamp": "2016-08-24T02:21:04Z",
+        "@version": "1",
+        "@changeset": "41651609",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358333,
+            5.8335579
+          ],
+          [
+            -73.0358573,
+            5.8336103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700901",
+      "properties": {
+        "@id": "way/438700901",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:24:05Z",
+        "@version": "2",
+        "@changeset": "41759242",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0308637,
+            5.8249635
+          ],
+          [
+            -73.0313643,
+            5.8257459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700931",
+      "properties": {
+        "@id": "way/438700931",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:59Z",
+        "@version": "2",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0314637,
+            5.8131532
+          ],
+          [
+            -73.0314695,
+            5.8131136
+          ],
+          [
+            -73.0314634,
+            5.813074
+          ],
+          [
+            -73.0314459,
+            5.813038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/438700933",
+      "properties": {
+        "@id": "way/438700933",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:19Z",
+        "@version": "3",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.02696,
+            5.8239743
+          ],
+          [
+            -73.0269887,
+            5.8240071
+          ],
+          [
+            -73.0270253,
+            5.8240308
+          ],
+          [
+            -73.0270671,
+            5.8240436
+          ],
+          [
+            -73.0271108,
+            5.8240445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534440",
+      "properties": {
+        "@id": "way/439534440",
+        "highway": "residential",
+        "name": "Calle 17",
+        "@timestamp": "2016-08-28T16:24:00Z",
+        "@version": "1",
+        "@changeset": "41759242",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358573,
+            5.8336103
+          ],
+          [
+            -73.0360505,
+            5.8340572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534441",
+      "properties": {
+        "@id": "way/439534441",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:24:01Z",
+        "@version": "1",
+        "@changeset": "41759242",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0313643,
+            5.8257459
+          ],
+          [
+            -73.0318139,
+            5.8264591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534442",
+      "properties": {
+        "@id": "way/439534442",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T20:12:56Z",
+        "@version": "2",
+        "@changeset": "42234538",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.03517,
+            5.832389
+          ],
+          [
+            -73.0353824,
+            5.832757
+          ],
+          [
+            -73.035434,
+            5.8328262
+          ],
+          [
+            -73.0358148,
+            5.8335175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526942",
+      "properties": {
+        "@id": "way/440526942",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 16",
+        "@timestamp": "2016-09-03T21:47:48Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0367591,
+            5.8339573
+          ],
+          [
+            -73.0367998,
+            5.8340708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526947",
+      "properties": {
+        "@id": "way/440526947",
+        "highway": "residential",
+        "name": "Carrera 13",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:49Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0353156,
+            5.8294314
+          ],
+          [
+            -73.0346368,
+            5.8298497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526951",
+      "properties": {
+        "@id": "way/440526951",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 9A",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-03T21:47:49Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0374556,
+            5.831891
+          ],
+          [
+            -73.0371511,
+            5.8319669
+          ],
+          [
+            -73.0368768,
+            5.8320249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440693929",
+      "properties": {
+        "@id": "way/440693929",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:59:00Z",
+        "@version": "2",
+        "@changeset": "42067932",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0269437,
+            5.8238366
+          ],
+          [
+            -73.0269347,
+            5.8238835
+          ],
+          [
+            -73.0269403,
+            5.8239308
+          ],
+          [
+            -73.02696,
+            5.8239743
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695709",
+      "properties": {
+        "@id": "way/440695709",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:15Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0317962,
+            5.8137387
+          ],
+          [
+            -73.0316653,
+            5.8135148
+          ],
+          [
+            -73.0315651,
+            5.8133401
+          ],
+          [
+            -73.0314637,
+            5.8131532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695714",
+      "properties": {
+        "@id": "way/440695714",
+        "admin_level": "9",
+        "boundary": "administrative",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 14",
+        "surface": "paved",
+        "@timestamp": "2016-09-05T04:22:16Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0382778,
+            5.8331367
+          ],
+          [
+            -73.0384279,
+            5.8334535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695716",
+      "properties": {
+        "@id": "way/440695716",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:16Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318139,
+            5.8264591
+          ],
+          [
+            -73.0322052,
+            5.827182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695717",
+      "properties": {
+        "@id": "way/440695717",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:22:16Z",
+        "@version": "1",
+        "@changeset": "41920519",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0334418,
+            5.8294244
+          ],
+          [
+            -73.0337728,
+            5.8300077
+          ],
+          [
+            -73.0339381,
+            5.8302632
+          ],
+          [
+            -73.0343668,
+            5.8309903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440695736",
+      "properties": {
+        "@id": "way/440695736",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:16Z",
+        "@version": "2",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0301141,
+            5.8111116
+          ],
+          [
+            -73.0300411,
+            5.8111338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440696698",
+      "properties": {
+        "@id": "way/440696698",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:39Z",
+        "@version": "1",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0383663,
+            5.823798
+          ],
+          [
+            -73.0382074,
+            5.8235562
+          ],
+          [
+            -73.0379481,
+            5.8231597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440696701",
+      "properties": {
+        "@id": "way/440696701",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-05T04:42:39Z",
+        "@version": "1",
+        "@changeset": "41920655",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.038718,
+            5.8248719
+          ],
+          [
+            -73.0388357,
+            5.8248803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828212",
+      "properties": {
+        "@id": "way/441828212",
+        "highway": "residential",
+        "name": "Calle 21",
+        "@timestamp": "2016-09-10T19:45:12Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0259017,
+            5.8243329
+          ],
+          [
+            -73.025565,
+            5.8237482
+          ],
+          [
+            -73.025146,
+            5.823008
+          ],
+          [
+            -73.0250263,
+            5.8227969
+          ],
+          [
+            -73.0250036,
+            5.8227568
+          ],
+          [
+            -73.0249154,
+            5.8226012
+          ],
+          [
+            -73.0248595,
+            5.8225024
+          ],
+          [
+            -73.0247977,
+            5.8223939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828215",
+      "properties": {
+        "@id": "way/441828215",
+        "highway": "residential",
+        "name": "Calle 24",
+        "@timestamp": "2016-09-10T19:45:12Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0222702,
+            5.8220476
+          ],
+          [
+            -73.0224621,
+            5.8226514
+          ],
+          [
+            -73.0227214,
+            5.823382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828228",
+      "properties": {
+        "@id": "way/441828228",
+        "highway": "residential",
+        "name": "Carrera 24",
+        "@timestamp": "2016-09-10T19:45:14Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0269437,
+            5.8238366
+          ],
+          [
+            -73.0262424,
+            5.8241733
+          ],
+          [
+            -73.0259017,
+            5.8243329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828235",
+      "properties": {
+        "@id": "way/441828235",
+        "highway": "residential",
+        "name": "Carrera 30",
+        "@timestamp": "2016-09-10T19:45:14Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0226722,
+            5.8218445
+          ],
+          [
+            -73.0222702,
+            5.8220476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828241",
+      "properties": {
+        "@id": "way/441828241",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "asphalt",
+        "@timestamp": "2016-09-10T19:45:15Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0253026,
+            5.8130119
+          ],
+          [
+            -73.0256507,
+            5.8128043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828275",
+      "properties": {
+        "@id": "way/441828275",
+        "highway": "unclassified",
+        "source": "NASA",
+        "@timestamp": "2016-09-17T22:11:47Z",
+        "@version": "2",
+        "@changeset": "42236596",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0213494,
+            5.8210111
+          ],
+          [
+            -73.0211273,
+            5.8209259
+          ],
+          [
+            -73.020961,
+            5.820751
+          ],
+          [
+            -73.0207519,
+            5.8206139
+          ],
+          [
+            -73.020505,
+            5.8204973
+          ],
+          [
+            -73.019759,
+            5.8204769
+          ],
+          [
+            -73.0195618,
+            5.8204003
+          ],
+          [
+            -73.0191575,
+            5.8202433
+          ],
+          [
+            -73.0181106,
+            5.8200671
+          ],
+          [
+            -73.0179729,
+            5.8200313
+          ],
+          [
+            -73.0178405,
+            5.8201215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441841854",
+      "properties": {
+        "@id": "way/441841854",
+        "admin_level": "9",
+        "boundary": "administrative",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Calle 14",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:26:37Z",
+        "@version": "1",
+        "@changeset": "42067467",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0380897,
+            5.832753
+          ],
+          [
+            -73.0382778,
+            5.8331367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441842632",
+      "properties": {
+        "@id": "way/441842632",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:30:01Z",
+        "@version": "1",
+        "@changeset": "42067498",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0344604,
+            5.8178199
+          ],
+          [
+            -73.0339692,
+            5.8170756
+          ],
+          [
+            -73.0336067,
+            5.8165224
+          ],
+          [
+            -73.0335959,
+            5.8165051
+          ],
+          [
+            -73.0335852,
+            5.81649
+          ],
+          [
+            -73.0335435,
+            5.8164304
+          ],
+          [
+            -73.0335053,
+            5.8163709
+          ],
+          [
+            -73.0328647,
+            5.8153925
+          ],
+          [
+            -73.0327926,
+            5.8152846
+          ],
+          [
+            -73.0324343,
+            5.8147365
+          ],
+          [
+            -73.0324182,
+            5.8147077
+          ],
+          [
+            -73.0323846,
+            5.8146601
+          ],
+          [
+            -73.0317962,
+            5.8137387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441843265",
+      "properties": {
+        "@id": "way/441843265",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:53Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0358386,
+            5.8199032
+          ],
+          [
+            -73.0355505,
+            5.8194678
+          ],
+          [
+            -73.0353783,
+            5.8192145
+          ],
+          [
+            -73.0350689,
+            5.8187395
+          ],
+          [
+            -73.0344604,
+            5.8178199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845868",
+      "properties": {
+        "@id": "way/441845868",
+        "highway": "residential",
+        "name": "Calle 23A",
+        "@timestamp": "2016-09-10T21:55:50Z",
+        "@version": "1",
+        "@changeset": "42067904",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0221478,
+            5.8211061
+          ],
+          [
+            -73.0226722,
+            5.8218445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845870",
+      "properties": {
+        "@id": "way/441845870",
+        "highway": "residential",
+        "name": "Via Pueblito Boyacense",
+        "@timestamp": "2016-09-10T21:55:50Z",
+        "@version": "1",
+        "@changeset": "42067904",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.018838,
+            5.8250341
+          ],
+          [
+            -73.0186007,
+            5.8248174
+          ],
+          [
+            -73.0184651,
+            5.8246937
+          ],
+          [
+            -73.018239,
+            5.8244872
+          ],
+          [
+            -73.0178453,
+            5.8241278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441846060",
+      "properties": {
+        "@id": "way/441846060",
+        "highway": "residential",
+        "name": "Calle 20",
+        "@timestamp": "2016-09-10T21:58:59Z",
+        "@version": "1",
+        "@changeset": "42067932",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0287008,
+            5.8263187
+          ],
+          [
+            -73.0284064,
+            5.8256701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441846061",
+      "properties": {
+        "@id": "way/441846061",
+        "highway": "residential",
+        "name": "Carrera 20",
+        "oneway": "yes",
+        "surface": "compacted",
+        "@timestamp": "2016-09-10T21:58:59Z",
+        "@version": "1",
+        "@changeset": "42067932",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0287008,
+            5.8263187
+          ],
+          [
+            -73.0293334,
+            5.8259384
+          ],
+          [
+            -73.0298875,
+            5.8255616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441846067",
+      "properties": {
+        "@id": "way/441846067",
+        "highway": "residential",
+        "name": "Carrera 20",
+        "oneway": "yes",
+        "surface": "compacted",
+        "@timestamp": "2016-09-10T21:59:52Z",
+        "@version": "1",
+        "@changeset": "42067943",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0298875,
+            5.8255616
+          ],
+          [
+            -73.0301905,
+            5.8253758
+          ],
+          [
+            -73.0308637,
+            5.8249635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441847935",
+      "properties": {
+        "@id": "way/441847935",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta San Jose",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:10:16Z",
+        "@version": "1",
+        "@changeset": "42068031",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0271108,
+            5.8240445
+          ],
+          [
+            -73.0271519,
+            5.8240339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850409",
+      "properties": {
+        "@id": "way/441850409",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:29:43Z",
+        "@version": "1",
+        "@changeset": "42068154",
+        "@user": "Andermo",
+        "@uid": "4416624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0322052,
+            5.827182
+          ],
+          [
+            -73.0326266,
+            5.8279547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850567",
+      "properties": {
+        "@id": "way/441850567",
+        "highway": "residential",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:55Z",
+        "@version": "1",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0367514,
+            5.8256128
+          ],
+          [
+            -73.0379468,
+            5.8251415
+          ],
+          [
+            -73.0383149,
+            5.8249957
+          ],
+          [
+            -73.0384506,
+            5.8249836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850568",
+      "properties": {
+        "@id": "way/441850568",
+        "highway": "residential",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-12T15:48:24Z",
+        "@version": "2",
+        "@changeset": "42104015",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0326266,
+            5.8279547
+          ],
+          [
+            -73.0333432,
+            5.8275446
+          ],
+          [
+            -73.0340242,
+            5.8271213
+          ],
+          [
+            -73.0347745,
+            5.8266983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850572",
+      "properties": {
+        "@id": "way/441850572",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "lanes": "2",
+        "name": "Glorieta Hospital",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:55Z",
+        "@version": "1",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0314459,
+            5.813038
+          ],
+          [
+            -73.0314176,
+            5.8130077
+          ],
+          [
+            -73.0313813,
+            5.8129873
+          ],
+          [
+            -73.0313406,
+            5.8129776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442079985",
+      "properties": {
+        "@id": "way/442079985",
+        "highway": "residential",
+        "name": "Carrera 16",
+        "oneway": "yes",
+        "@timestamp": "2016-09-12T15:48:23Z",
+        "@version": "1",
+        "@changeset": "42104015",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0318487,
+            5.8283539
+          ],
+          [
+            -73.0326266,
+            5.8279547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442960908",
+      "properties": {
+        "@id": "way/442960908",
+        "highway": "residential",
+        "name": "Calle 17",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T20:12:53Z",
+        "@version": "1",
+        "@changeset": "42234538",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0343668,
+            5.8309903
+          ],
+          [
+            -73.0348009,
+            5.831741
+          ],
+          [
+            -73.03517,
+            5.832389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443384603",
+      "properties": {
+        "@id": "way/443384603",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:07Z",
+        "@version": "1",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0270318,
+            5.8121455
+          ],
+          [
+            -73.0263981,
+            5.8123528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/443384604",
+      "properties": {
+        "@id": "way/443384604",
+        "highway": "residential",
+        "name": "Carrera 35",
+        "surface": "paved",
+        "@timestamp": "2016-09-20T14:05:08Z",
+        "@version": "1",
+        "@changeset": "42299757",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6578069",
+            "reltags": {
+              "from": "Pueblito Boyacense",
+              "name": "B2 - Pueblito Boyacense - Parroquia San Cayetano",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B2",
+              "route": "bus",
+              "to": "Parroquia San Cayetano",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0300411,
+            5.8111338
+          ],
+          [
+            -73.0299809,
+            5.8111521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326266521",
+      "properties": {
+        "@id": "node/326266521",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "18",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0318139,
+          5.8264591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/326518191",
+      "properties": {
+        "@id": "node/326518191",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-08-29T01:52:57Z",
+        "@version": "15",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0377492,
+          5.8320275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334400545",
+      "properties": {
+        "@id": "node/334400545",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "7",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0347745,
+          5.8266983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334402543",
+      "properties": {
+        "@id": "node/334402543",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "10",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0353156,
+          5.8294314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334402551",
+      "properties": {
+        "@id": "node/334402551",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0340242,
+          5.8271213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/336834036",
+      "properties": {
+        "@id": "node/336834036",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "8",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0333432,
+          5.8275446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/343547848",
+      "properties": {
+        "@id": "node/343547848",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "6",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0372747,
+          5.8221404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539177434",
+      "properties": {
+        "@id": "node/539177434",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:58Z",
+        "@version": "9",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0379481,
+          5.8231597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669182154",
+      "properties": {
+        "@id": "node/669182154",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "6",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0322052,
+          5.827182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669182158",
+      "properties": {
+        "@id": "node/669182158",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "5",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0313643,
+          5.8257459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/865741678",
+      "properties": {
+        "@id": "node/865741678",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-03-24T16:24:11Z",
+        "@version": "3",
+        "@changeset": "21288226",
+        "@user": "ikks",
+        "@uid": "37987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0280625,
+          5.8249709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1132052353",
+      "properties": {
+        "@id": "node/1132052353",
+        "railway": "level_crossing",
+        "@timestamp": "2015-04-28T07:33:26Z",
+        "@version": "2",
+        "@changeset": "30572100",
+        "@user": "carciofo",
+        "@uid": "2533093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0316653,
+          5.8135148
+        ]
+      }
+    }
+  ]
+}
