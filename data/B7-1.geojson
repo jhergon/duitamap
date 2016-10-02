@@ -27,6 +27,7 @@
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Cootraheroes",
               "public_transport:version": "2",
+              "ref": "B7",
               "route": "bus",
               "to": "Urb Paraiso",
               "type": "route"

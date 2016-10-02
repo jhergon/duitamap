@@ -6,31 +6,29 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/29643136",
+      "id": "way/29647398",
       "properties": {
-        "@id": "way/29643136",
+        "@id": "way/29647398",
         "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 18",
-        "oneway": "yes",
-        "@timestamp": "2016-09-13T16:41:30Z",
-        "@version": "24",
-        "@changeset": "42130434",
+        "name": "Carrera 16",
+        "@timestamp": "2016-09-13T13:00:54Z",
+        "@version": "22",
+        "@changeset": "42125090",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
               "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -40,12 +38,261 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0291955,
-            5.8272507
+            -73.0304911,
+            5.8300773
           ],
           [
-            -73.0300866,
-            5.8271537
+            -73.0307041,
+            5.8295364
+          ],
+          [
+            -73.0309028,
+            5.8292077
+          ],
+          [
+            -73.0312046,
+            5.8288747
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29674515",
+      "properties": {
+        "@id": "way/29674515",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:26Z",
+        "@version": "60",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0434882,
+            5.8255125
+          ],
+          [
+            -73.0431458,
+            5.8261059
+          ],
+          [
+            -73.0429396,
+            5.8264214
+          ],
+          [
+            -73.0427881,
+            5.8265364
+          ],
+          [
+            -73.0424339,
+            5.8266822
+          ],
+          [
+            -73.0420569,
+            5.826754
+          ],
+          [
+            -73.0414282,
+            5.8267392
+          ],
+          [
+            -73.0408712,
+            5.8267517
+          ],
+          [
+            -73.0406309,
+            5.8268189
+          ],
+          [
+            -73.0403484,
+            5.8269897
+          ],
+          [
+            -73.0400192,
+            5.8274032
+          ],
+          [
+            -73.0397322,
+            5.8278497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32571426",
+      "properties": {
+        "@id": "way/32571426",
+        "highway": "residential",
+        "name": "Diagonal 16",
+        "@timestamp": "2016-09-10T20:36:58Z",
+        "@version": "6",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0304911,
+            5.8300773
+          ],
+          [
+            -73.0302938,
+            5.8305813
+          ],
+          [
+            -73.030051,
+            5.8316463
+          ],
+          [
+            -73.0299801,
+            5.8319948
+          ],
+          [
+            -73.0299569,
+            5.8321933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45508320",
+      "properties": {
+        "@id": "way/45508320",
+        "highway": "residential",
+        "name": "Calle 23",
+        "@timestamp": "2009-12-03T19:09:47Z",
+        "@version": "1",
+        "@changeset": "3283161",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0299569,
+            5.8321933
+          ],
+          [
+            -73.0291429,
+            5.8323615
+          ],
+          [
+            -73.0289628,
+            5.8321948
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45508322",
+      "properties": {
+        "@id": "way/45508322",
+        "highway": "residential",
+        "@timestamp": "2016-09-10T19:45:36Z",
+        "@version": "5",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0217844,
+            5.8390243
+          ],
+          [
+            -73.0217352,
+            5.8386502
+          ],
+          [
+            -73.021605,
+            5.8382941
+          ],
+          [
+            -73.0215833,
+            5.8378085
+          ],
+          [
+            -73.0213555,
+            5.8370747
           ]
         ]
       }
@@ -65,16 +312,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -113,16 +359,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -144,6 +389,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/160157965",
+      "properties": {
+        "@id": "way/160157965",
+        "highway": "secondary_link",
+        "lanes": "2",
+        "@timestamp": "2014-11-24T11:20:35Z",
+        "@version": "2",
+        "@changeset": "26993645",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0253646,
+            5.8331695
+          ],
+          [
+            -73.0252679,
+            5.8332477
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/165605033",
       "properties": {
         "@id": "way/165605033",
@@ -157,16 +445,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -200,31 +487,170 @@
     },
     {
       "type": "Feature",
-      "id": "way/201390568",
+      "id": "way/165605079",
       "properties": {
-        "@id": "way/201390568",
+        "@id": "way/165605079",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2012-05-31T13:18:07Z",
+        "@version": "1",
+        "@changeset": "11758462",
+        "@user": "camilolara",
+        "@uid": "235754",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0217844,
+            5.8390243
+          ],
+          [
+            -73.0210518,
+            5.8391034
+          ],
+          [
+            -73.0206721,
+            5.8392761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165605084",
+      "properties": {
+        "@id": "way/165605084",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:35Z",
+        "@version": "2",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0216259,
+            5.8406793
+          ],
+          [
+            -73.0206721,
+            5.8392761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165605104",
+      "properties": {
+        "@id": "way/165605104",
+        "highway": "residential",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:36Z",
+        "@version": "2",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0229959,
+            5.8414349
+          ],
+          [
+            -73.0225162,
+            5.8408948
+          ],
+          [
+            -73.0220064,
+            5.8407113
+          ],
+          [
+            -73.0216259,
+            5.8406793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201390566",
+      "properties": {
+        "@id": "way/201390566",
         "highway": "secondary",
         "name": "Diagonal 4",
         "oneway": "yes",
-        "surface": "paved",
-        "@timestamp": "2016-09-13T13:00:55Z",
-        "@version": "5",
-        "@changeset": "42125090",
+        "@timestamp": "2016-09-14T16:55:27Z",
+        "@version": "6",
+        "@changeset": "42154253",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -234,208 +660,117 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0471095,
-            5.8270512
+            -73.04959,
+            5.8279874
           ],
           [
-            -73.0475857,
-            5.8271668
+            -73.0491979,
+            5.8278141
           ],
           [
-            -73.048269,
-            5.827435
+            -73.0490397,
+            5.8277261
           ],
           [
-            -73.0486608,
-            5.8275904
+            -73.048766,
+            5.8275621
           ],
           [
-            -73.0489969,
-            5.8277911
+            -73.0483113,
+            5.8273697
           ],
           [
-            -73.0491762,
-            5.8278811
+            -73.0480006,
+            5.8272416
           ],
           [
-            -73.0495697,
-            5.8280385
+            -73.0477068,
+            5.8271244
+          ],
+          [
+            -73.0472717,
+            5.8270112
+          ],
+          [
+            -73.0470981,
+            5.8269693
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/343534916",
+      "id": "way/274639285",
       "properties": {
-        "@id": "way/343534916",
-        "highway": "secondary",
-        "name": "Avenida Circunvalar",
-        "oneway": "yes",
-        "surface": "paved",
-        "@timestamp": "2016-08-29T01:52:56Z",
-        "@version": "4",
-        "@changeset": "41767327",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0393687,
-            5.8288037
-          ],
-          [
-            -73.0395234,
-            5.828425
-          ],
-          [
-            -73.0395929,
-            5.828293
-          ],
-          [
-            -73.0398541,
-            5.8278565
-          ],
-          [
-            -73.0402948,
-            5.8271925
-          ],
-          [
-            -73.0406172,
-            5.8269465
-          ],
-          [
-            -73.0408199,
-            5.826861
-          ],
-          [
-            -73.0409634,
-            5.8268383
-          ],
-          [
-            -73.0410865,
-            5.8268314
-          ],
-          [
-            -73.0420557,
-            5.8268496
-          ],
-          [
-            -73.0423086,
-            5.8268007
-          ],
-          [
-            -73.0426378,
-            5.8267187
-          ],
-          [
-            -73.0429111,
-            5.8265706
-          ],
-          [
-            -73.0430558,
-            5.8264487
-          ],
-          [
-            -73.0435918,
-            5.825568
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/343534917",
-      "properties": {
-        "@id": "way/343534917",
-        "admin_level": "9",
-        "boundary": "administrative",
-        "highway": "secondary",
-        "name": "Avenida Circunvalar",
-        "oneway": "yes",
-        "surface": "paved",
-        "@timestamp": "2015-05-08T17:46:43Z",
-        "@version": "2",
-        "@changeset": "30916551",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0393475,
-            5.8288541
-          ],
-          [
-            -73.0393687,
-            5.8288037
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/371395847",
-      "properties": {
-        "@id": "way/371395847",
+        "@id": "way/274639285",
         "highway": "residential",
-        "name": "Calle 13",
+        "name": "Calle 14",
         "oneway": "yes",
-        "@timestamp": "2016-09-03T21:47:56Z",
-        "@version": "2",
+        "@timestamp": "2016-09-10T22:31:58Z",
+        "@version": "5",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0356085,
+            5.8281405
+          ],
+          [
+            -73.0351897,
+            5.8274425
+          ],
+          [
+            -73.0347745,
+            5.8266983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341814494",
+      "properties": {
+        "@id": "way/341814494",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "5",
         "@changeset": "41897352",
         "@user": "Michael guevara",
         "@uid": "4487878",
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -445,85 +780,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0350427,
-            5.8256257
+            -73.0368768,
+            5.8320249
           ],
           [
-            -73.0354509,
-            5.8263361
+            -73.0368623,
+            5.8320014
           ],
           [
-            -73.0358567,
-            5.8270445
+            -73.0366117,
+            5.8315788
           ],
           [
-            -73.0358916,
-            5.8271063
+            -73.0362179,
+            5.8309276
           ],
           [
-            -73.0360785,
-            5.8274376
+            -73.0359471,
+            5.8305019
           ],
           [
-            -73.0362474,
-            5.827737
+            -73.0358927,
+            5.8304081
           ],
           [
-            -73.0362583,
-            5.8277564
+            -73.0357056,
+            5.8301207
           ],
           [
-            -73.0367186,
-            5.8285649
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/371395869",
-      "properties": {
-        "@id": "way/371395869",
-        "highway": "residential",
-        "name": "Carrera 13",
-        "oneway": "yes",
-        "@timestamp": "2015-09-18T19:59:24Z",
-        "@version": "1",
-        "@changeset": "34110474",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0367186,
-            5.8285649
-          ],
-          [
-            -73.0364282,
-            5.8287399
-          ],
-          [
-            -73.036087,
-            5.8289525
+            -73.0354989,
+            5.8297713
           ],
           [
             -73.0353156,
@@ -534,31 +820,29 @@
     },
     {
       "type": "Feature",
-      "id": "way/371395880",
+      "id": "way/371395851",
       "properties": {
-        "@id": "way/371395880",
+        "@id": "way/371395851",
         "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 18",
+        "name": "Calle 14",
         "oneway": "yes",
-        "@timestamp": "2015-09-18T19:59:24Z",
-        "@version": "1",
-        "@changeset": "34110474",
+        "@timestamp": "2016-08-28T16:13:48Z",
+        "@version": "2",
+        "@changeset": "41759038",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -572,100 +856,8 @@
             5.825301
           ],
           [
-            -73.0346558,
-            5.8249411
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/398590363",
-      "properties": {
-        "@id": "way/398590363",
-        "highway": "residential",
-        "name": "Calle 20",
-        "@timestamp": "2016-02-18T20:18:39Z",
-        "@version": "2",
-        "@changeset": "37296693",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0298245,
-            5.8284789
-          ],
-          [
-            -73.0292305,
-            5.8273155
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/398590366",
-      "properties": {
-        "@id": "way/398590366",
-        "highway": "residential",
-        "name": "Calle 20",
-        "@timestamp": "2016-02-18T20:00:54Z",
-        "@version": "1",
-        "@changeset": "37296418",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0299804,
-            5.8289068
-          ],
-          [
-            -73.0298949,
-            5.8285471
-          ],
-          [
-            -73.0298245,
-            5.8284789
+            -73.0334975,
+            5.8244535
           ]
         ]
       }
@@ -685,16 +877,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -716,66 +907,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/398590379",
-      "properties": {
-        "@id": "way/398590379",
-        "highway": "residential",
-        "name": "Transversal 11",
-        "@timestamp": "2016-09-10T20:36:58Z",
-        "@version": "2",
-        "@changeset": "42066722",
-        "@user": "esteban_villamizar",
-        "@uid": "2298722",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0289628,
-            5.8321948
-          ],
-          [
-            -73.0291492,
-            5.8316942
-          ],
-          [
-            -73.0292476,
-            5.8314916
-          ],
-          [
-            -73.0294557,
-            5.8310874
-          ],
-          [
-            -73.0296627,
-            5.8306665
-          ],
-          [
-            -73.0302873,
-            5.8296402
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/398590381",
       "properties": {
         "@id": "way/398590381",
@@ -789,16 +920,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -824,609 +954,29 @@
     },
     {
       "type": "Feature",
-      "id": "way/398593296",
+      "id": "way/439527909",
       "properties": {
-        "@id": "way/398593296",
+        "@id": "way/439527909",
         "highway": "residential",
-        "name": "Calle 20",
-        "@timestamp": "2016-02-18T20:18:38Z",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:13:42Z",
         "@version": "1",
-        "@changeset": "37296693",
+        "@changeset": "41759038",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0292305,
-            5.8273155
-          ],
-          [
-            -73.0291955,
-            5.8272507
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/398594956",
-      "properties": {
-        "@id": "way/398594956",
-        "highway": "residential",
-        "name": "Transversal 15",
-        "@timestamp": "2016-09-10T19:45:33Z",
-        "@version": "3",
-        "@changeset": "42065792",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0264517,
-            5.8346133
-          ],
-          [
-            -73.0264887,
-            5.8345812
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700889",
-      "properties": {
-        "@id": "way/438700889",
-        "highway": "secondary",
-        "name": "Avenida Circunvalar",
-        "oneway": "yes",
-        "surface": "paved",
-        "@timestamp": "2016-08-24T02:21:03Z",
-        "@version": "1",
-        "@changeset": "41651609",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0365509,
-            5.8332129
-          ],
-          [
-            -73.0367789,
-            5.8330828
-          ],
-          [
-            -73.0371227,
-            5.832818
-          ],
-          [
-            -73.0372778,
-            5.8326927
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700891",
-      "properties": {
-        "@id": "way/438700891",
-        "highway": "secondary",
-        "name": "Avenida Circunvalar",
-        "oneway": "yes",
-        "surface": "paved",
-        "@timestamp": "2016-08-29T01:52:56Z",
-        "@version": "2",
-        "@changeset": "41767327",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0372778,
-            5.8326927
-          ],
-          [
-            -73.0374485,
-            5.8324843
-          ],
-          [
-            -73.0377013,
-            5.8321312
-          ],
-          [
-            -73.0377492,
-            5.8320275
-          ],
-          [
-            -73.0385139,
-            5.8305758
-          ],
-          [
-            -73.0389595,
-            5.8296971
-          ],
-          [
-            -73.0390883,
-            5.8294294
-          ],
-          [
-            -73.0393475,
-            5.8288541
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700918",
-      "properties": {
-        "@id": "way/438700918",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 18",
-        "oneway": "yes",
-        "@timestamp": "2016-08-29T01:13:37Z",
-        "@version": "2",
-        "@changeset": "41767098",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0309814,
-            5.8269106
-          ],
-          [
-            -73.0318139,
-            5.8264591
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/438700919",
-      "properties": {
-        "@id": "way/438700919",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 18",
-        "oneway": "yes",
-        "@timestamp": "2016-08-24T02:21:05Z",
-        "@version": "1",
-        "@changeset": "41651609",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0318139,
-            5.8264591
-          ],
-          [
-            -73.0324609,
-            5.8261035
-          ],
-          [
-            -73.0332008,
-            5.8257057
-          ],
-          [
-            -73.033588,
-            5.8255109
-          ],
-          [
-            -73.033992,
-            5.825301
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439534439",
-      "properties": {
-        "@id": "way/439534439",
-        "highway": "residential",
-        "name": "Calle 16",
-        "oneway": "yes",
-        "@timestamp": "2016-08-28T16:24:00Z",
-        "@version": "1",
-        "@changeset": "41759242",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0350369,
-            5.8305577
-          ],
-          [
-            -73.035233,
-            5.8309363
-          ],
-          [
-            -73.0354741,
-            5.8313586
-          ],
-          [
-            -73.035832,
-            5.8319774
-          ],
-          [
-            -73.0361079,
-            5.8324232
-          ],
-          [
-            -73.0365129,
-            5.8331316
-          ],
-          [
-            -73.0365509,
-            5.8332129
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439541134",
-      "properties": {
-        "@id": "way/439541134",
-        "highway": "secondary",
-        "name": "Diagonal 4",
-        "oneway": "yes",
-        "surface": "paved",
-        "@timestamp": "2016-08-28T17:37:24Z",
-        "@version": "1",
-        "@changeset": "41760790",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0495697,
-            5.8280385
-          ],
-          [
-            -73.0497483,
-            5.8281202
-          ],
-          [
-            -73.0499151,
-            5.8282368
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439541135",
-      "properties": {
-        "@id": "way/439541135",
-        "highway": "secondary",
-        "name": "Diagonal 4",
-        "oneway": "yes",
-        "surface": "paved",
-        "@timestamp": "2016-09-13T10:05:48Z",
-        "@version": "3",
-        "@changeset": "42121264",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0450717,
-            5.8263307
-          ],
-          [
-            -73.0455481,
-            5.8265559
-          ],
-          [
-            -73.0461198,
-            5.8268006
-          ],
-          [
-            -73.0465228,
-            5.8269296
-          ],
-          [
-            -73.0471095,
-            5.8270512
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/440526939",
-      "properties": {
-        "@id": "way/440526939",
-        "highway": "residential",
-        "name": "Calle 13",
-        "oneway": "yes",
-        "@timestamp": "2016-09-03T21:47:48Z",
-        "@version": "1",
-        "@changeset": "41897352",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0346558,
-            5.8249411
-          ],
-          [
-            -73.0350427,
-            5.8256257
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/440526943",
-      "properties": {
-        "@id": "way/440526943",
-        "highway": "residential",
-        "name": "Calle 16",
-        "oneway": "yes",
-        "@timestamp": "2016-09-03T21:47:49Z",
-        "@version": "1",
-        "@changeset": "41897352",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0346368,
-            5.8298497
-          ],
-          [
-            -73.0350369,
-            5.8305577
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/440526947",
-      "properties": {
-        "@id": "way/440526947",
-        "highway": "residential",
-        "name": "Carrera 13",
-        "oneway": "yes",
-        "@timestamp": "2016-09-03T21:47:49Z",
-        "@version": "1",
-        "@changeset": "41897352",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -1440,17 +990,414 @@
             5.8294314
           ],
           [
-            -73.0346368,
-            5.8298497
+            -73.0348752,
+            5.8285585
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/441828196",
+      "id": "way/439527918",
       "properties": {
-        "@id": "way/441828196",
+        "@id": "way/439527918",
+        "highway": "residential",
+        "name": "Carrera 14",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:13:43Z",
+        "@version": "1",
+        "@changeset": "41759038",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0348752,
+            5.8285585
+          ],
+          [
+            -73.0356085,
+            5.8281405
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439527923",
+      "properties": {
+        "@id": "way/439527923",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T17:22:13Z",
+        "@version": "3",
+        "@changeset": "41760523",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0313643,
+            5.8257459
+          ],
+          [
+            -73.0307023,
+            5.8262098
+          ],
+          [
+            -73.0305933,
+            5.826277
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439534449",
+      "properties": {
+        "@id": "way/439534449",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:26Z",
+        "@version": "2",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0334975,
+            5.8244535
+          ],
+          [
+            -73.0327409,
+            5.8249048
+          ],
+          [
+            -73.0320205,
+            5.8253771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539947",
+      "properties": {
+        "@id": "way/439539947",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:14:57Z",
+        "@version": "3",
+        "@changeset": "42067291",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0397322,
+            5.8278497
+          ],
+          [
+            -73.0395855,
+            5.8281076
+          ],
+          [
+            -73.0394041,
+            5.8284695
+          ],
+          [
+            -73.0392519,
+            5.8288036
+          ],
+          [
+            -73.0391994,
+            5.8289052
+          ],
+          [
+            -73.0389531,
+            5.8294518
+          ],
+          [
+            -73.0384286,
+            5.8305215
+          ],
+          [
+            -73.0378484,
+            5.8316495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539952",
+      "properties": {
+        "@id": "way/439539952",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T20:36:58Z",
+        "@version": "2",
+        "@changeset": "42066722",
+        "@user": "esteban_villamizar",
+        "@uid": "2298722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0305933,
+            5.826277
+          ],
+          [
+            -73.0298568,
+            5.8268091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439539956",
+      "properties": {
+        "@id": "way/439539956",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-24T20:33:39Z",
+        "@version": "7",
+        "@changeset": "42411811",
+        "@user": "matiuxd",
+        "@uid": "2006950",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0469114,
+            5.826927
+          ],
+          [
+            -73.046611,
+            5.8268666
+          ],
+          [
+            -73.0462746,
+            5.826774
+          ],
+          [
+            -73.046158,
+            5.8267182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526941",
+      "properties": {
+        "@id": "way/440526941",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:48Z",
+        "@version": "1",
+        "@changeset": "41897352",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0372298,
+            5.8326187
+          ],
+          [
+            -73.0370502,
+            5.8323054
+          ],
+          [
+            -73.0368768,
+            5.8320249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440531418",
+      "properties": {
+        "@id": "way/440531418",
+        "highway": "residential",
+        "name": "Calle 14",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T22:34:21Z",
+        "@version": "1",
+        "@changeset": "41897920",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0343482,
+            5.8259894
+          ],
+          [
+            -73.033992,
+            5.825301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828189",
+      "properties": {
+        "@id": "way/441828189",
         "highway": "secondary",
         "name": "Avenida Circunvalar",
         "oneway": "yes",
@@ -1463,16 +1410,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -1482,23 +1428,88 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0264887,
-            5.8345812
+            -73.0252679,
+            5.8332477
           ],
           [
-            -73.0256265,
-            5.8335075
+            -73.0254945,
+            5.8335435
+          ],
+          [
+            -73.0255268,
+            5.8335857
+          ],
+          [
+            -73.0257458,
+            5.833847
+          ],
+          [
+            -73.0259427,
+            5.8340819
+          ],
+          [
+            -73.0261004,
+            5.83427
+          ],
+          [
+            -73.0264149,
+            5.8346453
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/441828261",
+      "id": "way/441828192",
       "properties": {
-        "@id": "way/441828261",
+        "@id": "way/441828192",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T19:45:10Z",
+        "@version": "1",
+        "@changeset": "42065792",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0435497,
+            5.8254153
+          ],
+          [
+            -73.0434882,
+            5.8255125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441828260",
+      "properties": {
+        "@id": "way/441828260",
         "highway": "residential",
-        "name": "Transversal 15",
+        "name": "Transversal 11",
         "@timestamp": "2016-09-10T19:45:16Z",
         "@version": "1",
         "@changeset": "42065792",
@@ -1507,16 +1518,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -1526,108 +1536,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0264149,
-            5.8346453
+            -73.0213555,
+            5.8370747
           ],
           [
-            -73.0264517,
-            5.8346133
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/441828285",
-      "properties": {
-        "@id": "way/441828285",
-        "highway": "residential",
-        "surface": "paved",
-        "@timestamp": "2016-09-10T19:45:19Z",
-        "@version": "1",
-        "@changeset": "42065792",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0229959,
-            5.8414349
-          ],
-          [
-            -73.0230261,
-            5.8402041
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/441828287",
-      "properties": {
-        "@id": "way/441828287",
-        "highway": "residential",
-        "surface": "paved",
-        "@timestamp": "2016-09-10T19:45:19Z",
-        "@version": "1",
-        "@changeset": "42065792",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577794",
-            "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Tundama",
-              "public_transport:version": "2",
-              "ref": "A7",
-              "route": "bus",
-              "to": "Cerro pino",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0230261,
-            5.8402041
-          ],
-          [
-            -73.0227983,
-            5.8397077
-          ],
-          [
-            -73.0228633,
-            5.8394595
-          ],
-          [
-            -73.0225379,
-            5.838661
+            -73.0218654,
+            5.8368373
           ],
           [
             -73.0224077,
@@ -1638,12 +1552,14 @@
     },
     {
       "type": "Feature",
-      "id": "way/441834805",
+      "id": "way/441834799",
       "properties": {
-        "@id": "way/441834805",
-        "highway": "residential",
-        "name": "Calle 20",
-        "@timestamp": "2016-09-10T20:36:54Z",
+        "@id": "way/441834799",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
+        "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T20:36:53Z",
         "@version": "1",
         "@changeset": "42066722",
         "@user": "esteban_villamizar",
@@ -1651,16 +1567,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -1670,12 +1585,103 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0302873,
-            5.8296402
+            -73.0256265,
+            5.8335075
           ],
           [
-            -73.0299804,
-            5.8289068
+            -73.0253646,
+            5.8331695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834804",
+      "properties": {
+        "@id": "way/441834804",
+        "highway": "residential",
+        "name": "Calle 19",
+        "@timestamp": "2016-09-13T16:41:30Z",
+        "@version": "3",
+        "@changeset": "42130434",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0312046,
+            5.8288747
+          ],
+          [
+            -73.0310127,
+            5.8285798
+          ],
+          [
+            -73.0306879,
+            5.8280478
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441834811",
+      "properties": {
+        "@id": "way/441834811",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T10:05:48Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0436524,
+            5.8254786
+          ],
+          [
+            -73.0435497,
+            5.8254153
           ]
         ]
       }
@@ -1695,16 +1701,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -1738,31 +1743,29 @@
     },
     {
       "type": "Feature",
-      "id": "way/441838208",
+      "id": "way/441839455",
       "properties": {
-        "@id": "way/441838208",
+        "@id": "way/441839455",
         "highway": "secondary",
         "name": "Diagonal 4",
         "oneway": "yes",
-        "surface": "paved",
-        "@timestamp": "2016-09-17T21:28:08Z",
-        "@version": "3",
-        "@changeset": "42235926",
-        "@user": "Daniel Benavides",
-        "@uid": "3604191",
+        "@timestamp": "2016-09-13T10:05:48Z",
+        "@version": "2",
+        "@changeset": "42121264",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -1772,25 +1775,220 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0435918,
-            5.825568
+            -73.0451293,
+            5.8262101
           ],
           [
-            -73.0441325,
-            5.8258511
+            -73.0441719,
+            5.8257551
+          ],
+          [
+            -73.0436524,
+            5.8254786
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/442225423",
+      "id": "way/441839574",
       "properties": {
-        "@id": "way/442225423",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 18",
+        "@id": "way/441839574",
+        "highway": "secondary",
+        "name": "Avenida Circunvalar",
         "oneway": "yes",
+        "surface": "paved",
+        "@timestamp": "2016-09-10T21:14:56Z",
+        "@version": "1",
+        "@changeset": "42067291",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0378484,
+            5.8316495
+          ],
+          [
+            -73.0376961,
+            5.8319511
+          ],
+          [
+            -73.0375966,
+            5.832146
+          ],
+          [
+            -73.0373779,
+            5.8324205
+          ],
+          [
+            -73.0372298,
+            5.8326187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441840000",
+      "properties": {
+        "@id": "way/441840000",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-13T13:00:55Z",
+        "@version": "2",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0499151,
+            5.8282368
+          ],
+          [
+            -73.0497401,
+            5.8280563
+          ],
+          [
+            -73.04959,
+            5.8279874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441845939",
+      "properties": {
+        "@id": "way/441845939",
+        "highway": "residential",
+        "name": "Carrera 19",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:56:23Z",
+        "@version": "1",
+        "@changeset": "42067882",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0320205,
+            5.8253771
+          ],
+          [
+            -73.0313643,
+            5.8257459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850564",
+      "properties": {
+        "@id": "way/441850564",
+        "highway": "residential",
+        "name": "Calle 14",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:55Z",
+        "@version": "1",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0347745,
+            5.8266983
+          ],
+          [
+            -73.0343482,
+            5.8259894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442225416",
+      "properties": {
+        "@id": "way/442225416",
+        "highway": "residential",
+        "name": "Calle 19",
         "@timestamp": "2016-09-13T16:41:26Z",
         "@version": "1",
         "@changeset": "42130434",
@@ -1799,16 +1997,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -1822,39 +2019,36 @@
             5.8271537
           ],
           [
-            -73.0309814,
-            5.8269106
+            -73.0298568,
+            5.8268091
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/442968769",
+      "id": "way/442225417",
       "properties": {
-        "@id": "way/442968769",
-        "highway": "secondary",
-        "name": "Diagonal 4",
-        "oneway": "yes",
-        "surface": "paved",
-        "@timestamp": "2016-09-17T21:28:05Z",
+        "@id": "way/442225417",
+        "highway": "residential",
+        "name": "Calle 19",
+        "@timestamp": "2016-09-13T16:41:26Z",
         "@version": "1",
-        "@changeset": "42235926",
-        "@user": "Daniel Benavides",
-        "@uid": "3604191",
+        "@changeset": "42130434",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -1864,12 +2058,56 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0441325,
-            5.8258511
+            -73.0306879,
+            5.8280478
           ],
           [
-            -73.0450717,
-            5.8263307
+            -73.0300866,
+            5.8271537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442959578",
+      "properties": {
+        "@id": "way/442959578",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-17T20:03:40Z",
+        "@version": "1",
+        "@changeset": "42234361",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.046158,
+            5.8267182
+          ],
+          [
+            -73.0451293,
+            5.8262101
           ]
         ]
       }
@@ -1889,16 +2127,15 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6577794",
+            "rel": "6577793",
             "reltags": {
-              "from": "San antonio norte",
-              "name": "A7 - San antonio norte - Cerro pino",
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Tundama",
               "public_transport:version": "2",
-              "ref": "A7",
               "route": "bus",
-              "to": "Cerro pino",
+              "to": "San antonio norte",
               "type": "route"
             }
           }
@@ -1920,90 +2157,53 @@
     },
     {
       "type": "Feature",
-      "id": "node/326266521",
+      "id": "way/444195454",
       "properties": {
-        "@id": "node/326266521",
-        "highway": "traffic_signals",
-        "@timestamp": "2015-09-18T20:49:43Z",
-        "@version": "18",
-        "@changeset": "34111351",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400"
+        "@id": "way/444195454",
+        "highway": "secondary",
+        "name": "Diagonal 4",
+        "oneway": "yes",
+        "@timestamp": "2016-09-24T20:33:31Z",
+        "@version": "1",
+        "@changeset": "42411811",
+        "@user": "matiuxd",
+        "@uid": "2006950",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577793",
+            "reltags": {
+              "from": "Cerro pino",
+              "name": "A7 - Cerro pino - San antonio norte",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Tundama",
+              "public_transport:version": "2",
+              "route": "bus",
+              "to": "San antonio norte",
+              "type": "route"
+            }
+          }
+        ]
       },
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -73.0318139,
-          5.8264591
+          [
+            -73.0470981,
+            5.8269693
+          ],
+          [
+            -73.0469114,
+            5.826927
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/326266523",
+      "id": "node/334400545",
       "properties": {
-        "@id": "node/326266523",
-        "highway": "traffic_signals",
-        "@timestamp": "2015-09-18T20:49:43Z",
-        "@version": "15",
-        "@changeset": "34111351",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0309814,
-          5.8269106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/326266528",
-      "properties": {
-        "@id": "node/326266528",
-        "highway": "traffic_signals",
-        "name": "La dorada",
-        "@timestamp": "2012-09-21T06:05:36Z",
-        "@version": "30",
-        "@changeset": "13191399",
-        "@user": "camilolara",
-        "@uid": "235754"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0291955,
-          5.8272507
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/326518191",
-      "properties": {
-        "@id": "node/326518191",
-        "highway": "traffic_signals",
-        "@timestamp": "2016-08-29T01:52:57Z",
-        "@version": "15",
-        "@changeset": "41767327",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0377492,
-          5.8320275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/334400533",
-      "properties": {
-        "@id": "node/334400533",
+        "@id": "node/334400545",
         "highway": "traffic_signals",
         "@timestamp": "2015-09-18T20:49:43Z",
         "@version": "7",
@@ -2014,8 +2214,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.0332008,
-          5.8257057
+          -73.0347745,
+          5.8266983
         ]
       }
     },
@@ -2041,29 +2241,29 @@
     },
     {
       "type": "Feature",
-      "id": "node/528861676",
+      "id": "node/334402563",
       "properties": {
-        "@id": "node/528861676",
+        "@id": "node/334402563",
         "highway": "traffic_signals",
-        "@timestamp": "2015-05-19T22:37:32Z",
+        "@timestamp": "2015-09-18T20:49:43Z",
         "@version": "6",
-        "@changeset": "31300567",
-        "@user": "esteban_villamizar",
-        "@uid": "2298722"
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.0365509,
-          5.8332129
+          -73.0305933,
+          5.826277
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/539157559",
+      "id": "node/410298268",
       "properties": {
-        "@id": "node/539157559",
+        "@id": "node/410298268",
         "crossing": "uncontrolled",
         "highway": "traffic_signals",
         "@timestamp": "2016-09-13T13:00:57Z",
@@ -2075,8 +2275,92 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.0435918,
-          5.825568
+          -73.0436524,
+          5.8254786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157528",
+      "properties": {
+        "@id": "node/539157528",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "12",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0435497,
+          5.8254153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/539157550",
+      "properties": {
+        "@id": "node/539157550",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "10",
+        "@changeset": "42125090",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0434882,
+          5.8255125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/669182158",
+      "properties": {
+        "@id": "node/669182158",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:44Z",
+        "@version": "5",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0313643,
+          5.8257459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3505248267",
+      "properties": {
+        "@id": "node/3505248267",
+        "barrier": "gate",
+        "bicycle": "yes",
+        "foot": "yes",
+        "@timestamp": "2016-08-29T01:52:58Z",
+        "@version": "2",
+        "@changeset": "41767327",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0391994,
+          5.8289052
         ]
       }
     }

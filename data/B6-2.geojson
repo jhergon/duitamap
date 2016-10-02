@@ -27,6 +27,7 @@
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Cootraheroes",
               "public_transport:version": "2",
+              "ref": "B6",
               "route": "bus",
               "to": "Barrio La Gruta",
               "type": "route"

@@ -6,228 +6,31 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/29650394",
+      "id": "way/29645081",
       "properties": {
-        "@id": "way/29650394",
-        "highway": "residential",
-        "name": "Calle 17",
+        "@id": "way/29645081",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Avenida de las Americas",
         "oneway": "yes",
-        "@timestamp": "2016-09-10T22:29:46Z",
-        "@version": "31",
-        "@changeset": "42068154",
-        "@user": "Andermo",
-        "@uid": "4416624",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0326266,
-            5.8279547
-          ],
-          [
-            -73.0330368,
-            5.8286603
-          ],
-          [
-            -73.0334418,
-            5.8294244
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/45564739",
-      "properties": {
-        "@id": "way/45564739",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 8",
-        "@timestamp": "2012-06-26T14:08:15Z",
-        "@version": "4",
-        "@changeset": "12025781",
-        "@user": "botika",
-        "@uid": "689780",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0384279,
-            5.8334535
-          ],
-          [
-            -73.0378333,
-            5.833683
-          ],
-          [
-            -73.0370163,
-            5.8340127
-          ],
-          [
-            -73.0367998,
-            5.8340708
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/49667516",
-      "properties": {
-        "@id": "way/49667516",
-        "highway": "residential",
-        "name": "Carrera 7",
-        "@timestamp": "2016-09-10T21:40:31Z",
-        "@version": "5",
-        "@changeset": "42067709",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0394339,
-            5.8346061
-          ],
-          [
-            -73.0399157,
-            5.8343251
-          ],
-          [
-            -73.0406409,
-            5.8339013
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/49667585",
-      "properties": {
-        "@id": "way/49667585",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 9",
-        "@timestamp": "2016-09-10T21:25:54Z",
-        "@version": "6",
-        "@changeset": "42067457",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.039627,
-            5.8318734
-          ],
-          [
-            -73.0391917,
-            5.8321214
-          ],
-          [
-            -73.0388027,
-            5.8323448
-          ],
-          [
-            -73.0380897,
-            5.832753
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/54767822",
-      "properties": {
-        "@id": "way/54767822",
-        "highway": "residential",
-        "name": "Carrera 17",
-        "oneway": "yes",
-        "@timestamp": "2016-09-05T04:22:27Z",
-        "@version": "7",
-        "@changeset": "41920519",
+        "@timestamp": "2016-09-17T19:52:51Z",
+        "@version": "33",
+        "@changeset": "42234156",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6577953",
+            "rel": "6577937",
             "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Cootraheroes",
               "public_transport:version": "2",
+              "ref": "B4",
               "route": "bus",
-              "to": "Colegio Seminario",
+              "to": "Villas del mundial",
               "type": "route"
             }
           }
@@ -237,114 +40,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0374784,
-            5.824281
+            -73.0379481,
+            5.8231597
           ],
           [
-            -73.036395,
-            5.8248884
+            -73.0372747,
+            5.8221404
           ],
           [
-            -73.0357363,
-            5.8252783
+            -73.0367676,
+            5.821353
           ],
           [
-            -73.0354363,
-            5.8254487
+            -73.036676,
+            5.8212142
           ],
           [
-            -73.0350427,
-            5.8256257
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/54767852",
-      "properties": {
-        "@id": "way/54767852",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 23",
-        "source": "DANE",
-        "@timestamp": "2016-09-10T21:36:49Z",
-        "@version": "5",
-        "@changeset": "42067643",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0375047,
-            5.8182555
+            -73.0363654,
+            5.820734
           ],
           [
-            -73.0366798,
-            5.8187787
-          ],
-          [
-            -73.0361066,
-            5.8191111
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/54767969",
-      "properties": {
-        "@id": "way/54767969",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 22A",
-        "source": "DANE",
-        "@timestamp": "2012-06-26T14:02:56Z",
-        "@version": "3",
-        "@changeset": "12025189",
-        "@user": "botika",
-        "@uid": "689780",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0362268,
-            5.8192918
+            -73.0359002,
+            5.8199997
           ],
           [
             -73.0358386,
@@ -355,29 +72,30 @@
     },
     {
       "type": "Feature",
-      "id": "way/80396753",
+      "id": "way/29881062",
       "properties": {
-        "@id": "way/80396753",
+        "@id": "way/29881062",
         "highway": "residential",
-        "name": "Calle 3",
-        "surface": "paved",
-        "@timestamp": "2015-11-06T20:57:39Z",
-        "@version": "5",
-        "@changeset": "35135252",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
+        "name": "Carrera 25",
+        "oneway": "no",
+        "@timestamp": "2016-09-10T21:30:44Z",
+        "@version": "10",
+        "@changeset": "42067538",
+        "@user": "Michael guevara",
+        "@uid": "4487878",
         "@relations": [
           {
             "role": "",
-            "rel": "6577953",
+            "rel": "6577937",
             "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Cootraheroes",
               "public_transport:version": "2",
+              "ref": "B4",
               "route": "bus",
-              "to": "Colegio Seminario",
+              "to": "Villas del mundial",
               "type": "route"
             }
           }
@@ -387,45 +105,86 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0376925,
-            5.8169899
+            -73.0348205,
+            5.8175466
           ],
           [
-            -73.0372894,
-            5.8165164
-          ],
-          [
-            -73.0370677,
-            5.816216
+            -73.0344604,
+            5.8178199
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/80422959",
+      "id": "way/80396759",
       "properties": {
-        "@id": "way/80422959",
+        "@id": "way/80396759",
         "highway": "residential",
-        "name": "Calle 3",
-        "surface": "unpaved",
-        "@timestamp": "2016-09-05T04:22:25Z",
-        "@version": "2",
+        "name": "Carrera 25",
+        "oneway": "yes",
+        "@timestamp": "2010-10-05T03:43:29Z",
+        "@version": "1",
+        "@changeset": "5958496",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577937",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B4",
+              "route": "bus",
+              "to": "Villas del mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0349926,
+            5.8173728
+          ],
+          [
+            -73.0359359,
+            5.8166282
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/215289951",
+      "properties": {
+        "@id": "way/215289951",
+        "highway": "residential",
+        "name": "carrera 25",
+        "@timestamp": "2016-09-05T04:22:28Z",
+        "@version": "3",
         "@changeset": "41920519",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6577953",
+            "rel": "6577937",
             "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Cootraheroes",
               "public_transport:version": "2",
+              "ref": "B4",
               "route": "bus",
-              "to": "Colegio Seminario",
+              "to": "Villas del mundial",
               "type": "route"
             }
           }
@@ -435,46 +194,99 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0382977,
-            5.8177164
+            -73.0359936,
+            5.8166678
           ],
           [
-            -73.0380243,
-            5.8173936
+            -73.0359632,
+            5.8161539
           ],
           [
-            -73.0376925,
-            5.8169899
+            -73.0359563,
+            5.815972
+          ],
+          [
+            -73.0359369,
+            5.8154573
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/129697925",
+      "id": "way/274639285",
       "properties": {
-        "@id": "way/129697925",
+        "@id": "way/274639285",
         "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 6B",
-        "surface": "paved",
-        "@timestamp": "2016-09-10T21:40:31Z",
-        "@version": "6",
-        "@changeset": "42067709",
+        "name": "Calle 14",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:58Z",
+        "@version": "5",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577937",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B4",
+              "route": "bus",
+              "to": "Villas del mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0356085,
+            5.8281405
+          ],
+          [
+            -73.0351897,
+            5.8274425
+          ],
+          [
+            -73.0347745,
+            5.8266983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341814494",
+      "properties": {
+        "@id": "way/341814494",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-09-03T21:47:57Z",
+        "@version": "5",
+        "@changeset": "41897352",
         "@user": "Michael guevara",
         "@uid": "4487878",
         "@relations": [
           {
             "role": "",
-            "rel": "6577953",
+            "rel": "6577937",
             "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Cootraheroes",
               "public_transport:version": "2",
+              "ref": "B4",
               "route": "bus",
-              "to": "Colegio Seminario",
+              "to": "Villas del mundial",
               "type": "route"
             }
           }
@@ -484,83 +296,53 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0406409,
-            5.8339013
+            -73.0368768,
+            5.8320249
           ],
           [
-            -73.0404253,
-            5.8335067
+            -73.0368623,
+            5.8320014
           ],
           [
-            -73.0402062,
-            5.8331195
+            -73.0366117,
+            5.8315788
           ],
           [
-            -73.0398317,
-            5.8323048
+            -73.0362179,
+            5.8309276
+          ],
+          [
+            -73.0359471,
+            5.8305019
+          ],
+          [
+            -73.0358927,
+            5.8304081
+          ],
+          [
+            -73.0357056,
+            5.8301207
+          ],
+          [
+            -73.0354989,
+            5.8297713
+          ],
+          [
+            -73.0353156,
+            5.8294314
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/342362034",
+      "id": "way/343724649",
       "properties": {
-        "@id": "way/342362034",
-        "admin_level": "9",
-        "boundary": "administrative",
+        "@id": "way/343724649",
         "highway": "residential",
         "mechanical": "yes",
         "name": "Calle 14",
-        "surface": "paved",
-        "@timestamp": "2016-09-10T21:26:37Z",
-        "@version": "6",
-        "@changeset": "42067467",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0377264,
-            5.8319935
-          ],
-          [
-            -73.0377492,
-            5.8320275
-          ],
-          [
-            -73.0380897,
-            5.832753
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/343724648",
-      "properties": {
-        "@id": "way/343724648",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 14",
+        "oneway": "yes",
         "surface": "paved",
         "@timestamp": "2015-05-08T16:04:35Z",
         "@version": "1",
@@ -570,15 +352,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6577953",
+            "rel": "6577937",
             "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Cootraheroes",
               "public_transport:version": "2",
+              "ref": "B4",
               "route": "bus",
-              "to": "Colegio Seminario",
+              "to": "Villas del mundial",
               "type": "route"
             }
           }
@@ -592,93 +375,188 @@
             5.8319511
           ],
           [
-            -73.0377264,
-            5.8319935
+            -73.037639,
+            5.8318722
+          ],
+          [
+            -73.0374556,
+            5.831891
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/378765691",
+      "id": "way/371395880",
       "properties": {
-        "@id": "way/378765691",
+        "@id": "way/371395880",
         "highway": "residential",
-        "name": "Calle 3",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2015-09-18T19:59:24Z",
+        "@version": "1",
+        "@changeset": "34110474",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577937",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B4",
+              "route": "bus",
+              "to": "Villas del mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.033992,
+            5.825301
+          ],
+          [
+            -73.0346558,
+            5.8249411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371395898",
+      "properties": {
+        "@id": "way/371395898",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:48:10Z",
+        "@version": "4",
+        "@changeset": "42067685",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577937",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B4",
+              "route": "bus",
+              "to": "Villas del mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0346558,
+            5.8249411
+          ],
+          [
+            -73.0350207,
+            5.8247736
+          ],
+          [
+            -73.0353453,
+            5.8246061
+          ],
+          [
+            -73.0360182,
+            5.8242724
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378744148",
+      "properties": {
+        "@id": "way/378744148",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2015-11-06T19:53:36Z",
+        "@version": "1",
+        "@changeset": "35134072",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577937",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B4",
+              "route": "bus",
+              "to": "Villas del mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0379064,
+            5.8231883
+          ],
+          [
+            -73.0379481,
+            5.8231597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378765694",
+      "properties": {
+        "@id": "way/378765694",
+        "highway": "residential",
+        "name": "Calle 7",
         "surface": "paved",
-        "@timestamp": "2016-09-05T04:22:26Z",
-        "@version": "2",
-        "@changeset": "41920519",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0370677,
-            5.816216
-          ],
-          [
-            -73.0367103,
-            5.8157821
-          ],
-          [
-            -73.0367352,
-            5.8155659
-          ],
-          [
-            -73.0364195,
-            5.8154696
-          ],
-          [
-            -73.0359369,
-            5.8154573
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/439534438",
-      "properties": {
-        "@id": "way/439534438",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 16",
-        "@timestamp": "2016-08-28T16:24:00Z",
+        "@timestamp": "2015-11-06T20:57:37Z",
         "@version": "1",
-        "@changeset": "41759242",
+        "@changeset": "35135252",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6577953",
+            "rel": "6577937",
             "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Cootraheroes",
               "public_transport:version": "2",
+              "ref": "B4",
               "route": "bus",
-              "to": "Colegio Seminario",
+              "to": "Villas del mundial",
               "type": "route"
             }
           }
@@ -688,161 +566,42 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0365509,
-            5.8332129
+            -73.0359936,
+            5.8166678
           ],
           [
-            -73.0366461,
-            5.8335187
-          ],
-          [
-            -73.0367439,
-            5.8338948
-          ],
-          [
-            -73.0367591,
-            5.8339573
+            -73.0359636,
+            5.8166473
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/439534439",
+      "id": "way/378765695",
       "properties": {
-        "@id": "way/439534439",
+        "@id": "way/378765695",
         "highway": "residential",
-        "name": "Calle 16",
-        "oneway": "yes",
-        "@timestamp": "2016-08-28T16:24:00Z",
-        "@version": "1",
-        "@changeset": "41759242",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0350369,
-            5.8305577
-          ],
-          [
-            -73.035233,
-            5.8309363
-          ],
-          [
-            -73.0354741,
-            5.8313586
-          ],
-          [
-            -73.035832,
-            5.8319774
-          ],
-          [
-            -73.0361079,
-            5.8324232
-          ],
-          [
-            -73.0365129,
-            5.8331316
-          ],
-          [
-            -73.0365509,
-            5.8332129
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/440526938",
-      "properties": {
-        "@id": "way/440526938",
-        "highway": "secondary",
-        "lanes": "2",
-        "name": "Avenida de las Americas",
-        "oneway": "yes",
-        "@timestamp": "2016-09-05T04:42:41Z",
-        "@version": "2",
-        "@changeset": "41920655",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0371807,
-            5.8222013
-          ],
-          [
-            -73.0378486,
-            5.8232295
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/440526940",
-      "properties": {
-        "@id": "way/440526940",
-        "admin_level": "9",
-        "boundary": "administrative",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 14",
+        "name": "Calle 7",
         "surface": "paved",
-        "@timestamp": "2016-09-03T21:47:48Z",
-        "@version": "1",
-        "@changeset": "41897352",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
+        "@timestamp": "2016-09-17T21:11:52Z",
+        "@version": "3",
+        "@changeset": "42235518",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6577953",
+            "rel": "6577937",
             "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Cootraheroes",
               "public_transport:version": "2",
+              "ref": "B4",
               "route": "bus",
-              "to": "Colegio Seminario",
+              "to": "Villas del mundial",
               "type": "route"
             }
           }
@@ -852,68 +611,116 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0384279,
-            5.8334535
+            -73.0359636,
+            5.8166473
           ],
           [
-            -73.0386641,
-            5.833928
+            -73.0359359,
+            5.8166282
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/440526942",
+      "id": "way/439527909",
       "properties": {
-        "@id": "way/440526942",
+        "@id": "way/439527909",
+        "highway": "residential",
+        "name": "Calle 15",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:13:42Z",
+        "@version": "1",
+        "@changeset": "41759038",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577937",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B4",
+              "route": "bus",
+              "to": "Villas del mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0353156,
+            5.8294314
+          ],
+          [
+            -73.0348752,
+            5.8285585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439527918",
+      "properties": {
+        "@id": "way/439527918",
+        "highway": "residential",
+        "name": "Carrera 14",
+        "oneway": "yes",
+        "@timestamp": "2016-08-28T16:13:43Z",
+        "@version": "1",
+        "@changeset": "41759038",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577937",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B4",
+              "route": "bus",
+              "to": "Villas del mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0348752,
+            5.8285585
+          ],
+          [
+            -73.0356085,
+            5.8281405
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/440526951",
+      "properties": {
+        "@id": "way/440526951",
         "highway": "residential",
         "mechanical": "yes",
-        "name": "Calle 16",
-        "@timestamp": "2016-09-03T21:47:48Z",
-        "@version": "1",
-        "@changeset": "41897352",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0367591,
-            5.8339573
-          ],
-          [
-            -73.0367998,
-            5.8340708
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/440526943",
-      "properties": {
-        "@id": "way/440526943",
-        "highway": "residential",
-        "name": "Calle 16",
+        "name": "Carrera 9A",
         "oneway": "yes",
+        "surface": "paved",
         "@timestamp": "2016-09-03T21:47:49Z",
         "@version": "1",
         "@changeset": "41897352",
@@ -922,15 +729,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6577953",
+            "rel": "6577937",
             "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Cootraheroes",
               "public_transport:version": "2",
+              "ref": "B4",
               "route": "bus",
-              "to": "Colegio Seminario",
+              "to": "Villas del mundial",
               "type": "route"
             }
           }
@@ -940,73 +748,29 @@
         "type": "LineString",
         "coordinates": [
           [
-            -73.0346368,
-            5.8298497
+            -73.0374556,
+            5.831891
           ],
           [
-            -73.0350369,
-            5.8305577
+            -73.0371511,
+            5.8319669
+          ],
+          [
+            -73.0368768,
+            5.8320249
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/440526949",
+      "id": "way/440531418",
       "properties": {
-        "@id": "way/440526949",
+        "@id": "way/440531418",
         "highway": "residential",
-        "name": "Carrera 17",
+        "name": "Calle 14",
         "oneway": "yes",
-        "@timestamp": "2016-09-10T21:56:26Z",
-        "@version": "4",
-        "@changeset": "42067882",
-        "@user": "Leonardo Pinzon Niño",
-        "@uid": "4416628",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0343482,
-            5.8259894
-          ],
-          [
-            -73.0335897,
-            5.8264028
-          ],
-          [
-            -73.0328935,
-            5.8268011
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/440531425",
-      "properties": {
-        "@id": "way/440531425",
-        "highway": "residential",
-        "name": "Carrera 17",
-        "oneway": "yes",
-        "@timestamp": "2016-09-03T22:34:22Z",
+        "@timestamp": "2016-09-03T22:34:21Z",
         "@version": "1",
         "@changeset": "41897920",
         "@user": "Michael guevara",
@@ -1014,15 +778,16 @@
         "@relations": [
           {
             "role": "",
-            "rel": "6577953",
+            "rel": "6577937",
             "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Cootraheroes",
               "public_transport:version": "2",
+              "ref": "B4",
               "route": "bus",
-              "to": "Colegio Seminario",
+              "to": "Villas del mundial",
               "type": "route"
             }
           }
@@ -1031,220 +796,44 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [
-            -73.0350427,
-            5.8256257
-          ],
           [
             -73.0343482,
             5.8259894
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/440695715",
-      "properties": {
-        "@id": "way/440695715",
-        "highway": "residential",
-        "name": "Calle 16",
-        "oneway": "yes",
-        "@timestamp": "2016-09-05T04:22:16Z",
-        "@version": "1",
-        "@changeset": "41920519",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0341666,
-            5.8290245
           ],
           [
-            -73.0346368,
-            5.8298497
+            -73.033992,
+            5.825301
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/440695726",
+      "id": "way/441839998",
       "properties": {
-        "@id": "way/440695726",
-        "highway": "residential",
-        "name": "Carrera 14",
-        "oneway": "yes",
-        "@timestamp": "2016-09-05T04:22:17Z",
-        "@version": "1",
-        "@changeset": "41920519",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0334418,
-            5.8294244
-          ],
-          [
-            -73.0341666,
-            5.8290245
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/440695727",
-      "properties": {
-        "@id": "way/440695727",
-        "highway": "residential",
-        "name": "Carrera 17",
-        "oneway": "yes",
-        "@timestamp": "2016-09-05T04:22:17Z",
-        "@version": "1",
-        "@changeset": "41920519",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0382518,
-            5.8238544
-          ],
-          [
-            -73.0374784,
-            5.824281
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/440695732",
-      "properties": {
-        "@id": "way/440695732",
+        "@id": "way/441839998",
         "highway": "residential",
         "mechanical": "yes",
-        "name": "Carrera 23",
-        "source": "DANE",
-        "@timestamp": "2016-09-05T04:22:17Z",
-        "@version": "1",
-        "@changeset": "41920519",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0382977,
-            5.8177164
-          ],
-          [
-            -73.0375047,
-            5.8182555
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/440696691",
-      "properties": {
-        "@id": "way/440696691",
-        "highway": "secondary",
-        "lanes": "2",
-        "name": "Avenida de las Americas",
+        "name": "Carrera 18",
         "oneway": "yes",
-        "@timestamp": "2016-09-05T04:42:39Z",
+        "@timestamp": "2016-09-10T21:20:46Z",
         "@version": "1",
-        "@changeset": "41920655",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
+        "@changeset": "42067287",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
         "@relations": [
           {
             "role": "",
-            "rel": "6577953",
+            "rel": "6577937",
             "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Cootraheroes",
               "public_transport:version": "2",
+              "ref": "B4",
               "route": "bus",
-              "to": "Colegio Seminario",
+              "to": "Villas del mundial",
               "type": "route"
             }
           }
@@ -1258,325 +847,39 @@
             5.8232295
           ],
           [
-            -73.0382518,
-            5.8238544
+            -73.0379064,
+            5.8231883
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/441828245",
+      "id": "way/441843265",
       "properties": {
-        "@id": "way/441828245",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Carrera 6B",
-        "surface": "paved",
-        "@timestamp": "2016-09-10T19:45:15Z",
-        "@version": "1",
-        "@changeset": "42065792",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0398317,
-            5.8323048
-          ],
-          [
-            -73.039627,
-            5.8318734
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/441843183",
-      "properties": {
-        "@id": "way/441843183",
-        "highway": "residential",
-        "name": "Calle 8",
-        "source": "DANE",
-        "surface": "paved",
-        "@timestamp": "2016-09-10T21:36:48Z",
-        "@version": "1",
-        "@changeset": "42067643",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0361066,
-            5.8191111
-          ],
-          [
-            -73.0362268,
-            5.8192918
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/441843297",
-      "properties": {
-        "@id": "way/441843297",
+        "@id": "way/441843265",
         "highway": "secondary",
         "lanes": "2",
         "name": "Avenida de las Americas",
         "oneway": "yes",
-        "@timestamp": "2016-09-10T21:37:45Z",
-        "@version": "1",
-        "@changeset": "42067661",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0357712,
-            5.8200495
-          ],
-          [
-            -73.0362563,
-            5.8207885
-          ],
-          [
-            -73.0367083,
-            5.8214804
-          ],
-          [
-            -73.0371807,
-            5.8222013
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/441843518",
-      "properties": {
-        "@id": "way/441843518",
-        "highway": "residential",
-        "mechanical": "yes",
-        "name": "Calle 14",
-        "surface": "paved",
-        "@timestamp": "2016-09-10T21:40:00Z",
-        "@version": "1",
-        "@changeset": "42067698",
-        "@user": "Michael guevara",
-        "@uid": "4487878",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0386641,
-            5.833928
-          ],
-          [
-            -73.0386948,
-            5.8339952
-          ],
-          [
-            -73.0390572,
-            5.8342977
-          ],
-          [
-            -73.0391501,
-            5.8343762
-          ],
-          [
-            -73.0394339,
-            5.8346061
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/441845938",
-      "properties": {
-        "@id": "way/441845938",
-        "highway": "residential",
-        "name": "Carrera 17",
-        "oneway": "yes",
-        "@timestamp": "2016-09-10T21:56:23Z",
-        "@version": "1",
-        "@changeset": "42067882",
-        "@user": "Leonardo Pinzon Niño",
-        "@uid": "4416628",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0328935,
-            5.8268011
-          ],
-          [
-            -73.0322052,
-            5.827182
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/441850409",
-      "properties": {
-        "@id": "way/441850409",
-        "highway": "residential",
-        "name": "Calle 17",
-        "oneway": "yes",
-        "@timestamp": "2016-09-10T22:29:43Z",
-        "@version": "1",
-        "@changeset": "42068154",
-        "@user": "Andermo",
-        "@uid": "4416624",
-        "@relations": [
-          {
-            "role": "",
-            "rel": "6577953",
-            "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
-              "network": "Servicio de Transporte Urbano Duitama",
-              "operator": "Cootraheroes",
-              "public_transport:version": "2",
-              "route": "bus",
-              "to": "Colegio Seminario",
-              "type": "route"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -73.0322052,
-            5.827182
-          ],
-          [
-            -73.0326266,
-            5.8279547
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/442958015",
-      "properties": {
-        "@id": "way/442958015",
-        "highway": "residential",
-        "name": "Carrera 22",
-        "oneway": "no",
-        "@timestamp": "2016-09-17T19:52:49Z",
-        "@version": "1",
-        "@changeset": "42234156",
+        "@timestamp": "2016-09-13T13:00:53Z",
+        "@version": "2",
+        "@changeset": "42125090",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400",
         "@relations": [
           {
             "role": "",
-            "rel": "6577953",
+            "rel": "6577937",
             "reltags": {
-              "from": "Villas del mundial",
-              "name": "B4 - Villas del mundial - Colegio Seminario",
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
               "network": "Servicio de Transporte Urbano Duitama",
               "operator": "Cootraheroes",
               "public_transport:version": "2",
+              "ref": "B4",
               "route": "bus",
-              "to": "Colegio Seminario",
+              "to": "Villas del mundial",
               "type": "route"
             }
           }
@@ -1590,8 +893,165 @@
             5.8199032
           ],
           [
-            -73.0357712,
-            5.8200495
+            -73.0355505,
+            5.8194678
+          ],
+          [
+            -73.0353783,
+            5.8192145
+          ],
+          [
+            -73.0350689,
+            5.8187395
+          ],
+          [
+            -73.0344604,
+            5.8178199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441844263",
+      "properties": {
+        "@id": "way/441844263",
+        "highway": "residential",
+        "mechanical": "yes",
+        "name": "Carrera 18",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T21:48:08Z",
+        "@version": "1",
+        "@changeset": "42067685",
+        "@user": "Fredy Gamez",
+        "@uid": "3537040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577937",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B4",
+              "route": "bus",
+              "to": "Villas del mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0360182,
+            5.8242724
+          ],
+          [
+            -73.0370641,
+            5.8236655
+          ],
+          [
+            -73.0378486,
+            5.8232295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/441850564",
+      "properties": {
+        "@id": "way/441850564",
+        "highway": "residential",
+        "name": "Calle 14",
+        "oneway": "yes",
+        "@timestamp": "2016-09-10T22:31:55Z",
+        "@version": "1",
+        "@changeset": "42068195",
+        "@user": "Leonardo Pinzon Niño",
+        "@uid": "4416628",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577937",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B4",
+              "route": "bus",
+              "to": "Villas del mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0347745,
+            5.8266983
+          ],
+          [
+            -73.0343482,
+            5.8259894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442967422",
+      "properties": {
+        "@id": "way/442967422",
+        "highway": "residential",
+        "name": "Calle 8",
+        "source": "DANE",
+        "surface": "paved",
+        "@timestamp": "2016-09-17T21:11:51Z",
+        "@version": "1",
+        "@changeset": "42235518",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": "6577937",
+            "reltags": {
+              "from": "Colegio Seminario",
+              "name": "B4 - Colegio Seminario - Villas del mundial",
+              "network": "Servicio de Transporte Urbano Duitama",
+              "operator": "Cootraheroes",
+              "public_transport:version": "2",
+              "ref": "B4",
+              "route": "bus",
+              "to": "Villas del mundial",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.0349926,
+            5.8173728
+          ],
+          [
+            -73.0349739,
+            5.8173912
+          ],
+          [
+            -73.0348205,
+            5.8175466
           ]
         ]
       }
@@ -1618,12 +1078,52 @@
     },
     {
       "type": "Feature",
-      "id": "node/326269716",
+      "id": "node/334400545",
       "properties": {
-        "@id": "node/326269716",
+        "@id": "node/334400545",
         "highway": "traffic_signals",
-        "@timestamp": "2016-09-13T13:00:56Z",
-        "@version": "33",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "7",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0347745,
+          5.8266983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/334402543",
+      "properties": {
+        "@id": "node/334402543",
+        "highway": "traffic_signals",
+        "@timestamp": "2015-09-18T20:49:43Z",
+        "@version": "10",
+        "@changeset": "34111351",
+        "@user": "Leonardo Gutierrez",
+        "@uid": "77400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0353156,
+          5.8294314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/343547848",
+      "properties": {
+        "@id": "node/343547848",
+        "highway": "traffic_signals",
+        "@timestamp": "2016-09-13T13:00:57Z",
+        "@version": "6",
         "@changeset": "42125090",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400"
@@ -1631,108 +1131,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.0371807,
-          5.8222013
+          -73.0372747,
+          5.8221404
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/326518191",
+      "id": "node/539177434",
       "properties": {
-        "@id": "node/326518191",
+        "@id": "node/539177434",
         "highway": "traffic_signals",
-        "@timestamp": "2016-08-29T01:52:57Z",
-        "@version": "15",
-        "@changeset": "41767327",
+        "@timestamp": "2016-09-13T13:00:58Z",
+        "@version": "9",
+        "@changeset": "42125090",
         "@user": "Leonardo Gutierrez",
         "@uid": "77400"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.0377492,
-          5.8320275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/334400535",
-      "properties": {
-        "@id": "node/334400535",
-        "highway": "traffic_signals",
-        "@timestamp": "2015-09-18T20:49:43Z",
-        "@version": "8",
-        "@changeset": "34111351",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0328935,
-          5.8268011
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/334400537",
-      "properties": {
-        "@id": "node/334400537",
-        "highway": "traffic_signals",
-        "@timestamp": "2015-09-18T20:49:43Z",
-        "@version": "8",
-        "@changeset": "34111351",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0335897,
-          5.8264028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/528861676",
-      "properties": {
-        "@id": "node/528861676",
-        "highway": "traffic_signals",
-        "@timestamp": "2015-05-19T22:37:32Z",
-        "@version": "6",
-        "@changeset": "31300567",
-        "@user": "esteban_villamizar",
-        "@uid": "2298722"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0365509,
-          5.8332129
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/669182154",
-      "properties": {
-        "@id": "node/669182154",
-        "highway": "traffic_signals",
-        "@timestamp": "2015-09-18T20:49:44Z",
-        "@version": "6",
-        "@changeset": "34111351",
-        "@user": "Leonardo Gutierrez",
-        "@uid": "77400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.0322052,
-          5.827182
+          -73.0379481,
+          5.8231597
         ]
       }
     }
