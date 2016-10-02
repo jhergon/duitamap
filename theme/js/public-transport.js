@@ -205,6 +205,9 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
               layer.bindLabel(feature.properties.name, {noHide: false});
 
               // BogoMap
+              } else {
+                name = feature.properties;
+    //            layer.bindLabel(name, {noHide: false});
               }
 
               // BogoMap: Test if the official_status value is defined.
@@ -246,6 +249,9 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
               $(".info-wrapper .ref").text("Ruta " + feature.properties.attributes.ref);
 
               // BogoMap
+              } else {
+                ref = feature.properties["@relations"][0].reltags.ref;
+                $(".info-wrapper .ref").text("Ruta " + ref);
               }
               // BogoMap: Test if the from value is defined.
               if (typeof feature.properties.attributes !== "undefined" && typeof feature.properties.attributes.from !== "undefined"){
@@ -253,6 +259,9 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
               $(".info-wrapper .from").text(feature.properties.attributes.from);
 
               // BogoMap
+              } else {
+                from = feature.properties["@relations"][0].reltags.from;
+                $(".info-wrapper .from").text(from);
               }
               // BogoMap: Test if the to value is defined.
               if (typeof feature.properties.attributes !== "undefined" && typeof feature.properties.attributes.to !== "undefined"){
@@ -260,6 +269,9 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
               $(".info-wrapper .to").text(feature.properties.attributes.to);
 
               // BogoMap
+              } else {
+                to = feature.properties["@relations"][0].reltags.to;
+                $(".info-wrapper .to").text(to);
               }
               // BogoMap: Test if the operator value is defined.
               if (typeof feature.properties.attributes !== "undefined" && typeof feature.properties.attributes.operator !== "undefined"){
@@ -267,6 +279,9 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
               $(".info-wrapper .operator").text("Operada por:  " + feature.properties.attributes.operator);
 
               // BogoMap
+              } else {
+                operator = feature.properties["@relations"][0].reltags.operator;
+                $(".info-wrapper .operator").text(operator);
               }
 
               // BogoMap: Test if the from value is defined.
@@ -276,6 +291,11 @@ function loadBusRoute(busDetailLayerGroup, bus_number, category) {
               $(".stop-overview .variant-two h4").text(feature.properties.attributes.to + " -> " + feature.properties.attributes.from);
 
               // BogoMap
+              } else {
+                to = feature.properties["@relations"][0].reltags.to;
+                from = feature.properties["@relations"][0].reltags.from;
+                $(".stop-overview .variant-one h4").text(from + " -> " + to);
+                $(".stop-overview .variant-two h4").text(to + " -> " + from);
               }
 
             }
